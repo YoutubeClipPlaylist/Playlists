@@ -40,8 +40,8 @@ myPlaylist = myPlaylist.concat([
     //['ooZW7m7uGsg', 6229, 1],
 
     //2020/10/3 たま子へようこそ 廃墟の国のアリス
-    ['a8qXEElTnaA', 237, 1],
+    ['a8qXEElTnaA', 237, 1]
 
 ]);
 console.log("Load Playlist: QuonTamaMemberPlaylist");
-console.log("Playlist Count: "+myPlaylist.length);
+console.log("Playlist Count: " + myPlaylist.length);
