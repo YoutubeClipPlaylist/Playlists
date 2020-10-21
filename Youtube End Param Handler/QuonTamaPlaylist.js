@@ -23,7 +23,7 @@ myPlaylist = myPlaylist.concat([
     ['ETjgki1sSgc', 4750, 4986],
     ['ETjgki1sSgc', 5189, 5480],
     ['ETjgki1sSgc', 5673, 5905],
-    //['ETjgki1sSgc', 5950, 1],
+    ['ETjgki1sSgc', 5950, 1],
 
     //炎
     ['a4thI28v_SM', 1, 1],
@@ -118,7 +118,7 @@ myPlaylist = myPlaylist.concat([
     ['uaKAOYzt5cA', 4762, 4950],
     ['uaKAOYzt5cA', 5279, 5645],
     ['uaKAOYzt5cA', 5751, 5964],
-    ['uaKAOYzt5cA', 6081, 1],
+    //['uaKAOYzt5cA', 6081, 1],
 
     //2020/9/29 定期もぐもぐ雑談の巻
     //['6iMAjF61q7w', 940, 1],
@@ -136,7 +136,7 @@ myPlaylist = myPlaylist.concat([
     ['Q06Zq_3il9o', 296, 616],
     ['Q06Zq_3il9o', 759, 1032],
     ['Q06Zq_3il9o', 1148, 1462],
-    ['Q06Zq_3il9o', 1563, 1605],
+    //['Q06Zq_3il9o', 1563, 1605], //君色シグナル 半消除
     ['Q06Zq_3il9o', 1804, 2081],
     ['Q06Zq_3il9o', 2217, 2458],
     ['Q06Zq_3il9o', 2579, 2859],
@@ -147,7 +147,7 @@ myPlaylist = myPlaylist.concat([
     ['Q06Zq_3il9o', 4597, 4776],
     ['Q06Zq_3il9o', 4901, 5191],
     ['Q06Zq_3il9o', 5526, 5781],
-    ['Q06Zq_3il9o', 5839, 1],
+    //['Q06Zq_3il9o', 5839, 1],
 
     //紅蓮華
     ['GDOQTShjTQs', 1, 1],
@@ -168,7 +168,7 @@ myPlaylist = myPlaylist.concat([
     ['Y6EMzMzUjKQ', 4618, 4907],
     //['Y6EMzMzUjKQ', 5302, 5370], //ANIMA New10/4
     ['Y6EMzMzUjKQ', 5493, 5761],
-    ['Y6EMzMzUjKQ', 5896, 1],
+    //['Y6EMzMzUjKQ', 5896, 1],
 
     //2020/9/20 たまソング聴いていきませんか？
     ['MRZk4LZ589w', 302, 542],
@@ -313,7 +313,7 @@ myPlaylist = myPlaylist.concat([
     ['WNIcs_pdvEw', 2580, 2888],
     ['WNIcs_pdvEw', 3089, 3291],
     //['WNIcs_pdvEw', 3582, 3815], //紅蓮華 New9/26
-    ['WNIcs_pdvEw', 3962, 1]
+    //['WNIcs_pdvEw', 3962, 1]
 
 ]);
 console.log("Load Playlist: QuonTamaPlaylist");
