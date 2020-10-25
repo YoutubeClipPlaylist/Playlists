@@ -18,6 +18,25 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020/10/25 本格的にボカロ攻め
+        ['ykcroeCICx8',351,533], //ルマ
+        ['ykcroeCICx8',676,904], //虎視眈々
+        ['ykcroeCICx8',1016,1277], //ビタースウィート
+        ['ykcroeCICx8',1422,1668], //ファンサ
+        ['ykcroeCICx8',1748,1945], //ドレミファロンド
+        ['ykcroeCICx8',2052,2242], //ダンスロボットダンス
+        ['ykcroeCICx8',2326,2526], //太陽系デスコ
+        ['ykcroeCICx8',2727,2946], //恋愛裁判
+        ['ykcroeCICx8',3103,3317], //妄想税
+        ['ykcroeCICx8',3483,3681], //威風堂々
+        ['ykcroeCICx8',3795,3994], //ギガンティックO.T.N
+        ['ykcroeCICx8',4040,4243], //聖槍爆裂ボーイ
+        ['ykcroeCICx8',4362,4605], //バレリーコ
+        ['ykcroeCICx8',4729,5015], //初音ミクの消失
+        ['ykcroeCICx8',5358,5562], //ヒバナ
+        ['ykcroeCICx8',5748,5980], //劣等上等
+        ['ykcroeCICx8',6051,6221], //夜もすがら君想ふ
+
         //久遠たまの日常４
         //['dNEWWyYlNio', 1, 1],
 
