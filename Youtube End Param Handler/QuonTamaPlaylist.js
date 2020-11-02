@@ -18,6 +18,33 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //"2020/11/1 アニソンはいいぞぉぉ…！
+        ['meMBuDPHUaM',397,646], //träumerei
+        ['meMBuDPHUaM',832,1155], //茜さす
+        ['meMBuDPHUaM',1352,1669], //trust you
+        ['meMBuDPHUaM',1948,2147], //Sparkling Daydream
+        ['meMBuDPHUaM',2300,2534], //ASH
+        ['meMBuDPHUaM',2631,2892], //空は高く風は歌う
+        ['meMBuDPHUaM',3023,3270], //oath sign
+        ['meMBuDPHUaM',3522,3741], //嘘の火花
+        ['meMBuDPHUaM',4056,4306], //シュガーソングとビターステップ
+        //['meMBuDPHUaM',4437,4704], //炎
+        ['meMBuDPHUaM',4988,5240], //紅蓮華 THE FIRST TAKE バージョン
+        ['meMBuDPHUaM',5310,5480], //夜もすがら君想ふ ED
+
+        //たまのおうた工房 Happy Halloween
+        ['lx7Hh8rHLxE',1,1],
+
+        //"2020/10/31 １年に１度のHalloweenParty
+        ['kw1WFhhzInY',2302,2554], //Mrs.Pumpkinの滑稽な夢
+        ['kw1WFhhzInY',2725,2989], //Monster
+        ['kw1WFhhzInY',3235,3531], //サラバ、愛しき悲しみたちよ 歌詞
+        ['kw1WFhhzInY',4083,4308], //おジャ魔女カーニバル
+        ['kw1WFhhzInY',4399,4648], //Crazy Party Night ～ぱんぷきんの逆襲～
+
+        //久遠たまの日常5
+        //['j2mC3Ws0OAE',1,1],
+
         //2020/10/25 本格的にボカロ攻め
         ['ykcroeCICx8',351,533], //ルマ
         ['ykcroeCICx8',676,904], //虎視眈々
@@ -35,7 +62,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ykcroeCICx8',4729,5015], //初音ミクの消失
         ['ykcroeCICx8',5358,5562], //ヒバナ
         ['ykcroeCICx8',5748,5980], //劣等上等
-        ['ykcroeCICx8',6051,6221], //夜もすがら君想ふ
+        //['ykcroeCICx8',6051,6221], //夜もすがら君想ふ ED
 
         //久遠たまの日常４
         //['dNEWWyYlNio', 1, 1],
@@ -53,7 +80,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ETjgki1sSgc', 4750, 4986], //magnet
         ['ETjgki1sSgc', 5189, 5480], //だれかの心臓になれたなら
         ['ETjgki1sSgc', 5673, 5905], //daze
-        ['ETjgki1sSgc', 5950, 1], //夜もすがら君想ふ ED
+        //['ETjgki1sSgc', 5950, 1], //夜もすがら君想ふ ED
 
         //炎
         ['a4thI28v_SM', 1, 1],
@@ -129,7 +156,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['RiY3B0_H0hk', 5839, 1], //夜もすがら君想ふ ED
 
         //2020/10/1 おひさしぶり！ふぉるがいずくん！
-        ['t2UuIVy2ZHQ', 4055, 4304], //シュガーソングとビターステップ
+        //['t2UuIVy2ZHQ', 4055, 4304], //シュガーソングとビターステップ
         ['t2UuIVy2ZHQ', 4592, 4846], //風になる
 
         //2020/9/30 ボカロ限定でたくさん歌う！
@@ -230,7 +257,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['IL4jXmjciOM', 1777, 1870], //Preserved Roses Short
         ['IL4jXmjciOM', 1957, 2046], //final phase Short
         ['IL4jXmjciOM', 2047, 2123], //nameless story Short
-        ['IL4jXmjciOM', 2276, 2365], //ASH Short
+        //['IL4jXmjciOM', 2276, 2365], //ASH Short New11/1
         ['IL4jXmjciOM', 2370, 2500], //MEMORIA Short
         ['IL4jXmjciOM', 2506, 2603], //英雄 運命の詩 Short
         ['IL4jXmjciOM', 2729, 2818], //ヒトリゴト Short
@@ -244,9 +271,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['IL4jXmjciOM', 4191, 4312], //告白 Short
         //['IL4jXmjciOM', 4314, 4480], //My Dearest Short New10/11
         ['IL4jXmjciOM', 4643, 4800], //RE:I AM Short
-        ['IL4jXmjciOM', 4801, 4925], //trust you Short
+        //['IL4jXmjciOM', 4801, 4925], //trust you Short New11/1
         ['IL4jXmjciOM', 4928, 5028], //narrative Short
-        ['IL4jXmjciOM', 5139, 5243], //träumerei Short
+        //['IL4jXmjciOM', 5139, 5243], //träumerei Short New11/1
         //['IL4jXmjciOM', 5372, 5607], //紅蓮華 New9/26
         //['IL4jXmjciOM', 5784, 1], //夜もすがら君想ふ ED
 
