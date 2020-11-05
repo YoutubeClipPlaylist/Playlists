@@ -69,7 +69,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
     ];
 
-    /** 載入判斷 **/
+    /** 載入判斷程式 **/
+    /** 以下不要修改 **/
     var urlParams = new URLSearchParams(window.location.search);
     var flag = false;
     var include = urlParams.has('playlistinclude') ? urlParams.get('playlistinclude').toString().toLowerCase() : "";

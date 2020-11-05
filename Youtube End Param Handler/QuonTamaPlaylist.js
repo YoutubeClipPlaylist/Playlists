@@ -19,50 +19,50 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      */
     var newPlaylist = [
         //"2020/11/1 アニソンはいいぞぉぉ…！
-        ['meMBuDPHUaM',397,646], //träumerei
-        ['meMBuDPHUaM',832,1155], //茜さす
-        ['meMBuDPHUaM',1352,1669], //trust you
-        ['meMBuDPHUaM',1948,2147], //Sparkling Daydream
-        ['meMBuDPHUaM',2300,2534], //ASH
-        ['meMBuDPHUaM',2631,2892], //空は高く風は歌う
-        ['meMBuDPHUaM',3023,3270], //oath sign
-        ['meMBuDPHUaM',3522,3741], //嘘の火花
-        ['meMBuDPHUaM',4056,4306], //シュガーソングとビターステップ
-        //['meMBuDPHUaM',4437,4704], //炎
-        ['meMBuDPHUaM',4988,5240], //紅蓮華 THE FIRST TAKE バージョン
-        ['meMBuDPHUaM',5310,5480], //夜もすがら君想ふ ED
+        ['meMBuDPHUaM', 397, 646], //träumerei
+        ['meMBuDPHUaM', 832, 1155], //茜さす
+        ['meMBuDPHUaM', 1352, 1669], //trust you
+        ['meMBuDPHUaM', 1948, 2147], //Sparkling Daydream
+        ['meMBuDPHUaM', 2300, 2534], //ASH
+        ['meMBuDPHUaM', 2631, 2892], //空は高く風は歌う
+        ['meMBuDPHUaM', 3023, 3270], //oath sign
+        ['meMBuDPHUaM', 3522, 3741], //嘘の火花
+        ['meMBuDPHUaM', 4056, 4306], //シュガーソングとビターステップ
+        //['meMBuDPHUaM', 4437, 4704], //炎
+        ['meMBuDPHUaM', 4988, 5240], //紅蓮華 THE FIRST TAKE バージョン
+        ['meMBuDPHUaM', 5310, 5480], //夜もすがら君想ふ ED
 
         //たまのおうた工房 Happy Halloween
-        ['lx7Hh8rHLxE',1,1],
+        ['lx7Hh8rHLxE', 1, 1],
 
         //"2020/10/31 １年に１度のHalloweenParty
-        ['kw1WFhhzInY',2302,2554], //Mrs.Pumpkinの滑稽な夢
-        ['kw1WFhhzInY',2725,2989], //Monster
-        ['kw1WFhhzInY',3235,3531], //サラバ、愛しき悲しみたちよ 歌詞
-        ['kw1WFhhzInY',4083,4308], //おジャ魔女カーニバル
-        ['kw1WFhhzInY',4399,4648], //Crazy Party Night ～ぱんぷきんの逆襲～
+        ['kw1WFhhzInY', 2302, 2554], //Mrs.Pumpkinの滑稽な夢
+        ['kw1WFhhzInY', 2725, 2989], //Monster
+        ['kw1WFhhzInY', 3235, 3531], //サラバ、愛しき悲しみたちよ 歌詞
+        ['kw1WFhhzInY', 4083, 4308], //おジャ魔女カーニバル
+        ['kw1WFhhzInY', 4399, 4648], //Crazy Party Night ～ぱんぷきんの逆襲～
 
         //久遠たまの日常5
-        //['j2mC3Ws0OAE',1,1],
+        //['j2mC3Ws0OAE', 1, 1],
 
         //2020/10/25 本格的にボカロ攻め
-        ['ykcroeCICx8',351,533], //ルマ
-        ['ykcroeCICx8',676,904], //虎視眈々
-        ['ykcroeCICx8',1016,1277], //ビタースウィート
-        ['ykcroeCICx8',1422,1668], //ファンサ
-        ['ykcroeCICx8',1748,1945], //ドレミファロンド
-        ['ykcroeCICx8',2052,2242], //ダンスロボットダンス
-        ['ykcroeCICx8',2326,2526], //太陽系デスコ
-        ['ykcroeCICx8',2727,2946], //恋愛裁判
-        ['ykcroeCICx8',3103,3317], //妄想税
-        ['ykcroeCICx8',3483,3681], //威風堂々
-        ['ykcroeCICx8',3795,3994], //ギガンティックO.T.N
-        ['ykcroeCICx8',4040,4243], //聖槍爆裂ボーイ
-        ['ykcroeCICx8',4362,4605], //バレリーコ
-        ['ykcroeCICx8',4729,5015], //初音ミクの消失
-        ['ykcroeCICx8',5358,5562], //ヒバナ
-        ['ykcroeCICx8',5748,5980], //劣等上等
-        //['ykcroeCICx8',6051,6221], //夜もすがら君想ふ ED
+        ['ykcroeCICx8', 351, 533], //ルマ
+        ['ykcroeCICx8', 676, 904], //虎視眈々
+        ['ykcroeCICx8', 1016, 1277], //ビタースウィート
+        ['ykcroeCICx8', 1422, 1668], //ファンサ
+        ['ykcroeCICx8', 1748, 1945], //ドレミファロンド
+        ['ykcroeCICx8', 2052, 2242], //ダンスロボットダンス
+        ['ykcroeCICx8', 2326, 2526], //太陽系デスコ
+        ['ykcroeCICx8', 2727, 2946], //恋愛裁判
+        ['ykcroeCICx8', 3103, 3317], //妄想税
+        ['ykcroeCICx8', 3483, 3681], //威風堂々
+        ['ykcroeCICx8', 3795, 3994], //ギガンティックO.T.N
+        ['ykcroeCICx8', 4040, 4243], //聖槍爆裂ボーイ
+        ['ykcroeCICx8', 4362, 4605], //バレリーコ
+        ['ykcroeCICx8', 4729, 5015], //初音ミクの消失
+        ['ykcroeCICx8', 5358, 5562], //ヒバナ
+        ['ykcroeCICx8', 5748, 5980], //劣等上等
+        //['ykcroeCICx8', 6051, 6221], //夜もすがら君想ふ ED
 
         //久遠たまの日常４
         //['dNEWWyYlNio', 1, 1],
@@ -374,7 +374,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
     ];
 
-    /** 載入判斷 **/
+    /** 載入判斷程式 **/
+    /** 以下不要修改 **/
     var urlParams = new URLSearchParams(window.location.search);
     var flag = false;
     var include = urlParams.has('playlistinclude') ? urlParams.get('playlistinclude').toString().toLowerCase() : "";
