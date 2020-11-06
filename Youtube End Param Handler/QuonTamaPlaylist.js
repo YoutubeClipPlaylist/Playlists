@@ -190,7 +190,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['a7vKI57G7_U', 1, 1],
 
         //2020/9/27 日曜のたまソング
-        ['Q06Zq_3il9o', 296, 616], //瞬き
+        //['Q06Zq_3il9o', 296, 616], //瞬き New11/6
         ['Q06Zq_3il9o', 759, 1032], //月光花
         ['Q06Zq_3il9o', 1148, 1462], //LAST STARDUST
         //['Q06Zq_3il9o', 1563, 1605], //君色シグナル 半消除
@@ -263,7 +263,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['IL4jXmjciOM', 2729, 2818], //ヒトリゴト Short
         //['IL4jXmjciOM', 2956, 3075], //ダイアモンドクレバス Short New10/2
         //['IL4jXmjciOM', 3077, 3184], //トライアングラー fight on stage Short New10/2
-        ['IL4jXmjciOM', 3273, 3366], //一度だけの恋なら Short
+        //['IL4jXmjciOM', 3273, 3366], //一度だけの恋なら Short New11/6
         ['IL4jXmjciOM', 3367, 3487], //Giraffe Blues Short
         ['IL4jXmjciOM', 3603, 3689], //KABANERI OF THE IRON FORTRESS Short
         ['IL4jXmjciOM', 3764, 3867], //Baby Sweet Berry Love Short
@@ -343,10 +343,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['MmuNPcSN50E', 1, 1],
 
         //2020/8/30 またまたリクエストを歌ってゆくぞー！！
-        ['U8nr6UR2f5k', 368, 646], //少女レイ
+        //['U8nr6UR2f5k', 368, 646], //少女レイ New11/6
         ['U8nr6UR2f5k', 774, 978], //ただ君に晴れ
         //['U8nr6UR2f5k', 1073, 1387], //ETERNAL BLAZE New10/11
-        ['U8nr6UR2f5k', 1509, 1757], //おちゃめ機能
+        //['U8nr6UR2f5k', 1509, 1757], //おちゃめ機能 New11/6
         ['U8nr6UR2f5k', 1911, 2104], //惑星ループ
         ['U8nr6UR2f5k', 2267, 2504], //PLATONIC GIRL
         ['U8nr6UR2f5k', 2775, 2975], //ボッカデラベリタ

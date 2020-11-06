@@ -18,6 +18,22 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020/11/6 たまのオフや裏が知れちゃう場所
+        ['_GGEHueF5rU', 771, 1021], //空色デイズ
+        ['_GGEHueF5rU', 1332, 1687], //あなたに出會わなければ~夏雪冬花~
+        //['_GGEHueF5rU', 1793, 1883], //Bravely You Short 9/18
+        ['_GGEHueF5rU', 1997, 2256], //たぶん
+        ['_GGEHueF5rU', 2360, 2644], //少女レイ
+        ['_GGEHueF5rU', 2768, 2867], //青空のラプソディShort
+        ['_GGEHueF5rU', 3020, 3268], //おちゃめ機能
+        ['_GGEHueF5rU', 4396, 4716], //瞬き
+        ['_GGEHueF5rU', 4882, 5009], //ふなのり Short Acapella
+        ['_GGEHueF5rU', 5117, 5212], //ルンがピカッと光ったら Short
+        ['_GGEHueF5rU', 5424, 5489], //私の彼はパイロット Short
+        ['_GGEHueF5rU', 5543, 5779], //ドラマツルギー
+        ['_GGEHueF5rU', 6102, 6351], //一度だけの恋なら
+        //['_GGEHueF5rU', 6648, 6817], //夜もすがら君想ふ
+
         //2020/10/23 た魔女になって歌っちゃうねっ！
         ['3RUKStFG46U', 419, 608], //パート・オブ・ユア・ワールド
         ['3RUKStFG46U', 637, 798], //ホール・ニュー・ワールド
