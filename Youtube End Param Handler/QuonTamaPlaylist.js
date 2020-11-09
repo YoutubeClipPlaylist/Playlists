@@ -1,5 +1,5 @@
 var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
-(function () {
+(function() {
     /**
      * 標籤
      * @type {string[]}
@@ -18,6 +18,25 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020/11/8 定期歌枠の日！みんなで楽しもうねっ❣
+        ['P2lQSYdJLao', 528, 805], //白日
+        ['P2lQSYdJLao', 978, 1256], //変わらないもの
+        ['P2lQSYdJLao', 1478, 1766], //ROCK-mode '18
+        ['P2lQSYdJLao', 1838, 2049], //インフェルノ
+        ['P2lQSYdJLao', 2366, 2459], //侵略ノススメ
+        ['P2lQSYdJLao', 2630, 2735], //打打打打打打打打打打
+        ['P2lQSYdJLao', 2903, 3139], //恋は渾沌の隷也
+        ['P2lQSYdJLao', 3318, 3538], //Let It Go
+        ['P2lQSYdJLao', 3840, 4110], //I will...
+        ['P2lQSYdJLao', 4334, 4588], //Here
+        //['P2lQSYdJLao', 4682, 4953], //炎
+        ['P2lQSYdJLao', 5098, 5408], //ノーザンクロス
+        ['P2lQSYdJLao', 5587, 5869], //創聖のアクエリオン
+        ['P2lQSYdJLao', 5930, 6099], //夜もすがら君想ふ
+
+        //たまのおうた工房 フリージア
+        ['ksy-vbtJBik', 1, 1],
+
         //"2020/11/1 アニソンはいいぞぉぉ…！
         ['meMBuDPHUaM', 397, 646], //träumerei
         ['meMBuDPHUaM', 832, 1155], //茜さす
@@ -30,7 +49,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['meMBuDPHUaM', 4056, 4306], //シュガーソングとビターステップ
         //['meMBuDPHUaM', 4437, 4704], //炎
         ['meMBuDPHUaM', 4988, 5240], //紅蓮華 THE FIRST TAKE バージョン
-        ['meMBuDPHUaM', 5310, 5480], //夜もすがら君想ふ ED
+        //['meMBuDPHUaM', 5310, 5480], //夜もすがら君想ふ ED
 
         //たまのおうた工房 Happy Halloween
         ['lx7Hh8rHLxE', 1, 1],
@@ -68,7 +87,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['dNEWWyYlNio', 1, 1],
 
         //2020/10/18 ！たまソングフィーバー！
-        ['ETjgki1sSgc', 578, 855], //白日
+        //['ETjgki1sSgc', 578, 855], //白日 New11/8
         ['ETjgki1sSgc', 1114, 1367], //Lemon
         ['ETjgki1sSgc', 1591, 1880], //アイネクライネ
         ['ETjgki1sSgc', 2189, 2431], //一番の宝物 ~Yui final ver.~
@@ -119,17 +138,17 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['qRNSouvHncw', 1, 1],
 
         //2020/10/4 明日からのエネルギーチャージ！！
-        ['eD6LNaZmj1w', 311, 522], //インフェルノ
+        //['eD6LNaZmj1w', 311, 522], //インフェルノ New11/8
         ['eD6LNaZmj1w', 637, 862], //おジャ魔女カーニバル
         ['eD6LNaZmj1w', 968, 1196], //Paradisus-Paradoxum
         ['eD6LNaZmj1w', 1477, 1745], //ANIMA
         ['eD6LNaZmj1w', 1935, 2175], //Time after time ～花舞う街で～
         ['eD6LNaZmj1w', 2292, 2555], //アイのシナリオ
-        ['eD6LNaZmj1w', 2688, 2940], //Here
+        //['eD6LNaZmj1w', 2688, 2940], //Here New11/8
         ['eD6LNaZmj1w', 3104, 3357], //カワキヲアメク
         ['eD6LNaZmj1w', 3498, 3842], //オレンジ
         ['eD6LNaZmj1w', 3961, 4198], //unravel
-        ['eD6LNaZmj1w', 4373, 4654], //創聖のアクエリオン
+        //['eD6LNaZmj1w', 4373, 4654], //創聖のアクエリオン New11/8
         ['eD6LNaZmj1w', 4878, 5163], //前前前世
         ['eD6LNaZmj1w', 5519, 5723], //カタオモイ
         //['eD6LNaZmj1w', 6053, 6151], //ノーザンクロス Short Acapella Full9/27
@@ -197,7 +216,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['Q06Zq_3il9o', 1804, 2081], //七転八起☆至上主義!
         ['Q06Zq_3il9o', 2217, 2458], //ツキアカリのミチシルベ
         ['Q06Zq_3il9o', 2579, 2859], //ロミオとシンデレラ
-        ['Q06Zq_3il9o', 2971, 3280], //ノーザンクロス
+        //['Q06Zq_3il9o', 2971, 3280], //ノーザンクロス New11/8
         ['Q06Zq_3il9o', 3400, 3640], //気まぐれロマンティック
         ['Q06Zq_3il9o', 3762, 4110], //あたしが隣にいるうちに
         ['Q06Zq_3il9o', 4228, 4482], //Snow halation
@@ -224,7 +243,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['Y6EMzMzUjKQ', 4282, 4505], //RESISTER
         ['Y6EMzMzUjKQ', 4618, 4907], //unlasting
         //['Y6EMzMzUjKQ', 5302, 5370], //ANIMA Short New10/4
-        ['Y6EMzMzUjKQ', 5493, 5761], // I will...
+        //['Y6EMzMzUjKQ', 5493, 5761], // I will... New11/8
         //['Y6EMzMzUjKQ', 5896, 1], //夜もすがら君想ふ ED
 
         //2020/9/20 たまソング聴いていきませんか？
@@ -278,10 +297,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['IL4jXmjciOM', 5784, 1], //夜もすがら君想ふ ED
 
         //My Soul,Your Beats!
-        ['ekB9_dr65dQ', 1, 1],//Short
+        ['ekB9_dr65dQ', 1, 1], //Short
 
         //2020/9/13 日曜日の定期歌枠たくさん歌うぞ～！
-        ['T53Wjlbotug', 212, 499], //ROCK-mode '18
+        //['T53Wjlbotug', 212, 499], //ROCK-mode '18 New11/8
         ['T53Wjlbotug', 667, 905], //千本桜
         ['T53Wjlbotug', 1239, 1517], //This game
         ['T53Wjlbotug', 1634, 1905], //Calc.
