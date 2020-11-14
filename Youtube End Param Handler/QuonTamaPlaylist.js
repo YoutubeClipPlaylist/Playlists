@@ -18,6 +18,28 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020/11/13 『ほぼ』ボカロ限定歌枠開催
+        ['k-muid-bJNs', 300, 583], //からくりピエロ
+        ['k-muid-bJNs', 715, 956], //フィクサー
+        //['k-muid-bJNs', 1024, 1024], //厨病激発ボーイ 消除
+        ['k-muid-bJNs', 1155, 1429], //チルノのパーフェクトさんすう教室
+        ['k-muid-bJNs', 1524, 1847], //rain stops, good-bye
+        ['k-muid-bJNs', 1883, 2057], //雨き声残響
+        ['k-muid-bJNs', 2145, 2422], //ロミオとシンデレラ
+        ['k-muid-bJNs', 2559, 2823], //右肩の蝶
+        //['k-muid-bJNs', 2939, 2939], //ホワイトハッピー 消除
+        ['k-muid-bJNs', 3025, 3254], //病名は愛だった
+        ['k-muid-bJNs', 3340, 3588], //愛して愛して愛して
+        ['k-muid-bJNs', 3688, 3954], //ラプンツェル
+        ['k-muid-bJNs', 4105, 4332], //人生リセットボタン
+        ['k-muid-bJNs', 4441, 4660], //おじゃま虫
+        ['k-muid-bJNs', 4949, 5084], //KING
+        ['k-muid-bJNs', 5406, 5608], //ボッカデラベリタ
+        ['k-muid-bJNs', 5748, 1], //夜もすがら君想ふ ED
+
+        //作業用BGM 歌枠メドレー
+        //['uAsuhjimkrA', 1, 1],
+
         //2020/11/8 定期歌枠の日！みんなで楽しもうねっ❣
         ['P2lQSYdJLao', 528, 805], //白日
         ['P2lQSYdJLao', 978, 1256], //変わらないもの
@@ -32,7 +54,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['P2lQSYdJLao', 4682, 4953], //炎
         ['P2lQSYdJLao', 5098, 5408], //ノーザンクロス
         ['P2lQSYdJLao', 5587, 5869], //創聖のアクエリオン
-        ['P2lQSYdJLao', 5930, 6099], //夜もすがら君想ふ
+        // ['P2lQSYdJLao', 5930, 6099], //夜もすがら君想ふ ED
 
         //たまのおうた工房 フリージア
         ['ksy-vbtJBik', 1, 1],
@@ -178,23 +200,24 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['t2UuIVy2ZHQ', 4055, 4304], //シュガーソングとビターステップ
         ['t2UuIVy2ZHQ', 4592, 4846], //風になる
 
-        //2020/9/30 ボカロ限定でたくさん歌う！
-        ['uaKAOYzt5cA', 394, 607], //ロストワンの号哭
-        ['uaKAOYzt5cA', 838, 1068], //ハッピーシンセサイザ
-        ['uaKAOYzt5cA', 1243, 1442], //アサガオの散る頃に
-        ['uaKAOYzt5cA', 1551, 1817], //心做し
-        ['uaKAOYzt5cA', 1904, 2074], //Booo!
-        ['uaKAOYzt5cA', 2200, 2458], //拝啓ドッペルゲンガー
-        ['uaKAOYzt5cA', 2589, 2778], //東京テディベア
-        ['uaKAOYzt5cA', 2904, 3148], //再教育
-        ['uaKAOYzt5cA', 3252, 3505], //ヒビカセ
-        ['uaKAOYzt5cA', 3607, 3833], //ロキ
-        ['uaKAOYzt5cA', 4011, 4225], //深海少女
-        //['uaKAOYzt5cA', 4320, 4582], //夜に駆ける New10/6
-        ['uaKAOYzt5cA', 4762, 4950], //天ノ弱
-        ['uaKAOYzt5cA', 5279, 5645], //終わりの世界から
-        ['uaKAOYzt5cA', 5751, 5964], //六兆年と一夜物語
-        //['uaKAOYzt5cA', 6081, 1], //夜もすがら君想ふ ED
+        // (這一回音量過小)
+        // //2020/9/30 ボカロ限定でたくさん歌う！
+        // ['uaKAOYzt5cA', 394, 607], //ロストワンの号哭
+        // ['uaKAOYzt5cA', 838, 1068], //ハッピーシンセサイザ
+        // ['uaKAOYzt5cA', 1243, 1442], //アサガオの散る頃に
+        // ['uaKAOYzt5cA', 1551, 1817], //心做し
+        // ['uaKAOYzt5cA', 1904, 2074], //Booo!
+        // ['uaKAOYzt5cA', 2200, 2458], //拝啓ドッペルゲンガー
+        // ['uaKAOYzt5cA', 2589, 2778], //東京テディベア
+        // ['uaKAOYzt5cA', 2904, 3148], //再教育
+        // ['uaKAOYzt5cA', 3252, 3505], //ヒビカセ
+        // ['uaKAOYzt5cA', 3607, 3833], //ロキ
+        // ['uaKAOYzt5cA', 4011, 4225], //深海少女
+        // //['uaKAOYzt5cA', 4320, 4582], //夜に駆ける New10/6
+        // ['uaKAOYzt5cA', 4762, 4950], //天ノ弱
+        // ['uaKAOYzt5cA', 5279, 5645], //終わりの世界から
+        // ['uaKAOYzt5cA', 5751, 5964], //六兆年と一夜物語
+        // //['uaKAOYzt5cA', 6081, 1], //夜もすがら君想ふ ED
 
         //2020/9/29 定期もぐもぐ雑談の巻
         //['6iMAjF61q7w', 940, 1], //Sincerely Short Acapella
@@ -215,7 +238,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['Q06Zq_3il9o', 1563, 1605], //君色シグナル 半消除
         ['Q06Zq_3il9o', 1804, 2081], //七転八起☆至上主義!
         ['Q06Zq_3il9o', 2217, 2458], //ツキアカリのミチシルベ
-        ['Q06Zq_3il9o', 2579, 2859], //ロミオとシンデレラ
+        //['Q06Zq_3il9o', 2579, 2859], //ロミオとシンデレラ New11/13
         //['Q06Zq_3il9o', 2971, 3280], //ノーザンクロス New11/8
         ['Q06Zq_3il9o', 3400, 3640], //気まぐれロマンティック
         ['Q06Zq_3il9o', 3762, 4110], //あたしが隣にいるうちに
@@ -350,10 +373,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['_Ejha-aifWg', 973, 1219], //セツナトリップ
         //['_Ejha-aifWg', 1332, 1608], //God knows... New10/4
         ['_Ejha-aifWg', 1683, 1878], //ベノム
-        ['_Ejha-aifWg', 1993, 2258], //右肩の蝶
+        //['_Ejha-aifWg', 1993, 2258], //右肩の蝶 New11/13
         ['_Ejha-aifWg', 2578, 2662], //だから僕は音楽を辞めた Short
         ['_Ejha-aifWg', 2708, 2949], //ふわふわ時間
-        ['_Ejha-aifWg', 3048, 3182], //KING
+        //['_Ejha-aifWg', 3048, 3182], //KING New11/13
         ['_Ejha-aifWg', 3352, 3523], //グッバイ宣言
         ['_Ejha-aifWg', 3753, 4064], //名前のない怪物
         //['_Ejha-aifWg', 4191, 1], //夜もすがら君想ふ ED
@@ -368,7 +391,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['U8nr6UR2f5k', 1509, 1757], //おちゃめ機能 New11/6
         ['U8nr6UR2f5k', 1911, 2104], //惑星ループ
         ['U8nr6UR2f5k', 2267, 2504], //PLATONIC GIRL
-        ['U8nr6UR2f5k', 2775, 2975], //ボッカデラベリタ
+        //['U8nr6UR2f5k', 2775, 2975], //ボッカデラベリタ New11/13
         ['U8nr6UR2f5k', 3073, 3415], //君の知らない物語
         ['U8nr6UR2f5k', 3518, 3801], //打上花火
         //['U8nr6UR2f5k', 4023, 1], //夜もすがら君想ふ ED
@@ -378,7 +401,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['EiDlaX-saHw', 666, 923], //このピアノでお前を8759632145回ぶん殴る
         //['EiDlaX-saHw', 1096, 1343], //夜に駆ける New10/6
         //['EiDlaX-saHw', 1538, 1753], //ダダダダ天使 New10/11
-        ['EiDlaX-saHw', 1872, 2085], //おじゃま虫
+        //['EiDlaX-saHw', 1872, 2085], //おじゃま虫 New11/13
         //['EiDlaX-saHw', 2364, 2661], //ライオン New10/2
         //['EiDlaX-saHw', 2793, 3022], //星間飛行 New10/2
         //['EiDlaX-saHw', 3235, 3481], //Rising Hope New10/4
