@@ -128,8 +128,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ETjgki1sSgc', 1591, 1880], //アイネクライネ
         ['ETjgki1sSgc', 2189, 2431], //一番の宝物 ~Yui final ver.~
         ['ETjgki1sSgc', 2570, 2926], //うたかた花火
-        ['ETjgki1sSgc', 2995, 3269], //Rally Go Round
-        ['ETjgki1sSgc', 3379, 3628], //only my railgun
+        //['ETjgki1sSgc', 2995, 3269], //Rally Go Round New11/15
+        //['ETjgki1sSgc', 3379, 3628], //only my railgun New11/15
         ['ETjgki1sSgc', 3855, 4067], //ハレ晴レユカイ
         ['ETjgki1sSgc', 4328, 4595], //カラフル
         ['ETjgki1sSgc', 4750, 4986], //magnet
@@ -190,7 +190,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['eD6LNaZmj1w', 6053, 6151], //ノーザンクロス Short Acapella Full9/27
         ['eD6LNaZmj1w', 6246, 6519], //いけないボーダーライン
         ['eD6LNaZmj1w', 6776, 7052], //God Knows...
-        ['eD6LNaZmj1w', 7284, 7529], //Rising Hope
+        //['eD6LNaZmj1w', 7284, 7529], //Rising Hope New11/15
         //['eD6LNaZmj1w', 7729, 1], //夜もすがら君想ふ ED
 
         //2020/10/2 あたしの歌を聞け～っ！
@@ -256,7 +256,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['Q06Zq_3il9o', 2971, 3280], //ノーザンクロス New11/8
         ['Q06Zq_3il9o', 3400, 3640], //気まぐれロマンティック
         ['Q06Zq_3il9o', 3762, 4110], //あたしが隣にいるうちに
-        ['Q06Zq_3il9o', 4228, 4482], //Snow halation
+        //['Q06Zq_3il9o', 4228, 4482], //Snow halation New11/15
         ['Q06Zq_3il9o', 4597, 4776], //檄！帝国華撃団
         ['Q06Zq_3il9o', 4901, 5191], //THERE IS A REASON
         ['Q06Zq_3il9o', 5526, 5781], //恋愛サーキュレーション
@@ -314,7 +314,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['IL4jXmjciOM', 1957, 2046], //final phase Short
         ['IL4jXmjciOM', 2047, 2123], //nameless story Short
         //['IL4jXmjciOM', 2276, 2365], //ASH Short New11/1
-        ['IL4jXmjciOM', 2370, 2500], //MEMORIA Short
+        //['IL4jXmjciOM', 2370, 2500], //MEMORIA Short New11/15
         ['IL4jXmjciOM', 2506, 2603], //英雄 運命の詩 Short
         ['IL4jXmjciOM', 2729, 2818], //ヒトリゴト Short
         //['IL4jXmjciOM', 2956, 3075], //ダイアモンドクレバス Short New10/2
