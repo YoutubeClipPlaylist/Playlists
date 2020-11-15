@@ -18,6 +18,20 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020/11/15 アニソンだらけの歌枠
+        ['DOoy0iNjGsQ', 465, 713], //狂乱 Hey Kids!!
+        ['DOoy0iNjGsQ', 1027, 1264], //CheerS
+        ['DOoy0iNjGsQ', 1510, 1800], //MEMORIA
+        ['DOoy0iNjGsQ', 1968, 2229], //カーストルーム
+        ['DOoy0iNjGsQ', 2458, 2731], //Rally Go Round
+        ['DOoy0iNjGsQ', 2936, 3203], //ユキトキ
+        ['DOoy0iNjGsQ', 3379, 3673], //Angelic Angel
+        ['DOoy0iNjGsQ', 3762, 4015], //Snow halation
+        ['DOoy0iNjGsQ', 4114, 4377], //オリオンをなぞる
+        ['DOoy0iNjGsQ', 4615, 4867], //only my railgun
+        ['DOoy0iNjGsQ', 5010, 5257], //Rising Hope
+        ['DOoy0iNjGsQ', 5295, 5464], //夜もすがら君想ふ ED
+
         //2020/11/13 『ほぼ』ボカロ限定歌枠開催
         ['k-muid-bJNs', 300, 583], //からくりピエロ
         ['k-muid-bJNs', 715, 956], //フィクサー
@@ -35,7 +49,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['k-muid-bJNs', 4441, 4660], //おじゃま虫
         ['k-muid-bJNs', 4949, 5084], //KING
         ['k-muid-bJNs', 5406, 5608], //ボッカデラベリタ
-        ['k-muid-bJNs', 5748, 1], //夜もすがら君想ふ ED
+        //['k-muid-bJNs', 5748, 1], //夜もすがら君想ふ ED
 
         //作業用BGM 歌枠メドレー
         //['uAsuhjimkrA', 1, 1],
