@@ -21,7 +21,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //2020/11/13 『ほぼ』ボカロ限定歌枠開催
         ['k-muid-bJNs', 300, 583], //からくりピエロ
         ['k-muid-bJNs', 715, 956], //フィクサー
-        //['k-muid-bJNs', 1024, 1024], //厨病激発ボーイ 消除
+        ['Udkzy2w0AMA', 1, 1], //厨病激発ボーイ 原片消除
         ['k-muid-bJNs', 1155, 1429], //チルノのパーフェクトさんすう教室
         ['k-muid-bJNs', 1524, 1847], //rain stops, good-bye
         ['k-muid-bJNs', 1883, 2057], //雨き声残響
@@ -346,7 +346,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['rIQ1wRsnnDE', 1665, 1], //My Soul,Your Beats! New9/14
         //['rIQ1wRsnnDE', 2005, 1], //Starry Wish New10/9メン限
         //['rIQ1wRsnnDE', 2326, 1], //Paradisus-Paradoxum New10/4
-        //['rIQ1wRsnnDE', 2912, 1], //Oath Sign
+        //['rIQ1wRsnnDE', 2912, 1], //Oath Sign New11/1
         //['rIQ1wRsnnDE', 3367, 1], //創聖のアクエリオン New10/4
         //['rIQ1wRsnnDE', 3844, 1], //Departures〜あなたにおくるアイの歌〜 New9/29
         //['rIQ1wRsnnDE', 4176, 1], //鳥の詩 New10/11
