@@ -18,6 +18,12 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //歌ってみた あ・え・い・う・え・お・あお!!
+        ['fZR3zr2R5Qc', 1, 1],
+
+        //久遠たまの日常6
+        //['1OrD9G4rtn8', 1, 1], 
+
         //2020/11/15 アニソンだらけの歌枠
         ['DOoy0iNjGsQ', 465, 713], //狂乱 Hey Kids!!
         ['DOoy0iNjGsQ', 1027, 1264], //CheerS
@@ -70,7 +76,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['P2lQSYdJLao', 5587, 5869], //創聖のアクエリオン
         // ['P2lQSYdJLao', 5930, 6099], //夜もすがら君想ふ ED
 
-        //たまのおうた工房 フリージア
+        //歌ってみた フリージア
         ['ksy-vbtJBik', 1, 1],
 
         //"2020/11/1 アニソンはいいぞぉぉ…！
@@ -87,7 +93,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['meMBuDPHUaM', 4988, 5240], //紅蓮華 THE FIRST TAKE バージョン
         //['meMBuDPHUaM', 5310, 5480], //夜もすがら君想ふ ED
 
-        //たまのおうた工房 Happy Halloween
+        //歌ってみた Happy Halloween
         ['lx7Hh8rHLxE', 1, 1],
 
         //"2020/10/31 １年に１度のHalloweenParty
@@ -137,7 +143,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ETjgki1sSgc', 5673, 5905], //daze
         //['ETjgki1sSgc', 5950, 1], //夜もすがら君想ふ ED
 
-        //炎
+        //歌ってみた 炎
         ['a4thI28v_SM', 1, 1],
 
         //2020/10/14 どうしても言いたいチーズケーキの話
@@ -164,10 +170,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['mvmik-rA-I4', 6189, 6503], //ETERNAL BLAZE
         //['mvmik-rA-I4', 6580, 1], //夜もすがら君想ふ ED
 
-        //ダーリンダンス
+        //歌ってみた ダーリンダンス
         ['ZXNvteUXoZQ', 1, 1],
 
-        //夜に駆ける
+        //歌ってみた 夜に駆ける
         ['fOLD2Om-ino', 1, 1],
 
         //久遠たまの日常2
@@ -262,7 +268,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['Q06Zq_3il9o', 5526, 5781], //恋愛サーキュレーション
         //['Q06Zq_3il9o', 5839, 1], //夜もすがら君想ふ ED
 
-        //紅蓮華
+        //歌ってみた 紅蓮華
         ['GDOQTShjTQs', 1, 1],
 
         //2020/9/25 アニメ縛りのスタートはやっぱりこれだっ！
@@ -333,7 +339,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['IL4jXmjciOM', 5372, 5607], //紅蓮華 New9/26
         //['IL4jXmjciOM', 5784, 1], //夜もすがら君想ふ ED
 
-        //My Soul,Your Beats!
+        //歌ってみた My Soul,Your Beats!
         ['ekB9_dr65dQ', 1, 1], //Short
 
         //2020/9/13 日曜日の定期歌枠たくさん歌うぞ～！
@@ -395,7 +401,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['_Ejha-aifWg', 3753, 4064], //名前のない怪物
         //['_Ejha-aifWg', 4191, 1], //夜もすがら君想ふ ED
 
-        //ようこそジャパリパークへ 自己紹介
+        //歌ってみた ようこそジャパリパークへ 自己紹介
         ['MmuNPcSN50E', 1, 1],
 
         //2020/8/30 またまたリクエストを歌ってゆくぞー！！
