@@ -1,5 +1,5 @@
 var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
-(function () {
+(function() {
     /**
      * 標籤
      * @type {string[]}
@@ -13,8 +13,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
     /**
      * ['VideoID',StartTime,EndTime]
      * VideoID: 必須用引號包住，為字串型態。
-     * StartTime: 只能是正數。如果要從頭播放，輸入1
-     * EndTime: 只能是正數。如果要播放至尾，輸入1
+     * StartTime: 只能是非負數。如果要從頭播放，輸入0
+     * EndTime: 只能是非負數。如果要播放至尾，輸入0
      * @type {*[]}
      */
     var newPlaylist = [
@@ -63,7 +63,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['O3QgoG2Tg5Y', 4479, 4771], //アクアテラリウム
         ['O3QgoG2Tg5Y', 4910, 5187], //Shangri-La
         ['O3QgoG2Tg5Y', 5365, 5597], //いかないで
-        //['O3QgoG2Tg5Y', 5652, 1], //夜もすがら君想ふ ED
+        //['O3QgoG2Tg5Y', 5652, 0], //夜もすがら君想ふ ED
 
         //2020/10/9 初メン限歌枠ドキドキドキ・・
         ['ooZW7m7uGsg', 538, 628], //にめんせい☆ウラオモテライフ
@@ -78,10 +78,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ooZW7m7uGsg', 4666, 4873], //you
         ['ooZW7m7uGsg', 5193, 5486], //時を刻む唄
         ['ooZW7m7uGsg', 5829, 6118], //THERE IS A REASON
-        //['ooZW7m7uGsg', 6229, 1], //夜もすがら君想ふ ED
+        //['ooZW7m7uGsg', 6229, 0], //夜もすがら君想ふ ED
 
         //2020/10/3 たま子へようこそ
-        ['a8qXEElTnaA', 237, 1] //廃墟の国のアリス
+        ['a8qXEElTnaA', 237, 0] //廃墟の国のアリス
 
     ];
 

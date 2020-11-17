@@ -13,16 +13,16 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
     /**
      * ['VideoID',StartTime,EndTime]
      * VideoID: 必須用引號包住，為字串型態。
-     * StartTime: 只能是正數。如果要從頭播放，輸入1
-     * EndTime: 只能是正數。如果要播放至尾，輸入1
+     * StartTime: 只能是非負數。如果要從頭播放，輸入0
+     * EndTime: 只能是非負數。如果要播放至尾，輸入0
      * @type {*[]}
      */
     var newPlaylist = [
         //歌ってみた あ・え・い・う・え・お・あお!!
-        ['fZR3zr2R5Qc', 1, 1],
+        ['fZR3zr2R5Qc', 0, 0],
 
         //久遠たまの日常6
-        //['1OrD9G4rtn8', 1, 1], 
+        //['1OrD9G4rtn8', 0, 0], 
 
         //2020/11/15 アニソンだらけの歌枠
         ['DOoy0iNjGsQ', 465, 713], //狂乱 Hey Kids!!
@@ -41,7 +41,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //2020/11/13 『ほぼ』ボカロ限定歌枠開催
         ['k-muid-bJNs', 300, 583], //からくりピエロ
         ['k-muid-bJNs', 715, 956], //フィクサー
-        ['Udkzy2w0AMA', 1, 1], //厨病激発ボーイ 原片消除
+        ['Udkzy2w0AMA', 0, 0], //厨病激発ボーイ 原片消除
         ['k-muid-bJNs', 1155, 1429], //チルノのパーフェクトさんすう教室
         ['k-muid-bJNs', 1524, 1847], //rain stops, good-bye
         ['k-muid-bJNs', 1883, 2057], //雨き声残響
@@ -55,10 +55,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['k-muid-bJNs', 4441, 4660], //おじゃま虫
         ['k-muid-bJNs', 4949, 5084], //KING
         ['k-muid-bJNs', 5406, 5608], //ボッカデラベリタ
-        //['k-muid-bJNs', 5748, 1], //夜もすがら君想ふ ED
+        //['k-muid-bJNs', 5748, 0], //夜もすがら君想ふ ED
 
         //作業用BGM 歌枠メドレー
-        //['uAsuhjimkrA', 1, 1],
+        //['uAsuhjimkrA', 0, 0],
 
         //2020/11/8 定期歌枠の日！みんなで楽しもうねっ❣
         ['P2lQSYdJLao', 528, 805], //白日
@@ -77,7 +77,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['P2lQSYdJLao', 5930, 6099], //夜もすがら君想ふ ED
 
         //歌ってみた フリージア
-        ['ksy-vbtJBik', 1, 1],
+        ['ksy-vbtJBik', 0, 0],
 
         //"2020/11/1 アニソンはいいぞぉぉ…！
         ['meMBuDPHUaM', 397, 646], //träumerei
@@ -94,7 +94,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['meMBuDPHUaM', 5310, 5480], //夜もすがら君想ふ ED
 
         //歌ってみた Happy Halloween
-        ['lx7Hh8rHLxE', 1, 1],
+        ['lx7Hh8rHLxE', 0, 0],
 
         //"2020/10/31 １年に１度のHalloweenParty
         ['kw1WFhhzInY', 2302, 2554], //Mrs.Pumpkinの滑稽な夢
@@ -104,7 +104,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['kw1WFhhzInY', 4399, 4648], //Crazy Party Night ～ぱんぷきんの逆襲～
 
         //久遠たまの日常5
-        //['j2mC3Ws0OAE', 1, 1],
+        //['j2mC3Ws0OAE', 0, 0],
 
         //2020/10/25 本格的にボカロ攻め
         ['ykcroeCICx8', 351, 533], //ルマ
@@ -126,7 +126,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['ykcroeCICx8', 6051, 6221], //夜もすがら君想ふ ED
 
         //久遠たまの日常４
-        //['dNEWWyYlNio', 1, 1],
+        //['dNEWWyYlNio', 0, 0],
 
         //2020/10/18 ！たまソングフィーバー！
         //['ETjgki1sSgc', 578, 855], //白日 New11/8
@@ -141,17 +141,17 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ETjgki1sSgc', 4750, 4986], //magnet
         ['ETjgki1sSgc', 5189, 5480], //だれかの心臓になれたなら
         ['ETjgki1sSgc', 5673, 5905], //daze
-        //['ETjgki1sSgc', 5950, 1], //夜もすがら君想ふ ED
+        //['ETjgki1sSgc', 5950, 0], //夜もすがら君想ふ ED
 
         //歌ってみた 炎
-        ['a4thI28v_SM', 1, 1],
+        ['a4thI28v_SM', 0, 0],
 
         //2020/10/14 どうしても言いたいチーズケーキの話
         //['-5xm35kLZLw', 1030, 1210], //Fallen Short Acapella
-        //['-5xm35kLZLw', 1222, 1], //炎 Short Acapella New10/17
+        //['-5xm35kLZLw', 1222, 0], //炎 Short Acapella New10/17
 
         //久遠たまの日常３
-        //['Px3JIjwkuok', 1, 1],
+        //['Px3JIjwkuok', 0, 0],
 
         //2020/10/11 ２万人感謝も込めてたくさん歌います
         ['mvmik-rA-I4', 463, 733], //猫
@@ -168,16 +168,16 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['mvmik-rA-I4', 5131, 5348], //ダダダダ天使
         ['mvmik-rA-I4', 5532, 5901], //鳥の詩
         ['mvmik-rA-I4', 6189, 6503], //ETERNAL BLAZE
-        //['mvmik-rA-I4', 6580, 1], //夜もすがら君想ふ ED
+        //['mvmik-rA-I4', 6580, 0], //夜もすがら君想ふ ED
 
         //歌ってみた ダーリンダンス
-        ['ZXNvteUXoZQ', 1, 1],
+        ['ZXNvteUXoZQ', 0, 0],
 
         //歌ってみた 夜に駆ける
-        ['fOLD2Om-ino', 1, 1],
+        ['fOLD2Om-ino', 0, 0],
 
         //久遠たまの日常2
-        //['qRNSouvHncw', 1, 1],
+        //['qRNSouvHncw', 0, 0],
 
         //2020/10/4 明日からのエネルギーチャージ！！
         //['eD6LNaZmj1w', 311, 522], //インフェルノ New11/8
@@ -197,7 +197,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['eD6LNaZmj1w', 6246, 6519], //いけないボーダーライン
         ['eD6LNaZmj1w', 6776, 7052], //God Knows...
         //['eD6LNaZmj1w', 7284, 7529], //Rising Hope New11/15
-        //['eD6LNaZmj1w', 7729, 1], //夜もすがら君想ふ ED
+        //['eD6LNaZmj1w', 7729, 0], //夜もすがら君想ふ ED
 
         //2020/10/2 あたしの歌を聞け～っ！
         ['RiY3B0_H0hk', 262, 542], //トライアングラー fight on stage
@@ -214,7 +214,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['RiY3B0_H0hk', 4413, 4737], //ダイアモンドクレバス
         ['RiY3B0_H0hk', 4864, 5298], //サヨナラノツバサ ～the end of triangle
         ['RiY3B0_H0hk', 5417, 5717], //ライオン
-        //['RiY3B0_H0hk', 5839, 1], //夜もすがら君想ふ ED
+        //['RiY3B0_H0hk', 5839, 0], //夜もすがら君想ふ ED
 
         //2020/10/1 おひさしぶり！ふぉるがいずくん！
         //['t2UuIVy2ZHQ', 4055, 4304], //シュガーソングとビターステップ
@@ -237,19 +237,19 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['uaKAOYzt5cA', 4762, 4950], //天ノ弱
         // ['uaKAOYzt5cA', 5279, 5645], //終わりの世界から
         // ['uaKAOYzt5cA', 5751, 5964], //六兆年と一夜物語
-        // //['uaKAOYzt5cA', 6081, 1], //夜もすがら君想ふ ED
+        // //['uaKAOYzt5cA', 6081, 0], //夜もすがら君想ふ ED
 
         //2020/9/29 定期もぐもぐ雑談の巻
-        //['6iMAjF61q7w', 940, 1], //Sincerely Short Acapella
-        //['6iMAjF61q7w', 1008, 1], //courage Short Acapella
-        //['6iMAjF61q7w', 1023, 1], //鳥の詩 Short Acapella
-        //['6iMAjF61q7w', 1184, 1], //お願いマッスル Short Acapella
-        //['6iMAjF61q7w', 4343, 1], //Departures〜あなたにおくるアイの歌〜 Short Acapella
-        //['6iMAjF61q7w', 4430, 1], //エウテルペ 〜Silence〜 Short Acapella
-        //['6iMAjF61q7w', 4601, 1], //ダイアモンド クレバス Short Acapella
+        //['6iMAjF61q7w', 940, 0], //Sincerely Short Acapella
+        //['6iMAjF61q7w', 1008, 0], //courage Short Acapella
+        //['6iMAjF61q7w', 1023, 0], //鳥の詩 Short Acapella
+        //['6iMAjF61q7w', 1184, 0], //お願いマッスル Short Acapella
+        //['6iMAjF61q7w', 4343, 0], //Departures〜あなたにおくるアイの歌〜 Short Acapella
+        //['6iMAjF61q7w', 4430, 0], //エウテルペ 〜Silence〜 Short Acapella
+        //['6iMAjF61q7w', 4601, 0], //ダイアモンド クレバス Short Acapella
 
         //久遠たまの日常
-        //['a7vKI57G7_U', 1, 1],
+        //['a7vKI57G7_U', 0, 0],
 
         //2020/9/27 日曜のたまソング
         //['Q06Zq_3il9o', 296, 616], //瞬き New11/6
@@ -266,10 +266,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['Q06Zq_3il9o', 4597, 4776], //檄！帝国華撃団
         ['Q06Zq_3il9o', 4901, 5191], //THERE IS A REASON
         ['Q06Zq_3il9o', 5526, 5781], //恋愛サーキュレーション
-        //['Q06Zq_3il9o', 5839, 1], //夜もすがら君想ふ ED
+        //['Q06Zq_3il9o', 5839, 0], //夜もすがら君想ふ ED
 
         //歌ってみた 紅蓮華
-        ['GDOQTShjTQs', 1, 1],
+        ['GDOQTShjTQs', 0, 0],
 
         //2020/9/25 アニメ縛りのスタートはやっぱりこれだっ！
         ['Y6EMzMzUjKQ', 213, 457], //crossing field
@@ -287,7 +287,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['Y6EMzMzUjKQ', 4618, 4907], //unlasting
         //['Y6EMzMzUjKQ', 5302, 5370], //ANIMA Short New10/4
         //['Y6EMzMzUjKQ', 5493, 5761], // I will... New11/8
-        //['Y6EMzMzUjKQ', 5896, 1], //夜もすがら君想ふ ED
+        //['Y6EMzMzUjKQ', 5896, 0], //夜もすがら君想ふ ED
 
         //2020/9/20 たまソング聴いていきませんか？
         ['MRZk4LZ589w', 302, 542], //Mela!
@@ -304,7 +304,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['MRZk4LZ589w', 4635, 4853], //ブルーバード
         ['MRZk4LZ589w', 4945, 5261], //魂のルフラン
         ['MRZk4LZ589w', 5573, 5805], //シャルル
-        //['MRZk4LZ589w', 6013, 1], //夜もすがら君想ふ ED
+        //['MRZk4LZ589w', 6013, 0], //夜もすがら君想ふ ED
 
         //2020/9/18 アニソン祭りじゃ～！！
         ['IL4jXmjciOM', 252, 358], //Alchemy Short
@@ -337,10 +337,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['IL4jXmjciOM', 4928, 5028], //narrative Short
         //['IL4jXmjciOM', 5139, 5243], //träumerei Short New11/1
         //['IL4jXmjciOM', 5372, 5607], //紅蓮華 New9/26
-        //['IL4jXmjciOM', 5784, 1], //夜もすがら君想ふ ED
+        //['IL4jXmjciOM', 5784, 0], //夜もすがら君想ふ ED
 
         //歌ってみた My Soul,Your Beats!
-        ['ekB9_dr65dQ', 1, 1], //Short
+        ['ekB9_dr65dQ', 0, 0], //Short
 
         //2020/9/13 日曜日の定期歌枠たくさん歌うぞ～！
         //['T53Wjlbotug', 212, 499], //ROCK-mode '18 New11/8
@@ -356,21 +356,21 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['T53Wjlbotug', 3988, 4068], //unlasting Short New9/25
         ['T53Wjlbotug', 4332, 4567], //プライド革命
         ['T53Wjlbotug', 5025, 5198], //アスノヨゾラ哨戒班
-        //['T53Wjlbotug', 5337, 1], //夜もすがら君想ふ ED
+        //['T53Wjlbotug', 5337, 0], //夜もすがら君想ふ ED
 
         //2020/9/11 金曜日のたまLIVE ※非公開(Private)
-        //['rIQ1wRsnnDE', 207, 1], //インフェルノ New10/4
-        //['rIQ1wRsnnDE', 559, 1], //お願いマッスル New9/29
-        //['rIQ1wRsnnDE', 911, 1], //courage New9/29
-        //['rIQ1wRsnnDE', 1273, 1], //Sincerely New10/11
-        //['rIQ1wRsnnDE', 1665, 1], //My Soul,Your Beats! New9/14
-        //['rIQ1wRsnnDE', 2005, 1], //Starry Wish New10/9メン限
-        //['rIQ1wRsnnDE', 2326, 1], //Paradisus-Paradoxum New10/4
-        //['rIQ1wRsnnDE', 2912, 1], //Oath Sign New11/1
-        //['rIQ1wRsnnDE', 3367, 1], //創聖のアクエリオン New10/4
-        //['rIQ1wRsnnDE', 3844, 1], //Departures〜あなたにおくるアイの歌〜 New9/29
-        //['rIQ1wRsnnDE', 4176, 1], //鳥の詩 New10/11
-        //['rIQ1wRsnnDE', 4676, 1], //夜もすがら君想ふ ED
+        //['rIQ1wRsnnDE', 207, 0], //インフェルノ New10/4
+        //['rIQ1wRsnnDE', 559, 0], //お願いマッスル New9/29
+        //['rIQ1wRsnnDE', 911, 0], //courage New9/29
+        //['rIQ1wRsnnDE', 1273, 0], //Sincerely New10/11
+        //['rIQ1wRsnnDE', 1665, 0], //My Soul,Your Beats! New9/14
+        //['rIQ1wRsnnDE', 2005, 0], //Starry Wish New10/9メン限
+        //['rIQ1wRsnnDE', 2326, 0], //Paradisus-Paradoxum New10/4
+        //['rIQ1wRsnnDE', 2912, 0], //Oath Sign New11/1
+        //['rIQ1wRsnnDE', 3367, 0], //創聖のアクエリオン New10/4
+        //['rIQ1wRsnnDE', 3844, 0], //Departures〜あなたにおくるアイの歌〜 New9/29
+        //['rIQ1wRsnnDE', 4176, 0], //鳥の詩 New10/11
+        //['rIQ1wRsnnDE', 4676, 0], //夜もすがら君想ふ ED
 
         //2020/9/6 ついにこの日が来たぞ！！！！
         ['AxY3M8pYoXY', 202, 482], //Deal with the devil
@@ -386,7 +386,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['AxY3M8pYoXY', 3976, 4316], //射手座☆午後九時 Don't be late New10/2
         //['AxY3M8pYoXY', 4497, 4767], //いけないボーダーライン New10/4
         //['AxY3M8pYoXY', 4909, 5130], //ADAMAS New9/25
-        //['AxY3M8pYoXY', 5197, 1], //夜もすがら君想ふ ED
+        //['AxY3M8pYoXY', 5197, 0], //夜もすがら君想ふ ED
 
         //2020/9/4 鯖落ちからのゲリラ歌枠＞＜
         ['_Ejha-aifWg', 530, 775], //ファンサ
@@ -399,10 +399,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['_Ejha-aifWg', 3048, 3182], //KING New11/13
         ['_Ejha-aifWg', 3352, 3523], //グッバイ宣言
         ['_Ejha-aifWg', 3753, 4064], //名前のない怪物
-        //['_Ejha-aifWg', 4191, 1], //夜もすがら君想ふ ED
+        //['_Ejha-aifWg', 4191, 0], //夜もすがら君想ふ ED
 
         //歌ってみた ようこそジャパリパークへ 自己紹介
-        ['MmuNPcSN50E', 1, 1],
+        ['MmuNPcSN50E', 0, 0],
 
         //2020/8/30 またまたリクエストを歌ってゆくぞー！！
         //['U8nr6UR2f5k', 368, 646], //少女レイ New11/6
@@ -414,7 +414,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['U8nr6UR2f5k', 2775, 2975], //ボッカデラベリタ New11/13
         ['U8nr6UR2f5k', 3073, 3415], //君の知らない物語
         ['U8nr6UR2f5k', 3518, 3801], //打上花火
-        //['U8nr6UR2f5k', 4023, 1], //夜もすがら君想ふ ED
+        //['U8nr6UR2f5k', 4023, 0], //夜もすがら君想ふ ED
 
         //2020/8/24 初歌枠！リクエストを歌ってゆくー！！
         ['EiDlaX-saHw', 318, 523], //ゴーストルール
@@ -425,15 +425,14 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['EiDlaX-saHw', 2364, 2661], //ライオン New10/2
         //['EiDlaX-saHw', 2793, 3022], //星間飛行 New10/2
         //['EiDlaX-saHw', 3235, 3481], //Rising Hope New10/4
-        //['EiDlaX-saHw', 3709, 1], //夜もすがら君想ふ ED
+        //['EiDlaX-saHw', 3709, 0], //夜もすがら君想ふ ED
 
         //2020/8/22 GuildCQ所属、久遠たまです！
         ['WNIcs_pdvEw', 2175, 2358], //ルマ
         ['WNIcs_pdvEw', 2580, 2888], //夜明けと蛍
         ['WNIcs_pdvEw', 3089, 3291], //ヒバナ
         //['WNIcs_pdvEw', 3582, 3815], //紅蓮華 New9/26
-        //['WNIcs_pdvEw', 3962, 1], //夜もすがら君想ふ ED
-
+        //['WNIcs_pdvEw', 3962, 0], //夜もすがら君想ふ ED
     ];
 
     /** 載入判斷程式 **/
