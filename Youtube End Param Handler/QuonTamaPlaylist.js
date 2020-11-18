@@ -303,7 +303,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['MRZk4LZ589w', 4231, 4532], //secret base ～君がくれたもの～
         ['MRZk4LZ589w', 4635, 4853], //ブルーバード
         ['MRZk4LZ589w', 4945, 5261], //魂のルフラン
-        ['MRZk4LZ589w', 5573, 5805], //シャルル
+        ['MRZk4LZ589w', 5574, 5806], //シャルル
         //['MRZk4LZ589w', 6013, 0], //夜もすがら君想ふ ED
 
         //2020/9/18 アニソン祭りじゃ～！！
