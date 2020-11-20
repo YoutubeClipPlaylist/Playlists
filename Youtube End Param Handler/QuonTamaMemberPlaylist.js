@@ -18,10 +18,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
-        //2020/11/6 たまのオフや裏が知れちゃう場所
+        // 2020/11/6 たまのオフや裏が知れちゃう場所
         ['_GGEHueF5rU', 771, 1021], //空色デイズ
         ['_GGEHueF5rU', 1332, 1687], //あなたに出會わなければ~夏雪冬花~
-        //['_GGEHueF5rU', 1793, 1883], //Bravely You Short 9/18
+        // ['_GGEHueF5rU', 1793, 1883], //Bravely You Short 9/18
         ['_GGEHueF5rU', 1997, 2256], //たぶん
         ['_GGEHueF5rU', 2360, 2644], //少女レイ
         ['_GGEHueF5rU', 2768, 2867], //青空のラプソディShort
@@ -32,9 +32,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['_GGEHueF5rU', 5424, 5489], //私の彼はパイロット Short
         ['_GGEHueF5rU', 5543, 5779], //ドラマツルギー
         ['_GGEHueF5rU', 6102, 6351], //一度だけの恋なら
-        //['_GGEHueF5rU', 6648, 6817], //夜もすがら君想ふ
+        // ['_GGEHueF5rU', 6648, 6817], //夜もすがら君想ふ
 
-        //2020/10/23 た魔女になって歌っちゃうねっ！
+        // 2020/10/23 た魔女になって歌っちゃうねっ！
         ['3RUKStFG46U', 419, 608], //パート・オブ・ユア・ワールド
         ['3RUKStFG46U', 637, 798], //ホール・ニュー・ワールド
         ['3RUKStFG46U', 1011, 1206], //パプリカ
@@ -42,13 +42,13 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['3RUKStFG46U', 2357, 2646], //Ahoy!! 我ら宝鐘海賊団☆ Acapella
         ['3RUKStFG46U', 2901, 3080], //エイリアンエイリアン
         ['3RUKStFG46U', 3133, 3321], //ローリンガール
-        //['3RUKStFG46U', 3551, 3769], //チューリングラブ 這首唱炸了
+        // ['3RUKStFG46U', 3551, 3769], //チューリングラブ 這首唱炸了
         ['3RUKStFG46U', 4380, 4589], //いつも何度でも
         ['3RUKStFG46U', 4660, 4855], //君をのせて
-        //['3RUKStFG46U', 5063, 5337], //ANIMA - THE FIRST TAKE 10/4
-        //['3RUKStFG46U', 5399, 5568], //夜もすがら君想ふ ED
+        // ['3RUKStFG46U', 5063, 5337], //ANIMA - THE FIRST TAKE 10/4
+        // ['3RUKStFG46U', 5399, 5568], //夜もすがら君想ふ ED
 
-        //2020/10/16 みんな！卵の準備はいいかい！！
+        // 2020/10/16 みんな！卵の準備はいいかい！！
         ['O3QgoG2Tg5Y', 275, 600], //楓
         ['O3QgoG2Tg5Y', 741, 830], //そしていま Short
         ['O3QgoG2Tg5Y', 984, 1072], //うまるん体操 Short
@@ -63,9 +63,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['O3QgoG2Tg5Y', 4479, 4771], //アクアテラリウム
         ['O3QgoG2Tg5Y', 4910, 5187], //Shangri-La
         ['O3QgoG2Tg5Y', 5365, 5597], //いかないで
-        //['O3QgoG2Tg5Y', 5652, 0], //夜もすがら君想ふ ED
+        // ['O3QgoG2Tg5Y', 5652, 0], //夜もすがら君想ふ ED
 
-        //2020/10/9 初メン限歌枠ドキドキドキ・・
+        // 2020/10/9 初メン限歌枠ドキドキドキ・・
         ['ooZW7m7uGsg', 538, 628], //にめんせい☆ウラオモテライフ
         ['ooZW7m7uGsg', 1020, 1280], //カーストルーム
         ['ooZW7m7uGsg', 1422, 1665], //Starry Wish
@@ -78,9 +78,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ooZW7m7uGsg', 4666, 4873], //you
         ['ooZW7m7uGsg', 5193, 5486], //時を刻む唄
         ['ooZW7m7uGsg', 5829, 6118], //THERE IS A REASON
-        //['ooZW7m7uGsg', 6229, 0], //夜もすがら君想ふ ED
+        // ['ooZW7m7uGsg', 6229, 0], //夜もすがら君想ふ ED
 
-        //2020/10/3 たま子へようこそ
+        // 2020/10/3 たま子へようこそ
         ['a8qXEElTnaA', 237, 0] //廃墟の国のアリス
 
     ];
