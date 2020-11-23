@@ -18,6 +18,24 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/11/22 珍しのJPOP歌枠！Singing JPOP
+        ['R0DfGvRL6mw', 350, 609], //チェリー
+        ['R0DfGvRL6mw', 694, 997], //ハナミズキ
+        ['R0DfGvRL6mw', 1169, 1385], //やさしいキスをして
+        ['R0DfGvRL6mw', 1437, 1716], //会いたくて 会いたくて
+        ['R0DfGvRL6mw', 1830, 2049], //if…
+        ['R0DfGvRL6mw', 2146, 2425], //if
+        ['R0DfGvRL6mw', 2610, 2879], //M
+        ['R0DfGvRL6mw', 2995, 3247], //Butterfly
+        ['R0DfGvRL6mw', 3439, 3691], //かたちあるもの
+        ['R0DfGvRL6mw', 3764, 4066], //プラネタリウム
+        ['R0DfGvRL6mw', 4116, 4453], //雪の華
+        ['R0DfGvRL6mw', 4566, 4794], //会いたかった
+        ['R0DfGvRL6mw', 4948, 5306], //ありがとう
+        ['R0DfGvRL6mw', 5393, 5663], //猫
+        ['R0DfGvRL6mw', 5886, 6240], //YELL
+        ['R0DfGvRL6mw', 6275, 6443], //夜もすがら君想ふ
+
         // 2020/11/19 アニソンで突っ走れっーー！
         ['CIhkUQWrAI0', 349, 601], //残酷な天使のテーゼ
         ['CIhkUQWrAI0', 870, 1193], //魂のルフラン
@@ -30,7 +48,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['CIhkUQWrAI0', 4184, 4413], //星間飛行
         ['CIhkUQWrAI0', 4568, 4868], //ライオン
         // ['CIhkUQWrAI0', 5066, 5300], //紅蓮華
-        ['CIhkUQWrAI0', 5412, 5581], //夜もすがら君想ふ
+        //['CIhkUQWrAI0', 5412, 5581], //夜もすがら君想ふ
 
         // 歌ってみた あ・え・い・う・え・お・あお!!
         ['fZR3zr2R5Qc', 0, 0],
@@ -168,7 +186,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['Px3JIjwkuok', 0, 0],
 
         // 2020/10/11 ２万人感謝も込めてたくさん歌います
-        ['mvmik-rA-I4', 463, 733], //猫
+        // ['mvmik-rA-I4', 463, 733], //猫
         ['mvmik-rA-I4', 910, 1148], //渡月橋 ～君 想ふ～
         ['mvmik-rA-I4', 1280, 1551], //三日月
         ['mvmik-rA-I4', 1660, 1854], //ハルジオン
