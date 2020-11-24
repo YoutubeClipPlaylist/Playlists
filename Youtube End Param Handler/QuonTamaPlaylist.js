@@ -18,11 +18,14 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 歌ってみた 紅蓮華 GURENGE English Ver.
+        ['MlTtKZTaGsk', 0, 0],
+
         // 2020/11/22 珍しのJPOP歌枠！Singing JPOP
         ['R0DfGvRL6mw', 350, 609], //チェリー
         ['R0DfGvRL6mw', 694, 997], //ハナミズキ
         ['R0DfGvRL6mw', 1169, 1385], //やさしいキスをして
-        // ['R0DfGvRL6mw', 1437, 1716], //会いたくて 会いたくて 消除
+        ['HrsBo3O5BnI', 0, 0], //会いたくて 会いたくて 原片消除
         ['R0DfGvRL6mw', 1551, 1770], //if…
         // ['R0DfGvRL6mw', 1867, 2146], //if 消除
         ['R0DfGvRL6mw', 2053, 2321], //M
