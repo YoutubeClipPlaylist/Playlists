@@ -24,17 +24,17 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['R0DfGvRL6mw', 1169, 1385], //やさしいキスをして
         // ['R0DfGvRL6mw', 1437, 1716], //会いたくて 会いたくて 消除
         ['R0DfGvRL6mw', 1551, 1770], //if…
-        ['R0DfGvRL6mw', 1867, 2146], //if
-        ['R0DfGvRL6mw', 2331, 2600], //M
-        ['R0DfGvRL6mw', 2716, 2968], //Butterfly
-        ['R0DfGvRL6mw', 3160, 3412], //かたちあるもの
-        ['R0DfGvRL6mw', 3485, 3787], //プラネタリウム
-        ['R0DfGvRL6mw', 3837, 4174], //雪の華
-        ['R0DfGvRL6mw', 4287, 4515], //会いたかった
-        ['R0DfGvRL6mw', 4669, 5027], //ありがとう
-        ['R0DfGvRL6mw', 5114, 5384], //猫
-        ['R0DfGvRL6mw', 5607, 5961], //YELL
-        ['R0DfGvRL6mw', 5996, 6164], //夜もすがら君想ふ
+        // ['R0DfGvRL6mw', 1867, 2146], //if 消除
+        ['R0DfGvRL6mw', 2053, 2321], //M
+        ['R0DfGvRL6mw', 2438, 2689], //Butterfly
+        ['R0DfGvRL6mw', 2882, 3133], //かたちあるもの
+        ['R0DfGvRL6mw', 3206, 3508], //プラネタリウム
+        ['R0DfGvRL6mw', 3559, 3895], //雪の華
+        ['R0DfGvRL6mw', 4009, 4236], //会いたかった
+        ['R0DfGvRL6mw', 4390, 4748], //ありがとう
+        ['R0DfGvRL6mw', 4836, 5105], //猫
+        ['R0DfGvRL6mw', 5329, 5683], //YELL
+        ['R0DfGvRL6mw', 5717, 5886], //夜もすがら君想ふ
 
         // 2020/11/19 アニソンで突っ走れっーー！
         ['CIhkUQWrAI0', 349, 601], //残酷な天使のテーゼ
