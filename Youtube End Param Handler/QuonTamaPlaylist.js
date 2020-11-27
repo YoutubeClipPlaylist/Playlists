@@ -18,6 +18,24 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/11/27 LiSAさんの歌を歌いまくる✨Sing a song
+        ['W7v2rfo0PnE', 317, 595], //Catch the Moment
+        ['W7v2rfo0PnE', 681, 969], //ROCK-mode '18
+        // ['W7v2rfo0PnE', 1136, 1373], //紅蓮華
+        ['W7v2rfo0PnE', 1509, 1783], //from the edge
+        // ['W7v2rfo0PnE', 1977, 2247], //炎
+        ['W7v2rfo0PnE', 2357, 2603], //Oath Sign
+        ['W7v2rfo0PnE', 2685, 2920], //ASH
+        ['W7v2rfo0PnE', 3093, 3370], //シルシ
+        ['W7v2rfo0PnE', 3561, 3782], //ADAMAS
+        ['W7v2rfo0PnE', 3892, 4182], //unlasting
+        ['W7v2rfo0PnE', 4307, 4501], //夜咄ディセイブ
+        ['W7v2rfo0PnE', 4695, 4937], //愛錠
+        ['W7v2rfo0PnE', 5121, 5367], //Rising Hope
+        ['W7v2rfo0PnE', 5572, 5803], //だってアタシのヒーロー。
+        ['W7v2rfo0PnE', 5923, 6168], //crossing field
+        ['W7v2rfo0PnE', 6244, 6413], //夜もすがら君想ふ ED
+
         // 歌ってみた 紅蓮華 GURENGE English Ver.
         ['MlTtKZTaGsk', 0, 0],
 
@@ -37,7 +55,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['R0DfGvRL6mw', 4390, 4748], //ありがとう
         ['R0DfGvRL6mw', 4836, 5105], //猫
         ['R0DfGvRL6mw', 5329, 5683], //YELL
-        ['R0DfGvRL6mw', 5717, 5886], //夜もすがら君想ふ
+        // ['R0DfGvRL6mw', 5717, 5886], //夜もすがら君想ふ ED
 
         // 2020/11/19 アニソンで突っ走れっーー！
         ['CIhkUQWrAI0', 349, 601], //残酷な天使のテーゼ
@@ -51,7 +69,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['CIhkUQWrAI0', 4184, 4413], //星間飛行
         ['CIhkUQWrAI0', 4568, 4868], //ライオン
         // ['CIhkUQWrAI0', 5066, 5300], //紅蓮華
-        //['CIhkUQWrAI0', 5412, 5581], //夜もすがら君想ふ
+        //['CIhkUQWrAI0', 5412, 5581], //夜もすがら君想ふ ED
 
         // 歌ってみた あ・え・い・う・え・お・あお!!
         ['fZR3zr2R5Qc', 0, 0],
@@ -70,7 +88,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['DOoy0iNjGsQ', 3762, 4015], //Snow halation
         ['DOoy0iNjGsQ', 4114, 4377], //オリオンをなぞる
         ['DOoy0iNjGsQ', 4615, 4867], //only my railgun
-        ['DOoy0iNjGsQ', 5010, 5257], //Rising Hope
+        // ['DOoy0iNjGsQ', 5010, 5257], //Rising Hope New11/27
         // ['DOoy0iNjGsQ', 5295, 5464], //夜もすがら君想ふ ED
 
         // 2020/11/13 『ほぼ』ボカロ限定歌枠開催
@@ -98,7 +116,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // 2020/11/8 定期歌枠の日！みんなで楽しもうねっ❣
         ['P2lQSYdJLao', 528, 805], //白日
         ['P2lQSYdJLao', 978, 1256], //変わらないもの
-        ['P2lQSYdJLao', 1478, 1766], //ROCK-mode '18
+        // ['P2lQSYdJLao', 1478, 1766], //ROCK-mode '18 New11/27
         ['P2lQSYdJLao', 1838, 2049], //インフェルノ
         ['P2lQSYdJLao', 2366, 2459], //侵略ノススメ
         ['P2lQSYdJLao', 2630, 2735], //打打打打打打打打打打
@@ -119,9 +137,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['meMBuDPHUaM', 832, 1155], //茜さす
         ['meMBuDPHUaM', 1352, 1669], //trust you
         ['meMBuDPHUaM', 1948, 2147], //Sparkling Daydream
-        ['meMBuDPHUaM', 2300, 2534], //ASH
+        // ['meMBuDPHUaM', 2300, 2534], //ASH New11/27
         ['meMBuDPHUaM', 2631, 2892], //空は高く風は歌う
-        ['meMBuDPHUaM', 3023, 3270], //oath sign
+        // ['meMBuDPHUaM', 3023, 3270], //oath sign New11/27
         ['meMBuDPHUaM', 3522, 3741], //嘘の火花
         ['meMBuDPHUaM', 4056, 4306], //シュガーソングとビターステップ
         // ['meMBuDPHUaM', 4437, 4704], //炎
@@ -307,19 +325,19 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['GDOQTShjTQs', 0, 0],
 
         // 2020/9/25 アニメ縛りのスタートはやっぱりこれだっ！
-        ['Y6EMzMzUjKQ', 213, 457], //crossing field
+        // ['Y6EMzMzUjKQ', 213, 457], //crossing field New11/27
         ['Y6EMzMzUjKQ', 561, 848], //ユメセカイ
         ['Y6EMzMzUjKQ', 967, 1244], //INNOCENCE
         ['Y6EMzMzUjKQ', 1366, 1625], //Overfly
         ['Y6EMzMzUjKQ', 1706, 1956], //IGNITE
         ['Y6EMzMzUjKQ', 2073, 2318], //courage
-        ['Y6EMzMzUjKQ', 2426, 2702], //シルシ
-        ['Y6EMzMzUjKQ', 2850, 3127], //Catch the Moment
+        // ['Y6EMzMzUjKQ', 2426, 2702], //シルシ New11/27
+        // ['Y6EMzMzUjKQ', 2850, 3127], //Catch the Moment New11/27
         ['Y6EMzMzUjKQ', 3223, 3469], //流星
-        ['Y6EMzMzUjKQ', 3563, 3786], //ADAMAS
+        // ['Y6EMzMzUjKQ', 3563, 3786], //ADAMAS New11/27
         ['Y6EMzMzUjKQ', 3959, 4202], //アイリス
         ['Y6EMzMzUjKQ', 4282, 4505], //RESISTER
-        ['Y6EMzMzUjKQ', 4618, 4907], //unlasting
+        // ['Y6EMzMzUjKQ', 4618, 4907], //unlasting New11/27
         // ['Y6EMzMzUjKQ', 5302, 5370], //ANIMA Short New10/4
         // ['Y6EMzMzUjKQ', 5493, 5761], // I will... New11/8
         // ['Y6EMzMzUjKQ', 5896, 0], //夜もすがら君想ふ ED
