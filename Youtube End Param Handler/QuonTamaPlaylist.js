@@ -38,7 +38,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['W7v2rfo0PnE', 6244, 6413, "夜もすがら君想ふ ED"],
 
         // 歌ってみた 紅蓮華 GURENGE English Ver.
-        ['MlTtKZTaGsk', 0, 0, "紅蓮華 GURENGE English Ver."], ,
+        ['MlTtKZTaGsk', 0, 0, "紅蓮華 GURENGE English Ver."],
 
         // 2020/11/22 珍しのJPOP歌枠！Singing JPOP
         ['R0DfGvRL6mw', 350, 609, "チェリー"],
@@ -73,7 +73,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //['CIhkUQWrAI0', 5412, 5581, "夜もすがら君想ふ ED"],
 
         // 歌ってみた あ・え・い・う・え・お・あお!!
-        ['fZR3zr2R5Qc', 0, 0, "あ・え・い・う・え・お・あお!!"], ,
+        ['fZR3zr2R5Qc', 0, 0, "あ・え・い・う・え・お・あお!!"],
 
         // 久遠たまの日常6
         // ['1OrD9G4rtn8', 0, 0], 
@@ -131,7 +131,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['P2lQSYdJLao', 5930, 6099, "夜もすがら君想ふ ED"],
 
         // 歌ってみた フリージア
-        ['ksy-vbtJBik', 0, 0, "フリージア"], ,
+        ['ksy-vbtJBik', 0, 0, "フリージア"],
 
         // 2020/11/1 アニソンはいいぞぉぉ…！
         ['meMBuDPHUaM', 397, 646, "träumerei"],
@@ -148,12 +148,12 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['meMBuDPHUaM', 5310, 5480, "夜もすがら君想ふ ED"],
 
         // 歌ってみた Happy Halloween
-        ['lx7Hh8rHLxE', 0, 0, "Happy Halloween"], ,
+        ['lx7Hh8rHLxE', 0, 0, "Happy Halloween"],
 
         // 2020/10/31 １年に１度のHalloweenParty
         ['kw1WFhhzInY', 2302, 2554, "Mrs.Pumpkinの滑稽な夢"],
         ['kw1WFhhzInY', 2725, 2989, "Monster"],
-        ['kw1WFhhzInY', 3235, 3531, "サラバ、愛しき悲しみたちよ 歌詞"],
+        ['kw1WFhhzInY', 3235, 3531, "サラバ、愛しき悲しみたちよ"],
         ['kw1WFhhzInY', 4083, 4308, "おジャ魔女カーニバル"],
         ['kw1WFhhzInY', 4399, 4648, "Crazy Party Night ～ぱんぷきんの逆襲～"],
 
@@ -198,7 +198,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['ETjgki1sSgc', 5950, 0, "夜もすがら君想ふ ED"],
 
         // 歌ってみた 炎
-        ['a4thI28v_SM', 0, 0, "炎"], ,
+        ['a4thI28v_SM', 0, 0, "炎"],
 
         // 2020/10/14 どうしても言いたいチーズケーキの話
         // ['-5xm35kLZLw', 1030, 1210, "Fallen Short Acapella"],
@@ -208,7 +208,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['Px3JIjwkuok', 0, 0],
 
         // 2020/10/11 ２万人感謝も込めてたくさん歌います
-        // ['mvmik-rA-I4', 463, 733, "猫"],
+        // ['mvmik-rA-I4', 463, 733, "猫"], //New11/22
         ['mvmik-rA-I4', 910, 1148, "渡月橋 ～君 想ふ～"],
         ['mvmik-rA-I4', 1280, 1551, "三日月"],
         ['mvmik-rA-I4', 1660, 1854, "ハルジオン"],
@@ -225,17 +225,17 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['mvmik-rA-I4', 6580, 0, "夜もすがら君想ふ ED"],
 
         // 歌ってみた ダーリンダンス
-        ['ZXNvteUXoZQ', 0, 0, "ダーリンダンス"], ,
+        ['ZXNvteUXoZQ', 0, 0, "ダーリンダンス"],
 
         // 歌ってみた 夜に駆ける
-        ['fOLD2Om-ino', 0, 0, "夜に駆ける"], ,
+        ['fOLD2Om-ino', 0, 0, "夜に駆ける"],
 
         // 久遠たまの日常2
         // ['qRNSouvHncw', 0, 0],
 
         // 2020/10/4 明日からのエネルギーチャージ！！
         // ['eD6LNaZmj1w', 311, 522, "インフェルノ"], //New11/8
-        ['eD6LNaZmj1w', 637, 862, "おジャ魔女カーニバル"],
+        // ['eD6LNaZmj1w', 637, 862, "おジャ魔女カーニバル"], //New10/31
         ['eD6LNaZmj1w', 968, 1196, "Paradisus-Paradoxum"],
         ['eD6LNaZmj1w', 1477, 1745, "ANIMA"],
         ['eD6LNaZmj1w', 1935, 2175, "Time after time ～花舞う街で～"],
@@ -323,7 +323,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['Q06Zq_3il9o', 5839, 0, "夜もすがら君想ふ ED"],
 
         // 歌ってみた 紅蓮華
-        ['GDOQTShjTQs', 0, 0, "紅蓮華"], ,
+        ['GDOQTShjTQs', 0, 0, "紅蓮華"],
 
         // 2020/9/25 アニメ縛りのスタートはやっぱりこれだっ！
         // ['Y6EMzMzUjKQ', 213, 457, "crossing field"], //New11/27
@@ -443,7 +443,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['AxY3M8pYoXY', 5197, 0, "夜もすがら君想ふ ED"],
 
         // 2020/9/4 鯖落ちからのゲリラ歌枠＞＜
-        ['_Ejha-aifWg', 530, 775, "ファンサ"],
+        // ['_Ejha-aifWg', 530, 775, "ファンサ"], //New10/25
         ['_Ejha-aifWg', 973, 1219, "セツナトリップ"],
         // ['_Ejha-aifWg', 1332, 1608, "God knows..."], //New10/4
         ['_Ejha-aifWg', 1683, 1878, "ベノム"],
@@ -456,7 +456,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['_Ejha-aifWg', 4191, 0, "夜もすがら君想ふ ED"],
 
         // 歌ってみた ようこそジャパリパークへ 自己紹介
-        ['MmuNPcSN50E', 0, 0, "ようこそジャパリパークへ 自己紹介"], ,
+        ['MmuNPcSN50E', 0, 0, "ようこそジャパリパークへ 自己紹介"],
 
         // 2020/8/30 またまたリクエストを歌ってゆくぞー！！
         // ['U8nr6UR2f5k', 368, 646, "少女レイ"], //New11/6
@@ -482,9 +482,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['EiDlaX-saHw', 3709, 0, "夜もすがら君想ふ ED"],
 
         // 2020/8/22 GuildCQ所属、久遠たまです！
-        ['WNIcs_pdvEw', 2175, 2358, "ルマ"],
+        // ['WNIcs_pdvEw', 2175, 2358, "ルマ"], //New10/25
         ['WNIcs_pdvEw', 2580, 2888, "夜明けと蛍"],
-        ['WNIcs_pdvEw', 3089, 3291, "ヒバナ"]
+        // ['WNIcs_pdvEw', 3089, 3291, "ヒバナ"] //New10/25
         // ['WNIcs_pdvEw', 3582, 3815, "紅蓮華"], //New9/26
         // ['WNIcs_pdvEw', 3962, 0, "夜もすがら君想ふ ED"]
     ];

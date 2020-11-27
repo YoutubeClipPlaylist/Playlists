@@ -78,7 +78,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ooZW7m7uGsg', 4008, 4299, "美しき残酷な世界"],
         ['ooZW7m7uGsg', 4666, 4873, "you"],
         ['ooZW7m7uGsg', 5193, 5486, "時を刻む唄"],
-        ['ooZW7m7uGsg', 5829, 6118, "THERE IS A REASON"],
+        // ['ooZW7m7uGsg', 5829, 6118, "THERE IS A REASON"], //9/27
         // ['ooZW7m7uGsg', 6229, 0, "夜もすがら君想ふ ED"],
 
         // 2020/10/3 たま子へようこそ
