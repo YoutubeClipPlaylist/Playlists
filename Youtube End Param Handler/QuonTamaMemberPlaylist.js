@@ -20,7 +20,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      */
     var newPlaylist = [
         // 2020/11/6 たまのオフや裏が知れちゃう場所
-        ['_GGEHueF5rU', 771, 1021, "空色デイズ"],
+        // ['_GGEHueF5rU', 771, 1021, "空色デイズ"], //11/29
         ['_GGEHueF5rU', 1332, 1687, "あなたに出會わなければ~夏雪冬花~"],
         // ['_GGEHueF5rU', 1793, 1883, "Bravely You Short"], //9/18
         ['_GGEHueF5rU', 1997, 2256, "たぶん"],
@@ -77,7 +77,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ooZW7m7uGsg', 3625, 3853, "いのちの名前"],
         ['ooZW7m7uGsg', 4008, 4299, "美しき残酷な世界"],
         ['ooZW7m7uGsg', 4666, 4873, "you"],
-        ['ooZW7m7uGsg', 5193, 5486, "時を刻む唄"],
+        // ['ooZW7m7uGsg', 5193, 5486, "時を刻む唄"], //New11/29
         // ['ooZW7m7uGsg', 5829, 6118, "THERE IS A REASON"], //9/27
         // ['ooZW7m7uGsg', 6229, 0, "夜もすがら君想ふ ED"],
 
