@@ -62,7 +62,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['R0DfGvRL6mw', 1169, 1385, "やさしいキスをして"],
         ['HrsBo3O5BnI', 0, 0, "会いたくて 会いたくて"], //原片消除
         ['R0DfGvRL6mw', 1551, 1770, "if…"],
-        // ['R0DfGvRL6mw', 1867, 2146, "if"], //消除
+        ['4i2vBLWKFkU', 0, 0, "if"], //原片消除
         ['R0DfGvRL6mw', 2053, 2321, "M"],
         ['R0DfGvRL6mw', 2438, 2689, "Butterfly"],
         ['R0DfGvRL6mw', 2882, 3133, "かたちあるもの"],
@@ -117,7 +117,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['k-muid-bJNs', 1883, 2057, "雨き声残響"],
         ['k-muid-bJNs', 2145, 2422, "ロミオとシンデレラ"],
         ['k-muid-bJNs', 2559, 2823, "右肩の蝶"],
-        // ['k-muid-bJNs', 2939, 2939, "ホワイトハッピー"], //消除
+        ['iYorDqR3WFQ', 0, 0, "ホワイトハッピー"], //原片消除
         ['k-muid-bJNs', 3025, 3254, "病名は愛だった"],
         ['k-muid-bJNs', 3340, 3588, "愛して愛して愛して"],
         ['k-muid-bJNs', 3688, 3954, "ラプンツェル"],
