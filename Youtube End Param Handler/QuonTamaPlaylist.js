@@ -19,6 +19,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 歌ってみた 僕らの戦場
+        ['AaIF6Aobf7g', 0, 0, "僕らの戦場"],
+
         // 2020/11/29 新しい曲ありの歌枠！！Sing a song
         ['2KMm0BPu640', 333, 588, "Butter-Fly"],
         ['2KMm0BPu640', 734, 904, "ムーンライト伝説"],
