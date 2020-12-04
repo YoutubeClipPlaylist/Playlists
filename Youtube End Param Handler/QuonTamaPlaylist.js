@@ -19,6 +19,23 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/12/4 ボカロをうたう！エフェクト多様？！Sing a song
+        ['tXY_4qh_Hbc', 146, 344, "ブリキノダンス"],
+        ['tXY_4qh_Hbc', 504, 717, "ジャンキーナイトタウンオーケストラ"],
+        ['tXY_4qh_Hbc', 797, 1029, "ハッピーシンセサイザ"],
+        ['tXY_4qh_Hbc', 1144, 1314, "Booo!"],
+        ['tXY_4qh_Hbc', 1471, 1735, "シリョクケンサ"],
+        ['tXY_4qh_Hbc', 2034, 2301, "フラジール"],
+        ['tXY_4qh_Hbc', 2408, 2665, "メルト"],
+        ['tXY_4qh_Hbc', 2781, 2988, "彗星ハネムーン"],
+        ['tXY_4qh_Hbc', 3065, 3315, "アイロニ"],
+        ['tXY_4qh_Hbc', 3409, 3674, "地球最後の告白を"],
+        ['tXY_4qh_Hbc', 3800, 4069, "サリシノハラ"],
+        ['tXY_4qh_Hbc', 4146, 4446, "会いたい"],
+        ['tXY_4qh_Hbc', 4582, 4795, "六兆年と一夜物語"],
+        ['tXY_4qh_Hbc', 4942, 5214, "アンノウン・マザーグース"],
+        ['tXY_4qh_Hbc', 5384, 5618, "夜もすがら君想ふ"],
+
         // 歌ってみた 僕らの戦場
         ['AaIF6Aobf7g', 0, 0, "僕らの戦場"],
 
@@ -36,7 +53,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['2KMm0BPu640', 4540, 4810, "ANIMA"],
         ['2KMm0BPu640', 5170, 5432, "破滅の純情"],
         ['2KMm0BPu640', 5797, 6090, "時を刻む唄"],
-        ['2KMm0BPu640', 6185, 6354, "夜もすがら君想ふ ED"],
+        // ['2KMm0BPu640', 6185, 6354, "夜もすがら君想ふ ED"],
 
         // 2020/11/27 LiSAさんの歌を歌いまくる✨Sing a song
         ['W7v2rfo0PnE', 317, 595, "Catch the Moment"],
@@ -235,7 +252,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['mvmik-rA-I4', 2428, 2766, "My Dearest"],
         ['mvmik-rA-I4', 2878, 3175, "平行線"],
         ['mvmik-rA-I4', 3332, 3563, "拍手喝采歌合"],
-        ['mvmik-rA-I4', 3796, 4053, "僕らの戦場"],
+        // ['mvmik-rA-I4', 3796, 4053, "僕らの戦場"], //New12/3
         ['mvmik-rA-I4', 4248, 4522, "Sincerely"],
         ['mvmik-rA-I4', 4739, 4983, "忘れじの言の葉"],
         ['mvmik-rA-I4', 5131, 5348, "ダダダダ天使"],
@@ -290,16 +307,16 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['RiY3B0_H0hk', 5839, 0, "夜もすがら君想ふ ED"],
 
         // 2020/10/1 おひさしぶり！ふぉるがいずくん！
-        // ['t2UuIVy2ZHQ', 4055, 4304, "シュガーソングとビターステップ"],
+        // ['t2UuIVy2ZHQ', 4055, 4304, "シュガーソングとビターステップ"], //New11/1
         ['t2UuIVy2ZHQ', 4592, 4846, "風になる"],
 
         // (這一回音量過小)
         // // 2020/9/30 ボカロ限定でたくさん歌う！
         // ['uaKAOYzt5cA', 394, 607, "ロストワンの号哭"],
-        // ['uaKAOYzt5cA', 838, 1068, "ハッピーシンセサイザ"],
+        // // ['uaKAOYzt5cA', 838, 1068, "ハッピーシンセサイザ"], //New12/4
         // ['uaKAOYzt5cA', 1243, 1442, "アサガオの散る頃に"],
         // ['uaKAOYzt5cA', 1551, 1817, "心做し"],
-        // ['uaKAOYzt5cA', 1904, 2074, "Booo!"],
+        // // ['uaKAOYzt5cA', 1904, 2074, "Booo!"], //New12/4
         // ['uaKAOYzt5cA', 2200, 2458, "拝啓ドッペルゲンガー"],
         // ['uaKAOYzt5cA', 2589, 2778, "東京テディベア"],
         // ['uaKAOYzt5cA', 2904, 3148, "再教育"],
@@ -309,7 +326,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // // ['uaKAOYzt5cA', 4320, 4582, "夜に駆ける"], //New10/6
         // ['uaKAOYzt5cA', 4762, 4950, "天ノ弱"],
         // ['uaKAOYzt5cA', 5279, 5645, "終わりの世界から"],
-        // ['uaKAOYzt5cA', 5751, 5964, "六兆年と一夜物語"],
+        // // ['uaKAOYzt5cA', 5751, 5964, "六兆年と一夜物語"], //New12/4
         // // ['uaKAOYzt5cA', 6081, 0, "夜もすがら君想ふ ED"],
 
         // 2020/9/29 定期もぐもぐ雑談の巻
@@ -424,8 +441,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['T53Wjlbotug', 2375, 2565, "おねがいダーリン"],
         ['T53Wjlbotug', 2683, 2914, "回レ！雪月花"],
         ['T53Wjlbotug', 3076, 3297, "乙女解剖"],
-        ['T53Wjlbotug', 3424, 3620, "ブリキノダンス"],
-        // ['T53Wjlbotug', 3680, 3904, "ロキ"], //New9/30
+        // ['T53Wjlbotug', 3424, 3620, "ブリキノダンス"], //New12/4
+        ['T53Wjlbotug', 3680, 3904, "ロキ"], //New9/30
         // ['T53Wjlbotug', 3988, 4068, "unlasting Short"], //New9/25
         ['T53Wjlbotug', 4332, 4567, "プライド革命"],
         ['T53Wjlbotug', 5025, 5199, "アスノヨゾラ哨戒班"],
