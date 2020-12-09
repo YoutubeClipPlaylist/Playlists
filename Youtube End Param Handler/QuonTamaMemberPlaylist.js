@@ -29,7 +29,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['_GGEHueF5rU', 3020, 3268, "おちゃめ機能"],
         ['_GGEHueF5rU', 4396, 4716, "瞬き"],
         ['_GGEHueF5rU', 4882, 5009, "ふなのり Short Acapella"],
-        ['_GGEHueF5rU', 5117, 5212, "ルンがピカッと光ったら Short"],
+        // ['_GGEHueF5rU', 5117, 5212, "ルンがピカッと光ったら Short"], //12/6
         ['_GGEHueF5rU', 5424, 5489, "私の彼はパイロット Short"],
         ['_GGEHueF5rU', 5543, 5779, "ドラマツルギー"],
         ['_GGEHueF5rU', 6102, 6351, "一度だけの恋なら"],
@@ -39,7 +39,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['3RUKStFG46U', 419, 608, "パート・オブ・ユア・ワールド"],
         ['3RUKStFG46U', 637, 798, "ホール・ニュー・ワールド"],
         ['3RUKStFG46U', 1011, 1206, "パプリカ"],
-        ['3RUKStFG46U', 1308, 1559, "となりのトトロ"],
+        // ['3RUKStFG46U', 1308, 1559, "となりのトトロ"], //12/6
         ['3RUKStFG46U', 2357, 2646, "Ahoy!! 我ら宝鐘海賊団☆ Acapella"],
         ['3RUKStFG46U', 2901, 3080, "エイリアンエイリアン"],
         ['3RUKStFG46U', 3133, 3321, "ローリンガール"],
@@ -67,9 +67,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['O3QgoG2Tg5Y', 5652, 0, "夜もすがら君想ふ ED"],
 
         // 2020/10/9 初メン限歌枠ドキドキドキ・・
-        ['ooZW7m7uGsg', 538, 628, "にめんせい☆ウラオモテライフ"],
+        // ['ooZW7m7uGsg', 538, 628, "にめんせい☆ウラオモテライフ"], //12/6
         ['ooZW7m7uGsg', 1020, 1280, "カーストルーム"],
-        ['ooZW7m7uGsg', 1422, 1665, "Starry Wish"],
+        // ['ooZW7m7uGsg', 1422, 1665, "Starry Wish"], //12/6
         ['ooZW7m7uGsg', 1819, 2183, "アメフラシの歌～Beautiful Rain～"],
         ['ooZW7m7uGsg', 2317, 2567, "Departures～あなたにおくるアイの歌～"],
         ['ooZW7m7uGsg', 2697, 2895, "蒼のエーテル"],
