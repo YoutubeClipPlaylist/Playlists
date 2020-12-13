@@ -19,6 +19,35 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/12/13 🎂お誕生日パーティー開催🎉
+        ['jHeW6Wm0zK4', 240, 513, "いけないボーダーライン"],
+        ['jHeW6Wm0zK4', 614, 818, "翼"],
+        ['jHeW6Wm0zK4', 941, 1201, "月灯り"],
+        ['jHeW6Wm0zK4', 1328, 1646, "trust you"],
+        ['jHeW6Wm0zK4', 1782, 2057, "Sincerely"],
+        ['jHeW6Wm0zK4', 2170, 2449, "トライアングラー"],
+        ['jHeW6Wm0zK4', 2614, 2982, "鳥の詩"],
+        ['jHeW6Wm0zK4', 3051, 3411, "一番の宝物"],
+        ['jHeW6Wm0zK4', 3496, 3773, "Shangri-La"],
+        ['jHeW6Wm0zK4', 3858, 4171, "名前のない怪物"],
+        ['jHeW6Wm0zK4', 4312, 4561, "Rising Hope"],
+
+        // 2020/12/11 スタジオジブリ作品限定歌枠✨Sing a song
+        // ['zcMbtIp4ugU', 0, 0, "さんぽ"], //消除
+        ['zcMbtIp4ugU', 563, 803, "風の谷のナウシカ"],
+        ['zcMbtIp4ugU', 953, 1132, "ルージュの伝言"],
+        ['zcMbtIp4ugU', 1185, 1372, "やさしさに包まれたなら"],
+        ['zcMbtIp4ugU', 1524, 1686, "崖の上のポニョ"],
+        ['zcMbtIp4ugU', 1912, 2164, "となりのトトロ"],
+        ['zcMbtIp4ugU', 2709, 2921, "いつも何度でも"],
+        ['zcMbtIp4ugU', 3082, 3310, "いのちの名前"],
+        // ['zcMbtIp4ugU', 0, 0, "もののけ姫"], //消除
+        ['zcMbtIp4ugU', 3537, 3736, "君をのせて"],
+        ['zcMbtIp4ugU', 3880, 4082, "Arrietty's Song"],
+        ['zcMbtIp4ugU', 4252, 4528, "風になる"],
+        ['zcMbtIp4ugU', 4615, 4844, "カントリー・ロード"],
+        // ['zcMbtIp4ugU', 4993, 5162, "夜もすがら君想ふ ED"],
+
         // 2020/12/6 題名５０音歌いきるまで終われまてん💜Sing a song
         ['1pnlXQIswws', 320, 590, "I will..."],
         ['1pnlXQIswws', 619, 830, "インフェルノ"],

@@ -19,6 +19,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/12/11 スタジオジブリ作品限定歌枠✨Sing a song
+        ['1STfVXuzzo9QEYJKMAx4eOaFHT-r4fOTR', 281, 443, "さんぽ"],
+        ['1STfVXuzzo9QEYJKMAx4eOaFHT-r4fOTR', 3623, 3833, "もののけ姫"],
+
         // 2020/12/6 題名５０音歌いきるまで終われまてん💜Sing a song
         ['13LaALYNOmdN3GfD7aeKreyzshdKX-Tvz', 883, 1166, "打上花火"],
 
