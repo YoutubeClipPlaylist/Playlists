@@ -44,8 +44,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['3RUKStFG46U', 2901, 3080, "エイリアンエイリアン"],
         ['3RUKStFG46U', 3133, 3321, "ローリンガール"],
         // ['3RUKStFG46U', 3551, 3769, "チューリングラブ"], //這首唱炸了
-        ['3RUKStFG46U', 4380, 4589, "いつも何度でも"],
-        ['3RUKStFG46U', 4660, 4855, "君をのせて"],
+        // ['3RUKStFG46U', 4380, 4589, "いつも何度でも"], //12/11
+        // ['3RUKStFG46U', 4660, 4855, "君をのせて"], //12/11
         // ['3RUKStFG46U', 5063, 5337, "ANIMA - THE FIRST TAKE"], //10/4
         // ['3RUKStFG46U', 5399, 5568, "夜もすがら君想ふ ED"],
 
@@ -62,7 +62,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['O3QgoG2Tg5Y', 3103, 3328, "お願いマッスル"],
         ['O3QgoG2Tg5Y', 3734, 3999, "たぶん"],
         ['O3QgoG2Tg5Y', 4479, 4771, "アクアテラリウム"],
-        ['O3QgoG2Tg5Y', 4910, 5187, "Shangri-La"],
+        // ['O3QgoG2Tg5Y', 4910, 5187, "Shangri-La"], //12/13
         ['O3QgoG2Tg5Y', 5365, 5597, "いかないで"],
         // ['O3QgoG2Tg5Y', 5652, 0, "夜もすがら君想ふ ED"],
 
@@ -74,7 +74,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ooZW7m7uGsg', 2317, 2567, "Departures～あなたにおくるアイの歌～"],
         ['ooZW7m7uGsg', 2697, 2895, "蒼のエーテル"],
         ['ooZW7m7uGsg', 3031, 3345, "妖精"],
-        ['ooZW7m7uGsg', 3625, 3853, "いのちの名前"],
+        // ['ooZW7m7uGsg', 3625, 3853, "いのちの名前"], //12/11
         ['ooZW7m7uGsg', 4008, 4299, "美しき残酷な世界"],
         ['ooZW7m7uGsg', 4666, 4873, "you"],
         // ['ooZW7m7uGsg', 5193, 5486, "時を刻む唄"], //New11/29
