@@ -24,7 +24,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['1STfVXuzzo9QEYJKMAx4eOaFHT-r4fOTR', 3623, 3833, "もののけ姫"],
 
         // 2020/12/6 題名５０音歌いきるまで終われまてん💜Sing a song
-        ['13LaALYNOmdN3GfD7aeKreyzshdKX-Tvz', 883, 1166, "打上花火"],
+        ['13LaALYNOmdN3GfD7aeKreyzshdKX-Tvz', 884, 1166, "打上花火"],
 
         // 2020/12/4 ボカロをうたう！エフェクト多様？！Sing a song
         ['1CbiCYP_Zhx9iUNSap9Fz_EJZVWo_GGkz', 4929, 5201, "アンノウン・マザーグース"],
