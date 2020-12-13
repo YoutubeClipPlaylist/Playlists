@@ -32,6 +32,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['jHeW6Wm0zK4', 3858, 4171, "名前のない怪物"],
         ['jHeW6Wm0zK4', 4312, 4561, "Rising Hope"],
 
+        // 歌ってみた おねがいダーリン
+        ['dG8YSoTpIjw', 0, 0, "おねがいダーリン"],
+
         // 2020/12/11 スタジオジブリ作品限定歌枠✨Sing a song
         // ['zcMbtIp4ugU', 0, 0, "さんぽ"], //消除
         ['zcMbtIp4ugU', 563, 803, "風の谷のナウシカ"],
@@ -517,7 +520,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['T53Wjlbotug', 1239, 1517, "This game"],
         ['T53Wjlbotug', 1634, 1905, "Calc."],
         ['T53Wjlbotug', 2102, 2283, "ストリーミングハート"],
-        ['T53Wjlbotug', 2375, 2565, "おねがいダーリン"],
+        // ['T53Wjlbotug', 2375, 2565, "おねがいダーリン"], //New12/13
         ['T53Wjlbotug', 2683, 2914, "回レ！雪月花"],
         ['T53Wjlbotug', 3076, 3297, "乙女解剖"],
         // ['T53Wjlbotug', 3424, 3620, "ブリキノダンス"], //New12/4
