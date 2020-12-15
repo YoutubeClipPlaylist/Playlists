@@ -57,10 +57,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['O3QgoG2Tg5Y', 1444, 1535, "GATE～それは暁のように～ Short"],
         ['O3QgoG2Tg5Y', 1918, 2009, "海色 Short"],
         ['O3QgoG2Tg5Y', 2020, 2269, "吹雪"],
-        ['O3QgoG2Tg5Y', 2422, 2511, "Sparkling Daydream Short"],
+        // ['O3QgoG2Tg5Y', 2422, 2511, "Sparkling Daydream Short"], //11/1
         ['O3QgoG2Tg5Y', 2852, 2941, "Resolution Short"],
         ['O3QgoG2Tg5Y', 3103, 3328, "お願いマッスル"],
-        ['O3QgoG2Tg5Y', 3734, 3999, "たぶん"],
+        // ['O3QgoG2Tg5Y', 3734, 3999, "たぶん"], //New11/6
         ['O3QgoG2Tg5Y', 4479, 4771, "アクアテラリウム"],
         // ['O3QgoG2Tg5Y', 4910, 5187, "Shangri-La"], //12/13
         ['O3QgoG2Tg5Y', 5365, 5597, "いかないで"],
@@ -68,10 +68,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
         // 2020/10/9 初メン限歌枠ドキドキドキ・・
         // ['ooZW7m7uGsg', 538, 628, "にめんせい☆ウラオモテライフ"], //12/6
-        ['ooZW7m7uGsg', 1020, 1280, "カーストルーム"],
+        // ['ooZW7m7uGsg', 1020, 1280, "カーストルーム"], //11/15
         // ['ooZW7m7uGsg', 1422, 1665, "Starry Wish"], //12/6
         ['ooZW7m7uGsg', 1819, 2183, "アメフラシの歌～Beautiful Rain～"],
-        ['ooZW7m7uGsg', 2317, 2567, "Departures～あなたにおくるアイの歌～"],
+        // ['ooZW7m7uGsg', 2317, 2567, "Departures～あなたにおくるアイの歌～"], //12/6
         ['ooZW7m7uGsg', 2697, 2895, "蒼のエーテル"],
         ['ooZW7m7uGsg', 3031, 3345, "妖精"],
         // ['ooZW7m7uGsg', 3625, 3853, "いのちの名前"], //12/11
