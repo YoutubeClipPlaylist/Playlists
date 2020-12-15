@@ -19,6 +19,19 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/12/15 今まで謎に消された歌😂＆音源ない歌アカペラで歌う
+        ['svQwwn4qh6c', 366, 586, "花に亡霊 Acapella"],
+        ['svQwwn4qh6c', 777, 1057, "ユメセカイ Acapella"],
+        ['svQwwn4qh6c', 1294, 1576, "ロミオとシンデレラ Acapella"],
+        ['svQwwn4qh6c', 1684, 1873, "エウテルペ Acapella"],
+        ['svQwwn4qh6c', 1990, 2229, "Departures〜あなたにおくるアイの歌〜 Acapella"],
+        ['svQwwn4qh6c', 2438, 2792, "ノーザンクロス Acapella"],
+        ['svQwwn4qh6c', 2917, 3032, "Giraffe Blues Acapella"],
+        ['svQwwn4qh6c', 3133, 3410, "たった1つの想い Acapella"],
+        ['svQwwn4qh6c', 3827, 4079, "VOICE Acapella"],
+        ['svQwwn4qh6c', 5155, 5437, "シルシ Acapella"],
+        ['svQwwn4qh6c', 5529, 5684, "夜もすがら君想ふ Acapella ED"],
+
         // 2020/12/13 🎂お誕生日パーティー開催🎉
         ['jHeW6Wm0zK4', 240, 513, "いけないボーダーライン"],
         ['jHeW6Wm0zK4', 614, 818, "翼"],
@@ -498,7 +511,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['IL4jXmjciOM', 2956, 3075, "ダイアモンドクレバス Short"], //New10/2
         // ['IL4jXmjciOM', 3077, 3184, "トライアングラー fight on stage Short"], //New10/2
         // ['IL4jXmjciOM', 3273, 3366, "一度だけの恋なら Short"], //New11/6
-        ['IL4jXmjciOM', 3367, 3487, "Giraffe Blues Short"],
+        // ['IL4jXmjciOM', 3367, 3487, "Giraffe Blues Short"], //New12/15
         ['IL4jXmjciOM', 3603, 3689, "KABANERI OF THE IRON FORTRESS Short"],
         // ['IL4jXmjciOM', 3764, 3867, "Baby Sweet Berry Love Short"], //New12/6
         ['IL4jXmjciOM', 3937, 4030, "君のせい Short"],
