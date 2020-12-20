@@ -19,6 +19,24 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/12/20 fate限定歌枠❗ sing a song
+        ['BP8zmIZl5w4', 116, 223, "to the beginning"],
+        ['BP8zmIZl5w4', 464, 710, "Oath Sign"],
+        ['BP8zmIZl5w4', 1002, 1291, "MEMORIA"],
+        ['BP8zmIZl5w4', 1461, 1722, "空は高く風は歌う"],
+        ['BP8zmIZl5w4', 1916, 2171, "ideal white"],
+        ['BP8zmIZl5w4', 2326, 2555, "Brave Shine"],
+        ['BP8zmIZl5w4', 2662, 2972, "LAST STARDUST"],
+        ['BP8zmIZl5w4', 3093, 3370, "英雄 運命の詩"],
+        ['BP8zmIZl5w4', 3540, 3774, "ASH"],
+        ['BP8zmIZl5w4', 3947, 4262, "花の唄"],
+        ['BP8zmIZl5w4', 4332, 4608, "I beg you"],
+        ['BP8zmIZl5w4', 4935, 5236, "春はゆく"],
+        // ['BP8zmIZl5w4', 5364, 5534, "夜もすがら君想ふ ED"],
+
+        // 歌ってみた Snow halation
+        ['Y-EVxJhfsfE', 0, 0, "Snow halation"],
+
         // 2020/12/15 今まで謎に消された歌😂＆音源ない歌アカペラで歌う
         ['svQwwn4qh6c', 366, 586, "花に亡霊 Acapella"],
         ['svQwwn4qh6c', 777, 1057, "ユメセカイ Acapella"],
@@ -156,8 +174,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['W7v2rfo0PnE', 1136, 1373, "紅蓮華"],
         ['W7v2rfo0PnE', 1509, 1783, "from the edge"],
         // ['W7v2rfo0PnE', 1977, 2247, "炎"],
-        ['W7v2rfo0PnE', 2357, 2603, "Oath Sign"],
-        ['W7v2rfo0PnE', 2685, 2920, "ASH"],
+        // ['W7v2rfo0PnE', 2357, 2603, "Oath Sign"], //New/12/20
+        // ['W7v2rfo0PnE', 2685, 2920, "ASH"], //New/12/20
         ['W7v2rfo0PnE', 3093, 3370, "シルシ"],
         ['W7v2rfo0PnE', 3561, 3782, "ADAMAS"],
         ['W7v2rfo0PnE', 3892, 4182, "unlasting"],
@@ -212,7 +230,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // 2020/11/15 アニソンだらけの歌枠
         ['DOoy0iNjGsQ', 465, 713, "狂乱 Hey Kids!!"],
         // ['DOoy0iNjGsQ', 1027, 1264, "CheerS"], //New12/6
-        ['DOoy0iNjGsQ', 1510, 1800, "MEMORIA"],
+        // ['DOoy0iNjGsQ', 1510, 1800, "MEMORIA"], //New/12/20
         ['DOoy0iNjGsQ', 1968, 2229, "カーストルーム"],
         ['DOoy0iNjGsQ', 2458, 2731, "Rally Go Round"],
         // ['DOoy0iNjGsQ', 2936, 3203, "ユキトキ"], //New12/6
@@ -270,7 +288,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['meMBuDPHUaM', 1352, 1669, "trust you"], //New12/13
         ['meMBuDPHUaM', 1948, 2147, "Sparkling Daydream"],
         // ['meMBuDPHUaM', 2300, 2534, "ASH"], //New11/27
-        ['meMBuDPHUaM', 2631, 2892, "空は高く風は歌う"],
+        // ['meMBuDPHUaM', 2631, 2892, "空は高く風は歌う"], //New/12/20
         // ['meMBuDPHUaM', 3023, 3270, "oath sign"], //New11/27
         ['meMBuDPHUaM', 3522, 3741, "嘘の火花"],
         // ['meMBuDPHUaM', 4056, 4306, "シュガーソングとビターステップ"], //New12/6
@@ -439,7 +457,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // 2020/9/27 日曜のたまソング
         // ['Q06Zq_3il9o', 296, 616, "瞬き"], //New11/6
         ['Q06Zq_3il9o', 759, 1032, "月光花"],
-        ['Q06Zq_3il9o', 1148, 1462, "LAST STARDUST"],
+        // ['Q06Zq_3il9o', 1148, 1462, "LAST STARDUST"], //New/12/20
         // ['Q06Zq_3il9o', 1563, 1605, "君色シグナル"], //半消除
         ['Q06Zq_3il9o', 1804, 2081, "七転八起☆至上主義!"],
         // ['Q06Zq_3il9o', 2217, 2458, "ツキアカリのミチシルベ"], //New11/29
@@ -506,7 +524,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['IL4jXmjciOM', 2047, 2123, "nameless story Short"],
         // ['IL4jXmjciOM', 2276, 2365, "ASH Short"], //New11/1
         // ['IL4jXmjciOM', 2370, 2500, "MEMORIA Short"], //New11/15
-        ['IL4jXmjciOM', 2506, 2603, "英雄 運命の詩 Short"],
+        // ['IL4jXmjciOM', 2506, 2603, "英雄 運命の詩 Short"], //New/12/20
         // ['IL4jXmjciOM', 2729, 2818, "ヒトリゴト Short"], //New12/6
         // ['IL4jXmjciOM', 2956, 3075, "ダイアモンドクレバス Short"], //New10/2
         // ['IL4jXmjciOM', 3077, 3184, "トライアングラー fight on stage Short"], //New10/2
