@@ -19,6 +19,21 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/12/22 ボカロ多めな予感💭 sing a song
+        ['pPqy2GYj2oU', 407, 652, "オレンジ"],
+        ['pPqy2GYj2oU', 892, 1176, "ヨンジュウナナ"],
+        ['pPqy2GYj2oU', 1478, 1794, "例えば、今此処に置かれた花に"],
+        ['pPqy2GYj2oU', 1899, 2144, "忘れじの言の葉"],
+        ['pPqy2GYj2oU', 2300, 2568, "心做し"],
+        ['pPqy2GYj2oU', 2807, 3074, "炎 Piano ver."],
+        ['pPqy2GYj2oU', 3449, 3665, "時ノ雨、最終戦争"],
+        ['pPqy2GYj2oU', 3848, 4214, "終わりの世界から"],
+        ['pPqy2GYj2oU', 4491, 4569, "ミレナリオ Acapella"],
+        ['pPqy2GYj2oU', 4708, 5054, "オレンジ"],
+        ['pPqy2GYj2oU', 5215, 5479, "たぶん"],
+        ['pPqy2GYj2oU', 5735, 6011, "Sincerely"],
+        // ['pPqy2GYj2oU', 6098, 6267, "夜もすがら君想ふ ED"],
+
         // 2020/12/20 fate限定歌枠❗ sing a song
         ['BP8zmIZl5w4', 116, 223, "to the beginning"],
         ['BP8zmIZl5w4', 464, 710, "Oath Sign"],
@@ -55,7 +70,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['jHeW6Wm0zK4', 614, 818, "翼"],
         ['jHeW6Wm0zK4', 941, 1201, "月灯り"],
         ['jHeW6Wm0zK4', 1328, 1646, "trust you"],
-        ['jHeW6Wm0zK4', 1782, 2057, "Sincerely"],
+        // ['jHeW6Wm0zK4', 1782, 2057, "Sincerely"], //New12/22
         ['jHeW6Wm0zK4', 2170, 2449, "トライアングラー"],
         ['jHeW6Wm0zK4', 2614, 2982, "鳥の詩"],
         ['jHeW6Wm0zK4', 3051, 3411, "一番の宝物"],
@@ -367,7 +382,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['mvmik-rA-I4', 3332, 3563, "拍手喝采歌合"],
         // ['mvmik-rA-I4', 3796, 4053, "僕らの戦場"], //New12/3
         // ['mvmik-rA-I4', 4248, 4522, "Sincerely"], //New12/13
-        ['mvmik-rA-I4', 4739, 4983, "忘れじの言の葉"],
+        // ['mvmik-rA-I4', 4739, 4983, "忘れじの言の葉"], //New12/22
         ['mvmik-rA-I4', 5131, 5348, "ダダダダ天使"],
         // ['mvmik-rA-I4', 5532, 5901, "鳥の詩"], //New12/13
         // ['mvmik-rA-I4', 6189, 6503, "ETERNAL BLAZE"], //New12/6
@@ -391,7 +406,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['eD6LNaZmj1w', 2292, 2555, "アイのシナリオ"],
         // ['eD6LNaZmj1w', 2688, 2940, "Here"], //New11/8
         ['eD6LNaZmj1w', 3104, 3357, "カワキヲアメク"],
-        ['eD6LNaZmj1w', 3498, 3842, "オレンジ"],
+        // ['eD6LNaZmj1w', 3498, 3842, "オレンジ"], //New12/22
         // ['eD6LNaZmj1w', 3961, 4198, "unravel"], //New11/19
         // ['eD6LNaZmj1w', 4373, 4654, "創聖のアクエリオン"], //New11/8
         // ['eD6LNaZmj1w', 4878, 5163, "前前前世"], //New12/6
@@ -428,7 +443,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['uaKAOYzt5cA', 394, 607, "ロストワンの号哭"],
         // // ['uaKAOYzt5cA', 838, 1068, "ハッピーシンセサイザ"], //New12/4
         // ['uaKAOYzt5cA', 1243, 1442, "アサガオの散る頃に"],
-        // ['uaKAOYzt5cA', 1551, 1817, "心做し"],
+        // // ['uaKAOYzt5cA', 1551, 1817, "心做し"], //New12/22
         // // ['uaKAOYzt5cA', 1904, 2074, "Booo!"], //New12/4
         // ['uaKAOYzt5cA', 2200, 2458, "拝啓ドッペルゲンガー"],
         // ['uaKAOYzt5cA', 2589, 2778, "東京テディベア"],
@@ -438,7 +453,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['uaKAOYzt5cA', 4011, 4225, "深海少女"],
         // // ['uaKAOYzt5cA', 4320, 4582, "夜に駆ける"], //New10/6
         // ['uaKAOYzt5cA', 4762, 4950, "天ノ弱"],
-        // ['uaKAOYzt5cA', 5279, 5645, "終わりの世界から"],
+        // // ['uaKAOYzt5cA', 5279, 5645, "終わりの世界から"], //New12/22
         // // ['uaKAOYzt5cA', 5751, 5964, "六兆年と一夜物語"], //New12/4
         // // ['uaKAOYzt5cA', 6081, 0, "夜もすがら君想ふ ED"],
 
