@@ -19,6 +19,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 作業用BGM アニソン歌枠メドレー２
+        // ['OcUebK_2Als', 0, 0, "作業用BGMアニソン歌枠メドレー２"],
+
         // 2020/12/27 ５万人感謝の歌枠✨sing a song
         ['YVwC8zTXbsY', 310, 536, "お願いマッスル"],
         ['YVwC8zTXbsY', 714, 955, "Mela!"],
@@ -36,10 +39,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['YVwC8zTXbsY', 6081, 6250, "夜もすがら君想ふ ED"],
 
         // 歌ってみた ninelie - arrange ver.- 
-        ['iZcUFwlQtgM', 1, 1, "ninelie - arrange ver.-"],
+        ['iZcUFwlQtgM', 0, 0, "ninelie - arrange ver.-"],
 
         // 歌ってみた 紅蓮華 - arrange ver.-
-        ['G0b6hmkgS3c', 1, 1, "紅蓮華 - arrange ver.-"],
+        ['G0b6hmkgS3c', 0, 0, "紅蓮華 - arrange ver.-"],
 
         // 2020/12/22 ボカロ多めな予感💭 sing a song
         ['pPqy2GYj2oU', 407, 652, "オレンジ"],
