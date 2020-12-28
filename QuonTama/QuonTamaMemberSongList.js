@@ -23,7 +23,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['_GGEHueF5rU', 771, 1021, "空色デイズ"], //11/29
         ['_GGEHueF5rU', 1332, 1687, "あなたに出會わなければ~夏雪冬花~"],
         // ['_GGEHueF5rU', 1793, 1883, "Bravely You Short"], //9/18
-        ['_GGEHueF5rU', 1997, 2256, "たぶん"],
+        // ['_GGEHueF5rU', 1997, 2256, "たぶん"], //12/22
         ['_GGEHueF5rU', 2360, 2644, "少女レイ"],
         ['_GGEHueF5rU', 2768, 2867, "青空のラプソディ Short"],
         ['_GGEHueF5rU', 3020, 3268, "おちゃめ機能"],
@@ -59,7 +59,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['O3QgoG2Tg5Y', 2020, 2269, "吹雪"],
         // ['O3QgoG2Tg5Y', 2422, 2511, "Sparkling Daydream Short"], //11/1
         ['O3QgoG2Tg5Y', 2852, 2941, "Resolution Short"],
-        ['O3QgoG2Tg5Y', 3103, 3328, "お願いマッスル"],
+        // ['O3QgoG2Tg5Y', 3103, 3328, "お願いマッスル"], //12/27
         // ['O3QgoG2Tg5Y', 3734, 3999, "たぶん"], //New11/6
         ['O3QgoG2Tg5Y', 4479, 4771, "アクアテラリウム"],
         // ['O3QgoG2Tg5Y', 4910, 5187, "Shangri-La"], //12/13

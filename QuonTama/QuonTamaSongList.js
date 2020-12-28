@@ -19,6 +19,28 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2020/12/27 ５万人感謝の歌枠✨sing a song
+        ['YVwC8zTXbsY', 310, 536, "お願いマッスル"],
+        ['YVwC8zTXbsY', 714, 955, "Mela!"],
+        ['YVwC8zTXbsY', 1046, 1322, "白日"],
+        ['YVwC8zTXbsY', 1513, 1794, "謎"],
+        ['YVwC8zTXbsY', 2145, 2477, "六等星の夜"],
+        ['YVwC8zTXbsY', 2619, 2870, "白金ディスコ"],
+        ['YVwC8zTXbsY', 2958, 3235, "七転八起☆至上主義!"],
+        ['YVwC8zTXbsY', 3498, 3734, "ラピスラズリ"],
+        ['YVwC8zTXbsY', 3911, 4268, "うたかた花火"],
+        ['YVwC8zTXbsY', 4393, 4623, "Paradisus-Paradoxum"],
+        ['YVwC8zTXbsY', 4823, 5074, "again"],
+        ['YVwC8zTXbsY', 5181, 5505, "The Everlasting Guilty Crown"],
+        ['YVwC8zTXbsY', 5758, 6006, "Rising Hope"],
+        // ['YVwC8zTXbsY', 6081, 6250, "夜もすがら君想ふ ED"],
+
+        // 歌ってみた ninelie - arrange ver.- 
+        ['iZcUFwlQtgM', 1, 1, "ninelie - arrange ver.-"],
+
+        // 歌ってみた 紅蓮華 - arrange ver.-
+        ['G0b6hmkgS3c', 1, 1, "紅蓮華 - arrange ver.-"],
+
         // 2020/12/22 ボカロ多めな予感💭 sing a song
         ['pPqy2GYj2oU', 407, 652, "オレンジ"],
         ['pPqy2GYj2oU', 892, 1176, "ヨンジュウナナ"],
@@ -76,7 +98,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['jHeW6Wm0zK4', 3051, 3411, "一番の宝物"],
         ['jHeW6Wm0zK4', 3496, 3773, "Shangri-La"],
         ['jHeW6Wm0zK4', 3858, 4171, "名前のない怪物"],
-        ['jHeW6Wm0zK4', 4312, 4561, "Rising Hope"],
+        // ['jHeW6Wm0zK4', 4312, 4561, "Rising Hope"], //New12/27
 
         // 歌ってみた おねがいダーリン
         ['dG8YSoTpIjw', 0, 0, "おねがいダーリン"],
@@ -279,7 +301,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['uAsuhjimkrA', 0, 0],
 
         // 2020/11/8 定期歌枠の日！みんなで楽しもうねっ❣
-        ['P2lQSYdJLao', 528, 805, "白日"],
+        // ['P2lQSYdJLao', 528, 805, "白日"], //New12/27
         ['P2lQSYdJLao', 978, 1256, "変わらないもの"],
         // ['P2lQSYdJLao', 1478, 1766, "ROCK-mode '18"], //New11/27
         // ['P2lQSYdJLao', 1838, 2049, "インフェルノ"], //New12/6
@@ -351,7 +373,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ETjgki1sSgc', 1114, 1367, "Lemon"],
         ['ETjgki1sSgc', 1591, 1880, "アイネクライネ"],
         ['ETjgki1sSgc', 2189, 2431, "一番の宝物 ~Yui final ver.~"],
-        ['ETjgki1sSgc', 2570, 2926, "うたかた花火"],
+        // ['ETjgki1sSgc', 2570, 2926, "うたかた花火"], //New12/27
         // ['ETjgki1sSgc', 2995, 3269, "Rally Go Round"], //New11/15
         // ['ETjgki1sSgc', 3379, 3628, "only my railgun"], //New11/15
         ['ETjgki1sSgc', 3855, 4067, "ハレ晴レユカイ"],
@@ -400,7 +422,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // 2020/10/4 明日からのエネルギーチャージ！！
         // ['eD6LNaZmj1w', 311, 522, "インフェルノ"], //New11/8
         // ['eD6LNaZmj1w', 637, 862, "おジャ魔女カーニバル"], //New10/31
-        ['eD6LNaZmj1w', 968, 1196, "Paradisus-Paradoxum"],
+        // ['eD6LNaZmj1w', 968, 1196, "Paradisus-Paradoxum"], //New12/27
         // ['eD6LNaZmj1w', 1477, 1745, "ANIMA"], //New11/29
         ['eD6LNaZmj1w', 1935, 2175, "Time after time ～花舞う街で～"],
         ['eD6LNaZmj1w', 2292, 2555, "アイのシナリオ"],
@@ -474,7 +496,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['Q06Zq_3il9o', 759, 1032, "月光花"],
         // ['Q06Zq_3il9o', 1148, 1462, "LAST STARDUST"], //New/12/20
         // ['Q06Zq_3il9o', 1563, 1605, "君色シグナル"], //半消除
-        ['Q06Zq_3il9o', 1804, 2081, "七転八起☆至上主義!"],
+        // ['Q06Zq_3il9o', 1804, 2081, "七転八起☆至上主義!"], //New12/27
         // ['Q06Zq_3il9o', 2217, 2458, "ツキアカリのミチシルベ"], //New11/29
         // ['Q06Zq_3il9o', 2579, 2859, "ロミオとシンデレラ"], //New11/13
         // ['Q06Zq_3il9o', 2971, 3280, "ノーザンクロス"], //New11/8
@@ -508,9 +530,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['Y6EMzMzUjKQ', 5896, 0, "夜もすがら君想ふ ED"],
 
         // 2020/9/20 たまソング聴いていきませんか？
-        ['MRZk4LZ589w', 302, 542, "Mela!"],
+        // ['MRZk4LZ589w', 302, 542, "Mela!"], //New12/27
         ['MRZk4LZ589w', 677, 914, "革命デュアリズム"],
-        ['MRZk4LZ589w', 1042, 1293, "白金ディスコ"],
+        // ['MRZk4LZ589w', 1042, 1293, "白金ディスコ"], //New12/27
         // ['MRZk4LZ589w', 1589, 1797, "嘘"], //New11/29
         // ['MRZk4LZ589w', 1965, 2204, "渡月橋～君 想ふ～"], //New10/11
         ['MRZk4LZ589w', 2310, 2547, "ピースサイン"],
