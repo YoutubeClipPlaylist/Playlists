@@ -21,7 +21,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
     var newPlaylist = [
         // 2020/11/6 たまのオフや裏が知れちゃう場所
         // ['_GGEHueF5rU', 771, 1021, "空色デイズ"], //11/29
-        ['_GGEHueF5rU', 1332, 1687, "あなたに出會わなければ~夏雪冬花~"],
+        // ['_GGEHueF5rU', 1332, 1687, "あなたに出會わなければ~夏雪冬花~"], //1/3
         // ['_GGEHueF5rU', 1793, 1883, "Bravely You Short"], //9/18
         // ['_GGEHueF5rU', 1997, 2256, "たぶん"], //12/22
         ['_GGEHueF5rU', 2360, 2644, "少女レイ"],

@@ -19,6 +19,22 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2021/1/3 2021年最初のアニソン✨ sing a song
+        ['6LaRupTUDng', 141, 379, "革命デュアリズム"],
+        ['6LaRupTUDng', 866, 962, "君のせい Short"],
+        ['6LaRupTUDng', 1190, 1425, "Scarlet Ballet"],
+        ['6LaRupTUDng', 1573, 1930, "あなたに出会わなければ ～夏雪冬花～"],
+        ['6LaRupTUDng', 2134, 2483, "RE:I AM"],
+        ['6LaRupTUDng', 2640, 2897, "narrative"],
+        ['6LaRupTUDng', 3035, 3277, "アイリス"],
+        ['6LaRupTUDng', 3609, 3893, "KABANERI OF THE IRON FORTRESS"],
+        ['6LaRupTUDng', 4014, 4290, "英雄 運命の詩"],
+        ['6LaRupTUDng', 4381, 4603, "瞬間センチメンタル"],
+        ['6LaRupTUDng', 4678, 4937, "black bullet"],
+        // ['6LaRupTUDng', 5276, 5566, "THERE IS A REASON"],
+        ['6LaRupTUDng', 5778, 6021, "crossing field"],
+        // ['6LaRupTUDng', 6103, 6273, "夜もすがら君想ふ ED"],
+
         // 歌ってみた THERE IS A REASON
         ['zPfLB7WWhao', 0, 0, 'THERE IS A REASON'],
 
@@ -94,7 +110,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['BP8zmIZl5w4', 1916, 2171, "ideal white"],
         ['BP8zmIZl5w4', 2326, 2555, "Brave Shine"],
         ['BP8zmIZl5w4', 2662, 2972, "LAST STARDUST"],
-        ['BP8zmIZl5w4', 3093, 3370, "英雄 運命の詩"],
+        // ['BP8zmIZl5w4', 3093, 3370, "英雄 運命の詩"], //New1/3
         ['BP8zmIZl5w4', 3540, 3774, "ASH"],
         // ['BP8zmIZl5w4', 3947, 4262, "花の唄"], //New12/31
         // ['BP8zmIZl5w4', 4332, 4608, "I beg you"], //New12/31
@@ -250,7 +266,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['W7v2rfo0PnE', 4695, 4937, "愛錠"],
         // ['W7v2rfo0PnE', 5121, 5367, "Rising Hope"], //New12/13
         // ['W7v2rfo0PnE', 5572, 5803, "だってアタシのヒーロー。"], //New12/6
-        ['W7v2rfo0PnE', 5923, 6168, "crossing field"],
+        // ['W7v2rfo0PnE', 5923, 6168, "crossing field"], //New1/3
         // ['W7v2rfo0PnE', 6244, 6413, "夜もすがら君想ふ ED"],
 
         // 歌ってみた 紅蓮華 GURENGE English Ver.
@@ -552,7 +568,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['Y6EMzMzUjKQ', 2850, 3127, "Catch the Moment"], //New11/27
         // ['Y6EMzMzUjKQ', 3223, 3469, "流星"], //New12/6
         // ['Y6EMzMzUjKQ', 3563, 3786, "ADAMAS"], //New11/27
-        ['Y6EMzMzUjKQ', 3959, 4202, "アイリス"],
+        // ['Y6EMzMzUjKQ', 3959, 4202, "アイリス"], //New1/3
         // ['Y6EMzMzUjKQ', 4282, 4505, "RESISTER"], //New12/6
         // ['Y6EMzMzUjKQ', 4618, 4907, "unlasting"], //New11/27
         // ['Y6EMzMzUjKQ', 5302, 5370, "ANIMA Short"], //New10/4
@@ -561,7 +577,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
         // 2020/9/20 たまソング聴いていきませんか？
         // ['MRZk4LZ589w', 302, 542, "Mela!"], //New12/27
-        ['MRZk4LZ589w', 677, 914, "革命デュアリズム"],
+        // ['MRZk4LZ589w', 677, 914, "革命デュアリズム"], //New1/3
         // ['MRZk4LZ589w', 1042, 1293, "白金ディスコ"], //New12/27
         // ['MRZk4LZ589w', 1589, 1797, "嘘"], //New11/29
         // ['MRZk4LZ589w', 1965, 2204, "渡月橋～君 想ふ～"], //New10/11
@@ -597,14 +613,14 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['IL4jXmjciOM', 3077, 3184, "トライアングラー fight on stage Short"], //New10/2
         // ['IL4jXmjciOM', 3273, 3366, "一度だけの恋なら Short"], //New11/6
         // ['IL4jXmjciOM', 3367, 3487, "Giraffe Blues Short"], //New12/15
-        ['IL4jXmjciOM', 3603, 3689, "KABANERI OF THE IRON FORTRESS Short"],
+        // ['IL4jXmjciOM', 3603, 3689, "KABANERI OF THE IRON FORTRESS Short"], //New1/3
         // ['IL4jXmjciOM', 3764, 3867, "Baby Sweet Berry Love Short"], //New12/6
-        ['IL4jXmjciOM', 3937, 4030, "君のせい Short"],
+        // ['IL4jXmjciOM', 3937, 4030, "君のせい Short"], //New1/3
         ['IL4jXmjciOM', 4191, 4312, "告白 Short"],
         // ['IL4jXmjciOM', 4314, 4480, "My Dearest Short"], //New10/11
-        ['IL4jXmjciOM', 4643, 4800, "RE:I AM Short"],
+        // ['IL4jXmjciOM', 4643, 4800, "RE:I AM Short"], //New1/3
         // ['IL4jXmjciOM', 4801, 4925, "trust you Short"], //New11/1
-        ['IL4jXmjciOM', 4928, 5028, "narrative Short"],
+        // ['IL4jXmjciOM', 4928, 5028, "narrative Short"], //New1/3
         // ['IL4jXmjciOM', 5139, 5243, "träumerei Short"], //New11/1
         // ['IL4jXmjciOM', 5372, 5607, "紅蓮華"], //New9/26
         // ['IL4jXmjciOM', 5784, 0, "夜もすがら君想ふ ED"],
