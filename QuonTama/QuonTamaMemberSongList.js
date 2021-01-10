@@ -93,7 +93,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
     var exclude = urlParams.has('playlistexclude') ? urlParams.get('playlistexclude').toString().toLowerCase() : "";
     if (include != "") {
         for (var i in tags) {
-            if (include.indexOf(tags[i].toLowerCase()) >= 0) {
+            if (include == tags[i].toLowerCase()) {
                 flag = true;
                 break;
             }
@@ -103,7 +103,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
     }
     if (exclude != "") {
         for (var j in tags) {
-            if (exclude.indexOf(tags[j].toLowerCase()) >= 0) {
+            if (exclude == tags[j].toLowerCase()) {
                 flag = false;
 
                 console.log(`Exclude ${listName} with tag: ${tags[j]}`);
