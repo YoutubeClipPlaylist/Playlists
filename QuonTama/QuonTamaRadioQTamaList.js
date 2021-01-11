@@ -23,37 +23,6 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['tj-lHz1dJs4', 0, 0, "#0 アニメ『ソードアート・オンライン』を語る！", "https://github.com/jim60105/SongLists/raw/master/QuonTama/Sub/RadioQTama/0.vtt"],
     ];
 
-    /** 載入判斷程式 **/
-    /** 以下不要修改 **/
-    var urlParams = new URLSearchParams(window.location.search);
-    var flag = false;
-    var include = urlParams.has('playlistinclude') ? urlParams.get('playlistinclude').toString().toLowerCase() : "";
-    var exclude = urlParams.has('playlistexclude') ? urlParams.get('playlistexclude').toString().toLowerCase() : "";
-    if (include != "") {
-        for (var i in tags) {
-            if (include == tags[i].toLowerCase()) {
-                flag = true;
-                break;
-            }
-        }
-    } else {
-        flag = true;
-    }
-    if (exclude != "") {
-        for (var j in tags) {
-            if (exclude == tags[j].toLowerCase()) {
-                flag = false;
-
-                console.log(`Exclude ${listName} with tag: ${tags[j]}`);
-                break;
-            }
-        }
-    }
-
-    if (flag) {
-        myPlaylist = myPlaylist.concat(newPlaylist);
-
-        console.log("Load Playlist: " + listName);
-        console.log("Playlist Count: " + myPlaylist.length);
-    }
+    /** 載入判斷 **/
+    CheckAndLoadPlaylist(listName, tags, newPlaylist);
 })();
