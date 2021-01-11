@@ -20,7 +20,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      */
     var newPlaylist = [
         // 2021/1/10 新曲多め？！ sing a song
-        ['1APozbkdV1wk6wUSmyzN0yKX-_QRgRd61', 5615, 5937, "告白"],
+        ['1APozbkdV1wk6wUSmyzN0yKX-_QRgRd61', 5591, 5913, "告白"],
 
         // 2020/12/11 スタジオジブリ作品限定歌枠✨Sing a song
         ['1STfVXuzzo9QEYJKMAx4eOaFHT-r4fOTR', 281, 443, "さんぽ"],
