@@ -19,6 +19,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // ライオン
+        // ['4esLQwIRWMI', 0, 0, 'ライオン Short'],
+
         // 2021/1/10 新曲多め？！ sing a song
         ['1N_j3LoqAwE', 120, 209, "くちづけDiamond Short"],
         ['1N_j3LoqAwE', 338, 584, "COOLISH WALK"],

@@ -21,6 +21,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      */
     var newPlaylist = [
         ['tj-lHz1dJs4', 0, 0, "#0 アニメ『ソードアート・オンライン』を語る！", "https://github.com/jim60105/SongLists/raw/master/QuonTama/Sub/RadioQTama/0.vtt"],
+        ['zbp1ZpZHxNM', 0, 0, "#1 アニメ『はたらく細胞』を語る！"],
     ];
 
     /** 載入判斷 **/
