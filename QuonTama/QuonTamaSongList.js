@@ -19,6 +19,24 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2021/1/17 しっとり夜のアニソン枠🌙 sing a song
+        ['BpU0aySc0G4', 118, 356, "ピースサイン"],
+        ['BpU0aySc0G4', 631, 789, "LOVE GOOD TIME Short"],
+        ['BpU0aySc0G4', 985, 1076, "三つ葉の結び目 Short"],
+        ['BpU0aySc0G4', 1294, 1601, "Giraffe Blues"],
+        ['BpU0aySc0G4', 1791, 2033, "愛錠"],
+        ['BpU0aySc0G4', 2265, 2549, "Deal with the devil"],
+        ['BpU0aySc0G4', 2650, 2869, "ダダダダ天使"],
+        ['BpU0aySc0G4', 3020, 3083, "ニンジーン Loves you yeah!"],
+        ['BpU0aySc0G4', 3161, 3486, "放課後オーバーフロウ"],
+        ['BpU0aySc0G4', 3626, 3975, "射手座☆午後九時Don't be late"],
+        ['BpU0aySc0G4', 4156, 4249, "エブリデイワールド Short"],
+        ['BpU0aySc0G4', 4489, 4581, "侵略ノススメ Short"],
+        ['BpU0aySc0G4', 4719, 4985, "Fallen"],
+        ['BpU0aySc0G4', 5069, 5428, "Planetes"],
+        ['BpU0aySc0G4', 5622, 5875, "Hacking to the Gate"],
+        // ['BpU0aySc0G4', 5964, 6136, "夜もすがら君想ふ ED"],
+
         // ライオン
         // ['4esLQwIRWMI', 0, 0, 'ライオン Short'],
 
@@ -147,7 +165,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['svQwwn4qh6c', 1684, 1873, "エウテルペ Acapella"],
         ['svQwwn4qh6c', 1990, 2229, "Departures〜あなたにおくるアイの歌〜 Acapella"],
         ['svQwwn4qh6c', 2438, 2792, "ノーザンクロス Acapella"],
-        ['svQwwn4qh6c', 2917, 3032, "Giraffe Blues Acapella"],
+        ['svQwwn4qh6c', 2917, 3032, "Giraffe Blues Acapella"], //New1/17
         ['svQwwn4qh6c', 3133, 3410, "たった1つの想い Acapella"],
         ['svQwwn4qh6c', 3827, 4079, "VOICE Acapella"],
         ['svQwwn4qh6c', 5155, 5437, "シルシ Acapella"],
@@ -283,7 +301,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['W7v2rfo0PnE', 3561, 3782, "ADAMAS"],
         // ['W7v2rfo0PnE', 3892, 4182, "unlasting"], //New12/31
         ['W7v2rfo0PnE', 4307, 4501, "夜咄ディセイブ"],
-        ['W7v2rfo0PnE', 4695, 4937, "愛錠"],
+        // ['W7v2rfo0PnE', 4695, 4937, "愛錠"], //New1/17
         // ['W7v2rfo0PnE', 5121, 5367, "Rising Hope"], //New12/13
         // ['W7v2rfo0PnE', 5572, 5803, "だってアタシのヒーロー。"], //New12/6
         // ['W7v2rfo0PnE', 5923, 6168, "crossing field"], //New1/3
@@ -371,8 +389,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['P2lQSYdJLao', 978, 1256, "変わらないもの"],
         // ['P2lQSYdJLao', 1478, 1766, "ROCK-mode '18"], //New11/27
         // ['P2lQSYdJLao', 1838, 2049, "インフェルノ"], //New12/6
-        ['P2lQSYdJLao', 2366, 2459, "侵略ノススメ"],
-        ['P2lQSYdJLao', 2630, 2735, "打打打打打打打打打打"],
+        // ['P2lQSYdJLao', 2366, 2459, "侵略ノススメ Short"], //New1/17
+        ['P2lQSYdJLao', 2630, 2735, "打打打打打打打打打打 Short"],
         ['P2lQSYdJLao', 2903, 3139, "恋は渾沌の隷也"],
         ['P2lQSYdJLao', 3318, 3538, "Let It Go"],
         // ['P2lQSYdJLao', 3840, 4110, "I will..."], //New12/6
@@ -471,7 +489,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['mvmik-rA-I4', 3796, 4053, "僕らの戦場"], //New12/3
         // ['mvmik-rA-I4', 4248, 4522, "Sincerely"], //New12/13
         // ['mvmik-rA-I4', 4739, 4983, "忘れじの言の葉"], //New12/22
-        ['mvmik-rA-I4', 5131, 5348, "ダダダダ天使"],
+        // ['mvmik-rA-I4', 5131, 5348, "ダダダダ天使"], //New1/17
         // ['mvmik-rA-I4', 5532, 5901, "鳥の詩"], //New12/13
         // ['mvmik-rA-I4', 6189, 6503, "ETERNAL BLAZE"], //New12/6
         // ['mvmik-rA-I4', 6580, 0, "夜もすがら君想ふ ED"],
@@ -508,14 +526,14 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // 2020/10/2 あたしの歌を聞け～っ！
         ['RiY3B0_H0hk', 262, 542, "トライアングラー fight on stage"],
         // ['RiY3B0_H0hk', 640, 869, "星間飛行"], //New11/19
-        ['RiY3B0_H0hk', 949, 1272, "放課後オーバーフロウ"],
+        // ['RiY3B0_H0hk', 949, 1272, "放課後オーバーフロウ"], //New1/17
         ['RiY3B0_H0hk', 1355, 1637, "オベリスク"],
         ['RiY3B0_H0hk', 1706, 2019, "禁断のエリクシア"],
         ['RiY3B0_H0hk', 2098, 2375, "ホシキラ"],
         ['RiY3B0_H0hk', 2488, 2844, "ユニバーサル・バニー"],
         ['RiY3B0_H0hk', 2922, 3168, "インフィニティ"],
         ['RiY3B0_H0hk', 3293, 3512, "Welcom To My FanClub's Night!"],
-        ['RiY3B0_H0hk', 3593, 3939, "射手座☆午後九時Don't be late"],
+        // ['RiY3B0_H0hk', 3593, 3939, "射手座☆午後九時Don't be late"], //New1/17
         ['RiY3B0_H0hk', 4047, 4338, "虹いろ・クマクマ"],
         ['RiY3B0_H0hk', 4413, 4737, "ダイアモンドクレバス"],
         ['RiY3B0_H0hk', 4864, 5298, "サヨナラノツバサ ～the end of triangle"],
@@ -601,7 +619,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['MRZk4LZ589w', 1042, 1293, "白金ディスコ"], //New12/27
         // ['MRZk4LZ589w', 1589, 1797, "嘘"], //New11/29
         // ['MRZk4LZ589w', 1965, 2204, "渡月橋～君 想ふ～"], //New10/11
-        ['MRZk4LZ589w', 2310, 2547, "ピースサイン"],
+        // ['MRZk4LZ589w', 2310, 2547, "ピースサイン"], //New1/17
         ['MRZk4LZ589w', 2663, 2917, "秒針を噛む"],
         // ['MRZk4LZ589w', 3035, 3266, "残酷な天使のテーゼ"], //New11/19
         ['MRZk4LZ589w', 3376, 3694, "Pretender"],
@@ -619,7 +637,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['IL4jXmjciOM', 649, 758, "Little Busters! Short"],
         // ['IL4jXmjciOM', 862, 956, "Butter-fly Short"], //New11/29
         ['IL4jXmjciOM', 1059, 1158, "太陽曰く燃えよカオス Short"],
-        ['IL4jXmjciOM', 1233, 1336, "Hacking to the Gate Short"],
+        // ['IL4jXmjciOM', 1233, 1336, "Hacking to the Gate Short"], //New1/17
         ['IL4jXmjciOM', 1483, 1577, "シリウス Short"],
         // ['IL4jXmjciOM', 1578, 1674, "流星 Short"], //New9/25
         ['IL4jXmjciOM', 1777, 1870, "Preserved Roses Short"],
@@ -679,7 +697,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['rIQ1wRsnnDE', 4676, 0, "夜もすがら君想ふ ED"],
 
         // 2020/9/6 ついにこの日が来たぞ！！！！
-        ['AxY3M8pYoXY', 202, 482, "Deal with the devil"],
+        // ['AxY3M8pYoXY', 202, 482, "Deal with the devil"], //New1/17
         // ['AxY3M8pYoXY', 648, 912, "コネクト"], //New11/19
         // ['AxY3M8pYoXY', 1048, 1359, "only my railgun"], //New10/18
         ['AxY3M8pYoXY', 1475, 1567, "チカっとチカ千花っ♡"],
