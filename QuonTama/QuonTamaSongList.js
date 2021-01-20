@@ -19,6 +19,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 歌ってみた 独白
+        ['_REXGMcW2GY', 0, 0, '独白'],
+
         // 2021/1/17 しっとり夜のアニソン枠🌙 sing a song
         ['BpU0aySc0G4', 118, 356, "ピースサイン"],
         ['BpU0aySc0G4', 631, 789, "LOVE GOOD TIME Short"],
@@ -53,7 +56,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['1N_j3LoqAwE', 3840, 4189, "あたしが隣にいるうちに"],
         ['1N_j3LoqAwE', 4377, 4639, "アイのシナリオ"],
         ['1N_j3LoqAwE', 4717, 4990, "雲雀"],
-        ['1N_j3LoqAwE', 5101, 5386, "独白"],
+        // ['1N_j3LoqAwE', 5101, 5386, "独白"],
         // ['1N_j3LoqAwE', 5615, 5937, "告白"], //消除
         // ['1N_j3LoqAwE', 5649, 5819, "夜もすがら君想ふ ED"],
 
