@@ -19,6 +19,25 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 2021/1/24 男性アニソン曲限定🌟 sing a song
+        ['uwdWYIYpiJc', 112, 363, "DADDY! DADDY! DO!"],
+        ['uwdWYIYpiJc', 597, 809, "インフェルノ"],
+        ['uwdWYIYpiJc', 948, 1050, "紅蓮の弓矢 Short"],
+        ['uwdWYIYpiJc', 1081, 1170, "自由の翼 Short"],
+        ['uwdWYIYpiJc', 1454, 1681, "フィクション"],
+        ['uwdWYIYpiJc', 1844, 2091, "狂乱 Hey Kids!!"],
+        ['uwdWYIYpiJc', 2275, 2546, "メリッサ"],
+        ['uwdWYIYpiJc', 2660, 2864, "嘘"],
+        ['uwdWYIYpiJc', 3006, 3234, "君じゃなきゃダメみたい"],
+        ['uwdWYIYpiJc', 3492, 3729, "シルエット"],
+        ['uwdWYIYpiJc', 3911, 4202, "月光花"],
+        ['uwdWYIYpiJc', 4313, 4562, "シュガーソングとビターステップ"],
+        ['uwdWYIYpiJc', 4717, 4997, "前前前世"],
+        ['uwdWYIYpiJc', 5104, 5360, "Butter-Fly"], //和田光司
+        ['uwdWYIYpiJc', 5457, 5717, "オリオンをなぞる"],
+        ['uwdWYIYpiJc', 5849, 6086, "unravel"],
+        // ['uwdWYIYpiJc', 6145, 6316, "夜もすがら君想ふ ED"],
+
         // 歌ってみた 独白
         ['_REXGMcW2GY', 0, 0, '独白'],
 
@@ -83,7 +102,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['QcymUTP93Dk', 143, 277, "KING"],
         ['QcymUTP93Dk', 628, 916, "ROCK-mode '18"],
         // ['QcymUTP93Dk', 1161, 1427, "夜に駆ける"],
-        ['QcymUTP93Dk', 1692, 1985, "月光花"],
+        // ['QcymUTP93Dk', 1692, 1985, "月光花"], //New1/24
         ['QcymUTP93Dk', 2116, 2335, "if…"],
         ['QcymUTP93Dk', 2433, 2798, "花の唄"],
         ['QcymUTP93Dk', 2880, 3155, "I beg you"],
@@ -97,7 +116,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['QcymUTP93Dk', 6026, 6340, "ETERNAL BLAZE"],
         ['QcymUTP93Dk', 6490, 6766, "Shangri-La"],
         ['QcymUTP93Dk', 6911, 7165, "カワキヲアメク"],
-        ['QcymUTP93Dk', 7327, 7563, "unravel"],
+        // ['QcymUTP93Dk', 7327, 7563, "unravel"], //New1/24
         ['QcymUTP93Dk', 7943, 8194, "Here"],
         // ['QcymUTP93Dk', 8377, 8646, "炎"],
         ['QcymUTP93Dk', 8767, 9066, "ライオン"],
@@ -208,19 +227,19 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
         // 2020/12/6 題名５０音歌いきるまで終われまてん💜Sing a song
         ['1pnlXQIswws', 320, 590, "I will..."],
-        ['1pnlXQIswws', 619, 830, "インフェルノ"],
+        // ['1pnlXQIswws', 619, 830, "インフェルノ"], //New1/24
         // ['1pnlXQIswws', 619, 830, "打上花火"], //消除
         // ['1pnlXQIswws', 995, 1309, "ETERNAL BLAZE"], //New12/31
-        ['1pnlXQIswws', 1403, 1667, "オリオンをなぞる"],
+        // ['1pnlXQIswws', 1403, 1667, "オリオンをなぞる"], //New1/24
         ['1pnlXQIswws', 1730, 1997, "カラフル"],
         ['1pnlXQIswws', 2035, 2309, "キセキ"],
         ['1pnlXQIswws', 2376, 2610, "黒毛和牛上塩タン焼680円"],
         ['1pnlXQIswws', 2677, 2855, "檄！帝国華撃団"],
         ['1pnlXQIswws', 2929, 3203, "God Knows..."],
         ['1pnlXQIswws', 3298, 3551, "残酷な天使のテーゼ"],
-        ['1pnlXQIswws', 3690, 3941, "シュガーソングとビターステップ"],
+        // ['1pnlXQIswws', 3690, 3941, "シュガーソングとビターステップ"], //New1/24
         ['1pnlXQIswws', 4004, 4248, "Starry Wish"],
-        ['1pnlXQIswws', 4300, 4581, "前前前世"],
+        // ['1pnlXQIswws', 4300, 4581, "前前前世"], //New1/24
         ['1pnlXQIswws', 4612, 4863, "空色デイズ"],
         ['1pnlXQIswws', 4916, 5142, "だってアタシのヒーロー。"],
         ['1pnlXQIswws', 5182, 5423, "CheerS"],
@@ -240,7 +259,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['1pnlXQIswws', 10818, 11155, "My Dearest"],
         ['1pnlXQIswws', 11238, 11509, "三日月"],
         ['1pnlXQIswws', 11557, 11727, "ムーンライト伝説"],
-        ['1pnlXQIswws', 11796, 12064, "メリッサ"],
+        // ['1pnlXQIswws', 11796, 12064, "メリッサ"], //New1/24
         ['1pnlXQIswws', 12140, 12408, "もうそう えくすぷれす"],
         // ['1pnlXQIswws', 12622, 12809, "やさしさに包まれたなら"], //New12/11
         ['1pnlXQIswws', 12904, 13173, "ユキトキ"],
@@ -277,10 +296,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['AaIF6Aobf7g', 0, 0, "僕らの戦場"],
 
         // 2020/11/29 新しい曲ありの歌枠！！Sing a song
-        ['2KMm0BPu640', 333, 588, "Butter-Fly"],
+        // ['2KMm0BPu640', 333, 588, "Butter-Fly"], //New1/24 和田光司
         // ['2KMm0BPu640', 734, 904, "ムーンライト伝説"],
         // ['2KMm0BPu640', 1072, 1342, "メリッサ"], //New12/6
-        ['2KMm0BPu640', 1483, 1687, "嘘"],
+        // ['2KMm0BPu640', 1483, 1687, "嘘"], //New1/24
         // ['2KMm0BPu640', 1990, 2230, "ツキアカリのミチシルベ"], //New12/6
         ['2KMm0BPu640', 2336, 2602, "sugar sweet nightmare"],
         ['2KMm0BPu640', 2794, 3077, "打上花火"],
@@ -321,7 +340,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['R0DfGvRL6mw', 1551, 1770, "if…"], //New12/31
         ['4i2vBLWKFkU', 0, 0, "if"], //原片消除
         ['R0DfGvRL6mw', 2053, 2321, "M"],
-        ['R0DfGvRL6mw', 2438, 2689, "Butterfly"],
+        ['R0DfGvRL6mw', 2438, 2689, "Butterfly"], //木村カエラ
         ['R0DfGvRL6mw', 2882, 3133, "かたちあるもの"],
         ['R0DfGvRL6mw', 3206, 3508, "プラネタリウム"],
         ['R0DfGvRL6mw', 3559, 3895, "雪の華"],
@@ -352,7 +371,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['1OrD9G4rtn8', 0, 0], 
 
         // 2020/11/15 アニソンだらけの歌枠
-        ['DOoy0iNjGsQ', 465, 713, "狂乱 Hey Kids!!"],
+        // ['DOoy0iNjGsQ', 465, 713, "狂乱 Hey Kids!!"], //New1/24
         // ['DOoy0iNjGsQ', 1027, 1264, "CheerS"], //New12/6
         // ['DOoy0iNjGsQ', 1510, 1800, "MEMORIA"], //New/12/20
         ['DOoy0iNjGsQ', 1968, 2229, "カーストルーム"],
@@ -638,7 +657,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['IL4jXmjciOM', 358, 428, "crow song Short"],
         ['IL4jXmjciOM', 428, 519, "Bravely You Short"],
         ['IL4jXmjciOM', 649, 758, "Little Busters! Short"],
-        // ['IL4jXmjciOM', 862, 956, "Butter-fly Short"], //New11/29
+        // ['IL4jXmjciOM', 862, 956, "Butter-fly Short"], //New11/29 和田光司
         ['IL4jXmjciOM', 1059, 1158, "太陽曰く燃えよカオス Short"],
         // ['IL4jXmjciOM', 1233, 1336, "Hacking to the Gate Short"], //New1/17
         ['IL4jXmjciOM', 1483, 1577, "シリウス Short"],
