@@ -24,9 +24,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['_GGEHueF5rU', 1332, 1687, "あなたに出會わなければ~夏雪冬花~"], //1/3
         // ['_GGEHueF5rU', 1793, 1883, "Bravely You Short"], //9/18
         // ['_GGEHueF5rU', 1997, 2256, "たぶん"], //12/22
-        ['_GGEHueF5rU', 2360, 2644, "少女レイ"],
+        // ['_GGEHueF5rU', 2360, 2644, "少女レイ"], //New1/28
         ['_GGEHueF5rU', 2768, 2867, "青空のラプソディ Short"],
-        ['_GGEHueF5rU', 3020, 3268, "おちゃめ機能"],
+        // ['_GGEHueF5rU', 3020, 3268, "おちゃめ機能"], //New1/28
         ['_GGEHueF5rU', 4396, 4716, "瞬き"],
         ['_GGEHueF5rU', 4882, 5009, "ふなのり Short Acapella"],
         // ['_GGEHueF5rU', 5117, 5212, "ルンがピカッと光ったら Short"], //12/6
@@ -42,7 +42,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         // ['3RUKStFG46U', 1308, 1559, "となりのトトロ"], //12/6
         ['3RUKStFG46U', 2357, 2646, "Ahoy!! 我ら宝鐘海賊団☆ Acapella"],
         ['3RUKStFG46U', 2901, 3080, "エイリアンエイリアン"],
-        ['3RUKStFG46U', 3133, 3321, "ローリンガール"],
+        // ['3RUKStFG46U', 3133, 3321, "ローリンガール"], //New1/28
         // ['3RUKStFG46U', 3551, 3769, "チューリングラブ"], //這首唱炸了
         // ['3RUKStFG46U', 4380, 4589, "いつも何度でも"], //12/11
         // ['3RUKStFG46U', 4660, 4855, "君をのせて"], //12/11

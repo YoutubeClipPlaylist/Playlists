@@ -19,6 +19,29 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        // 歌ってみた 再会
+        ['ApB3bnfkojs', 0, 0, '再会'],
+
+        // 2021/1/27 久々ボカロ会😊その場リクエスト有！ sing a song
+        ['T6pz-eJsG_4', 121, 324, "ヒバナ"],
+        ['T6pz-eJsG_4', 495, 688, "WAVE"],
+        ['T6pz-eJsG_4', 862, 1146, "少女レイ"],
+        ['T6pz-eJsG_4', 1321, 1570, "神のまにまに"],
+        ['T6pz-eJsG_4', 1666, 1923, "メルト"],
+        ['T6pz-eJsG_4', 2130, 2375, "愛言葉Ⅲ"],
+        ['T6pz-eJsG_4', 2820, 3018, "威風堂々"],
+        ['T6pz-eJsG_4', 3191, 3381, "脳漿炸裂ガール"],
+        ['T6pz-eJsG_4', 3505, 3695, "ローリンガール"],
+        ['T6pz-eJsG_4', 3828, 4049, "乙女解剖"],
+        ['T6pz-eJsG_4', 4180, 4399, "ぼうけんのしょがきえました！"],
+        ['T6pz-eJsG_4', 4535, 4734, "ボッカデラベリタ"],
+        ['T6pz-eJsG_4', 4879, 5127, "おちゃめ機能"],
+        ['T6pz-eJsG_4', 5480, 5724, "セツナトリップ"],
+        ['T6pz-eJsG_4', 5930, 6194, "地球最後の告白を"],
+        ['T6pz-eJsG_4', 6249, 6462, "六兆年と一夜物語"],
+        ['T6pz-eJsG_4', 6672, 6874, "うっせぇわ"],
+        // ['T6pz-eJsG_4', 6943, 7112, "夜もすがら君想ふ ED"],
+
         // 2021/1/24 男性アニソン曲限定🌟 sing a song
         ['uwdWYIYpiJc', 112, 363, "DADDY! DADDY! DO!"],
         ['uwdWYIYpiJc', 597, 809, "インフェルノ"],
@@ -67,7 +90,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['1N_j3LoqAwE', 338, 584, "COOLISH WALK"],
         ['1N_j3LoqAwE', 862, 1099, "不可思議のカルテ"],
         ['1N_j3LoqAwE', 1275, 1491, "MOON PRIDE"],
-        ['1N_j3LoqAwE', 1642, 1843, "うっせぇわ"],
+        // ['1N_j3LoqAwE', 1642, 1843, "うっせぇわ"], //New1/28
         ['1N_j3LoqAwE', 2127, 2402, "いけないボーダーライン"],
         ['1N_j3LoqAwE', 2538, 2836, "奏"],
         ['1N_j3LoqAwE', 2947, 3231, "旅の途中"],
@@ -282,13 +305,13 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['tXY_4qh_Hbc', 1144, 1314, "Booo!"],
         ['tXY_4qh_Hbc', 1471, 1735, "シリョクケンサ"],
         ['tXY_4qh_Hbc', 2034, 2301, "フラジール"],
-        ['tXY_4qh_Hbc', 2408, 2665, "メルト"],
+        // ['tXY_4qh_Hbc', 2408, 2665, "メルト"], //New1/28
         ['tXY_4qh_Hbc', 2781, 2988, "彗星ハネムーン"],
         ['tXY_4qh_Hbc', 3065, 3315, "アイロニ"],
-        ['tXY_4qh_Hbc', 3409, 3674, "地球最後の告白を"],
+        // ['tXY_4qh_Hbc', 3409, 3674, "地球最後の告白を"], //New1/28
         ['tXY_4qh_Hbc', 3800, 4069, "サリシノハラ"],
         ['tXY_4qh_Hbc', 4146, 4446, "会いたい"],
-        ['tXY_4qh_Hbc', 4582, 4795, "六兆年と一夜物語"],
+        // ['tXY_4qh_Hbc', 4582, 4795, "六兆年と一夜物語"], //New1/28
         // ['tXY_4qh_Hbc', 4942, 5152, "アンノウン・マザーグース"], //原曲消除一半
         ['tXY_4qh_Hbc', 5320, 5554, "夜もすがら君想ふ"],
 
@@ -400,7 +423,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['k-muid-bJNs', 4105, 4332, "人生リセットボタン"],
         ['k-muid-bJNs', 4441, 4660, "おじゃま虫"],
         // ['k-muid-bJNs', 4949, 5084, "KING"], //New12/31
-        ['k-muid-bJNs', 5406, 5608, "ボッカデラベリタ"],
+        // ['k-muid-bJNs', 5406, 5608, "ボッカデラベリタ"], //New1/28
         // ['k-muid-bJNs', 5748, 0, "夜もすがら君想ふ ED"],
 
         // 作業用BGM アニソン歌枠メドレー
@@ -462,12 +485,12 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['ykcroeCICx8', 2326, 2526, "太陽系デスコ"],
         ['ykcroeCICx8', 2727, 2946, "恋愛裁判"],
         ['ykcroeCICx8', 3103, 3317, "妄想税"],
-        ['ykcroeCICx8', 3483, 3681, "威風堂々"],
+        // ['ykcroeCICx8', 3483, 3681, "威風堂々"], //New1/28
         ['ykcroeCICx8', 3795, 3994, "ギガンティックO.T.N"],
         ['ykcroeCICx8', 4040, 4243, "聖槍爆裂ボーイ"],
         ['ykcroeCICx8', 4362, 4605, "バレリーコ"],
         ['ykcroeCICx8', 4729, 5015, "初音ミクの消失"],
-        ['ykcroeCICx8', 5358, 5562, "ヒバナ"],
+        // ['ykcroeCICx8', 5358, 5562, "ヒバナ"], //New1/28
         ['ykcroeCICx8', 5748, 5980, "劣等上等"],
         // ['ykcroeCICx8', 6051, 6221, "夜もすがら君想ふ ED"],
 
@@ -696,7 +719,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['T53Wjlbotug', 2102, 2283, "ストリーミングハート"],
         // ['T53Wjlbotug', 2375, 2565, "おねがいダーリン"], //New12/13
         ['T53Wjlbotug', 2683, 2914, "回レ！雪月花"],
-        ['T53Wjlbotug', 3076, 3297, "乙女解剖"],
+        // ['T53Wjlbotug', 3076, 3297, "乙女解剖"], //New1/28
         // ['T53Wjlbotug', 3424, 3620, "ブリキノダンス"], //New12/4
         ['T53Wjlbotug', 3680, 3904, "ロキ"], //New9/30
         // ['T53Wjlbotug', 3988, 4068, "unlasting Short"], //New9/25
@@ -736,7 +759,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
         // 2020/9/4 鯖落ちからのゲリラ歌枠＞＜
         // ['_Ejha-aifWg', 530, 775, "ファンサ"], //New10/25
-        ['_Ejha-aifWg', 973, 1219, "セツナトリップ"],
+        // ['_Ejha-aifWg', 973, 1219, "セツナトリップ"], //New1/28
         // ['_Ejha-aifWg', 1332, 1608, "God knows..."], //New10/4
         ['_Ejha-aifWg', 1683, 1878, "ベノム"],
         // ['_Ejha-aifWg', 1993, 2258, "右肩の蝶"], //New11/13
