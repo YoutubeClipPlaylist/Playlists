@@ -20,6 +20,48 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.11.23 デビュー3ヶ月ありがとう❄🐾
+        ['Fh1CehRKDmY', 314, 539, "行くぜっ!怪盗少女"],
+        ['Fh1CehRKDmY', 642, 890, "おちゃめ機能"],
+        ['Fh1CehRKDmY', 967, 1231, "私、アイドル宣言"],
+        ['Fh1CehRKDmY', 0, 0, "春を告げる"],
+        ['Fh1CehRKDmY', 0, 0, "言って。"],
+        ['Fh1CehRKDmY', 0, 0, "ゆるふわ樹海ガール"],
+        ['Fh1CehRKDmY', 0, 0, "妄想税"],
+        ['Fh1CehRKDmY', 0, 0, "炎"],
+        ['Fh1CehRKDmY', 0, 0, "LOSER"],
+        ['Fh1CehRKDmY', 0, 0, "だんだん早くなる"],
+        ['Fh1CehRKDmY', 0, 0, "ようこそジャパリパークへ"],
+        ['Fh1CehRKDmY', 0, 0, "猫"],
+        ['Fh1CehRKDmY', 0, 0, "スイートマジック"],
+        ['Fh1CehRKDmY', 0, 0, "Darling"],
+        ['Fh1CehRKDmY', 0, 0, "恋するフォーチュンクッキー"],
+        ['Fh1CehRKDmY', 0, 0, "君色に染まる"],
+        ['Fh1CehRKDmY', 0, 0, "ドレミファロンド"],
+
+        //2020.11.22 夜に駆ける／YOASOBI covered by 伊冬ユナ
+        ['XryVk7-3l-k', 0, 0, "夜に駆ける"],
+
+
+        //2020.11.16 ほぼボカロ❕(たまにJPOP)
+        ['fH9TNsYjl4c', 369, 570, "気まぐれメルシィ"],
+        ['fH9TNsYjl4c', 680, 878, "恋の魔法"],
+        ['fH9TNsYjl4c', 964, 1230, "ハイドアンドシーク"],
+        ['fH9TNsYjl4c', 1328, 1534, "スキスキ絶頂症"],
+        ['fH9TNsYjl4c', 1646, 1849, "ダーリンダンス"],
+        ['fH9TNsYjl4c', 1954, 2187, "chocolate box"],
+        ['fH9TNsYjl4c', 2296, 2611, "瞬き"],
+        ['fH9TNsYjl4c', 2714, 2965, "可愛くなりたい"],
+        ['fH9TNsYjl4c', 3079, 3334, "病名恋ワズライ"],
+        ['fH9TNsYjl4c', 3403, 3658, "今好きになる。"],
+        ['fH9TNsYjl4c', 3740, 3983, "ミスター・ダーリン"],
+        ['fH9TNsYjl4c', 4057, 4264, "カタオモイ"],
+        ['fH9TNsYjl4c', 4379, 4670, "どうぶつ占い"],
+        ['fH9TNsYjl4c', 4750, 4942, "おねがいダーリン"],
+        ['fH9TNsYjl4c', 5043, 5382, "君の知らない物語"],
+        ['fH9TNsYjl4c', 5507, 5753, "愛言葉Ⅲ"],
+        ['fH9TNsYjl4c', 5890, 6086, "ドレミファロンド"],
+
         //2020.11.09 ユナソングたくさん聴いてって😘
         ['pOmEtpUhrQ8', 280, 504, "放課後ストライド"],
         ['pOmEtpUhrQ8', 604, 830, "おジャ魔女カーニバル!!"],
