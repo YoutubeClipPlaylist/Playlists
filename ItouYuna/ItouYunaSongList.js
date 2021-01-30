@@ -5,7 +5,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * 標籤
      * @type {string[]}
      */
-    var tags = ["Itou", "Yuna", "public"];
+    var tags = ["Itou", "Yuna", "ItouYuna", "public"];
     /**
      * 播放清單名稱
      * @type {string}
