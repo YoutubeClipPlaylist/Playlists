@@ -20,6 +20,26 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.11.30 アイドルいきます！！！
+        ['me3GNPlpoSA', 213, 426, "ヒロインなるもの"],
+        ['me3GNPlpoSA', 502, 753, "フライングゲット"],
+        ['me3GNPlpoSA', 829, 1046, "ダダダダ天使"],
+        ['me3GNPlpoSA', 1115, 1324, "ディスコミュ星人"],
+        ['me3GNPlpoSA', 1394, 1560, "ワンルームシュガーライフ"],
+        ['me3GNPlpoSA', 1621, 1876, "トリセツ"],
+        ['me3GNPlpoSA', 1935, 2120, "グランドエスケープ"],
+        ['me3GNPlpoSA', 2201, 2435, "ウミユリ海底譚"],
+        ['me3GNPlpoSA', 2524, 2801, "God knows..."],
+        ['me3GNPlpoSA', 2867, 3031, "テレキャスタービーボーイ"],
+        ['me3GNPlpoSA', 3097, 3394, "Calc."],
+        ['me3GNPlpoSA', 3500, 3833, "アヤノの幸福理論"],
+        ['me3GNPlpoSA', 3905, 4095, "はなまるぴっぴはよいこだけ"],
+        ['me3GNPlpoSA', 0, 0, "ニア"],
+        ['me3GNPlpoSA', 0, 0, "高嶺の花子さん"],
+        ['me3GNPlpoSA', 0, 0, "かくしん的 めたまるふぉ～ぜっ!"],
+        ['me3GNPlpoSA', 0, 0, "ファンサ"],
+        ['me3GNPlpoSA', 0, 0, "ドレミファロンド"],
+
         //2020.11.23 デビュー3ヶ月ありがとう❄🐾
         ['Fh1CehRKDmY', 314, 539, "行くぜっ!怪盗少女"],
         ['Fh1CehRKDmY', 642, 890, "おちゃめ機能"],
@@ -37,7 +57,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['Fh1CehRKDmY', 4348, 4585, "Darling"],
         ['Fh1CehRKDmY', 4688, 4969, "恋するフォーチュンクッキー"],
         ['Fh1CehRKDmY', 5194, 5384, "君色に染まる"],
-        ['Fh1CehRKDmY', 5542, 5739, "ドレミファロンド"],
+      //['Fh1CehRKDmY', 5542, 5739, "ドレミファロンド"],//new
 
         //2020.11.22 夜に駆ける／YOASOBI covered by 伊冬ユナ
         ['XryVk7-3l-k', 0, 0, "夜に駆ける"],
@@ -133,7 +153,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['hYbrtibjc20', 3805, 4080, "ロミオとシンデレラ"],
         ['hYbrtibjc20', 4182, 4403, "パンダヒーロー"],
         ['hYbrtibjc20', 4523, 4785, "夢花火"],
-        ['hYbrtibjc20', 4893, 5119, "Calc."],
+      //['hYbrtibjc20', 4893, 5119, "Calc."],//new
         ['hYbrtibjc20', 5214, 5450, "ハートアラモード"],
         ['hYbrtibjc20', 5537, 5776, "千本桜"],
       //['hYbrtibjc20', 5884, 6081, "ドレミファロンド"],//new
@@ -147,7 +167,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['vRKSdZjF8lc', 2211, 2461, "香水"],
         ['vRKSdZjF8lc', 2572, 2828, "Happy birthday"],
         ['vRKSdZjF8lc', 2950, 3157, "惑星ループ"],
-        ['vRKSdZjF8lc', 3246, 3456, "ディスコミュ星人"],
+      //['vRKSdZjF8lc', 3246, 3456, "ディスコミュ星人"],//new
         ['vRKSdZjF8lc', 3595, 3851, "秒針を噛む"],
         ['vRKSdZjF8lc', 3942, 4199, "妄想感傷代償連盟"],
         ['vRKSdZjF8lc', 4300, 4582, "ハロ/ハワユ"],
@@ -166,7 +186,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['wQA68grlLPc', 2085, 2351, "さようなら、花泥棒さん"],
         ['wQA68grlLPc', 2445, 2665, "恋愛裁判"],
         ['wQA68grlLPc', 2773, 3000, "ロキ"],
-        ['wQA68grlLPc', 3121, 3337, "ダダダダ天使"],
+      //['wQA68grlLPc', 3121, 3337, "ダダダダ天使"],//new
         ['wQA68grlLPc', 3468, 3706, "弱虫モンブラン"],
       //['wQA68grlLPc', 3816, 4027, "スイートマジック "],//new
         ['wQA68grlLPc', 4153, 4408, "贖罪 "],
@@ -185,7 +205,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['-laC57ldaLs', 2116, 2317, "ようこそジャパリパークへ"],//new
         ['-laC57ldaLs', 2461, 2710, "乙女どもよ"],
       //['-laC57ldaLs', 2827, 3053, "おジャ魔女カーニバル"],//new
-        ['-laC57ldaLs', 3193, 3382, "はなまるぴっぴはよいこだけ"],
+      //['-laC57ldaLs', 3193, 3382, "はなまるぴっぴはよいこだけ"],//new
       //['-laC57ldaLs', 3541, 3792, "恋愛サーキュレーション"],//new
       //['-laC57ldaLs', 3929, 4174, "全力バタンキュー"],//new
         ['-laC57ldaLs', 4447, 4546, "紅蓮の弓矢"],
@@ -200,14 +220,14 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['16OmDROLLhI', 575, 796, "丸の内サディスティック"],
         ['16OmDROLLhI', 949, 1237, "アイネクライネ"],
         ['16OmDROLLhI', 1401, 1651, "さよならエレジー"],
-        ['16OmDROLLhI', 1815, 2107, "高嶺の花子さん"],
+      //['16OmDROLLhI', 1815, 2107, "高嶺の花子さん"],//new
         ['16OmDROLLhI', 2412, 2714, "マリーゴールド"],
         ['16OmDROLLhI', 2883, 3007, "言葉のいらない約束"],
         ['16OmDROLLhI', 3180, 3398, "チューリングラブ"],
       //['16OmDROLLhI', 3510, 3775, "心做し"],//new
         ['16OmDROLLhI', 3931, 4130, "ただ君に晴れ"],
         ['16OmDROLLhI', 4270, 4404, "KING"],
-        ['16OmDROLLhI', 4596, 4840, "ファンサ"],
+      //['16OmDROLLhI', 4596, 4840, "ファンサ"],//new
       //['16OmDROLLhI', 4973, 5165, "おねがいダーリン"],//new
       //['16OmDROLLhI', 5308, 5504, "ドレミファロンド"],//new
 
@@ -265,7 +285,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['bvXG4UCuoCM', 2171, 2406, "ハートアラモード"],//new
         ['bvXG4UCuoCM', 2557, 2769, "二息歩行"],
         ['bvXG4UCuoCM', 3038, 3237, "快晴"],
-        ['bvXG4UCuoCM', 3394, 3629, "ウミユリ海底譚"],
+      //['bvXG4UCuoCM', 3394, 3629, "ウミユリ海底譚"],//new
       //['bvXG4UCuoCM', 3810, 3998, "いかないで"],//new
         ['bvXG4UCuoCM', 4150, 4443, "secret base"],
       //['bvXG4UCuoCM', 4601, 4796, "ドレミファロンド"],//new
