@@ -20,6 +20,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.12.24 クリスマスソング／backnumber
+        ['j_2ZBliHt8U', 0, 0, "クリスマスソング"],
+
         //2020.12.21 全力全開Singing!!!
         ['nOmnsDGeyzo', 331, 547, "ダダダダ天使"],
         ['nOmnsDGeyzo', 734, 988, "病名恋ワズライ"],
