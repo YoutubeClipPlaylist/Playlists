@@ -20,6 +20,26 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.11.09 ユナソングたくさん聴いてって😘
+        ['pOmEtpUhrQ8', 280, 504, "放課後ストライド"],
+        ['pOmEtpUhrQ8', 604, 830, "おジャ魔女カーニバル!!"],
+        ['pOmEtpUhrQ8', 956, 1183, "星間飛行"],
+        ['pOmEtpUhrQ8', 1286, 1537, "神のまにまに"],
+        ['pOmEtpUhrQ8', 1621, 1857, "砂の惑星"],
+        ['pOmEtpUhrQ8', 1945, 2160, "おじゃま虫"],
+        ['pOmEtpUhrQ8', 2253, 2425, "ルージュの伝言"],
+        ['pOmEtpUhrQ8', 2520, 2928, "愛にできることはまだあるかい"],
+        ['pOmEtpUhrQ8', 3030, 3297, "さようなら、花沢棒さん"],
+        ['pOmEtpUhrQ8', 3420, 3631, "翡翠のまち"],
+        ['pOmEtpUhrQ8', 3723, 3931, "彗星ハネムーン"],
+        ['pOmEtpUhrQ8', 4040, 4225, "脱法ロック"],
+        ['pOmEtpUhrQ8', 4317, 4535, "絶え間なく藍色"],
+        ['pOmEtpUhrQ8', 4606, 4807, "独りんぼエンヴィー"],
+        ['pOmEtpUhrQ8', 4939, 5257, "Pretender"],
+        ['pOmEtpUhrQ8', 5386, 5634, "藍二乗"],
+        ['pOmEtpUhrQ8', 5764, 5960, "ドレミファロンド"],
+
+
         //2020.11.02 ピアノ音源縛りでしっとりと🎹🎶
         ['fMHyKMghjCQ', 251, 512, "夜に駆ける"],
         ['fMHyKMghjCQ', 609, 895, "サリシノハラ"],
