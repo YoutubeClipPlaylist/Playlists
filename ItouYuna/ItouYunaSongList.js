@@ -20,8 +20,6 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
-        //
-
         //2020.11.02 ピアノ音源縛りでしっとりと🎹🎶
         ['fMHyKMghjCQ', 251, 512, "夜に駆ける"],
         ['fMHyKMghjCQ', 609, 895, "サリシノハラ"],
