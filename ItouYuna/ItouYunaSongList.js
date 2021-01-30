@@ -1,6 +1,6 @@
 var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 (function() {
-    //整理著：小飯(LittleRice)
+    //整理者：小飯(LittleRice)
     /**
      * 標籤
      * @type {string[]}
@@ -20,6 +20,39 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.12.12 アニソンパーティー始まるよ！！！
+      //['f5BzrI6mX_U', 370, 460, "Butter-Fly"],
+      //['f5BzrI6mX_U', 548, 643, "Wake up!"],
+      //['f5BzrI6mX_U', 760, 866, "気まぐれロマンティック"],
+      //['f5BzrI6mX_U', 1004, 1096, "ヒトリゴト"],
+      //['f5BzrI6mX_U', 1262, 1350, "ノスタルジックレインフォール"],
+      //['f5BzrI6mX_U', 1478, 1555, "シルエット"],
+      //['f5BzrI6mX_U', 1679, 1766, "あ・え・い・う・え・お・あお！！"],
+      //['f5BzrI6mX_U', 1892, 1986, "おジャ魔女カーニバル！！"],
+      //['f5BzrI6mX_U', 2083, 2157, "ムーンライト伝説"],
+      //['f5BzrI6mX_U', 2270, 2383, "ウィーアー！"],
+      //['f5BzrI6mX_U', 2523, 2617, "紅蓮の弓矢"],
+      //['f5BzrI6mX_U', 2703, 2790, "インフェルノ"],
+      //['f5BzrI6mX_U', 2887, 2994, "残酷な天使のテーゼ"],
+      //['f5BzrI6mX_U', 3214, 3367, "魂のルフラン"],
+      //['f5BzrI6mX_U', 3465, 3564, "God Knows..."],
+      //['f5BzrI6mX_U', 3668, 3774, "unravel"],
+      //['f5BzrI6mX_U', 3874, 3954, "タッチ"],
+      //['f5BzrI6mX_U', 4066, 4148, "DANZEN! ふたりはプリキュア"],
+      //['f5BzrI6mX_U', 4237, 4318, "ハレ晴レユカイ"],
+      //['f5BzrI6mX_U', 4428, 4536, "Daydream cafe"],
+      //['f5BzrI6mX_U', 4643, 4712, "檄！帝国華撃団"],
+      //['f5BzrI6mX_U', 4792, 4882, "そばかす"],
+      //['f5BzrI6mX_U', 4970, 5066, "ブルーバード"],
+      //['f5BzrI6mX_U', 5131, 5272, "フリージア"],
+      //['f5BzrI6mX_U', 5352, 5445, "天体観測"],
+      //['f5BzrI6mX_U', 5560, 5632, "光るなら"],
+      //['f5BzrI6mX_U', 5707, 5801, "ライオン"],
+      //['f5BzrI6mX_U', 5859, 5966, "炎"],
+      //['f5BzrI6mX_U', 6036, 6132, "Rising Hope"],
+      //['f5BzrI6mX_U', 6267, 6362, "創聖のアクエリオン"],
+        ['f5BzrI6mX_U', 6439, 6336, "ドレミファロンド"],
+
         //2020.12.05 4000人感謝LIVE開催！！！
         ['QfPeMclxfL4', 276, 411, "KING"],
         ['QfPeMclxfL4', 533, 746, "くらべられっ子"],
@@ -39,7 +72,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['QfPeMclxfL4', 4939, 5233, "secret base"],
         ['QfPeMclxfL4', 5324, 5554, "シンクロナイザー"],
       //['QfPeMclxfL4', 5693, 5816, "知りたい"],//有Cover的版本
-        ['QfPeMclxfL4', 5934, 6129, "ドレミファロンド"],
+      //['QfPeMclxfL4', 5934, 6129, "ドレミファロンド"],//new
 
         //2020.11.30 アイドルいきます！！！
         ['me3GNPlpoSA', 213, 426, "ヒロインなるもの"],
