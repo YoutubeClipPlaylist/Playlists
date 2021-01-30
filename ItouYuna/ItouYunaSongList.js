@@ -34,11 +34,11 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['me3GNPlpoSA', 3097, 3394, "Calc."],
         ['me3GNPlpoSA', 3500, 3833, "アヤノの幸福理論"],
         ['me3GNPlpoSA', 3905, 4095, "はなまるぴっぴはよいこだけ"],
-        ['me3GNPlpoSA', 0, 0, "ニア"],
-        ['me3GNPlpoSA', 0, 0, "高嶺の花子さん"],
-        ['me3GNPlpoSA', 0, 0, "かくしん的 めたまるふぉ～ぜっ!"],
-        ['me3GNPlpoSA', 0, 0, "ファンサ"],
-        ['me3GNPlpoSA', 0, 0, "ドレミファロンド"],
+        ['me3GNPlpoSA', 4178, 4421, "ニア"],
+        ['me3GNPlpoSA', 4520, 4812, "高嶺の花子さん"],
+        ['me3GNPlpoSA', 4899, 5109, "かくしん的 めたまるふぉ～ぜっ!"],
+        ['me3GNPlpoSA', 5303, 5548, "ファンサ"],
+        ['me3GNPlpoSA', 5664, 5861, "ドレミファロンド"],
 
         //2020.11.23 デビュー3ヶ月ありがとう❄🐾
         ['Fh1CehRKDmY', 314, 539, "行くぜっ!怪盗少女"],
