@@ -20,6 +20,27 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.12.05 4000人感謝LIVE開催！！！
+        ['QfPeMclxfL4', 276, 411, "KING"],
+        ['QfPeMclxfL4', 533, 746, "くらべられっ子"],
+        ['QfPeMclxfL4', 849, 1129, "ハロ/ハワユ"],
+      //['QfPeMclxfL4', 1221, 1486, "夜に駆ける"],//有Cover的版本
+        ['QfPeMclxfL4', 1577, 1793, "メランコリック"],
+        ['QfPeMclxfL4', 1874, 2077, "夜行"],
+        ['QfPeMclxfL4', 2161, 2183, "花に亡霊"],
+        ['QfPeMclxfL4', 2275, 2497, "丸の內サディスティック"],
+        ['QfPeMclxfL4', 2571, 2819, "チェリボム"],
+        ['QfPeMclxfL4', 2901, 3249, "あの夏が飽和する。"],
+        ['QfPeMclxfL4', 3356, 3540, "二息歩行"],
+        ['QfPeMclxfL4', 3616, 3876, "ワタシノテンシ"],
+        ['QfPeMclxfL4', 3968, 4200, "プライド革命"],
+        ['QfPeMclxfL4', 4261, 4513, "戀愛サーキュレーション"],
+        ['QfPeMclxfL4', 4615, 4850, "CheerS"],
+        ['QfPeMclxfL4', 4939, 5233, "secret base"],
+        ['QfPeMclxfL4', 5324, 5554, "シンクロナイザー"],
+      //['QfPeMclxfL4', 5693, 5816, "知りたい"],//有Cover的版本
+        ['QfPeMclxfL4', 5934, 6129, "ドレミファロンド"],
+
         //2020.11.30 アイドルいきます！！！
         ['me3GNPlpoSA', 213, 426, "ヒロインなるもの"],
         ['me3GNPlpoSA', 502, 753, "フライングゲット"],
@@ -38,7 +59,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['me3GNPlpoSA', 4520, 4812, "高嶺の花子さん"],
         ['me3GNPlpoSA', 4899, 5109, "かくしん的 めたまるふぉ～ぜっ!"],
         ['me3GNPlpoSA', 5303, 5548, "ファンサ"],
-        ['me3GNPlpoSA', 5664, 5861, "ドレミファロンド"],
+      //['me3GNPlpoSA', 5664, 5861, "ドレミファロンド"],//new
 
         //2020.11.23 デビュー3ヶ月ありがとう❄🐾
         ['Fh1CehRKDmY', 314, 539, "行くぜっ!怪盗少女"],
@@ -110,8 +131,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['fMHyKMghjCQ', 1773, 1972, "1925"],
         ['fMHyKMghjCQ', 2173, 2407, "紅蓮華"],
         ['fMHyKMghjCQ', 2513, 2899, "スパークル（君の名は。）"],
-        ['fMHyKMghjCQ', 2974, 3216, "メランコリック"],
-        ['fMHyKMghjCQ', 3293, 3531, "花に亡霊"],
+      //['fMHyKMghjCQ', 2974, 3216, "メランコリック"],//new
+      //['fMHyKMghjCQ', 3293, 3531, "花に亡霊"],//new
         ['fMHyKMghjCQ', 3603, 3875, "少女レイ"],
         ['fMHyKMghjCQ', 3949, 4142, "夜咄ディセイブ"],
         ['fMHyKMghjCQ', 4240, 4507, "吉原ラメント"],
@@ -121,7 +142,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['fMHyKMghjCQ', 5896, 6091, "ドレミファロンド "],//new
 
         //2020.10.26 今日も今日とて歌う🌟
-        ['q5S886m4d00', 309, 522, "くらべられっ子"],
+      //['q5S886m4d00', 309, 522, "くらべられっ子"],//new
         ['q5S886m4d00', 630, 873, "バレリーコ"],
         ['q5S886m4d00', 954, 1184, "青春なんていらないわ"],
         ['q5S886m4d00', 1249, 1553, "ひまわりの約束"],
@@ -170,7 +191,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['vRKSdZjF8lc', 3246, 3456, "ディスコミュ星人"],//new
         ['vRKSdZjF8lc', 3595, 3851, "秒針を噛む"],
         ['vRKSdZjF8lc', 3942, 4199, "妄想感傷代償連盟"],
-        ['vRKSdZjF8lc', 4300, 4582, "ハロ/ハワユ"],
+      //['vRKSdZjF8lc', 4300, 4582, "ハロ/ハワユ"],//new
         ['vRKSdZjF8lc', 4704, 4932, "ロクベル"],
         ['vRKSdZjF8lc', 5013, 5295, "ピエロ"],
         ['vRKSdZjF8lc', 5414, 5693, "前前前世"],
@@ -181,7 +202,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['wQA68grlLPc', 283, 479, "ベノム"],
       //['wQA68grlLPc', 584, 843, "夜に駆ける"],//有Cover的版本
         ['wQA68grlLPc', 980, 1238, "このピアノでお前を8759632145回ぶん殴る"],
-        ['wQA68grlLPc', 1363, 1599, "CheerS"],
+      //['wQA68grlLPc', 1363, 1599, "CheerS"],//new
         ['wQA68grlLPc', 1700, 1946, "全力バタンキュー"],
         ['wQA68grlLPc', 2085, 2351, "さようなら、花泥棒さん"],
         ['wQA68grlLPc', 2445, 2665, "恋愛裁判"],
@@ -226,7 +247,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['16OmDROLLhI', 3180, 3398, "チューリングラブ"],
       //['16OmDROLLhI', 3510, 3775, "心做し"],//new
         ['16OmDROLLhI', 3931, 4130, "ただ君に晴れ"],
-        ['16OmDROLLhI', 4270, 4404, "KING"],
+      //['16OmDROLLhI', 4270, 4404, "KING"],//new
       //['16OmDROLLhI', 4596, 4840, "ファンサ"],//new
       //['16OmDROLLhI', 4973, 5165, "おねがいダーリン"],//new
       //['16OmDROLLhI', 5308, 5504, "ドレミファロンド"],//new
@@ -252,7 +273,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['j1gyZtiOBP0', 2353, 2600, "カヌレ"],
         ['j1gyZtiOBP0', 2750, 2975, "東京サマーセッション"],
         ['j1gyZtiOBP0', 3099, 3385, "スキキライ"],
-        ['j1gyZtiOBP0', 3548, 3781, "プライド革命"],
+      //['j1gyZtiOBP0', 3548, 3781, "プライド革命"],//new
         ['j1gyZtiOBP0', 3983, 4206, "センパイ"],
         ['j1gyZtiOBP0', 4345, 4608, "アイのシナリオ"],
         ['j1gyZtiOBP0', 4754, 5023, "決戦スピリット"],
@@ -262,14 +283,14 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //2020.09.12 ユナライブへようこそ❄️🐾①
       //['BaSrzicFqE4', 230, 461, "青春なんていらないわ"],//new
       //['BaSrzicFqE4', 676, 829, "くらべられっ子"],//new
-        ['BaSrzicFqE4', 1065, 1227, "夜行"],
+      //['BaSrzicFqE4', 1065, 1227, "夜行"],//new
         ['BaSrzicFqE4', 1492, 1673, "モザイクロール"],
       //['BaSrzicFqE4', 1827, 2134, "夜明けと蛍"],//new
         ['BaSrzicFqE4', 2276, 2434, "告白予行練習"],
       //['BaSrzicFqE4', 2603, 2814, "深海少女"]//new
       // ['BaSrzicFqE4', 3010, 3260, "ワールドイズマイン"],//new
       //['BaSrzicFqE4', 3440, 3640, "気まぐれメルシィ"],//new
-        ['BaSrzicFqE4', 3825, 4072, "チェリボム"],
+      //['BaSrzicFqE4', 3825, 4072, "チェリボム"],//new
       //['BaSrzicFqE4', 4227, 4260, "恋愛サーキュレーション"],//new
         //2020.09.12 ユナライブへようこそ❄️🐾②
       //['tJD7BhkXHV8', 329, 545, "妄想税"],//new
@@ -283,17 +304,17 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['bvXG4UCuoCM', 1475, 1646, "Booo!"],//new
       //['bvXG4UCuoCM', 1794, 2009, "おじゃま虫"],//new
       //['bvXG4UCuoCM', 2171, 2406, "ハートアラモード"],//new
-        ['bvXG4UCuoCM', 2557, 2769, "二息歩行"],
+      //['bvXG4UCuoCM', 2557, 2769, "二息歩行"],//new
         ['bvXG4UCuoCM', 3038, 3237, "快晴"],
       //['bvXG4UCuoCM', 3394, 3629, "ウミユリ海底譚"],//new
       //['bvXG4UCuoCM', 3810, 3998, "いかないで"],//new
-        ['bvXG4UCuoCM', 4150, 4443, "secret base"],
+      //['bvXG4UCuoCM', 4150, 4443, "secret base"],//new
       //['bvXG4UCuoCM', 4601, 4796, "ドレミファロンド"],//new
 
         // 2020.08.31 夏の曲たくさん歌うよ～！！
         ['da9V--iWQlo', 278, 504, "夏祭り"],
         ['da9V--iWQlo', 648, 875, "夕景イエスタデイ"],
-        ['da9V--iWQlo', 1007, 1365, "あの夏が飽和する。"],
+      //['da9V--iWQlo', 1007, 1365, "あの夏が飽和する。"],//new
       //['da9V--iWQlo', 1496, 1746, "花に亡霊"],//new
         ['da9V--iWQlo', 1890, 2133, "如月アテンション"],
       //['da9V--iWQlo', 2247, 2525, "少女レイ"],//new
@@ -310,7 +331,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['i1Ei5evME30', 2014, 2264, "愛言葉Ⅲ"],//new
       //['i1Ei5evME30', 2388, 2633, "ファンサ"],//new
       //['i1Ei5evME30', 2762, 2961, "惑星ループ"],//new
-        ['i1Ei5evME30', 3154, 3383, "シンクロナイザー"],
+      //['i1Ei5evME30', 3154, 3383, "シンクロナイザー"],//new
       //['i1Ei5evME30', 3630, 3823, "ドレミファロンド"],//new
 
     ];
