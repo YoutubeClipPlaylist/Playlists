@@ -1,6 +1,6 @@
 var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 (function() {
-    //最初整理著：小飯(LittleRice)
+    //整理著：小飯(LittleRice)
     /**
      * 標籤
      * @type {string[]}
