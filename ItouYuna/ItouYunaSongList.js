@@ -20,6 +20,27 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.12.28 2020年ラスト歌枠🎶
+        ['JLKfH8F2CTY', 257, 471, "嗚呼、素晴らしきニャン生"],
+        ['JLKfH8F2CTY', 554, 724, "回る空うさぎ"],
+        ['JLKfH8F2CTY', 822, 1041, "十面相"],
+        ['JLKfH8F2CTY', 1193, 1424, "Calc."],
+        ['JLKfH8F2CTY', 1545, 1751, "カタオモイ"],
+        ['JLKfH8F2CTY', 1841, 2067, "妄想スケッチ"],
+        ['JLKfH8F2CTY', 2148, 2394, "愛言葉Ⅲ"],
+        ['JLKfH8F2CTY', 2511, 2824, "奏"],
+        ['JLKfH8F2CTY', 2977, 3231, "今好きになる。"],
+        ['JLKfH8F2CTY', 3335, 3586, "可愛くなりたい"],
+        ['JLKfH8F2CTY', 3750, 3973, "小さな恋のうた"],
+        ['JLKfH8F2CTY', 4122, 4343, "負けないで"],
+        ['JLKfH8F2CTY', 4482, 4771, "アイネクライネ"],
+        ['JLKfH8F2CTY', 4875, 5118, "恋"],
+        ['JLKfH8F2CTY', 5293, 5545, "恋愛サーキュレーション"],
+        ['JLKfH8F2CTY', 5677, 5922, "ファンサ"],
+        ['JLKfH8F2CTY', 6004, 6237, "千本桜"],
+        ['JLKfH8F2CTY', 6328, 6578, "おちゃめ機能"],
+        ['JLKfH8F2CTY', 6691, 6887, "ドレミファロンド"],
+
         //2020.12.24 クリスマスソング／backnumber
         ['j_2ZBliHt8U', 0, 0, "クリスマスソング"],
 
@@ -38,7 +59,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['nOmnsDGeyzo', 4185, 4407, "Darling"],
         ['nOmnsDGeyzo', 4482, 4682, "トゥインクル"],
         ['nOmnsDGeyzo', 4682, 4994, "初恋の絵本"],
-        ['nOmnsDGeyzo', 5414, 5610, "ドレミファロンド"],
+      //['nOmnsDGeyzo', 5414, 5610, "ドレミファロンド"],//new
 
         //2020.12.14 まだまだ歌い足りないっっ
         ['8nNoNODMLxc', 336, 564, "星間飛行"],
@@ -126,18 +147,18 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['me3GNPlpoSA', 2201, 2435, "ウミユリ海底譚"],
         ['me3GNPlpoSA', 2524, 2801, "God knows..."],
         ['me3GNPlpoSA', 2867, 3031, "テレキャスタービーボーイ"],
-        ['me3GNPlpoSA', 3097, 3394, "Calc."],
+      //['me3GNPlpoSA', 3097, 3394, "Calc."],'//new'
         ['me3GNPlpoSA', 3500, 3833, "アヤノの幸福理論"],
         ['me3GNPlpoSA', 3905, 4095, "はなまるぴっぴはよいこだけ"],
         ['me3GNPlpoSA', 4178, 4421, "ニア"],
         ['me3GNPlpoSA', 4520, 4812, "高嶺の花子さん"],
         ['me3GNPlpoSA', 4899, 5109, "かくしん的 めたまるふぉ～ぜっ!"],
-        ['me3GNPlpoSA', 5303, 5548, "ファンサ"],
+      //['me3GNPlpoSA', 5303, 5548, "ファンサ"],//new
       //['me3GNPlpoSA', 5664, 5861, "ドレミファロンド"],//new
 
         //2020.11.23 デビュー3ヶ月ありがとう❄🐾
         ['Fh1CehRKDmY', 314, 539, "行くぜっ!怪盗少女"],
-        ['Fh1CehRKDmY', 642, 890, "おちゃめ機能"],
+      //['Fh1CehRKDmY', 642, 890, "おちゃめ機能"],//new
         ['Fh1CehRKDmY', 967, 1231, "私、アイドル宣言"],
         ['Fh1CehRKDmY', 1352, 1540, "春を告げる"],
         ['Fh1CehRKDmY', 1625, 1867, "言って。"],
@@ -166,15 +187,15 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['fH9TNsYjl4c', 1646, 1849, "ダーリンダンス"],
         ['fH9TNsYjl4c', 1954, 2187, "chocolate box"],
         ['fH9TNsYjl4c', 2296, 2611, "瞬き"],
-        ['fH9TNsYjl4c', 2714, 2965, "可愛くなりたい"],
+      //['fH9TNsYjl4c', 2714, 2965, "可愛くなりたい"],//new
       //['fH9TNsYjl4c', 3079, 3334, "病名恋ワズライ"],//new
-        ['fH9TNsYjl4c', 3403, 3658, "今好きになる。"],
+      //['fH9TNsYjl4c', 3403, 3658, "今好きになる。"],//new
         ['fH9TNsYjl4c', 3740, 3983, "ミスター・ダーリン"],
-        ['fH9TNsYjl4c', 4057, 4264, "カタオモイ"],
+      //['fH9TNsYjl4c', 4057, 4264, "カタオモイ"],//new
         ['fH9TNsYjl4c', 4379, 4670, "どうぶつ占い"],
         ['fH9TNsYjl4c', 4750, 4942, "おねがいダーリン"],
       //['fH9TNsYjl4c', 5043, 5382, "君の知らない物語"],//new
-        ['fH9TNsYjl4c', 5507, 5753, "愛言葉Ⅲ"],
+      //['fH9TNsYjl4c', 5507, 5753, "愛言葉Ⅲ"],//new
       //['fH9TNsYjl4c', 5890, 6086, "ドレミファロンド"],//new
 
         //2020.11.09 ユナソングたくさん聴いてって😘
@@ -250,14 +271,14 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['hYbrtibjc20', 4523, 4785, "夢花火"],
       //['hYbrtibjc20', 4893, 5119, "Calc."],//new
         ['hYbrtibjc20', 5214, 5450, "ハートアラモード"],
-        ['hYbrtibjc20', 5537, 5776, "千本桜"],
+      //['hYbrtibjc20', 5537, 5776, "千本桜"],//new
       //['hYbrtibjc20', 5884, 6081, "ドレミファロンド"],//new
 
         //2020.10.12 感謝と愛を込めて歌います❄🐾
         ['vRKSdZjF8lc', 239, 595, "す一ぱーぬこになりたい"],
       //['vRKSdZjF8lc', 712, 942, "星間飛行"],//new
       //['vRKSdZjF8lc', 1067, 1317, "可愛くなりたい"],//new
-        ['vRKSdZjF8lc', 1414, 1667, "恋愛サーキュレーション"],
+      //['vRKSdZjF8lc', 1414, 1667, "恋愛サーキュレーション"],//new
         ['vRKSdZjF8lc', 1803, 2080, "白曰"],
         ['vRKSdZjF8lc', 2211, 2461, "香水"],
         ['vRKSdZjF8lc', 2572, 2828, "Happy birthday"],
@@ -285,7 +306,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['wQA68grlLPc', 3468, 3706, "弱虫モンブラン"],
       //['wQA68grlLPc', 3816, 4027, "スイートマジック "],//new
         ['wQA68grlLPc', 4153, 4408, "贖罪 "],
-        ['wQA68grlLPc', 4586, 4904, "奏"],
+      //['wQA68grlLPc', 4586, 4904, "奏"],//new
         ['wQA68grlLPc', 5007, 5240, "いーあるふぁんくらぶ"],
         ['wQA68grlLPc', 5452, 5683, "あの娘シークレット "],
       //['wQA68grlLPc', 5810, 6006, "ドレミファロンド "],//new
@@ -313,7 +334,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //2020.09.21 月曜日のユナライブ❄🐾
         ['16OmDROLLhI', 249, 447, "ノーダウト"],
         ['16OmDROLLhI', 575, 796, "丸の内サディスティック"],
-        ['16OmDROLLhI', 949, 1237, "アイネクライネ"],
+      //['16OmDROLLhI', 949, 1237, "アイネクライネ"],//new
         ['16OmDROLLhI', 1401, 1651, "さよならエレジー"],
       //['16OmDROLLhI', 1815, 2107, "高嶺の花子さん"],//new
         ['16OmDROLLhI', 2412, 2714, "マリーゴールド"],
