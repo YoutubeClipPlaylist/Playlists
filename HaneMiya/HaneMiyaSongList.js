@@ -20,8 +20,24 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
-        // 2021/1/10 新曲多め？！ sing a song
-        ['1N_j3LoqAwE', 120, 209, "くちづけDiamond Short"],
+        //2021.01.08 トワイライト急行【オリジナルMV】歌ってみた
+        ['enUcs0w45JA', 0, 0, "トワイライト急行"],
+
+        //2020.12.06 12月の歌枠【HoneyWorks縛り】
+        ['QxPgSLRP_QI', 599, 862, "私、アイドル宣言"],
+        ['QxPgSLRP_QI', 1249, 1495, "幸せ。"],
+        ['QxPgSLRP_QI', 1675, 1912, "金曜日のおはよう-another story-"],
+        ['QxPgSLRP_QI', 2159, 2418, "ワタシノテンシ"],
+        ['QxPgSLRP_QI', 2740, 2955, "ヒロイン育成計畫"],
+        ['QxPgSLRP_QI', 3126, 3325, "初戀の絵本"],
+        ['QxPgSLRP_QI', 3630, 3872, "戀色に咲け。"],
+        ['QxPgSLRP_QI', 4495, 4750, "病名戀ワズライ"],
+        ['QxPgSLRP_QI', 5251, 5502, "可愛くなりたい"],
+        ['QxPgSLRP_QI', 5715, 5960, "ファンサ"],
+        ['QxPgSLRP_QI', 6372, 6555, "ルマ"],
+
+        // 2020.11.01 【CrazyPartyNight】歌ってみた
+        ['QxPgSLRP_QI', 0, 0, "CrazyPartyNight"],
 
     ];
 
