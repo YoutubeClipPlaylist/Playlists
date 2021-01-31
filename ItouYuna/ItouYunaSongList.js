@@ -20,6 +20,26 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.01.04 5000人ありがとう歌枠 ❕🌟
+        ['S5cbNUfx83c', 375, 622, "セツナトリップ"],
+        ['S5cbNUfx83c', 703, 974, "ヒカリ証明論"],
+        ['S5cbNUfx83c', 1063, 1245, "チャイナアドバイス"],
+        ['S5cbNUfx83c', 1359, 1641, "完全放棄宣言"],
+        ['S5cbNUfx83c', 1743, 2039, "ライオン"],
+        ['S5cbNUfx83c', 2116, 2381, "からくりピエロ"],
+        ['S5cbNUfx83c', 2464, 2664, "ヴィラン"],
+        ['S5cbNUfx83c', 2748, 3020, "コネクト"],
+        ['S5cbNUfx83c', 3117, 3354, "unravel"],
+        ['S5cbNUfx83c', 3456, 3686, "ヒトリゴト"],
+        ['S5cbNUfx83c', 3783, 4026, "だから僕は音楽を辞めた"],
+        ['S5cbNUfx83c', 4139, 4489, "たばこ"],
+        ['S5cbNUfx83c', 4597, 4935, "なんでもないや"],
+        ['S5cbNUfx83c', 5042, 5312, "炎"],
+        ['S5cbNUfx83c', 5428, 5681, "Snow Halation"],
+        ['S5cbNUfx83c', 5793, 6074, "創聖のアクエリオン"],
+        ['S5cbNUfx83c', 6230, 6460, "シンクロナイザー"],
+        ['S5cbNUfx83c', 6603, 6798, "ドレミファロンド"],
+
         //2020.12.28 2020年ラスト歌枠🎶
         ['JLKfH8F2CTY', 257, 471, "嗚呼、素晴らしきニャン生"],
         ['JLKfH8F2CTY', 554, 724, "回る空うさぎ"],
@@ -39,7 +59,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['JLKfH8F2CTY', 5677, 5922, "ファンサ"],
         ['JLKfH8F2CTY', 6004, 6237, "千本桜"],
         ['JLKfH8F2CTY', 6328, 6578, "おちゃめ機能"],
-        ['JLKfH8F2CTY', 6691, 6887, "ドレミファロンド"],
+      //['JLKfH8F2CTY', 6691, 6887, "ドレミファロンド"],//new
 
         //2020.12.24 クリスマスソング／backnumber
         ['j_2ZBliHt8U', 0, 0, "クリスマスソング"],
@@ -132,7 +152,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['QfPeMclxfL4', 4261, 4513, "戀愛サーキュレーション"],
         ['QfPeMclxfL4', 4615, 4850, "CheerS"],
         ['QfPeMclxfL4', 4939, 5233, "secret base"],
-        ['QfPeMclxfL4', 5324, 5554, "シンクロナイザー"],
+      //['QfPeMclxfL4', 5324, 5554, "シンクロナイザー"],//new
       //['QfPeMclxfL4', 5693, 5816, "知りたい"],//有Cover的版本
       //['QfPeMclxfL4', 5934, 6129, "ドレミファロンド"],//new
 
@@ -231,7 +251,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['fMHyKMghjCQ', 3603, 3875, "少女レイ"],
         ['fMHyKMghjCQ', 3949, 4142, "夜咄ディセイブ"],
         ['fMHyKMghjCQ', 4240, 4507, "吉原ラメント"],
-        ['fMHyKMghjCQ', 4582, 4925, "たばこ"],
+      //['fMHyKMghjCQ', 4582, 4925, "たばこ"],//new
         ['fMHyKMghjCQ', 5031, 5380, "さよならミッドナイト"],
         ['fMHyKMghjCQ', 5496, 5728, "いかないで"],
       //['fMHyKMghjCQ', 5896, 6091, "ドレミファロンド "],//new
@@ -248,7 +268,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['q5S886m4d00', 3001, 3255, "Mrs.Pumpkinの滑稽な夢"],
       //['q5S886m4d00', 3348, 3542, "ボッカデラベリタ"],//new
         ['q5S886m4d00', 3610, 3838, "虎視眈々"],
-        ['q5S886m4d00', 3894, 4152, "からくりピエロ"],
+      //['q5S886m4d00', 3894, 4152, "からくりピエロ"],//new
         ['q5S886m4d00', 4227, 4445, "ヤキモチの答え-anther story-"],
         ['q5S886m4d00', 4510, 4797, "別の人の彼女になったよ"],
       //['q5S886m4d00', 4875, 5097, "カタオモイ"],//new
