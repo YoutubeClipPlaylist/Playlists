@@ -19,7 +19,9 @@ jobs:
           target-branch: minify
 
       - name: Minify Action
-        uses: anthonyftwang/minify-action@v1
+        # Temp issue fix: https://github.com/anthonyftwang/minify-action/pull/3
+        # uses: anthonyftwang/minify-action@v1
+        uses:  taylorsteiger-rad/minify-action@4f68b37abf8c78840b4dfbba9cd909d1dfbfaf4b
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
