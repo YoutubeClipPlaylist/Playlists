@@ -10,18 +10,18 @@
         }
     },
     {
-        "name": "QuonTamaBackupPlaylist",
+        "name": "QuonTamaBackupSongList",
         "tag": ["quon", "tama", "public", "gdrive"],
-        "route": "QuonTama/QuonTamaBackupPlaylist.jsonc",
+        "route": "QuonTama/QuonTamaBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
         }
     },
     {
-        "name": "QuonTamaMemberPlaylist",
+        "name": "QuonTamaMemberSongList",
         "tag": ["quon", "tama", "member"],
-        "route": "QuonTama/QuonTamaMemberPlaylist.jsonc",
+        "route": "QuonTama/QuonTamaMemberSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
@@ -38,9 +38,9 @@
     },
     // KariChan
     {
-        "name": "KariChanPlaylist",
+        "name": "KariChanSongList",
         "tag": ["Kari", "Chan", "public"],
-        "route": "KariChan/KariChanPlaylist.jsonc",
+        "route": "KariChan/KariChanSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
@@ -48,9 +48,9 @@
     },
     // KandukiAma
     {
-        "name": "KandukiAmaPlaylist",
+        "name": "KandukiAmaSongList",
         "tag": ["Kanduki", "Ama", "public"],
-        "route": "KandukiAma/KandukiAmaPlaylist.jsonc",
+        "route": "KandukiAma/KandukiAmaSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
@@ -58,9 +58,9 @@
     },
     // ItouYuna
     {
-        "name": "ItouYunaPlaylist",
+        "name": "ItouYunaSongList",
         "tag": ["Itou", "Yuna", "ItouYuna", "public"],
-        "route": "ItouYuna/ItouYunaPlaylist.jsonc",
+        "route": "ItouYuna/ItouYunaSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
@@ -68,9 +68,9 @@
     },
     // HaneMiya
     {
-        "name": "HaneMiyaPlaylist",
+        "name": "HaneMiyaSongList",
         "tag": ["Hane", "Miya", "HaneMiya", "public"],
-        "route": "HaneMiya/HaneMiyaPlaylist.jsonc",
+        "route": "HaneMiya/HaneMiyaSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
