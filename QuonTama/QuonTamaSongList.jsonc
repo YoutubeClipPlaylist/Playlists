@@ -6,6 +6,9 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 歌ってみた チューリングラブ
+    ["-qY5cAxu2N0", 0, 0, "チューリングラブ"],
+
     // 2021/1/31 新曲ご披露アニソンもあります💖 sing a song
     ["TGNebPsi8hw", 121, 379, "Don't say \"lazy\""],
     ["TGNebPsi8hw", 513, 759, "MOON SIGNAL"],
