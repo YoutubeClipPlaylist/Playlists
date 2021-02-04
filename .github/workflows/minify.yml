@@ -18,15 +18,14 @@ jobs:
         with:
           target-branch: minify
 
+      # Use https://github.com/Josee9988/MinifyAllCli
       - name: Minify Action
-        # Temp issue fix: https://github.com/anthonyftwang/minify-action/pull/3
-        # uses: anthonyftwang/minify-action@v1
-        uses:  taylorsteiger-rad/minify-action@4f68b37abf8c78840b4dfbba9cd909d1dfbfaf4b
+        run: 'npx @josee9988/minifyall -d .'
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: minify
-          commit_message: "Github Action: Auto Minified JS, CSS, HTML files"
+          commit_message: "Github Action: Auto Minified HTML CSS JSON JSONC"
           commit_user_name: Minify Action Bot # defaults to "GitHub Actions"
           commit_author: Minify Action Bot <actions@github.com> # defaults to author of the commit that triggered the run
