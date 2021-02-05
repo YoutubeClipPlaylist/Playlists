@@ -1,4 +1,5 @@
 # Playlists Repo
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/minify?label=LAST%20UPDATE&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors-anon/jim60105/Playlists?style=for-the-badge) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 
 此repo是 **[Youtube影片截選播放清單](https://github.com/jim60105/YoutubeClipPlaylist)** 專案的submodule，存放該專案的播放清單\
 如果有意參與編輯，請詳閱以下說明
