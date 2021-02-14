@@ -6,6 +6,27 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/2/14 甘々の可愛い曲をプレゼント🍫💕sing a song
+    ["n4O4D8TXBKk", 156, 389, "ふわふわ時間"],
+    ["n4O4D8TXBKk", 561, 834, "青空のラプソディ"],
+    ["n4O4D8TXBKk", 1160, 1417, "恋愛サーキュレーション"],
+    ["n4O4D8TXBKk", 1504, 1757, "白金ディスコ"],
+    ["n4O4D8TXBKk", 1880, 2121, "CheerS"],
+    ["n4O4D8TXBKk", 2270, 2361, "Girlish Lover Short"],
+    ["n4O4D8TXBKk", 2420, 2513, "チカっとチカ千花っ Short"],
+    // ["n4O4D8TXBKk", 2630, 2722, "あ・え・い・う・え・お・あお!! Short"],
+    ["n4O4D8TXBKk", 2749, 2842, "にめんせい☆ウラオモテライフ Short"],
+    ["n4O4D8TXBKk", 3061, 3272, "かくしん的☆めたまるふぉ〜ぜっ!"],
+    ["n4O4D8TXBKk", 3395, 3640, "Baby Sweet Berry Love"],
+    ["n4O4D8TXBKk", 3758, 3970, "ハレ晴レユカイ"],
+    ["n4O4D8TXBKk", 4072, 4302, "Daydream café"],
+    ["n4O4D8TXBKk", 4511, 4754, "恋は渾沌の隷也"],
+    ["n4O4D8TXBKk", 4814, 5049, "太陽曰く燃えよカオス"],
+    ["n4O4D8TXBKk", 5273, 5492, "ヒロイン育成計画"],
+    ["n4O4D8TXBKk", 5580, 5844, "私、アイドル宣言"],
+    ["n4O4D8TXBKk", 6017, 6247, "星間飛行"],
+    // ["n4O4D8TXBKk", 6299, 6468, "夜もすがら君想ふ ED"],
+
     // #4【ラジオQtama】アニメ『五等分の花嫁』を語る！
     ["Vh6OFkaBmho", 1662,1775,"アイモ Acapella"],
 
@@ -199,7 +220,7 @@
     ["YVwC8zTXbsY", 1046, 1322, "白日"],
     // ["YVwC8zTXbsY", 1513, 1794, "謎"], //New2/8
     ["YVwC8zTXbsY", 2145, 2477, "六等星の夜"],
-    ["YVwC8zTXbsY", 2619, 2870, "白金ディスコ"],
+    // ["YVwC8zTXbsY", 2619, 2870, "白金ディスコ"], //New2/14
     ["YVwC8zTXbsY", 2958, 3235, "七転八起☆至上主義!"],
     ["YVwC8zTXbsY", 3498, 3734, "ラピスラズリ"],
     ["YVwC8zTXbsY", 3911, 4268, "うたかた花火"],
@@ -310,19 +331,19 @@
     // ["1pnlXQIswws", 4300, 4581, "前前前世"], //New1/24
     // ["1pnlXQIswws", 4612, 4863, "空色デイズ"], //New1/31
     ["1pnlXQIswws", 4916, 5142, "だってアタシのヒーロー。"],
-    ["1pnlXQIswws", 5182, 5423, "CheerS"],
+    // ["1pnlXQIswws", 5182, 5423, "CheerS"], //New2/14
     ["1pnlXQIswws", 5463, 5704, "ツキアカリのミチシルベ"],
     ["1pnlXQIswws", 5773, 6022, "Departures〜あなたにおくるアイの歌〜"],
     // ["1pnlXQIswws", 6072, 6324, "となりのトトロ"], //New12/11
     ["1pnlXQIswws", 6402, 6659, "ないものねだり"],
-    ["1pnlXQIswws", 6697, 6787, "にめんせい☆ウラオモテライフ"],
+    // ["1pnlXQIswws", 6697, 6787, "にめんせい☆ウラオモテライフ"], //New2/14
     ["1pnlXQIswws", 6849, 7072, "すーぱーぬこになりたい"],
     // ["1pnlXQIswws", 7115, 7385, "猫"], //New2/5
     ["1pnlXQIswws", 7458, 7767, "ノーザンクロス"],
     // ["1pnlXQIswws", 8920, 9185, "破滅の純情"], //New2/8
     ["1pnlXQIswws", 9252, 9483, "ヒトリゴト"],
     // ["1pnlXQIswws", 9627, 9951, "フリージア"],
-    ["1pnlXQIswws", 10051, 10296, "Baby Sweet Berry Love"],
+    // ["1pnlXQIswws", 10051, 10296, "Baby Sweet Berry Love"], //New2/14
     // ["1pnlXQIswws", 10445, 10715, "炎"],
     ["1pnlXQIswws", 10818, 11155, "My Dearest"],
     ["1pnlXQIswws", 11238, 11509, "三日月"],
@@ -424,10 +445,10 @@
     // ["CIhkUQWrAI0", 1553, 1822, "コネクト"], //New2/8
     ["CIhkUQWrAI0", 2065, 2376, "secret base ～君がくれたもの～"],
     // ["CIhkUQWrAI0", 2483, 2760, "God Knows..."], //New12/6
-    ["CIhkUQWrAI0", 2880, 3136, "恋愛サーキュレーション"],
+    // ["CIhkUQWrAI0", 2880, 3136, "恋愛サーキュレーション"], //New2/14
     ["CIhkUQWrAI0", 3325, 3665, "君の知らない物語"],
     // ["CIhkUQWrAI0", 3814, 4051, "unravel"], //New12/31
-    ["CIhkUQWrAI0", 4184, 4413, "星間飛行"],
+    // ["CIhkUQWrAI0", 4184, 4413, "星間飛行"], //New2/14
     // ["CIhkUQWrAI0", 4568, 4868, "ライオン"], //New12/6
     // ["CIhkUQWrAI0", 5066, 5300, "紅蓮華"],
     //["CIhkUQWrAI0", 5412, 5581, "夜もすがら君想ふ ED"],
@@ -481,7 +502,7 @@
     // ["P2lQSYdJLao", 1838, 2049, "インフェルノ"], //New12/6
     // ["P2lQSYdJLao", 2366, 2459, "侵略ノススメ Short"], //New1/17
     ["P2lQSYdJLao", 2630, 2735, "打打打打打打打打打打 Short"],
-    ["P2lQSYdJLao", 2903, 3139, "恋は渾沌の隷也"],
+    // ["P2lQSYdJLao", 2903, 3139, "恋は渾沌の隷也"], //New2/14
     ["P2lQSYdJLao", 3318, 3538, "Let It Go"],
     // ["P2lQSYdJLao", 3840, 4110, "I will..."], //New12/6
     // ["P2lQSYdJLao", 4334, 4588, "Here"], //New12/31
@@ -550,7 +571,7 @@
     // ["ETjgki1sSgc", 2570, 2926, "うたかた花火"], //New12/27
     // ["ETjgki1sSgc", 2995, 3269, "Rally Go Round"], //New11/15
     // ["ETjgki1sSgc", 3379, 3628, "only my railgun"], //New11/15
-    ["ETjgki1sSgc", 3855, 4067, "ハレ晴レユカイ"],
+    // ["ETjgki1sSgc", 3855, 4067, "ハレ晴レユカイ"], //New2/14
     // ["ETjgki1sSgc", 4328, 4595, "カラフル"], //New12/6
     ["ETjgki1sSgc", 4750, 4986, "magnet"],
     ["ETjgki1sSgc", 5189, 5480, "だれかの心臓になれたなら"],
@@ -726,7 +747,7 @@
     ["IL4jXmjciOM", 428, 519, "Bravely You Short"],
     ["IL4jXmjciOM", 649, 758, "Little Busters! Short"],
     // ["IL4jXmjciOM", 862, 956, "Butter-fly Short"], //New11/29 和田光司
-    ["IL4jXmjciOM", 1059, 1158, "太陽曰く燃えよカオス Short"],
+    // ["IL4jXmjciOM", 1059, 1158, "太陽曰く燃えよカオス Short"], //New2/14
     // ["IL4jXmjciOM", 1233, 1336, "Hacking to the Gate Short"], //New1/17
     ["IL4jXmjciOM", 1483, 1577, "シリウス Short"],
     // ["IL4jXmjciOM", 1578, 1674, "流星 Short"], //New9/25
@@ -790,11 +811,11 @@
     // ["AxY3M8pYoXY", 202, 482, "Deal with the devil"], //New1/17
     // ["AxY3M8pYoXY", 648, 912, "コネクト"], //New11/19
     // ["AxY3M8pYoXY", 1048, 1359, "only my railgun"], //New10/18
-    ["AxY3M8pYoXY", 1475, 1567, "チカっとチカ千花っ♡"],
+    // ["AxY3M8pYoXY", 1475, 1567, "チカっとチカ千花っ♡"], //New2/14
     // ["AxY3M8pYoXY", 1714, 1992, "創聖のアクエリオン"], //New10/4
     // ["AxY3M8pYoXY", 2077, 2367, "一番の宝物"], //New12/13
     // ["AxY3M8pYoXY", 2492, 2757, "Alchemy"], //New9/18
-    ["AxY3M8pYoXY", 2886, 3094, "かくしん的☆めたまるふぉ〜ぜっ!"],
+    // ["AxY3M8pYoXY", 2886, 3094, "かくしん的☆めたまるふぉ〜ぜっ!"], //New2/14
     ["AxY3M8pYoXY", 3244, 3511, "春擬き"],
     // ["AxY3M8pYoXY", 3547, 3798, "カワキヲアメク"], //New10/4
     // ["AxY3M8pYoXY", 3976, 4316, "射手座☆午後九時 Don"t be late"], //New10/2
@@ -809,7 +830,7 @@
     ["_Ejha-aifWg", 1683, 1878, "ベノム"],
     // ["_Ejha-aifWg", 1993, 2258, "右肩の蝶"], //New11/13
     ["_Ejha-aifWg", 2578, 2662, "だから僕は音楽を辞めた Short"],
-    ["_Ejha-aifWg", 2708, 2949, "ふわふわ時間"],
+    // ["_Ejha-aifWg", 2708, 2949, "ふわふわ時間"], //New2/14
     // ["_Ejha-aifWg", 3048, 3182, "KING"], //New11/13
     ["_Ejha-aifWg", 3352, 3523, "グッバイ宣言"],
     // ["_Ejha-aifWg", 3753, 4064, "名前のない怪物"], //New12/13
