@@ -36,16 +36,16 @@
             "url": "https://github.com/jim60105"
         }
     },
-    // KariChan
-    {
-        "name": "KariChanSongList",
-        "tag": ["Kari", "Chan", "public"],
-        "route": "KariChan/KariChanSongList.jsonc",
-        "maintainer": {
-            "name": "LittleRice",
-            "url": "https://github.com/LittleRice1007"
-        }
-    },
+    // // KariChan
+    // {
+    //     "name": "KariChanSongList",
+    //     "tag": ["Kari", "Chan", "public"],
+    //     "route": "KariChan/KariChanSongList.jsonc",
+    //     "maintainer": {
+    //         "name": "LittleRice",
+    //         "url": "https://github.com/LittleRice1007"
+    //     }
+    // },
     // KandukiAma
     {
         "name": "KandukiAmaSongList",
