@@ -6,6 +6,9 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 歌ってみた Paradisus Paradoxum
+    ["-iddlnvOoPU", 0, 0, "Paradisus Paradoxum"],
+
     // 2021/2/28 定期歌枠もアニソン攻め！sing a song
     ["rzFnxdTCgD8", 109, 347, "気まぐれロマンティック"],
     ["rzFnxdTCgD8", 669, 967, "平行線"],
@@ -283,7 +286,7 @@
     ["YVwC8zTXbsY", 2958, 3235, "七転八起☆至上主義!"],
     ["YVwC8zTXbsY", 3498, 3734, "ラピスラズリ"],
     // ["YVwC8zTXbsY", 3911, 4268, "うたかた花火"], //New2/21
-    ["YVwC8zTXbsY", 4393, 4623, "Paradisus-Paradoxum"],
+    // ["YVwC8zTXbsY", 4393, 4623, "Paradisus-Paradoxum"],
     // ["YVwC8zTXbsY", 4823, 5074, "again"], //New1/31
     ["YVwC8zTXbsY", 5181, 5505, "The Everlasting Guilty Crown"],
     // ["YVwC8zTXbsY", 5758, 6006, "Rising Hope"], //New2/21
