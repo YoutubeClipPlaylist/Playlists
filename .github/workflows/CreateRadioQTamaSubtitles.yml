@@ -28,3 +28,31 @@ jobs:
           commit_message: "Github Action: Fetch and recreate RadioQTama subtitles"
           commit_user_name: Github Action Bot # defaults to "GitHub Actions"
           commit_author: Github Action Bot <actions@github.com> # defaults to author of the commit that triggered the run
+
+  Auto_PR_and_Merge:
+    needs: CreateRadioQTamaSubtitles_Action
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: QuonTama
+
+      - name: Git Auto PR
+        uses: repo-sync/pull-request@v2
+        id: open-pr
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # be explicit about branches
+          source_branch: "QuonTama"
+          destination_branch: "master"
+          pr_title: "QuonTama to master auto PR"
+          pr_body: ":robot: Automated PR from **QuonTama** to **master**"
+          pr_label: "automerge"
+
+      - name: Git Auto Merge
+        uses: KeisukeYamashita/auto-pull-request-merge@v1
+        with:
+          checkStatus: false
+          labels: "automerge"
+          pullRequestNumber: ${{steps.open-pr.outputs.pr_number}}
+
