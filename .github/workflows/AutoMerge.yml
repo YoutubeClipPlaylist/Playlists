@@ -13,20 +13,23 @@ jobs:
         with:
           github-token: '${{ secrets.GITHUB_TOKEN }}'
 
-      # Give label '🚦status:to-merge'
       - name: Give label
-        uses: amblerhq/gh-actions-pr-reviewstatus-labeler@v1
+        uses: buildsville/add-remove-label@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{secrets.GITHUB_TOKEN}}
+          label: 'automerge'
+          type: add
 
       - name: Git Auto Merge
         uses: plm9606/automerge_actions@1.2.2
         with:
           github-token: ${{ secrets.MY_GITHUB_TOKEN }} # Trigger Minify workflow
           merge-method: merge
-          label-name: '🚦status:to-merge'
+          label-name: 'automerge'
 
       - name: Remove label
-        uses: rogerluan/label-remover@v1.0.0
+        uses: buildsville/add-remove-label@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{secrets.GITHUB_TOKEN}}
+          label: 'automerge'
+          type: remove
