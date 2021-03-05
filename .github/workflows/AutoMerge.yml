@@ -1,0 +1,18 @@
+name: Automatically Merge PR
+on:
+  pull_request:
+
+jobs:
+  Auto_Approve_and_Merge_PRs:
+    name: Auto Approve and Merge PRs
+    runs-on: ubuntu-latest
+    if: github.actor == 'actions-user[bot]' || github.actor == 'jim60105'
+    steps:
+    - uses: hmarr/auto-approve-action@v2.0.0
+      with:
+        github-token: "${{ secrets.GITHUB_TOKEN }}"
+    - name: Git Auto Merge
+      uses: reitermarkus/automerge@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        merge-method: merge
