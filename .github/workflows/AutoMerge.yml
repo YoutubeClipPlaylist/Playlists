@@ -8,18 +8,25 @@ jobs:
     runs-on: ubuntu-latest
     if: github.actor == 'actions-user[bot]' || github.actor == 'jim60105'
     steps:
-    - name: Auto approve
-      uses: hmarr/auto-approve-action@v2.0.0
-      with:
-        github-token: "${{ secrets.GITHUB_TOKEN }}"
+      - name: Auto approve
+        uses: hmarr/auto-approve-action@v2.0.0
+        with:
+          github-token: '${{ secrets.GITHUB_TOKEN }}'
 
-    - uses: amblerhq/gh-actions-pr-reviewstatus-labeler@v1
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Give label '🚦status:to-merge'
+      - name: Give label
+        uses: amblerhq/gh-actions-pr-reviewstatus-labeler@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Git Auto Merge
-      uses: plm9606/automerge_actions@1.2.2
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        merge-method: merge
-        label-name: '🚦status:to-merge'
+      - name: Git Auto Merge
+        uses: plm9606/automerge_actions@1.2.2
+        with:
+          github-token: ${{ secrets.MY_GITHUB_TOKEN }} # Trigger Minify workflow
+          merge-method: merge
+          label-name: '🚦status:to-merge'
+
+      - name: Remove label
+        uses: rogerluan/label-remover@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
