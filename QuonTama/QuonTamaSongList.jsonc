@@ -6,6 +6,24 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/3/14 ホワイトデーに恋愛ソングを歌います💕sing a song
+    ["GcIryP1m8yk", 106, 416, "世界は恋に落ちている"],
+    ["GcIryP1m8yk", 674, 940, "sugar sweet nightmare"],
+    ["GcIryP1m8yk", 1104, 1446, "君の知らない物語"],
+    ["GcIryP1m8yk", 1578, 1848, "春擬き"],
+    ["GcIryP1m8yk", 1993, 2220, "フィクション"],
+    ["GcIryP1m8yk", 2362, 2613, "DADDY! DADDY! DO!"],
+    ["GcIryP1m8yk", 2761, 3011, "Departures〜あなたにおくるアイの歌〜"],
+    ["GcIryP1m8yk", 3194, 3519, "放課後オーバーフロウ"],
+    ["GcIryP1m8yk", 3711, 3994, "打上花火"],
+    ["GcIryP1m8yk", 4067, 4262, "ハルジオン"],
+    ["GcIryP1m8yk", 4455, 4693, "金曜日のおはよう"],
+    ["GcIryP1m8yk", 4760, 5013, "可愛くなりたい"],
+    ["GcIryP1m8yk", 5106, 5422, "センパイ。"],
+    ["GcIryP1m8yk", 5592, 5819, "東京サマーセッション"],
+    ["GcIryP1m8yk", 5956, 6236, "トライアングラー"], //坂本真綾
+    // ["GcIryP1m8yk", 6288, 6459, "夜もすがら君想ふ ED"],
+
     // 歌ってみた スペシャルガール
     ["RoCFHiP6H0o", 0, 0, "スペシャルガール"], //久遠たま & 宇津木沙和
 
@@ -80,7 +98,7 @@
     ["9bLORkCTZt4", 2241, 2496, "Butter-Fly"], //和田光司
     ["9bLORkCTZt4", 2617, 2866, "only my railgun"],
     ["9bLORkCTZt4", 2982, 3042, "旅立ちの日に Short Acapella"],
-    ["9bLORkCTZt4", 3121, 3463, "君の知らない物語"],
+    // ["9bLORkCTZt4", 3121, 3463, "君の知らない物語"], //New3/14
     ["9bLORkCTZt4", 3715, 3968, "残酷な天使のテーゼ"],
     ["9bLORkCTZt4", 4106, 4351, "crossing field"],
     ["9bLORkCTZt4", 4403, 4681, "Catch the Moment"],
@@ -97,7 +115,7 @@
     ["cb9LeRh3lys", 1597, 1953, "うたかた花火"],
     ["cb9LeRh3lys", 2048, 2325, "シルシ"],
     ["cb9LeRh3lys", 2380, 2672, "unlasting"],
-    ["cb9LeRh3lys", 2786, 3036, "Departures〜あなたにおくるアイの歌〜"],
+    // ["cb9LeRh3lys", 2786, 3036, "Departures〜あなたにおくるアイの歌〜"], //New3/14
     ["cb9LeRh3lys", 3116, 3462, "オレンジ"], //7!!
     ["cb9LeRh3lys", 3594, 3894, "春はゆく"],
     // ["cb9LeRh3lys", 4045, 4369, "フリージア"],
@@ -150,7 +168,7 @@
     ["Wxrg0QO2tA0", 5072, 5393, "STAR BEAT～ホシノコドウ～"],
     ["Wxrg0QO2tA0", 5492, 5777, "謎"],
     ["Wxrg0QO2tA0", 5962, 6198, "プライド革命"],
-    ["Wxrg0QO2tA0", 6289, 6569, "トライアングラー"], //坂本真綾
+    // ["Wxrg0QO2tA0", 6289, 6569, "トライアングラー"], //坂本真綾 New3/14
     // ["Wxrg0QO2tA0", 6657, 6828, "夜もすがら君想ふ ED"],
     
     // 2021/2/5 ピアノで心をリラックス🎹🎶sing a song
@@ -184,7 +202,7 @@
     ["TGNebPsi8hw", 3489, 3738, "again"],
     ["TGNebPsi8hw", 3832, 4056, "ヒッチコック"],
     ["TGNebPsi8hw", 4157, 4403, "花に亡霊"],
-    ["TGNebPsi8hw", 4497, 4747, "可愛くなりたい"],
+    // ["TGNebPsi8hw", 4497, 4747, "可愛くなりたい"], //New3/14
     ["TGNebPsi8hw", 4848, 5101, "今日もサクラ舞う暁に"],
     ["TGNebPsi8hw", 5189, 5481, "深愛"], //New2/8
     ["TGNebPsi8hw", 5676, 5922, "ファンサ"],
@@ -214,11 +232,11 @@
     // ["T6pz-eJsG_4", 6943, 7112, "夜もすがら君想ふ ED"],
 
     // 2021/1/24 男性アニソン曲限定🌟 sing a song
-    ["uwdWYIYpiJc", 112, 363, "DADDY! DADDY! DO!"],
+    // ["uwdWYIYpiJc", 112, 363, "DADDY! DADDY! DO!"], //New3/14
     // ["uwdWYIYpiJc", 597, 809, "インフェルノ"], //New2/21
     ["uwdWYIYpiJc", 948, 1050, "紅蓮の弓矢 Short"],
     ["uwdWYIYpiJc", 1081, 1170, "自由の翼 Short"],
-    ["uwdWYIYpiJc", 1454, 1681, "フィクション"],
+    // ["uwdWYIYpiJc", 1454, 1681, "フィクション"], //New3/14
     ["uwdWYIYpiJc", 1844, 2091, "狂乱 Hey Kids!!"],
     ["uwdWYIYpiJc", 2275, 2546, "メリッサ"],
     ["uwdWYIYpiJc", 2660, 2864, "嘘"],
@@ -244,7 +262,7 @@
     ["BpU0aySc0G4", 2265, 2549, "Deal with the devil"],
     // ["BpU0aySc0G4", 2650, 2869, "ダダダダ天使"],
     ["BpU0aySc0G4", 3020, 3083, "ニンジーン Loves you yeah!"],
-    ["BpU0aySc0G4", 3161, 3486, "放課後オーバーフロウ"],
+    // ["BpU0aySc0G4", 3161, 3486, "放課後オーバーフロウ"], //New3/14
     ["BpU0aySc0G4", 3626, 3975, "射手座☆午後九時Don\t be late"],
     ["BpU0aySc0G4", 4156, 4249, "エブリデイワールド Short"],
     ["BpU0aySc0G4", 4489, 4581, "侵略ノススメ Short"],
@@ -393,7 +411,7 @@
     ["jHeW6Wm0zK4", 941, 1201, "月灯り"],
     ["jHeW6Wm0zK4", 1328, 1646, "trust you"],
     // ["jHeW6Wm0zK4", 1782, 2057, "Sincerely"], //New12/22
-    // ["jHeW6Wm0zK4", 2170, 2449, "トライアングラー"], //New2/8
+    // ["jHeW6Wm0zK4", 2170, 2449, "トライアングラー"], //坂本真綾 New2/8
     // ["jHeW6Wm0zK4", 2614, 2982, "鳥の詩"], //New2/5
     // ["jHeW6Wm0zK4", 3051, 3411, "一番の宝物"], //New2/21
     // ["jHeW6Wm0zK4", 3496, 3773, "Shangri-La"], //New12/31
@@ -495,8 +513,8 @@
     // ["2KMm0BPu640", 1072, 1342, "メリッサ"], //New12/6
     // ["2KMm0BPu640", 1483, 1687, "嘘"], //New1/24
     // ["2KMm0BPu640", 1990, 2230, "ツキアカリのミチシルベ"], //New12/6
-    ["2KMm0BPu640", 2336, 2602, "sugar sweet nightmare"],
-    ["2KMm0BPu640", 2794, 3077, "打上花火"],
+    // ["2KMm0BPu640", 2336, 2602, "sugar sweet nightmare"], //New3/14
+    // ["2KMm0BPu640", 2794, 3077, "打上花火"], //New3/14
     ["2KMm0BPu640", 3151, 3408, "sister's noise"],
     // ["2KMm0BPu640", 3626, 3887, "LEVEL5"], //New1/31
     // ["2KMm0BPu640", 4103, 4354, "空色デイズ"], //New12/6
@@ -921,7 +939,7 @@
     // ["AxY3M8pYoXY", 2077, 2367, "一番の宝物"], //New12/13
     // ["AxY3M8pYoXY", 2492, 2757, "Alchemy"], //New9/18
     // ["AxY3M8pYoXY", 2886, 3094, "かくしん的☆めたまるふぉ〜ぜっ!"], //New2/14
-    ["AxY3M8pYoXY", 3244, 3511, "春擬き"],
+    // ["AxY3M8pYoXY", 3244, 3511, "春擬き"], //New3/14
     // ["AxY3M8pYoXY", 3547, 3798, "カワキヲアメク"], //New10/4
     // ["AxY3M8pYoXY", 3976, 4316, "射手座☆午後九時 Don"t be late"], //New10/2
     // ["AxY3M8pYoXY", 4497, 4767, "いけないボーダーライン"], //New10/4
