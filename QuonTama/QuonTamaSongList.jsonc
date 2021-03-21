@@ -6,6 +6,27 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/3/21 古き良きアニソンを歌う✨sing a song
+    ["t2NqN7-IyLc", 108, 341, "ゆずれない願い"],
+    ["t2NqN7-IyLc", 546, 797, "空色デイズ"],
+    ["t2NqN7-IyLc", 962, 1233, "メリッサ"],
+    ["t2NqN7-IyLc", 1359, 1613, "Butter-fly"], //和田光司
+    ["t2NqN7-IyLc", 1703, 1963, "オリオンをなぞる"],
+    ["t2NqN7-IyLc", 2134, 2417, "謎"],
+    ["t2NqN7-IyLc", 2633, 2886, "そばかす"],
+    ["t2NqN7-IyLc", 3049, 3227, "檄！帝国華撃団"],
+    ["t2NqN7-IyLc", 3335, 3656, "魂のルフラン"],
+    ["t2NqN7-IyLc", 3742, 3879, "キューティーハニー"],
+    ["t2NqN7-IyLc", 4013, 4203, "タッチ"],
+    ["t2NqN7-IyLc", 4332, 4492, "ラムのラブソング"],
+    ["t2NqN7-IyLc", 4806, 4975, "ムーンライト伝説"],
+    ["t2NqN7-IyLc", 5116, 5355, "めざせポケモンマスター"],
+    ["t2NqN7-IyLc", 5522, 5774, "残酷な天使のテーゼ"],
+    // ["t2NqN7-IyLc", 5814, 5984, "夜もすがら君想ふ ED"],
+
+    // 歌ってみた WILL
+    ["3XLPCGuSs5w", 0, 0, "WILL"],
+
     // sAO
     ["_uPqhToYzmI", 0, 0, "sAO"],
 
@@ -121,11 +142,11 @@
     ["9bLORkCTZt4", 856, 1133, "God Knows..."],
     ["9bLORkCTZt4", 1346, 1572, "おジャ魔女カーニバル"],
     ["9bLORkCTZt4", 1839, 2109, "コネクト"],
-    ["9bLORkCTZt4", 2241, 2496, "Butter-Fly"], //和田光司
+    // ["9bLORkCTZt4", 2241, 2496, "Butter-Fly"], //和田光司 //New3/21
     ["9bLORkCTZt4", 2617, 2866, "only my railgun"],
     ["9bLORkCTZt4", 2982, 3042, "旅立ちの日に Short Acapella"],
     // ["9bLORkCTZt4", 3121, 3463, "君の知らない物語"], //New3/14
-    ["9bLORkCTZt4", 3715, 3968, "残酷な天使のテーゼ"],
+    // ["9bLORkCTZt4", 3715, 3968, "残酷な天使のテーゼ"], //New3/21
     ["9bLORkCTZt4", 4106, 4351, "crossing field"],
     ["9bLORkCTZt4", 4403, 4681, "Catch the Moment"],
     ["9bLORkCTZt4", 4895, 5210, "ETERNAL BLAZE"],
@@ -192,7 +213,7 @@
     // ["Wxrg0QO2tA0", 4311, 4569, "僕らの戦場"],
     ["Wxrg0QO2tA0", 4703, 4950, "インフィニティ"],
     ["Wxrg0QO2tA0", 5072, 5393, "STAR BEAT～ホシノコドウ～"],
-    ["Wxrg0QO2tA0", 5492, 5777, "謎"],
+    // ["Wxrg0QO2tA0", 5492, 5777, "謎"], //New3/21
     ["Wxrg0QO2tA0", 5962, 6198, "プライド革命"],
     // ["Wxrg0QO2tA0", 6289, 6569, "トライアングラー"], //坂本真綾 New3/14
     // ["Wxrg0QO2tA0", 6657, 6828, "夜もすがら君想ふ ED"],
@@ -220,7 +241,7 @@
     ["TGNebPsi8hw", 121, 379, "Don't say \"lazy\""],
     ["TGNebPsi8hw", 513, 759, "MOON SIGNAL"],
     ["TGNebPsi8hw", 975, 1215, "Time after time ～花舞う街で～"],
-    ["TGNebPsi8hw", 1489, 1739, "空色デイズ"],
+    // ["TGNebPsi8hw", 1489, 1739, "空色デイズ"], //New3/21
     ["TGNebPsi8hw", 2069, 2329, "LEVEL5 -judgelight-"],
     ["TGNebPsi8hw", 2428, 2643, "バラライカ"],
     ["TGNebPsi8hw", 2848, 3065, "マジLOVE1000%"],
@@ -264,7 +285,7 @@
     ["uwdWYIYpiJc", 1081, 1170, "自由の翼 Short"],
     // ["uwdWYIYpiJc", 1454, 1681, "フィクション"], //New3/14
     ["uwdWYIYpiJc", 1844, 2091, "狂乱 Hey Kids!!"],
-    ["uwdWYIYpiJc", 2275, 2546, "メリッサ"],
+    // ["uwdWYIYpiJc", 2275, 2546, "メリッサ"], //New3/21
     ["uwdWYIYpiJc", 2660, 2864, "嘘"],
     // ["uwdWYIYpiJc", 3006, 3234, "君じゃなきゃダメみたい"], //New3/17
     ["uwdWYIYpiJc", 3492, 3729, "シルエット"],
@@ -272,7 +293,7 @@
     ["uwdWYIYpiJc", 4313, 4562, "シュガーソングとビターステップ"],
     ["uwdWYIYpiJc", 4717, 4997, "前前前世"],
     // ["uwdWYIYpiJc", 5104, 5360, "Butter-Fly"], //和田光司 //New2/21
-    ["uwdWYIYpiJc", 5457, 5717, "オリオンをなぞる"],
+    // ["uwdWYIYpiJc", 5457, 5717, "オリオンをなぞる"], //New3/21
     ["uwdWYIYpiJc", 5849, 6086, "unravel"],
     // ["uwdWYIYpiJc", 6145, 6316, "夜もすがら君想ふ ED"],
 
@@ -472,7 +493,7 @@
     // ["1pnlXQIswws", 1730, 1997, "カラフル"], //New2/28
     ["1pnlXQIswws", 2035, 2309, "キセキ"],
     ["1pnlXQIswws", 2376, 2610, "黒毛和牛上塩タン焼680円"],
-    ["1pnlXQIswws", 2677, 2855, "檄！帝国華撃団"],
+    // ["1pnlXQIswws", 2677, 2855, "檄！帝国華撃団"], //New3/21
     // ["1pnlXQIswws", 2929, 3203, "God Knows..."], //New2/21
     // ["1pnlXQIswws", 3298, 3551, "残酷な天使のテーゼ"], //New2/21
     // ["1pnlXQIswws", 3690, 3941, "シュガーソングとビターステップ"], //New1/24
@@ -496,7 +517,7 @@
     // ["1pnlXQIswws", 10445, 10715, "炎"],
     // ["1pnlXQIswws", 10818, 11155, "My Dearest"], //New3/7
     ["1pnlXQIswws", 11238, 11509, "三日月"],
-    ["1pnlXQIswws", 11557, 11727, "ムーンライト伝説"],
+    // ["1pnlXQIswws", 11557, 11727, "ムーンライト伝説"], //New3/21
     // ["1pnlXQIswws", 11796, 12064, "メリッサ"], //New1/24
     ["1pnlXQIswws", 12140, 12408, "もうそう えくすぷれす"],
     // ["1pnlXQIswws", 12622, 12809, "やさしさに包まれたなら"], //New12/11
@@ -590,7 +611,7 @@
 
     // 2020/11/19 アニソンで突っ走れっーー！
     // ["CIhkUQWrAI0", 349, 601, "残酷な天使のテーゼ"], //New12/6
-    ["CIhkUQWrAI0", 870, 1193, "魂のルフラン"],
+    // ["CIhkUQWrAI0", 870, 1193, "魂のルフラン"], //New3/21
     // ["CIhkUQWrAI0", 1553, 1822, "コネクト"], //New2/8
     // ["CIhkUQWrAI0", 2065, 2376, "secret base ～君がくれたもの～"], //New2/21
     // ["CIhkUQWrAI0", 2483, 2760, "God Knows..."], //New12/6
