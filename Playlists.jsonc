@@ -27,6 +27,15 @@
             "url": "https://github.com/jim60105"
         }
     },
+    // {
+    //     "name": "QuonTamaBackupSongList_OneDrive",
+    //     "tag": ["quon", "tama", "public", "onedrive"],
+    //     "route": "QuonTama/QuonTamaBackupSongList_OneDrive.jsonc",
+    //     "maintainer": {
+    //         "name": "jim60105",
+    //         "url": "https://github.com/jim60105"
+    //     }
+    // },
     {
         "name": "QuonTamaRadioQTamaList",
         "tag": ["quon", "tama", "public", "RadioQTama", "NotSongs"],
