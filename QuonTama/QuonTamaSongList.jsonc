@@ -6,6 +6,9 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 歌ってみた WILL
+    ["3XLPCGuSs5w", 0, 0, "WILL"],
+
     // sAO
     ["_uPqhToYzmI", 0, 0, "sAO"],
 
