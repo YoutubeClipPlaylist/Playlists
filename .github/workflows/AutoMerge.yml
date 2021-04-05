@@ -21,6 +21,7 @@ jobs:
           type: add
 
       - name: Git Auto Merge
+        if: ${{ success() }}
         uses: plm9606/automerge_actions@1.2.2
         with:
           github-token: ${{ secrets.MY_GITHUB_TOKEN }} # Trigger Minify workflow
@@ -28,6 +29,7 @@ jobs:
           label-name: 'automerge'
 
       - name: Remove label
+        if: ${{ success() }}
         uses: buildsville/add-remove-label@v1
         with:
           token: ${{secrets.GITHUB_TOKEN}}
