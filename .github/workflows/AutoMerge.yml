@@ -24,8 +24,9 @@ jobs:
         if: ${{ success() }}
         uses: plm9606/automerge_actions@1.2.2
         with:
-          github-token: ${{ secrets.MY_GITHUB_TOKEN }} # Trigger Minify workflow
+          github-token: ${{ secrets.MY_GITHUB_TOKEN }}
           merge-method: merge
+          reviewers-number: 0
           label-name: 'automerge'
 
       - name: Remove label
