@@ -6,6 +6,22 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/4/25 新曲もあり🌟日曜日のたま歌
+    ["fAlGoDNt6kg", 124, 217, "DEAREST DROP"],
+    ["fAlGoDNt6kg", 764, 1001, "ピースサイン"],
+    ["fAlGoDNt6kg", 1277, 1524, "狂乱 Hey Kids!!"],
+    ["fAlGoDNt6kg", 1740, 1935, "Skyreach"],
+    ["fAlGoDNt6kg", 2230, 2515, "KABANERI OF THE IRON FORTRESS"],
+    ["fAlGoDNt6kg", 2682, 2922, "めざせポケモンマスター"],
+    ["fAlGoDNt6kg", 3064, 3318, "そばかす"],
+    ["fAlGoDNt6kg", 3782, 4003, "瞬間センチメンタル"],
+    // ["fAlGoDNt6kg", 4342, 4624, "独白"],
+    ["fAlGoDNt6kg", 4797, 5085, "Q&A リサイタル!"],
+    ["fAlGoDNt6kg", 5283, 5537, "海色"],
+    // ["fAlGoDNt6kg", 5784, 6001, "ダダダダ天使"],
+    ["fAlGoDNt6kg", 6217, 6482, "うまぴょい伝説"],
+    // ["fAlGoDNt6kg", 6623, 6793, "夜もすがら君想ふ ED"],
+
     // 作業用BGM アニソン歌枠メドレー４
     // ["ZkvtN6WQzSI", 0, 0, "作業用BGMアニソン歌枠メドレー４ singing anime song"],
 
@@ -234,14 +250,14 @@
     ["t2NqN7-IyLc", 1359, 1613, "Butter-fly"], //和田光司
     ["t2NqN7-IyLc", 1703, 1963, "オリオンをなぞる"],
     ["t2NqN7-IyLc", 2134, 2417, "謎"],
-    ["t2NqN7-IyLc", 2633, 2886, "そばかす"],
+    // ["t2NqN7-IyLc", 2633, 2886, "そばかす"], //New4/25
     ["t2NqN7-IyLc", 3049, 3227, "檄！帝国華撃団"],
     ["t2NqN7-IyLc", 3335, 3656, "魂のルフラン"],
     ["t2NqN7-IyLc", 3742, 3879, "キューティーハニー"],
     ["t2NqN7-IyLc", 4013, 4203, "タッチ"],
     ["t2NqN7-IyLc", 4332, 4492, "ラムのラブソング"],
     // ["t2NqN7-IyLc", 4806, 4975, "ムーンライト伝説"], //New4/15
-    ["t2NqN7-IyLc", 5116, 5355, "めざせポケモンマスター"],
+    // ["t2NqN7-IyLc", 5116, 5355, "めざせポケモンマスター"], //New4/25
     ["t2NqN7-IyLc", 5522, 5774, "残酷な天使のテーゼ"],
     // ["t2NqN7-IyLc", 5814, 5984, "夜もすがら君想ふ ED"],
 
@@ -263,7 +279,7 @@
     ["_R4k4wxA8bo", 3528, 3812, "少女レイ"],
     ["_R4k4wxA8bo", 3899, 3986, "だから僕は音楽を辞めた Short"],
     // ["_R4k4wxA8bo", 4072, 4319, "おちゃめ機能"], //也笑得太開心ww
-    ["_R4k4wxA8bo", 4572, 4859, "Q&A リサイタル!"],
+    // ["_R4k4wxA8bo", 4572, 4859, "Q&A リサイタル!"],
     ["_R4k4wxA8bo", 5074, 5396, "瞬き"],
     ["_R4k4wxA8bo", 5538, 5815, "Sincerely"],
     ["_R4k4wxA8bo", 5993, 6306, "妖精"],
@@ -466,7 +482,7 @@
     // ["TGNebPsi8hw", 2069, 2329, "LEVEL5 -judgelight-"], //New4/4
     ["TGNebPsi8hw", 2428, 2643, "バラライカ"],
     ["TGNebPsi8hw", 2848, 3065, "マジLOVE1000%"],
-    ["TGNebPsi8hw", 3216, 3436, "瞬間センチメンタル"],
+    // ["TGNebPsi8hw", 3216, 3436, "瞬間センチメンタル"], //New4/25
     // ["TGNebPsi8hw", 3489, 3738, "again"], //New3/28
     ["TGNebPsi8hw", 3832, 4056, "ヒッチコック"],
     // ["TGNebPsi8hw", 4157, 4403, "花に亡霊"], //New3/28
@@ -505,7 +521,7 @@
     ["uwdWYIYpiJc", 948, 1050, "紅蓮の弓矢 Short"],
     ["uwdWYIYpiJc", 1081, 1170, "自由の翼 Short"],
     // ["uwdWYIYpiJc", 1454, 1681, "フィクション"], //New3/14
-    ["uwdWYIYpiJc", 1844, 2091, "狂乱 Hey Kids!!"],
+    // ["uwdWYIYpiJc", 1844, 2091, "狂乱 Hey Kids!!"], //New4/25
     // ["uwdWYIYpiJc", 2275, 2546, "メリッサ"], //New3/21
     ["uwdWYIYpiJc", 2660, 2864, "嘘"],
     // ["uwdWYIYpiJc", 3006, 3234, "君じゃなきゃダメみたい"], //New3/17
@@ -522,7 +538,7 @@
     ["_REXGMcW2GY", 0, 0, "独白"],
 
     // 2021/1/17 しっとり夜のアニソン枠🌙 sing a song
-    ["BpU0aySc0G4", 118, 356, "ピースサイン"],
+    // ["BpU0aySc0G4", 118, 356, "ピースサイン"], //New4/25
     ["BpU0aySc0G4", 631, 789, "LOVE GOOD TIME Short"],
     ["BpU0aySc0G4", 985, 1076, "三つ葉の結び目 Short"],
     // ["BpU0aySc0G4", 1294, 1601, "Giraffe Blues"], //New2/21
@@ -567,7 +583,7 @@
     // ["6LaRupTUDng", 2134, 2483, "RE:I AM"], //New4/16
     ["6LaRupTUDng", 2640, 2897, "narrative"],
     // ["6LaRupTUDng", 3035, 3277, "アイリス"], //New4/13
-    ["6LaRupTUDng", 3609, 3893, "KABANERI OF THE IRON FORTRESS"],
+    // ["6LaRupTUDng", 3609, 3893, "KABANERI OF THE IRON FORTRESS"], //New4/25
     // ["6LaRupTUDng", 4014, 4290, "英雄 運命の詩"], //New4/15
     // ["6LaRupTUDng", 4381, 4603, "瞬間センチメンタル"], //New1/31
     ["6LaRupTUDng", 4678, 4937, "black bullet"],
