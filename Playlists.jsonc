@@ -45,6 +45,16 @@
             "url": "https://github.com/jim60105"
         }
     },
+    // SudaYoruka
+    {
+        "name": "SudaYorukaSongList",
+        "tag": ["Yoruka", "SudaYoruka", "public"],
+        "route": "SudaYoruka/SudaYorukaSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
     // // KariChan
     // {
     //     "name": "KariChanSongList",

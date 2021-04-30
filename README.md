@@ -27,6 +27,7 @@
 |Vtuber | 維護者 |
 |--|--|
 | [久遠たま](https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw) | [琳](https://github.com/jim60105) |
+| [須多夜花](https://www.youtube.com/channel/UCuy-kZJ7HWwUU-eKv0zUZFQ) | [琳](https://github.com/jim60105) |
 | [伊冬ユナ](https://www.youtube.com/channel/UCYbzeYnRZuw7fZKrgu2bgtw) | [小飯](https://github.com/LittleRice1007) |
 | [羽宮くぅ](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A) | [小飯](https://github.com/LittleRice1007) |
 <!--| [神月天](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A) | [小飯](https://github.com/LittleRice1007) |-->
