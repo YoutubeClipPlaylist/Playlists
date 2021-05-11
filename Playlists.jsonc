@@ -10,6 +10,15 @@
         }
     },
     {
+        "name": "QuonTamaSpecialSongList",
+        "tag": ["quon", "tama", "public"],
+        "route": "QuonTama/QuonTamaSpecialSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    {
         "name": "QuonTamaBackupSongList",
         "tag": ["quon", "tama", "public", "gdrive"],
         "route": "QuonTama/QuonTamaBackupSongList.jsonc",
