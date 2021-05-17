@@ -6,6 +6,23 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/5/16 神曲たくさんリクエストありがとう！✨
+    ["GEsvT446PRg", 131, 222, "Sing My Pleasure (Short)"],
+    ["GEsvT446PRg", 503, 722, "1/3の純情な感情"],
+    ["GEsvT446PRg", 1025, 1256, "ヒトリゴト"],
+    ["GEsvT446PRg", 1542, 1806, "たぶん"],
+    ["GEsvT446PRg", 1963, 2199, "Scarlet Ballet"],
+    ["GEsvT446PRg", 2445, 2676, "daze"],
+    ["GEsvT446PRg", 2951, 3212, "トコハナ"],
+    ["GEsvT446PRg", 3304, 3667, "アメフラシの歌～Beautiful Rain～"],
+    ["GEsvT446PRg", 3792, 4076, "逆光"],
+    // ["GEsvT446PRg", 4163, 4423, "ninelie"],
+    ["GEsvT446PRg", 4426, 4624, "咲かせや咲かせ"],
+    ["GEsvT446PRg", 4846, 5158, "名前のない怪物"],
+    ["GEsvT446PRg", 5164, 5515, "All Alone With You"],
+    ["GEsvT446PRg", 5615, 5908, "深愛"],
+    // ["GEsvT446PRg", 6015, 6186, "夜もすがら君想ふ ED"],
+
     // 歌ってみた 光るなら
     ["OwJZjd6ewMk", 0, 0, "光るなら"],
 
@@ -242,7 +259,7 @@
     // ["vHPGjeDhn3I", 4694, 4865, "グッバイ宣言"], //New5/7
     ["vHPGjeDhn3I", 5087, 5355, "吉原ラメント -Piano Ver.-"],
     // ["vHPGjeDhn3I", 5479, 5733, "Here"], //New5/7
-    ["vHPGjeDhn3I", 5847, 6142, "深愛"],
+    // ["vHPGjeDhn3I", 5847, 6142, "深愛"], //New5/16
     // ["vHPGjeDhn3I", 6228, 6399, "夜もすがら君想ふ ED"],
 
     // 歌ってみた あなたがいた森
@@ -415,11 +432,11 @@
     ["rzFnxdTCgD8", 1268, 1562, "Angelic Angel"],
     // ["rzFnxdTCgD8", 1823, 2091, "カラフル"], //New4/15
     // ["rzFnxdTCgD8", 2287, 2562, "I beg you"], //New4/16
-    ["rzFnxdTCgD8", 2720, 2950, "daze"],
+    // ["rzFnxdTCgD8", 2720, 2950, "daze"], //New5/16
     // ["rzFnxdTCgD8", 3003, 3281, "風になる"], //New3/17
     // ["rzFnxdTCgD8", 3563, 3836, "chocolate insomnia"], //New4/14
     ["rzFnxdTCgD8", 3929, 4174, "帰り道"],
-    ["rzFnxdTCgD8", 4434, 4666, "ヒトリゴト"],
+    // ["rzFnxdTCgD8", 4434, 4666, "ヒトリゴト"], //New5/16
     ["rzFnxdTCgD8", 4891, 5136, "Sparkling Daydream"],
     // ["rzFnxdTCgD8", 5677, 5935, "INSIDE IDENTITY"], //New4/14
     // ["rzFnxdTCgD8", 6042, 6270, "だってアタシのヒーロー。"], //New4/12
@@ -633,7 +650,7 @@
     // 2021/1/3 2021年最初のアニソン✨ sing a song
     ["6LaRupTUDng", 141, 379, "革命デュアリズム"],
     // ["6LaRupTUDng", 866, 962, "君のせい Short"], //New4/12
-    ["6LaRupTUDng", 1190, 1425, "Scarlet Ballet"],
+    // ["6LaRupTUDng", 1190, 1425, "Scarlet Ballet"], //New5/16
     // ["6LaRupTUDng", 1573, 1930, "あなたに出会わなければ ～夏雪冬花～"], //New4/16
     // ["6LaRupTUDng", 2134, 2483, "RE:I AM"], //New4/16
     ["6LaRupTUDng", 2640, 2897, "narrative"],
@@ -709,7 +726,7 @@
     // ["pPqy2GYj2oU", 3848, 4214, "終わりの世界から"], //New5/7
     ["pPqy2GYj2oU", 4491, 4569, "ミレナリオ Acapella"],
     // ["pPqy2GYj2oU", 4708, 5054, "オレンジ"], //7!! //New2/21
-    ["pPqy2GYj2oU", 5215, 5479, "たぶん"],
+    // ["pPqy2GYj2oU", 5215, 5479, "たぶん"], //New5/16
     // ["pPqy2GYj2oU", 5735, 6011, "Sincerely"], //New3/17
     // ["pPqy2GYj2oU", 6098, 6267, "夜もすがら君想ふ ED"],
 
@@ -754,7 +771,7 @@
     // ["jHeW6Wm0zK4", 2614, 2982, "鳥の詩"], //New2/5
     // ["jHeW6Wm0zK4", 3051, 3411, "一番の宝物"], //New2/21
     // ["jHeW6Wm0zK4", 3496, 3773, "Shangri-La"], //New12/31
-    ["jHeW6Wm0zK4", 3858, 4171, "名前のない怪物"],
+    // ["jHeW6Wm0zK4", 3858, 4171, "名前のない怪物"],
     // ["jHeW6Wm0zK4", 4312, 4561, "Rising Hope"], //New12/27
 
     // 歌ってみた おねがいダーリン
