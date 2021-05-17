@@ -1,11 +1,11 @@
 [
     // 2021/2/8 まったりしたしゃべりと歌
     // ["Ez1dD09ch-A", 401, 655, "Butter-Fly"], //和田光司
-    // ["Ez1dD09ch-A", 793, 884, "ゆずれない願い Short"],
+    // ["Ez1dD09ch-A", 793, 884, "ゆずれない願い (Short)"],
     // ["Ez1dD09ch-A", 1050, 1326, "いけないボーダーライン"],
     // ["Ez1dD09ch-A", 1616, 1849, "ASH"],
     // ["Ez1dD09ch-A", 1852, 2119, "たぶん"],
-    // ["Ez1dD09ch-A", 2298, 2407, "君に届け Short"],
+    // ["Ez1dD09ch-A", 2298, 2407, "君に届け (Short)"],
     // ["Ez1dD09ch-A", 2533, 2766, "勇気100％"], //New3/28
     // ["Ez1dD09ch-A", 3045, 3387, "オレンジ"], //7!!
     // ["Ez1dD09ch-A", 3480, 3756, "Sincerely"], //New3/17
@@ -13,15 +13,15 @@
     // 2020/11/6 たまのオフや裏が知れちゃう場所
     // ["_GGEHueF5rU", 771, 1021, "空色デイズ"], //11/29
     // ["_GGEHueF5rU", 1332, 1687, "あなたに出會わなければ~夏雪冬花~"], //1/3
-    // ["_GGEHueF5rU", 1793, 1883, "Bravely You Short"], //9/18
+    // ["_GGEHueF5rU", 1793, 1883, "Bravely You (Short)"], //9/18
     // ["_GGEHueF5rU", 1997, 2256, "たぶん"], //12/22
     // ["_GGEHueF5rU", 2360, 2644, "少女レイ"], //New1/28
-    // ["_GGEHueF5rU", 2768, 2867, "青空のラプソディ Short"], //New2/14
+    // ["_GGEHueF5rU", 2768, 2867, "青空のラプソディ (Short)"], //New2/14
     // ["_GGEHueF5rU", 3020, 3268, "おちゃめ機能"], //New1/28
     // ["_GGEHueF5rU", 4396, 4716, "瞬き"], //New3/17
-    ["_GGEHueF5rU", 4882, 5009, "ふなのり Short Acapella"],
-    // ["_GGEHueF5rU", 5117, 5212, "ルンがピカッと光ったら Short"], //12/6
-    ["_GGEHueF5rU", 5424, 5489, "私の彼はパイロット Short"],
+    ["_GGEHueF5rU", 4882, 5009, "ふなのり (Short Acapella)"],
+    // ["_GGEHueF5rU", 5117, 5212, "ルンがピカッと光ったら (Short)"], //12/6
+    ["_GGEHueF5rU", 5424, 5489, "私の彼はパイロット (Short)"],
     ["_GGEHueF5rU", 5543, 5779, "ドラマツルギー"],
     // ["_GGEHueF5rU", 6102, 6351, "一度だけの恋なら"], //New2/8
     // ["_GGEHueF5rU", 6648, 6817, "夜もすがら君想ふ ED"],
@@ -42,14 +42,14 @@
 
     // 2020/10/16 みんな！卵の準備はいいかい！！
     // ["O3QgoG2Tg5Y", 275, 600, "楓"], //New2/5
-    ["O3QgoG2Tg5Y", 741, 830, "そしていま Short"],
-    ["O3QgoG2Tg5Y", 984, 1072, "うまるん体操 Short"],
-    // ["O3QgoG2Tg5Y", 1243, 1334, "TOMORROW Short"], //New3/17
-    ["O3QgoG2Tg5Y", 1444, 1535, "GATE～それは暁のように～ Short"],
-    // ["O3QgoG2Tg5Y", 1918, 2009, "海色 Short"],
+    ["O3QgoG2Tg5Y", 741, 830, "そしていま (Short)"],
+    ["O3QgoG2Tg5Y", 984, 1072, "うまるん体操 (Short)"],
+    // ["O3QgoG2Tg5Y", 1243, 1334, "TOMORROW (Short)"], //New3/17
+    ["O3QgoG2Tg5Y", 1444, 1535, "GATE～それは暁のように～ (Short)"],
+    // ["O3QgoG2Tg5Y", 1918, 2009, "海色 (Short)"],
     ["O3QgoG2Tg5Y", 2020, 2269, "吹雪"],
-    // ["O3QgoG2Tg5Y", 2422, 2511, "Sparkling Daydream Short"], //11/1
-    ["O3QgoG2Tg5Y", 2852, 2941, "Resolution Short"],
+    // ["O3QgoG2Tg5Y", 2422, 2511, "Sparkling Daydream (Short)"], //11/1
+    ["O3QgoG2Tg5Y", 2852, 2941, "Resolution (Short)"],
     // ["O3QgoG2Tg5Y", 3103, 3328, "お願いマッスル"], //12/27
     // ["O3QgoG2Tg5Y", 3734, 3999, "たぶん"], //New11/6
     ["O3QgoG2Tg5Y", 4479, 4771, "アクアテラリウム"],
@@ -61,7 +61,7 @@
     // ["ooZW7m7uGsg", 538, 628, "にめんせい☆ウラオモテライフ"], //12/6
     // ["ooZW7m7uGsg", 1020, 1280, "カーストルーム"], //11/15
     // ["ooZW7m7uGsg", 1422, 1665, "Starry Wish"], //12/6
-    ["ooZW7m7uGsg", 1819, 2183, "アメフラシの歌～Beautiful Rain～"],
+    // ["ooZW7m7uGsg", 1819, 2183, "アメフラシの歌～Beautiful Rain～"], //New5/16
     // ["ooZW7m7uGsg", 2317, 2567, "Departures～あなたにおくるアイの歌～"], //12/6
     ["ooZW7m7uGsg", 2697, 2895, "蒼のエーテル"],
     // ["ooZW7m7uGsg", 3031, 3345, "妖精"], //New3/17
