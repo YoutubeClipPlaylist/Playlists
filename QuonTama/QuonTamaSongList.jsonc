@@ -6,6 +6,23 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/5/30 お知らせあり🌟久しぶりのアニソン祭り！
+    ["Q3E_8ZnBoSc", 127, 221, "チカっとチカ千花っ♡"],
+    ["Q3E_8ZnBoSc", 355, 514, "ラムのラブソング"],
+    ["Q3E_8ZnBoSc", 676, 964, "Q&A リサイタル!"],
+    ["Q3E_8ZnBoSc", 1212, 1505, "月光花"],
+    ["Q3E_8ZnBoSc", 1786, 2038, "again"],
+    ["Q3E_8ZnBoSc", 2403, 2653, "only my railgun"],
+    ["Q3E_8ZnBoSc", 2659, 2918, "sister's noise"],
+    ["Q3E_8ZnBoSc", 2937, 3198, "LEVEL5 -judgelight-"],
+    ["Q3E_8ZnBoSc", 3475, 3762, "Thousand Enemies"],
+    ["Q3E_8ZnBoSc", 3926, 4191, "Synchrogazer"],
+    ["Q3E_8ZnBoSc", 4358, 4631, "雲雀"],
+    ["Q3E_8ZnBoSc", 4761, 4980, "火炎"],
+    ["Q3E_8ZnBoSc", 5329, 5583, "Sparkling Daydream"],
+    ["Q3E_8ZnBoSc", 5701, 5942, "dawn"],
+    // ["Q3E_8ZnBoSc", 5981, 6151, "夜もすがら君想ふ ED"],
+
     // 2021/5/26 一日の始まりをここに🌞
     ["XXHIPV7D2KI", 619, 863, "ようかい体操第一"],
     ["XXHIPV7D2KI", 1287, 1541, "First Love"],
@@ -171,7 +188,7 @@
     ["fAlGoDNt6kg", 3064, 3318, "そばかす"],
     ["fAlGoDNt6kg", 3782, 4003, "瞬間センチメンタル"],
     // ["fAlGoDNt6kg", 4342, 4624, "独白"],
-    ["fAlGoDNt6kg", 4797, 5085, "Q&A リサイタル!"],
+    // ["fAlGoDNt6kg", 4797, 5085, "Q&A リサイタル!"], //New5/30
     ["fAlGoDNt6kg", 5283, 5537, "海色"],
     // ["fAlGoDNt6kg", 5784, 6001, "ダダダダ天使"],
     ["fAlGoDNt6kg", 6217, 6482, "うまぴょい伝説"],
@@ -335,7 +352,7 @@
     ["8xhwiCarTSo", 1885, 2091, "うっせぇわ"],
     ["8xhwiCarTSo", 2249, 2505, "メルト"],
     ["8xhwiCarTSo", 2643, 2862, "嘘の火花"],
-    ["8xhwiCarTSo", 3023, 3286, "LEVEL5"],
+    // ["8xhwiCarTSo", 3023, 3286, "LEVEL5"], //New5/30
     ["8xhwiCarTSo", 3437, 3721, "Deal with the devil"],
     ["8xhwiCarTSo", 3834, 4062, "乙女解剖"],
     // ["8xhwiCarTSo", 4163, 4440, "Shangri-La"], //New5/7
@@ -355,9 +372,9 @@
     ["iIo4_iQZL8Y", 1548, 1735, "やさしさに包まれたなら"],
     ["iIo4_iQZL8Y", 1913, 2115, "Arrietty's Song"],
     ["iIo4_iQZL8Y", 2367, 2608, "Time after time ～花舞う街で～"],
-    ["iIo4_iQZL8Y", 2764, 3020, "sister's noise"],
+    // ["iIo4_iQZL8Y", 2764, 3020, "sister's noise"], //New5/30
     ["iIo4_iQZL8Y", 3195, 3433, "final phase"],
-    ["iIo4_iQZL8Y", 3560, 3810, "again"],
+    // ["iIo4_iQZL8Y", 3560, 3810, "again"], //New5/30
     ["iIo4_iQZL8Y", 3964, 4256, "unlasting"],
     // ["iIo4_iQZL8Y", 4337, 4697, "一番の宝物"], //New5/7
     // ["iIo4_iQZL8Y", 4821, 5081, "Hacking to the Gate"], //New5/9
@@ -395,7 +412,7 @@
     ["t2NqN7-IyLc", 3335, 3656, "魂のルフラン"],
     ["t2NqN7-IyLc", 3742, 3879, "キューティーハニー"],
     // ["t2NqN7-IyLc", 4013, 4203, "タッチ"], //New5/23
-    ["t2NqN7-IyLc", 4332, 4492, "ラムのラブソング"],
+    // ["t2NqN7-IyLc", 4332, 4492, "ラムのラブソング"], //New5/30
     // ["t2NqN7-IyLc", 4806, 4975, "ムーンライト伝説"], //New4/15
     // ["t2NqN7-IyLc", 5116, 5355, "めざせポケモンマスター"], //New4/25
     ["t2NqN7-IyLc", 5522, 5774, "残酷な天使のテーゼ"],
@@ -461,7 +478,7 @@
     // ["FGe6W8ycKY0", 4002, 4287, "旅の途中"], //New5/9
     // ["FGe6W8ycKY0", 4458, 4726, "ユキトキ"], //New5/9
     // ["FGe6W8ycKY0", 4877, 5094, "MOON PRIDE"], //New4/15
-    ["FGe6W8ycKY0", 5198, 5470, "雲雀"],
+    // ["FGe6W8ycKY0", 5198, 5470, "雲雀"], //New5/30
     // ["FGe6W8ycKY0", 5574, 5796, "廻廻奇譚"], //New4/4
     // ["FGe6W8ycKY0", 6061, 6338, "Shangri-La"], //New4/4
     // ["FGe6W8ycKY0", 6374, 6546, "夜もすがら君想ふ ED"],
@@ -500,7 +517,7 @@
     // ["rzFnxdTCgD8", 3563, 3836, "chocolate insomnia"], //New4/14
     ["rzFnxdTCgD8", 3929, 4174, "帰り道"],
     // ["rzFnxdTCgD8", 4434, 4666, "ヒトリゴト"], //New5/16
-    ["rzFnxdTCgD8", 4891, 5136, "Sparkling Daydream"],
+    // ["rzFnxdTCgD8", 4891, 5136, "Sparkling Daydream"], //New5/30
     // ["rzFnxdTCgD8", 5677, 5935, "INSIDE IDENTITY"], //New4/14
     // ["rzFnxdTCgD8", 6042, 6270, "だってアタシのヒーロー。"], //New4/12
     // ["rzFnxdTCgD8", 6312, 6481, "夜もすがら君想ふ ED"],
@@ -515,7 +532,7 @@
     ["9bLORkCTZt4", 1346, 1572, "おジャ魔女カーニバル"],
     ["9bLORkCTZt4", 1839, 2109, "コネクト"],
     // ["9bLORkCTZt4", 2241, 2496, "Butter-Fly"], //和田光司 //New3/21
-    ["9bLORkCTZt4", 2617, 2866, "only my railgun"],
+    // ["9bLORkCTZt4", 2617, 2866, "only my railgun"], //New5/30
     ["9bLORkCTZt4", 2982, 3042, "旅立ちの日に (Short Acapella)"],
     // ["9bLORkCTZt4", 3121, 3463, "君の知らない物語"], //New3/14
     // ["9bLORkCTZt4", 3715, 3968, "残酷な天使のテーゼ"], //New3/21
@@ -555,7 +572,7 @@
     // ["n4O4D8TXBKk", 1504, 1757, "白金ディスコ"], //New4/14
     // ["n4O4D8TXBKk", 1880, 2121, "CheerS"], //New5/2
     // ["n4O4D8TXBKk", 2270, 2361, "Girlish Lover (Short)"], //New3/17
-    ["n4O4D8TXBKk", 2420, 2513, "チカっとチカ千花っ (Short)"],
+    // ["n4O4D8TXBKk", 2420, 2513, "チカっとチカ千花っ (Short)"], //New5/30
     // ["n4O4D8TXBKk", 2630, 2722, "あ・え・い・う・え・お・あお!! (Short)"],
     ["n4O4D8TXBKk", 2749, 2842, "にめんせい☆ウラオモテライフ (Short)"],
     // ["n4O4D8TXBKk", 3061, 3272, "かくしん的☆めたまるふぉ〜ぜっ!"], //New4/14
@@ -661,7 +678,7 @@
     ["uwdWYIYpiJc", 2660, 2864, "嘘"],
     // ["uwdWYIYpiJc", 3006, 3234, "君じゃなきゃダメみたい"], //New3/17
     // ["uwdWYIYpiJc", 3492, 3729, "シルエット"], //New5/9
-    ["uwdWYIYpiJc", 3911, 4202, "月光花"],
+    // ["uwdWYIYpiJc", 3911, 4202, "月光花"], //New5/30
     ["uwdWYIYpiJc", 4313, 4562, "シュガーソングとビターステップ"],
     ["uwdWYIYpiJc", 4717, 4997, "前前前世"],
     // ["uwdWYIYpiJc", 5104, 5360, "Butter-Fly"], //和田光司 //New2/21
