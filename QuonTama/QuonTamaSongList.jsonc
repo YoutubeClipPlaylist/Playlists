@@ -6,6 +6,24 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/6/6 ６月最初のたまsongs✨
+    ["xyzrtICOLmA", 129, 376, "grilletto"],
+    ["xyzrtICOLmA", 604, 828, "ヒッチコック"],
+    ["xyzrtICOLmA", 1086, 1176, "GATE ～それは暁のように～"],
+    ["xyzrtICOLmA", 1290, 1388, "アイヲウタエ"],
+    ["xyzrtICOLmA", 1494, 1742, "星が降るユメ"],
+    ["xyzrtICOLmA", 2126, 2328, "ルパン三世のテーマ"],
+    ["xyzrtICOLmA", 2499, 2822, "魂のルフラン"],
+    ["xyzrtICOLmA", 3079, 3295, "COLORS"],
+    ["xyzrtICOLmA", 3300, 3574, "モザイクカケラ"],
+    ["xyzrtICOLmA", 3787, 4133, "オレンジ"], //7!!
+    // ["xyzrtICOLmA", 4263, 4588, "WILL"],
+    ["xyzrtICOLmA", 4795, 5061, "破滅の純情"],
+    ["xyzrtICOLmA", 5171, 5455, "Deal with the devil"],
+    ["xyzrtICOLmA", 5601, 5838, "Cry Baby"],
+    ["xyzrtICOLmA", 5981, 6238, "ナイショの話"],
+    // ["xyzrtICOLmA", 6280, 6449, "夜もすがら君想ふ ED"],
+
     // 歌ってみた 回レ!雪月花
     ["Nf3VbqUsMW0", 0, 0, "回レ!雪月花"],
 
@@ -209,7 +227,7 @@
     ["w3pVjYAED20", 1994, 2346, "ダイアモンドクレバス"],
     ["w3pVjYAED20", 2428, 2735, "Giraffe Blues"],
     ["w3pVjYAED20", 2835, 3083, "インフィニティ"],
-    ["w3pVjYAED20", 3212, 3479, "破滅の純情"],
+    // ["w3pVjYAED20", 3212, 3479, "破滅の純情"], //New6/6
     // ["w3pVjYAED20", 3536, 3653, "ワルキューレがとまらない"], //New5/7
     ["w3pVjYAED20", 3790, 4063, "いけないボーダーライン"], //New5/26
     // ["w3pVjYAED20", 4326, 4584, "僕らの戦場"],
@@ -285,7 +303,7 @@
 
     // 2021/4/13 アニソン界の歌姫縛り💖
     ["wrkdy1NBTCA", 115, 401, "MEMORIA"],
-    ["wrkdy1NBTCA", 842, 1089, "星が降るユメ"],
+    // ["wrkdy1NBTCA", 842, 1089, "星が降るユメ"], //New6/6
     ["wrkdy1NBTCA", 1377, 1581, "翼"],
     ["wrkdy1NBTCA", 2148, 2382, "ラピスラズリ"],
     // ["wrkdy1NBTCA", 2913, 3172, "シリウス"], //New5/23
@@ -318,7 +336,7 @@
     ["5C6KtcWHz7E", 2097, 2414, "trust you"],
     ["5C6KtcWHz7E", 2522, 2797, "夏を待つセイル(帆)のように"],
     // ["5C6KtcWHz7E", 2907, 3152, "渡月橋 ～君 想ふ～"], //New5/7
-    ["5C6KtcWHz7E", 3413, 3627, "COLORS"],
+    // ["5C6KtcWHz7E", 3413, 3627, "COLORS"], //New6/6
     ["5C6KtcWHz7E", 3995, 4254, "Don't say \"lazy\""],
     // ["5C6KtcWHz7E", 4414, 4669, "Snow halation"],
     ["5C6KtcWHz7E", 4902, 5126, "RESISTER"],
@@ -356,7 +374,7 @@
     ["8xhwiCarTSo", 2249, 2505, "メルト"],
     ["8xhwiCarTSo", 2643, 2862, "嘘の火花"],
     // ["8xhwiCarTSo", 3023, 3286, "LEVEL5"], //New5/30
-    ["8xhwiCarTSo", 3437, 3721, "Deal with the devil"],
+    // ["8xhwiCarTSo", 3437, 3721, "Deal with the devil"], //New6/6
     ["8xhwiCarTSo", 3834, 4062, "乙女解剖"],
     // ["8xhwiCarTSo", 4163, 4440, "Shangri-La"], //New5/7
     // ["8xhwiCarTSo", 4555, 4808, "IGNITE"], //New4/13
@@ -412,7 +430,7 @@
     ["t2NqN7-IyLc", 2134, 2417, "謎"],
     // ["t2NqN7-IyLc", 2633, 2886, "そばかす"], //New4/25
     // ["t2NqN7-IyLc", 3049, 3227, "檄！帝国華撃団"], //New5/26
-    ["t2NqN7-IyLc", 3335, 3656, "魂のルフラン"],
+    // ["t2NqN7-IyLc", 3335, 3656, "魂のルフラン"], //New6/6
     ["t2NqN7-IyLc", 3742, 3879, "キューティーハニー"],
     // ["t2NqN7-IyLc", 4013, 4203, "タッチ"], //New5/23
     // ["t2NqN7-IyLc", 4332, 4492, "ラムのラブソング"], //New5/30
@@ -555,7 +573,7 @@
     ["cb9LeRh3lys", 2048, 2325, "シルシ"],
     // ["cb9LeRh3lys", 2380, 2672, "unlasting"], //New3/28
     ["cb9LeRh3lys", 2786, 3036, "Departures〜あなたにおくるアイの歌〜"], //New3/14
-    ["cb9LeRh3lys", 3116, 3462, "オレンジ"], //7!!
+    // ["cb9LeRh3lys", 3116, 3462, "オレンジ"], //7!! //New6/6
     // ["cb9LeRh3lys", 3594, 3894, "春はゆく"], //New4/16
     // ["cb9LeRh3lys", 4045, 4369, "フリージア"],
     // ["cb9LeRh3lys", 4472, 4777, "Giraffe Blues"], //New4/18
@@ -639,7 +657,7 @@
     // ["TGNebPsi8hw", 2848, 3065, "マジLOVE1000%"], //New5/9
     // ["TGNebPsi8hw", 3216, 3436, "瞬間センチメンタル"], //New4/25
     // ["TGNebPsi8hw", 3489, 3738, "again"], //New3/28
-    ["TGNebPsi8hw", 3832, 4056, "ヒッチコック"],
+    // ["TGNebPsi8hw", 3832, 4056, "ヒッチコック"], //New6/6
     // ["TGNebPsi8hw", 4157, 4403, "花に亡霊"], //New3/28
     ["TGNebPsi8hw", 4497, 4747, "可愛くなりたい"], //New3/14
     ["TGNebPsi8hw", 4848, 5101, "今日もサクラ舞う暁に"],
