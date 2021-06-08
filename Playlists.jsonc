@@ -119,6 +119,15 @@
             "url": "https://github.com/jim60105"
         }
     },
+    {
+        "name": "MatoriKakeruSpecialSongList",
+        "tag": ["matori", "kakeru", "public"],
+        "route": "MatoriKakeru/MatoriKakeruSpecialSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
     // // KariChan
     // {
     //     "name": "KariChanSongList",
