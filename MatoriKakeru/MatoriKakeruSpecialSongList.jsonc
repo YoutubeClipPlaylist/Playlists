@@ -1,0 +1,18 @@
+/**
+ * ["VideoID", StartTime, EndTime, "Title"]
+ * VideoID: 必須用引號包住，為字串型態。
+ * StartTime: 只能是非負數。如果要從頭播放，輸入0
+ * EndTime: 只能是非負數。如果要播放至尾，輸入0
+ * Title: 必須用引號包住，為字串型態
+ */
+[
+    // 吉他彈唱
+    // 2021/6/7 【雑談 & 歌枠／talk & sing songs】7000人感謝ｯｯ💛みんなで楽しくお話しながらお祝いしたい〜🥳✨(Guitar)
+    ["Dwk4jMhWlFI", 186, 283, "Snow fairy"],
+    ["Dwk4jMhWlFI", 850, 1244, "夜に駆ける"],
+    ["Dwk4jMhWlFI", 1897, 2184, "わたしの恋はホッチキス"],
+    ["Dwk4jMhWlFI", 2800, 3286, "一番の宝物"],
+    ["Dwk4jMhWlFI", 3661, 3992, "小さな恋のうた"],
+    ["Dwk4jMhWlFI", 4478, 4771, "うっせぇわ"],
+    ["Dwk4jMhWlFI", 5265, 5622, "Pretender"]
+]
