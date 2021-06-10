@@ -20,7 +20,7 @@
     },
     {
         "name": "QuonTamaBackupSongList",
-        "tag": ["quon", "tama", "public", "gdrive"],
+        "tag": ["quon", "tama", "public", "onedrive"],
         "route": "QuonTama/QuonTamaBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -36,15 +36,6 @@
             "url": "https://github.com/jim60105"
         }
     },
-    // {
-    //     "name": "QuonTamaBackupSongList_OneDrive",
-    //     "tag": ["quon", "tama", "public", "onedrive"],
-    //     "route": "QuonTama/QuonTamaBackupSongList_OneDrive.jsonc",
-    //     "maintainer": {
-    //         "name": "jim60105",
-    //         "url": "https://github.com/jim60105"
-    //     }
-    // },
     {
         "name": "QuonTamaRadioQTamaList",
         "tag": ["quon", "tama", "public", "RadioQTama", "NotSongs"],
@@ -84,7 +75,7 @@
     },
     {
         "name": "SudaYorukaBackupSongList",
-        "tag": ["Yoruka", "SudaYoruka", "public", "gdrive"],
+        "tag": ["Yoruka", "SudaYoruka", "public", "onedrive"],
         "route": "SudaYoruka/SudaYorukaBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -112,7 +103,7 @@
     },
     {
         "name": "MatoriKakeruBackupSongList",
-        "tag": ["matori", "kakeru", "public", "gdrive"],
+        "tag": ["matori", "kakeru", "public", "onedrive"],
         "route": "MatoriKakeru/MatoriKakeruBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
