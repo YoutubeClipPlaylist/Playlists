@@ -6,6 +6,31 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 歌ってみた 赤い罠(who loves it?)
+    ["t0l_u72YEAo", 0, 0, "赤い罠(who loves it?)"],
+
+    // 2021/6/9 【歌雑談/sing ＆ talk】朝にぴったりな歌を歌う🌞
+    ["emFfjgvZJNk", 126, 396, "風になる"],
+    // ["emFfjgvZJNk", 672, 833, "さんぽ"], //消除
+    ["emFfjgvZJNk", 851, 1124, "となりのトトロ"],
+    ["emFfjgvZJNk", 1568, 1763, "君をのせて"],
+    ["emFfjgvZJNk", 1965, 2137, "もののけ姫 Acapella"],
+    ["emFfjgvZJNk", 2293, 2496, "Arrietty's Song"],
+    ["emFfjgvZJNk", 3135, 3356, "ADAMAS"],
+    ["emFfjgvZJNk", 4095, 4314, "HOT LIMIT"],
+    ["emFfjgvZJNk", 4904, 5164, "Don't say \"lazy\""],
+    ["emFfjgvZJNk", 5320, 5539, "1/3の純情な感情"],
+    ["emFfjgvZJNk", 5629, 5878, "女々しくて"],
+    ["emFfjgvZJNk", 6099, 6325, "さくらんぼ"],
+    ["emFfjgvZJNk", 6415, 6718, "プラネタリウム"],
+    ["emFfjgvZJNk", 6899, 7201, "そばにいるね"],
+    ["emFfjgvZJNk", 7435, 7712, "世界に一つだけの花"],
+    ["emFfjgvZJNk", 7945, 8252, "手紙 ～拝啓 十五の君へ～"],
+    ["emFfjgvZJNk", 8358, 8706, "桜ノ雨"],
+    ["emFfjgvZJNk", 9675, 9923, "恋"],
+    ["emFfjgvZJNk", 10101, 10328, "お願いマッスル"],
+    // ["emFfjgvZJNk", 10371, 10541, "夜もすがら君想ふ ED"],
+
     // 2021/6/6 ６月最初のたまsongs✨
     ["xyzrtICOLmA", 129, 376, "grilletto"],
     ["xyzrtICOLmA", 604, 828, "ヒッチコック"],
@@ -59,7 +84,7 @@
     ["XXHIPV7D2KI", 6242, 6512, "キセキ"],
     ["XXHIPV7D2KI", 6869, 7128, "チェリー"],
     ["XXHIPV7D2KI", 7536, 7806, "M"],
-    ["XXHIPV7D2KI", 8071, 8319, "恋"],
+    // ["XXHIPV7D2KI", 8071, 8319, "恋"], //New6/9
     ["XXHIPV7D2KI", 8607, 8858, "Butterfly"],
     ["XXHIPV7D2KI", 9093, 9314, "廻廻奇譚"],
     ["XXHIPV7D2KI", 10738, 11072, "ダイアモンド クレバス (Acapella)"],
@@ -108,7 +133,7 @@
 
     // 2021/5/16 神曲たくさんリクエストありがとう！✨
     ["GEsvT446PRg", 131, 222, "Sing My Pleasure (Short)"],
-    ["GEsvT446PRg", 503, 722, "1/3の純情な感情"],
+    // ["GEsvT446PRg", 503, 722, "1/3の純情な感情"], //New6/9
     ["GEsvT446PRg", 1025, 1256, "ヒトリゴト"],
     ["GEsvT446PRg", 1542, 1806, "たぶん"],
     ["GEsvT446PRg", 1963, 2199, "Scarlet Ballet"],
@@ -154,7 +179,7 @@
     ["h_Pz0HTsE6g", 2668, 2956, "ROCK-mode '18"],
     ["h_Pz0HTsE6g", 3065, 3311, "courage"],
     ["h_Pz0HTsE6g", 3511, 3752, "Mela!"],
-    ["h_Pz0HTsE6g", 3892, 4109, "HOT LIMIT"],
+    // ["h_Pz0HTsE6g", 3892, 4109, "HOT LIMIT"], //New6/9
     ["h_Pz0HTsE6g", 4286, 4653, "終わりの世界から"],
     // ["h_Pz0HTsE6g", 4786, 5076, "THERE IS A REASON"],
     ["h_Pz0HTsE6g", 5280, 5592, "ガーネット"],
@@ -288,7 +313,7 @@
     ["bI6AaAIsaL8", 558, 650, "エブリデイワールド (Short)"],
     ["bI6AaAIsaL8", 956, 1192, "不可思議のカルテ"],
     ["bI6AaAIsaL8", 1543, 1743, "ようこそジャパリパークへ"],
-    ["bI6AaAIsaL8", 1963, 2188, "お願いマッスル"],
+    // ["bI6AaAIsaL8", 1963, 2188, "お願いマッスル"], //New6/9
     ["bI6AaAIsaL8", 2635, 2891, "恋愛サーキュレーション"],
     ["bI6AaAIsaL8", 3094, 3345, "白金ディスコ"],
     ["bI6AaAIsaL8", 3526, 3779, "ambivalent world"],
@@ -337,7 +362,7 @@
     ["5C6KtcWHz7E", 2522, 2797, "夏を待つセイル(帆)のように"],
     // ["5C6KtcWHz7E", 2907, 3152, "渡月橋 ～君 想ふ～"], //New5/7
     // ["5C6KtcWHz7E", 3413, 3627, "COLORS"], //New6/6
-    ["5C6KtcWHz7E", 3995, 4254, "Don't say \"lazy\""],
+    // ["5C6KtcWHz7E", 3995, 4254, "Don't say \"lazy\""], //New6/9
     // ["5C6KtcWHz7E", 4414, 4669, "Snow halation"],
     ["5C6KtcWHz7E", 4902, 5126, "RESISTER"],
     ["5C6KtcWHz7E", 5201, 5549, "あたしが隣にいるうちに"],
@@ -378,7 +403,7 @@
     ["8xhwiCarTSo", 3834, 4062, "乙女解剖"],
     // ["8xhwiCarTSo", 4163, 4440, "Shangri-La"], //New5/7
     // ["8xhwiCarTSo", 4555, 4808, "IGNITE"], //New4/13
-    ["8xhwiCarTSo", 4911, 5131, "ADAMAS"],
+    // ["8xhwiCarTSo", 4911, 5131, "ADAMAS"], //New6/9
     ["8xhwiCarTSo", 5248, 5530, "This game"],
     // ["8xhwiCarTSo", 5648, 5959, "ノーザンクロス"], //New4/18
     // ["8xhwiCarTSo", 6007, 6177, "夜もすがら君想ふ ED"],
@@ -391,7 +416,7 @@
     // ["iIo4_iQZL8Y", 556, 805, "花に亡霊"], //New4/17
     ["iIo4_iQZL8Y", 1001, 1238, "YUME日和"],
     ["iIo4_iQZL8Y", 1548, 1735, "やさしさに包まれたなら"],
-    ["iIo4_iQZL8Y", 1913, 2115, "Arrietty's Song"],
+    // ["iIo4_iQZL8Y", 1913, 2115, "Arrietty's Song"], //New6/9
     ["iIo4_iQZL8Y", 2367, 2608, "Time after time ～花舞う街で～"],
     // ["iIo4_iQZL8Y", 2764, 3020, "sister's noise"], //New5/30
     ["iIo4_iQZL8Y", 3195, 3433, "final phase"],
@@ -453,7 +478,7 @@
     ["_R4k4wxA8bo", 2020, 2111, "TOMORROW (Short)"],
     ["_R4k4wxA8bo", 2243, 2471, "君じゃなきゃダメみたい"],
     ["_R4k4wxA8bo", 2643, 2885, "ウミユリ海底譚"],
-    ["_R4k4wxA8bo", 3120, 3396, "風になる"],
+    // ["_R4k4wxA8bo", 3120, 3396, "風になる"], //New6/9
     ["_R4k4wxA8bo", 3528, 3812, "少女レイ"],
     ["_R4k4wxA8bo", 3899, 3986, "だから僕は音楽を辞めた (Short)"],
     // ["_R4k4wxA8bo", 4072, 4319, "おちゃめ機能"], //也笑得太開心ww
@@ -520,7 +545,7 @@
     // ["o8EuOCyeOU8", 4121, 4348, "ECHO"], //New5/21
     ["o8EuOCyeOU8", 4471, 4728, "このピアノでお前を8759632145回ぶん殴る"],
     ["o8EuOCyeOU8", 4876, 5010, "KING"],
-    ["o8EuOCyeOU8", 5123, 5472, "桜ノ雨"],
+    // ["o8EuOCyeOU8", 5123, 5472, "桜ノ雨"],,
     ["o8EuOCyeOU8", 5622, 5855, "劣等上等"], //New5/21
     // ["o8EuOCyeOU8", 5890, 6060, "夜もすがら君想ふ ED"],
 
@@ -884,11 +909,11 @@
     ["zcMbtIp4ugU", 953, 1132, "ルージュの伝言"],
     // ["zcMbtIp4ugU", 1185, 1372, "やさしさに包まれたなら"], //New3/28
     ["zcMbtIp4ugU", 1524, 1686, "崖の上のポニョ"],
-    ["zcMbtIp4ugU", 1912, 2164, "となりのトトロ"],
+    // ["zcMbtIp4ugU", 1912, 2164, "となりのトトロ"], //New6/9
     ["zcMbtIp4ugU", 2709, 2921, "いつも何度でも"],
     ["zcMbtIp4ugU", 3082, 3310, "いのちの名前"],
     // ["zcMbtIp4ugU", 0, 0, "もののけ姫"], //消除
-    ["zcMbtIp4ugU", 3537, 3736, "君をのせて"],
+    // ["zcMbtIp4ugU", 3537, 3736, "君をのせて"], //New6/9
     // ["zcMbtIp4ugU", 3880, 4082, "Arrietty's Song"], //New3/28
     // ["zcMbtIp4ugU", 4252, 4528, "風になる"], //New2/28
     ["zcMbtIp4ugU", 4615, 4844, "カントリー・ロード"],
@@ -1011,7 +1036,7 @@
     // ["R0DfGvRL6mw", 2053, 2321, "M"], //New5/26
     // ["R0DfGvRL6mw", 2438, 2689, "Butterfly"], //木村カエラ //New5/26
     // ["R0DfGvRL6mw", 2882, 3133, "かたちあるもの"], //New4/9
-    ["R0DfGvRL6mw", 3206, 3508, "プラネタリウム"],
+    // ["R0DfGvRL6mw", 3206, 3508, "プラネタリウム"] //New6/9
     // ["R0DfGvRL6mw", 3559, 3895, "雪の華"], //New5/23
     ["R0DfGvRL6mw", 4009, 4236, "会いたかった"],
     ["R0DfGvRL6mw", 4390, 4748, "ありがとう"],
