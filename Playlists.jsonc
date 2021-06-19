@@ -37,6 +37,15 @@
         }
     },
     {
+        "name": "QuonTamaTwitcastingSongList",
+        "tag": ["quon", "tama", "public", "twitcasting"],
+        "route": "QuonTama/QuonTamaTwitcastingSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    {
         "name": "QuonTamaRadioQTamaList",
         "tag": ["quon", "tama", "public", "RadioQTama", "NotSongs"],
         "route": "QuonTama/QuonTamaRadioQTamaList.jsonc",
