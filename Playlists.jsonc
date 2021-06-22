@@ -167,5 +167,15 @@
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
         }
+    },
+    // MachitaChima
+    {
+        "name": "MachitaChimaSongList",
+        "tag": ["Machita", "Chima", "MachitaChima", "public"],
+        "route": "MachitaChima/MachitaChimaSongList.jsonc",
+        "maintainer": {
+            "name": "da21510",
+            "url": "https://github.com/da21510"
+        }
     }
 ]
