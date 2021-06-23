@@ -20,7 +20,8 @@
  1. Fork專案，在每次編輯完後發PR回來給我
  2. 至[Discussion](https://github.com/jim60105/Playlists/discussions)發個訊息，告訴我你想做哪位V，我會給你push權限\
  一開始我會看幾次PR，確定熟了就讓你自行merge
- 3. Google Sheet共編 (此方案目前未實做，相關討論請見[此issue](https://github.com/jim60105/Playlists/issues/7))
+    * 所有新的歌單請從 BasePlaylist 這個tag開始
+ 3. ~~Google Sheet共編~~ (此方案目前未實做，相關討論請見[此issue](https://github.com/jim60105/Playlists/issues/7))
 
 ## 維護人員清單
 
