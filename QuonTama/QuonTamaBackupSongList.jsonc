@@ -1,46 +1,46 @@
 [
     // 2021/6/18 【歌枠/sing a song】HoneyWorksで青春を駆けよう🌈
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVL8A8rHfnhNsPMn3CnRF8MBuUG6VSZx85EeoDavTp_VsA?e=ikChKI", 742, 902, "告白予行練習"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EaMhYbshg4RHu1Ud14yAR8wB7cvBWOUmiOf5IGAtUmNMeg?e=ajh1WJ", 742, 902, "告白予行練習"],
 
     // 2021/6/9 【歌雑談/sing ＆ talk】朝にぴったりな歌を歌う🌞
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EcEBPy8LgZNMhXHZgh5VU4oBcDprTiYX-LG3uMVhDh4Bwg?e=973Oh3", 648, 809, "さんぽ"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EcEBPy8LgZNMhXHZgh5VU4oBcDprTiYX-LG3uMVhDh4Bwg?e=QmlD8N", 648, 809, "さんぽ"],
 
     // 2021/5/23 難易度高い曲、頑張って覚えました🔥
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ETWBEh9Ku91LiWqcZwDLEHcBk36-4SdOqr5cUrayhhL3gg?e=GnupZo", 4361, 4608, "再会"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ETWBEh9Ku91LiWqcZwDLEHcBk36-4SdOqr5cUrayhhL3gg?e=dyPzgp", 4361, 4608, "再会"],
 
     // 2021/3/14 ホワイトデーに恋愛ソングを歌います💕sing a song
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 106, 416, "世界は恋に落ちている"], //New6/18
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 674, 940, "sugar sweet nightmare"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 1104, 1446, "君の知らない物語"], //New4/12
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 1578, 1848, "春擬き"], //New5/9
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 1993, 2220, "フィクション"], //New3/17
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 2362, 2613, "DADDY! DADDY! DO!"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 2761, 3011, "Departures〜あなたにおくるアイの歌〜"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 3194, 3519, "放課後オーバーフロウ"], //New4/18
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 3711, 3994, "打上花火"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 4067, 4262, "ハルジオン"], //New5/7
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 4455, 4693, "金曜日のおはよう"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 4760, 5013, "可愛くなりたい"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 5106, 5422, "センパイ。"], //New6/18
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 5592, 5819, "東京サマーセッション"], //New6/18
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 5956, 6236, "トライアングラー"], //坂本真綾
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=3fld2C", 6288, 6459, "夜もすがら君想ふ ED"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 106, 416, "世界は恋に落ちている"], //New6/18
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 674, 940, "sugar sweet nightmare"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 1104, 1446, "君の知らない物語"], //New4/12
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 1578, 1848, "春擬き"], //New5/9
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 1993, 2220, "フィクション"], //New3/17
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 2362, 2613, "DADDY! DADDY! DO!"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 2761, 3011, "Departures〜あなたにおくるアイの歌〜"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 3194, 3519, "放課後オーバーフロウ"], //New4/18
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 3711, 3994, "打上花火"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 4067, 4262, "ハルジオン"], //New5/7
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 4455, 4693, "金曜日のおはよう"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 4760, 5013, "可愛くなりたい"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 5106, 5422, "センパイ。"], //New6/18
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 5592, 5819, "東京サマーセッション"], //New6/18
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 5956, 6236, "トライアングラー"], //坂本真綾
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ed4_K7tB-IJCqq5fQisNkIYBAodLNjmZZskvIC1Zo_dbwg?e=Od5ZQy", 6288, 6459, "夜もすがら君想ふ ED"],
 
     // 2021/3/5 ボカロをたくさん歌う🥰sing a song
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EU4gNQmCdP5Aurt1_HQ6MjkBgEgIk41djQLsFlIYlvqnDA?e=aqxSWj", 3556, 3745, "東京テディベア"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EU4gNQmCdP5Aurt1_HQ6MjkBgEgIk41djQLsFlIYlvqnDA?e=ajZMqi", 3556, 3745, "東京テディベア"],
 
     // 2021/1/10 新曲多め？！ sing a song
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EfizGLbln7dIoaHHjMLgPdQB0NnCziQbmbA3HKT68Dgkfg?e=lwOPF7", 5591, 5913, "告白"], //New5/26
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EfizGLbln7dIoaHHjMLgPdQB0NnCziQbmbA3HKT68Dgkfg?e=Mxz2Df", 5591, 5913, "告白"], //New5/26
 
     // 2020/12/11 スタジオジブリ作品限定歌枠✨Sing a song
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EQZmoMCMwe5HqDTQG5Hsi8IByaGUtgSC0J6fctDS7tjrpg?e=xewXF0", 281, 443, "さんぽ"],
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EQZmoMCMwe5HqDTQG5Hsi8IByaGUtgSC0J6fctDS7tjrpg?e=xewXF0", 3623, 3833, "もののけ姫"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EQZmoMCMwe5HqDTQG5Hsi8IByaGUtgSC0J6fctDS7tjrpg?e=IpRQBs", 281, 443, "さんぽ"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EQZmoMCMwe5HqDTQG5Hsi8IByaGUtgSC0J6fctDS7tjrpg?e=IpRQBs", 3623, 3833, "もののけ姫"],
 
     // 2020/12/6 題名５０音歌いきるまで終われまてん💜Sing a song
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EcmFUpQek95Ah0hCcMIqWXMBBszF1QJvUPrNG5tY_59iTQ?e=LLwgTy", 884, 1166, "打上花火"], //New3/14
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EcmFUpQek95Ah0hCcMIqWXMBBszF1QJvUPrNG5tY_59iTQ?e=Ix7jlU", 884, 1166, "打上花火"], //New3/14
 
     // 2020/12/4 ボカロをうたう！エフェクト多様？！Sing a song
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVNUJlSi4KpIqXb-iWQjKikBsnpaHPr01eINv9ta6U-7ew?e=yHqkMz", 4929, 5201, "アンノウン・マザーグース"], //New4/17
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVNUJlSi4KpIqXb-iWQjKikBsnpaHPr01eINv9ta6U-7ew?e=gSYb3z", 4929, 5201, "アンノウン・マザーグース"], //New4/17
 
     // Twitter
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfiLaOR-tVHnmwcXaZQmXsBa5YLtdr_6RO-1jdikBnK8Q?e=Zcn3TI", 0, 0, "Sing My Pleasure"], //New5/16
