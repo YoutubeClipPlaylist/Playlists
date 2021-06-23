@@ -1,0 +1,27 @@
+/**
+ * 歌單格式為JSON with Comments
+ * ["VideoID", StartTime, EndTime, "Title"]
+ * VideoID: 必須用引號包住，為字串型態。
+ * StartTime: 只能是非負數。如果要從頭播放，輸入0
+ * EndTime: 只能是非負數。如果要播放至尾，輸入0
+ * Title?: 必須用引號包住，為字串型態
+ * SubSrc?: 必須用雙引號包住，為字串型態，可選
+ */
+[
+    // 2021/6/20 【歌枠/sing a song】多ジャンルの曲を歌います😋
+    ["VOJ7ZcskFoo", 139, 455, "STAR BEAT～ホシノコドウ～"],
+    ["VOJ7ZcskFoo", 851, 1122, "青春アミーゴ"],
+    ["VOJ7ZcskFoo", 1307, 1592, "Story"],
+    ["VOJ7ZcskFoo", 1911, 2189, "アゲハ蝶"],
+    ["VOJ7ZcskFoo", 2327, 2563, "黒毛和牛上塩タン焼680円"],
+    ["VOJ7ZcskFoo", 2780, 3041, "もうそう えくすぷれす"],
+    ["VOJ7ZcskFoo", 3171, 3405, "不可思議のカルテ"],
+    ["VOJ7ZcskFoo", 3466, 3750, "ドライフラワー"],
+    ["VOJ7ZcskFoo", 3842, 4085, "ツキアカリのミチシルベ"],
+    ["VOJ7ZcskFoo", 4230, 4459, "Brave Shine"],
+    ["VOJ7ZcskFoo", 4567, 4880, "LAST STARDUST"],
+    // ["VOJ7ZcskFoo", 4567, 4880, "trust you"], //版權消除
+    ["VOJ7ZcskFoo", 5044, 5333, "境界の彼方"],
+    ["VOJ7ZcskFoo", 5437, 5717, "This game"],
+    ["VOJ7ZcskFoo", 5751, 5921, "夜もすがら君想ふ"]
+]
