@@ -6,6 +6,28 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/6/23 【歌雑談/sing and talk】まったりお話ししませんか？😊
+    ["WSCMFgOnAdU", 1298, 1490, "シル・ヴ・プレジデント"],
+    ["WSCMFgOnAdU", 1698, 1909, "三年目の浮気"],
+    ["WSCMFgOnAdU", 2162, 2378, "Bad Apple!!"],
+    ["WSCMFgOnAdU", 2884, 3060, "ギザギザハートの子守唄"],
+    ["WSCMFgOnAdU", 3341, 3593, "そばかす"],
+    ["WSCMFgOnAdU", 3718, 3896, "ヴァンパイア"],
+    // ["WSCMFgOnAdU", 4164, 4430, "夜に駆ける"],
+    ["WSCMFgOnAdU", 4570, 4863, "愛のうた"],
+    ["WSCMFgOnAdU", 4869, 5168, "ORION"],
+    ["WSCMFgOnAdU", 5260, 5557, "糸"],
+    ["WSCMFgOnAdU", 5654, 5964, "カブトムシ"],
+    ["WSCMFgOnAdU", 6032, 6205, "夏色 (Short)"],
+    ["WSCMFgOnAdU", 6264, 6576, "栄光の架橋"],
+    // ["WSCMFgOnAdU", 6827, 6999, "グッバイ宣言"],
+    // ["WSCMFgOnAdU", 7165, 7398, "GURENGE/English Ver."],
+    ["WSCMFgOnAdU", 7519, 7748, "Take Me Home, Country Roads"],
+    ["WSCMFgOnAdU", 8254, 8566, "ガーネット"],
+    ["WSCMFgOnAdU", 9556, 9838, "逆光"],
+    ["WSCMFgOnAdU", 10339, 10556, "嘘の火花"],
+    // ["WSCMFgOnAdU", 11070, 11239, "夜もすがら君想ふ ED"],
+
     // 2021/6/20 【歌枠/sing a song】多ジャンルの曲を歌います😋
     ["VOJ7ZcskFoo", 139, 455, "STAR BEAT～ホシノコドウ～"],
     ["VOJ7ZcskFoo", 851, 1122, "青春アミーゴ"],
@@ -159,7 +181,7 @@
     ["3Qv7AZ6x60w", 4294, 4521, "ECHO"],
     ["3Qv7AZ6x60w", 4609, 4841, "劣等上等"],
     // ["3Qv7AZ6x60w", 4926, 5128, "ダーリンダンス"],
-    ["3Qv7AZ6x60w", 5189, 5367, "ヴァンパイア"],
+    // ["3Qv7AZ6x60w", 5189, 5367, "ヴァンパイア"], //New6/23
     // ["3Qv7AZ6x60w", 5503, 5773, "ANIMA"],
     // ["3Qv7AZ6x60w", 5795, 5964, "夜もすがら君想ふ ED"],
 
@@ -175,7 +197,7 @@
     ["GEsvT446PRg", 2445, 2676, "daze"],
     ["GEsvT446PRg", 2951, 3212, "トコハナ"],
     ["GEsvT446PRg", 3304, 3667, "アメフラシの歌～Beautiful Rain～"],
-    ["GEsvT446PRg", 3792, 4076, "逆光"],
+    // ["GEsvT446PRg", 3792, 4076, "逆光"], //New6/23
     // ["GEsvT446PRg", 4163, 4423, "ninelie"],
     ["GEsvT446PRg", 4426, 4624, "咲かせや咲かせ"],
     ["GEsvT446PRg", 4846, 5158, "名前のない怪物"],
@@ -217,7 +239,7 @@
     // ["h_Pz0HTsE6g", 3892, 4109, "HOT LIMIT"], //New6/9
     ["h_Pz0HTsE6g", 4286, 4653, "終わりの世界から"],
     // ["h_Pz0HTsE6g", 4786, 5076, "THERE IS A REASON"],
-    ["h_Pz0HTsE6g", 5280, 5592, "ガーネット"],
+    // ["h_Pz0HTsE6g", 5280, 5592, "ガーネット"], //New6/23
     ["h_Pz0HTsE6g", 5635, 5883, "Rising Hope"],
     ["h_Pz0HTsE6g", 6350, 6627, "God Knows..."],
     ["h_Pz0HTsE6g", 6709, 6963, "Here"],
@@ -266,7 +288,7 @@
     ["fAlGoDNt6kg", 1740, 1935, "Skyreach"],
     ["fAlGoDNt6kg", 2230, 2515, "KABANERI OF THE IRON FORTRESS"],
     ["fAlGoDNt6kg", 2682, 2922, "めざせポケモンマスター"],
-    ["fAlGoDNt6kg", 3064, 3318, "そばかす"],
+    // ["fAlGoDNt6kg", 3064, 3318, "そばかす"], //New6/23
     ["fAlGoDNt6kg", 3782, 4003, "瞬間センチメンタル"],
     // ["fAlGoDNt6kg", 4342, 4624, "独白"],
     // ["fAlGoDNt6kg", 4797, 5085, "Q&A リサイタル!"], //New5/30
@@ -432,7 +454,7 @@
     // ["8xhwiCarTSo", 1497, 1763, "夜に駆ける"],
     ["8xhwiCarTSo", 1885, 2091, "うっせぇわ"],
     ["8xhwiCarTSo", 2249, 2505, "メルト"],
-    ["8xhwiCarTSo", 2643, 2862, "嘘の火花"],
+    // ["8xhwiCarTSo", 2643, 2862, "嘘の火花"], //New6/23
     // ["8xhwiCarTSo", 3023, 3286, "LEVEL5"], //New5/30
     // ["8xhwiCarTSo", 3437, 3721, "Deal with the devil"], //New6/6
     ["8xhwiCarTSo", 3834, 4062, "乙女解剖"],
