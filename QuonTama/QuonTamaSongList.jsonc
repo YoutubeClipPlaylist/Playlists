@@ -6,6 +6,39 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/7/4 【歌枠/sing anime song】歌姫Tamaになりシンギュラリティー計画を遂行する...!!
+    ["d2UaGdasMN0", 141, 391, "DADDY! DADDY! DO!"],
+    ["d2UaGdasMN0", 581, 810, "君じゃなきゃダメみたい"],
+    ["d2UaGdasMN0", 921, 1172, "空色デイズ"],
+    ["d2UaGdasMN0", 1334, 1541, "Preserved Roses"],
+    ["d2UaGdasMN0", 1839, 2160, "The Everlasting Guilty Crown"],
+    ["d2UaGdasMN0", 2326, 2615, "MEMORIA"],
+    // ["d2UaGdasMN0", 2860, 3144, "独白"],
+    ["d2UaGdasMN0", 3274, 3535, "Give a reason"],
+    ["d2UaGdasMN0", 3824, 4093, "カラフル"],
+    ["d2UaGdasMN0", 4205, 4450, "Sparkling Daydream"],
+    ["d2UaGdasMN0", 4590, 4871, "ユメヲカケル!"],
+    ["d2UaGdasMN0", 5050, 5338, "Sing My Pleasure"],
+    ["d2UaGdasMN0", 5341, 5674, "Fluorite Eye's Song"],
+    ["d2UaGdasMN0", 5870, 6114, "crossing field"],
+    // ["d2UaGdasMN0", 6130, 6299, "夜もすがら君想ふ ED"],
+
+    // 2021/7/2 【歌枠/sing a song】夜のしっとりアカペラ歌枠(Acapella)
+    ["9EtlvkZfIlQ", 147, 293, "My Song (Acapella)"],
+    ["9EtlvkZfIlQ", 684, 941, "果てなき道 (Acapella)"],
+    ["9EtlvkZfIlQ", 1118, 1395, "Sincerely (Acapella)"],
+    ["9EtlvkZfIlQ", 1621, 1868, "ミレナリオ (Acapella)"],
+    ["9EtlvkZfIlQ", 2086, 2227, "Fluorite Eye's Song (Short Acapella)"],
+    ["9EtlvkZfIlQ", 2402, 2541, "真空のダイアモンドクレバス (Short Acapella)"],
+    ["9EtlvkZfIlQ", 2666, 2773, "蒼のエーテル (Short Acapella)"],
+    ["9EtlvkZfIlQ", 2960, 3206, "ビードロ模様 (Acapella)"],
+    ["9EtlvkZfIlQ", 3393, 3631, "Here (Acapella)"],
+    ["9EtlvkZfIlQ", 3807, 4083, "Giraffe Blues (Acapella)"],
+    ["9EtlvkZfIlQ", 4211, 4446, "unravel (Acapella)"],
+    ["9EtlvkZfIlQ", 4668, 4863, "エウテルペ (Acapella)"],
+    ["9EtlvkZfIlQ", 5163, 5407, "Shangri-La (Acapella)"],
+    ["9EtlvkZfIlQ", 5459, 5625, "夜もすがら君想ふ ED (Acapella)"],
+
     // 歌ってみた 人生イージー？
     ["0208JcllLs8", 0, 0, "人生イージー？"],
 
@@ -139,7 +172,7 @@
     ["Q3E_8ZnBoSc", 3926, 4191, "Synchrogazer"],
     ["Q3E_8ZnBoSc", 4358, 4631, "雲雀"],
     ["Q3E_8ZnBoSc", 4761, 4980, "火炎"],
-    ["Q3E_8ZnBoSc", 5329, 5583, "Sparkling Daydream"],
+    // ["Q3E_8ZnBoSc", 5329, 5583, "Sparkling Daydream"], //New7/4
     ["Q3E_8ZnBoSc", 5701, 5942, "dawn"],
     // ["Q3E_8ZnBoSc", 5981, 6151, "夜もすがら君想ふ ED"],
 
@@ -244,7 +277,7 @@
     // ["53oTzfg05gw", 7123, 7294, "夜もすがら君想ふ ED"],
 
     // 2021/5/7 70,000人までリクエストで歌う🌟
-    ["h_Pz0HTsE6g", 153, 404, "空色デイズ"],
+    // ["h_Pz0HTsE6g", 153, 404, "空色デイズ"], //New7/4
     ["h_Pz0HTsE6g", 640, 885, "流星"],
     ["h_Pz0HTsE6g", 1098, 1327, "フィクション"],
     ["h_Pz0HTsE6g", 1547, 1665, "ワルキューレがとまらない"],
@@ -273,7 +306,7 @@
     ["h_Pz0HTsE6g", 11121, 11483, "一番の宝物"],
     ["h_Pz0HTsE6g", 11652, 11964, "secret base ～君がくれたもの～"],
     // ["h_Pz0HTsE6g", 12223, 12459, "紅蓮華"],
-    ["h_Pz0HTsE6g", 12584, 12829, "crossing field"],
+    // ["h_Pz0HTsE6g", 12584, 12829, "crossing field"], //New7/4
     // ["h_Pz0HTsE6g", 12893, 13062, "夜もすがら君想ふ ED"],
 
     // 歌ってみた グッバイ宣言
@@ -371,7 +404,7 @@
     // 2021/4/15 戦闘系アニメはかっこいいんです🥳
     ["ndG9cU2bmkw", 123, 292, "ムーンライト伝説"],
     ["ndG9cU2bmkw", 855, 1071, "MOON PRIDE"],
-    ["ndG9cU2bmkw", 1611, 1879, "カラフル"],
+    // ["ndG9cU2bmkw", 1611, 1879, "カラフル"], //New7/4
     ["ndG9cU2bmkw", 2153, 2396, "Starry Wish"],
     ["ndG9cU2bmkw", 2842, 3071, "Paradisus-Paradoxum"],
     ["ndG9cU2bmkw", 3264, 3541, "英雄 運命の詩"],
@@ -401,7 +434,7 @@
     // ["bI6AaAIsaL8", 8083, 8251, "夜もすがら君想ふ ED"],
 
     // 2021/4/13 アニソン界の歌姫縛り💖
-    ["wrkdy1NBTCA", 115, 401, "MEMORIA"],
+    // ["wrkdy1NBTCA", 115, 401, "MEMORIA"], //New7/4
     // ["wrkdy1NBTCA", 842, 1089, "星が降るユメ"], //New6/6
     ["wrkdy1NBTCA", 1377, 1581, "翼"],
     ["wrkdy1NBTCA", 2148, 2382, "ラピスラズリ"],
@@ -418,7 +451,7 @@
     ["XyJONwZaSX8", 536, 878, "君の知らない物語"],
     ["XyJONwZaSX8", 1143, 1200, "君が代 (Short)"], //日本国国歌
     // ["XyJONwZaSX8", 1345, 1592, "プラチナ"], //New5/7
-    ["XyJONwZaSX8", 1706, 2027, "The Everlasting Guilty Crown"],
+    // ["XyJONwZaSX8", 1706, 2027, "The Everlasting Guilty Crown"], //New7/4
     ["XyJONwZaSX8", 2193, 2421, "だってアタシのヒーロー。"],
     ["XyJONwZaSX8", 2629, 2904, "Rally Go Round"],
     ["XyJONwZaSX8", 3224, 3513, "ハルウタ"],
@@ -444,7 +477,7 @@
     // ["5C6KtcWHz7E", 5950, 6121, "夜もすがら君想ふ ED"],
 
     // 2021/4/9 sing a song その場リクエストで歌うよ✨
-    ["vHPGjeDhn3I", 113, 320, "Preserved Roses"],
+    // ["vHPGjeDhn3I", 113, 320, "Preserved Roses"], //New7/4
     ["vHPGjeDhn3I", 562, 849, "サリシノハラ -Piano Ver.-"],
     ["vHPGjeDhn3I", 1058, 1328, "My Soul,Your Beats!"],
     ["vHPGjeDhn3I", 1526, 1777, "traumerei"],
@@ -550,7 +583,7 @@
     // ["_R4k4wxA8bo", 1056, 1284, "フィクション"], //New5/7
     ["_R4k4wxA8bo", 1680, 1923, "fantastic dreamer"],
     ["_R4k4wxA8bo", 2020, 2111, "TOMORROW (Short)"],
-    ["_R4k4wxA8bo", 2243, 2471, "君じゃなきゃダメみたい"],
+    // ["_R4k4wxA8bo", 2243, 2471, "君じゃなきゃダメみたい"], //New7/4
     ["_R4k4wxA8bo", 2643, 2885, "ウミユリ海底譚"],
     // ["_R4k4wxA8bo", 3120, 3396, "風になる"], //New6/9
     ["_R4k4wxA8bo", 3528, 3812, "少女レイ"],
@@ -571,7 +604,7 @@
     // // ["GcIryP1m8yk", 1104, 1446, "君の知らない物語"], //New4/12
     // // ["GcIryP1m8yk", 1578, 1848, "春擬き"], //New5/9
     // // ["GcIryP1m8yk", 1993, 2220, "フィクション"], //New3/17
-    // // ["GcIryP1m8yk", 2362, 2613, "DADDY! DADDY! DO!"],
+    // // ["GcIryP1m8yk", 2362, 2613, "DADDY! DADDY! DO!"], //New7/4
     // // ["GcIryP1m8yk", 2761, 3011, "Departures〜あなたにおくるアイの歌〜"],
     // // ["GcIryP1m8yk", 3194, 3519, "放課後オーバーフロウ"], //New4/18
     // // ["GcIryP1m8yk", 3711, 3994, "打上花火"],
@@ -788,7 +821,7 @@
     // ["T6pz-eJsG_4", 6943, 7112, "夜もすがら君想ふ ED"],
 
     // 2021/1/24 男性アニソン曲限定🌟 sing a song
-    ["uwdWYIYpiJc", 112, 363, "DADDY! DADDY! DO!"], //New3/14
+    // ["uwdWYIYpiJc", 112, 363, "DADDY! DADDY! DO!"], //New3/14 //New7/4
     // ["uwdWYIYpiJc", 597, 809, "インフェルノ"], //New2/21
     ["uwdWYIYpiJc", 948, 1050, "紅蓮の弓矢 (Short)"],
     ["uwdWYIYpiJc", 1081, 1170, "自由の翼 (Short)"],
@@ -924,7 +957,7 @@
     ["pPqy2GYj2oU", 2807, 3074, "炎 Piano ver."],
     ["pPqy2GYj2oU", 3449, 3665, "時ノ雨、最終戦争"],
     // ["pPqy2GYj2oU", 3848, 4214, "終わりの世界から"], //New5/7
-    ["pPqy2GYj2oU", 4491, 4569, "ミレナリオ Acapella"],
+    // ["pPqy2GYj2oU", 4491, 4569, "ミレナリオ Acapella"],
     // ["pPqy2GYj2oU", 4708, 5054, "オレンジ"], //7!! //New2/21
     // ["pPqy2GYj2oU", 5215, 5479, "たぶん"], //New5/16
     // ["pPqy2GYj2oU", 5735, 6011, "Sincerely"], //New3/17
@@ -952,10 +985,10 @@
     ["svQwwn4qh6c", 366, 586, "花に亡霊 Acapella"],
     ["svQwwn4qh6c", 777, 1057, "ユメセカイ Acapella"],
     ["svQwwn4qh6c", 1294, 1576, "ロミオとシンデレラ Acapella"],
-    ["svQwwn4qh6c", 1684, 1873, "エウテルペ Acapella"],
+    // ["svQwwn4qh6c", 1684, 1873, "エウテルペ Acapella"],
     ["svQwwn4qh6c", 1990, 2229, "Departures〜あなたにおくるアイの歌〜 Acapella"],
     ["svQwwn4qh6c", 2438, 2792, "ノーザンクロス Acapella"],
-    ["svQwwn4qh6c", 2917, 3032, "Giraffe Blues Acapella"], //New1/17
+    // ["svQwwn4qh6c", 2917, 3032, "Giraffe Blues Acapella"], //New1/17
     ["svQwwn4qh6c", 3133, 3410, "たった1つの想い Acapella"],
     ["svQwwn4qh6c", 3827, 4079, "VOICE Acapella"],
     ["svQwwn4qh6c", 5155, 5437, "シルシ Acapella"],
