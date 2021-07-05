@@ -1,12 +1,3 @@
-/**
- * 歌單格式為JSON with Comments
- * ["VideoID", StartTime, EndTime, "Title"]
- * VideoID: 必須用引號包住，為字串型態。
- * StartTime: 只能是非負數。如果要從頭播放，輸入0
- * EndTime: 只能是非負數。如果要播放至尾，輸入0
- * Title?: 必須用引號包住，為字串型態
- * SubSrc?: 必須用雙引號包住，為字串型態，可選
- */
 [
     // 2021/7/5 【初配信】moo咪moo咪星爆爆！
     ["-pLnOMxttz0", 4875, 5110, "NEKOPARA Vol 2 OP"],
