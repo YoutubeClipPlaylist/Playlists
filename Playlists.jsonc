@@ -2,7 +2,7 @@
     // QuonTama
     {
         "name": "QuonTamaSongList",
-        "tag": ["quon", "tama", "public"],
+        "tag": ["Quon", "Tama", "QuonTama", "public"],
         "route": "QuonTama/QuonTamaSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -11,7 +11,7 @@
     },
     {
         "name": "QuonTamaSpecialSongList",
-        "tag": ["quon", "tama", "public"],
+        "tag": ["Quon", "Tama", "QuonTama", "public"],
         "route": "QuonTama/QuonTamaSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -20,7 +20,7 @@
     },
     {
         "name": "QuonTamaBackupSongList",
-        "tag": ["quon", "tama", "public", "onedrive"],
+        "tag": ["Quon", "Tama", "QuonTama", "public", "onedrive"],
         "route": "QuonTama/QuonTamaBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -29,7 +29,7 @@
     },
     {
         "name": "QuonTamaMemberSongList",
-        "tag": ["quon", "tama", "member"],
+        "tag": ["Quon", "Tama", "QuonTama", "member"],
         "route": "QuonTama/QuonTamaMemberSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -38,7 +38,7 @@
     },
     {
         "name": "QuonTamaTwitcastingSongList",
-        "tag": ["quon", "tama", "public", "twitcasting"],
+        "tag": ["Quon", "Tama", "QuonTama", "public", "twitcasting"],
         "route": "QuonTama/QuonTamaTwitcastingSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -47,7 +47,7 @@
     },
     {
         "name": "QuonTamaRadioQTamaList",
-        "tag": ["quon", "tama", "public", "RadioQTama", "NotSongs"],
+        "tag": ["Quon", "Tama", "QuonTama", "public", "RadioQTama", "NotSongs"],
         "route": "QuonTama/QuonTamaRadioQTamaList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -57,7 +57,7 @@
     // SudaYoruka
     {
         "name": "SudaYorukaSongList",
-        "tag": ["Yoruka", "SudaYoruka", "public"],
+        "tag": ["Suda", "Yoruka", "SudaYoruka", "public"],
         "route": "SudaYoruka/SudaYorukaSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -66,7 +66,7 @@
     },
     {
         "name": "SudaYorukaSpecialSongList",
-        "tag": ["Yoruka", "SudaYoruka", "public"],
+        "tag": ["Suda", "Yoruka", "SudaYoruka", "public"],
         "route": "SudaYoruka/SudaYorukaSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -75,7 +75,7 @@
     },
     {
         "name": "SudaYorukaChineseSongList",
-        "tag": ["Yoruka", "SudaYoruka", "public"],
+        "tag": ["Suda", "Yoruka", "SudaYoruka", "public"],
         "route": "SudaYoruka/SudaYorukaChineseSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -84,7 +84,7 @@
     },
     {
         "name": "SudaYorukaBackupSongList",
-        "tag": ["Yoruka", "SudaYoruka", "public", "onedrive"],
+        "tag": ["Suda", "Yoruka", "SudaYoruka", "public", "onedrive"],
         "route": "SudaYoruka/SudaYorukaBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -93,7 +93,7 @@
     },
     {
         "name": "SudaYorukaMemberSongList",
-        "tag": ["Yoruka", "SudaYoruka", "member"],
+        "tag": ["Suda", "Yoruka", "SudaYoruka", "member"],
         "route": "SudaYoruka/SudaYorukaMemberSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -103,7 +103,7 @@
     // MatoriKakeru
     {
         "name": "MatoriKakeruSongList",
-        "tag": ["matori", "kakeru", "public"],
+        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public"],
         "route": "MatoriKakeru/MatoriKakeruSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -112,7 +112,7 @@
     },
     {
         "name": "MatoriKakeruBackupSongList",
-        "tag": ["matori", "kakeru", "public", "onedrive"],
+        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public", "onedrive"],
         "route": "MatoriKakeru/MatoriKakeruBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -121,7 +121,7 @@
     },
     {
         "name": "MatoriKakeruSpecialSongList",
-        "tag": ["matori", "kakeru", "public"],
+        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public"],
         "route": "MatoriKakeru/MatoriKakeruSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -141,7 +141,7 @@
     // KandukiAma
     {
         "name": "KandukiAmaSongList",
-        "tag": ["Kanduki", "Ama", "public"],
+        "tag": ["Kanduki", "Ama", "KandukiAma", "public"],
         "route": "KandukiAma/KandukiAmaSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
