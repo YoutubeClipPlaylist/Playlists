@@ -177,5 +177,15 @@
             "name": "da21510",
             "url": "https://github.com/da21510"
         }
+    },
+    // MakinoShiro
+    {
+        "name": "MakinoShiroSongList",
+        "tag": ["Makino", "Shiro", "MakinoShiro", "public"],
+        "route": "MakinoShiro/MakinoShiroSongList.jsonc",
+        "maintainer": {
+            "name": "Edison Lee",
+            "url": "https://github.com/edisonlee55"
+        }
     }
 ]

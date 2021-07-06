@@ -32,5 +32,6 @@
 | [間取かける](https://www.youtube.com/channel/UCiLt4FLjMXszLOh5ISi1oqw) | [琳](https://github.com/jim60105) |
 | [伊冬ユナ](https://www.youtube.com/channel/UCYbzeYnRZuw7fZKrgu2bgtw) | [小飯](https://github.com/LittleRice1007) |
 | [羽宮くぅ](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A) | [小飯](https://github.com/LittleRice1007) |
-| [町田ちま](https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw) | [da21510](https://github.com/cda21510) |
+| [町田ちま](https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw) | [da21510](https://github.com/da21510) |
+| [牧野白](https://www.youtube.com/channel/UCbZcxNKrC0a6IZYBowvzAUg) | [Edison Lee](https://github.com/edisonlee55) |
 <!--| [神月天](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A) | [小飯](https://github.com/LittleRice1007) |-->
