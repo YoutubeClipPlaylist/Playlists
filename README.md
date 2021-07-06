@@ -25,13 +25,38 @@
 
 ## 維護人員清單
 
-|Vtuber | 維護者 |
-|--|--|
-| [久遠たま](https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw) | [琳](https://github.com/jim60105) |
-| [須多夜花](https://www.youtube.com/channel/UCuy-kZJ7HWwUU-eKv0zUZFQ) | [琳](https://github.com/jim60105) |
-| [間取かける](https://www.youtube.com/channel/UCiLt4FLjMXszLOh5ISi1oqw) | [琳](https://github.com/jim60105) |
-| [伊冬ユナ](https://www.youtube.com/channel/UCYbzeYnRZuw7fZKrgu2bgtw) | [小飯](https://github.com/LittleRice1007) |
-| [羽宮くぅ](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A) | [小飯](https://github.com/LittleRice1007) |
-| [町田ちま](https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw) | [da21510](https://github.com/da21510) |
-| [牧野白](https://www.youtube.com/channel/UCbZcxNKrC0a6IZYBowvzAUg) | [Edison Lee](https://github.com/edisonlee55) |
+| Vtuber                                                               | 維護者                                       |
+|----------------------------------------------------------------------|----------------------------------------------|
+| [久遠たま](https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw)   | [琳](https://github.com/jim60105)            |
+| [須多夜花](https://www.youtube.com/channel/UCuy-kZJ7HWwUU-eKv0zUZFQ) | [琳](https://github.com/jim60105)            |
+| [間取かける](https://www.youtube.com/channel/UCiLt4FLjMXszLOh5ISi1oqw)  | [琳](https://github.com/jim60105)            |
+| [伊冬ユナ](https://www.youtube.com/channel/UCYbzeYnRZuw7fZKrgu2bgtw)   | [小飯](https://github.com/LittleRice1007)    |
+| [羽宮くぅ](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A)   | [小飯](https://github.com/LittleRice1007)    |
+| [町田ちま](https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw)   | [da21510](https://github.com/da21510)        |
+| [牧野白](https://www.youtube.com/channel/UCbZcxNKrC0a6IZYBowvzAUg)   | [Edison Lee](https://github.com/edisonlee55) |
+
 <!--| [神月天](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A) | [小飯](https://github.com/LittleRice1007) |-->
+
+## 啟動連結
+
+| 說明                  | 連結                                                                                             |
+|---------------------|--------------------------------------------------------------------------------------------------|
+| 全清單 循序           | <https://www.youtube.com/?startplaylist>                                                         |
+| 全清單 隨機           | <https://www.youtube.com/?startplaylist&shuffle=1>                                               |
+| 久遠たま全歌單循序      | <https://www.youtube.com/?startplaylist&playlistinclude=tama&playlistexclude=NotSongs>           |
+| 久遠たま歌單(排除會限)  | <https://www.youtube.com/?startplaylist&playlistinclude=tama&playlistexclude=member_NotSongs>    |
+| 久遠たま全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=tama&playlistexclude=NotSongs&shuffle=1> |
+| 久遠たまtwitcasting歌單 | <https://www.youtube.com/?startplaylist&playlistinclude=twitcasting>                             |
+| RadioQTama 廣播       | <https://www.youtube.com/?startplaylist&playlistinclude=RadioQTama>                              |
+| 須多夜花全歌單循序    | <https://www.youtube.com/?startplaylist&playlistinclude=yoruka>                                  |
+| 須多夜花全歌單隨機    | <https://www.youtube.com/?startplaylist&playlistinclude=yoruka&shuffle=1>                        |
+| 間取かける歌單循序       | <https://www.youtube.com/?startplaylist&playlistinclude=kakeru>                                  |
+| 間取かける歌單隨機       | <https://www.youtube.com/?startplaylist&playlistinclude=kakeru&shuffle=1>                        |
+| 伊冬ユナ全歌單循序      | <https://www.youtube.com/?startplaylist&playlistinclude=ItouYuna>                                |
+| 伊冬ユナ全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=ItouYuna&shuffle=1>                      |
+| 羽宮くぅ全歌單循序      | <https://www.youtube.com/?startplaylist&playlistinclude=HaneMiya>                                |
+| 羽宮くぅ全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=HaneMiya&shuffle=1>                      |
+| 町田ちま全歌單循序      | <https://www.youtube.com/?startplaylist&playlistinclude=MachitaChima>                            |
+| 町田ちま全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=MachitaChima&shuffle=1>                  |
+| 牧野白全歌單循序      | <https://www.youtube.com/?startplaylist&playlistinclude=MakinoShiro>                             |
+| 牧野白全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=MakinoShiro&shuffle=1>                   |
