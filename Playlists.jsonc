@@ -66,7 +66,7 @@
     },
     {
         "name": "SudaYorukaSpecialSongList",
-        "tag": ["Suda", "Yoruka", "SudaYoruka", "public"],
+        "tag": ["Suda", "Yoruka", "SudaYoruka", "special", "public"],
         "route": "SudaYoruka/SudaYorukaSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -75,7 +75,7 @@
     },
     {
         "name": "SudaYorukaChineseSongList",
-        "tag": ["Suda", "Yoruka", "SudaYoruka", "public"],
+        "tag": ["Suda", "Yoruka", "SudaYoruka", "Chinese", "public"],
         "route": "SudaYoruka/SudaYorukaChineseSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -121,7 +121,7 @@
     },
     {
         "name": "MatoriKakeruSpecialSongList",
-        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public"],
+        "tag": ["Matori", "Kakeru", "MatoriKakeru", "special", "public"],
         "route": "MatoriKakeru/MatoriKakeruSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
