@@ -1,6 +1,21 @@
 [
     // 2021/6/20 【歌枠/sing a song】多ジャンルの曲を歌います😋
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 139, 455, "STAR BEAT～ホシノコドウ～"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 851, 1122, "青春アミーゴ"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 1307, 1592, "Story"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 1911, 2189, "アゲハ蝶"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 2327, 2563, "黒毛和牛上塩タン焼680円"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 2780, 3041, "もうそう えくすぷれす"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 3171, 3405, "不可思議のカルテ"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 3466, 3750, "ドライフラワー"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 3842, 4085, "ツキアカリのミチシルベ"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 4230, 4459, "Brave Shine"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 4567, 4880, "LAST STARDUST"],
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Edl_laioMFNGm1Q1tVstATwBrWUevLgKFgeuBG8fX4L3ww?e=7JdIjy", 5038, 5355, "trust you"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 4567, 4880, "trust you"], //版權消除
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 5044, 5333, "境界の彼方"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 5437, 5717, "This game"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESTLLKkYedZIjiT9VdKSipkBk0WK6T8kZlSrpaRvdUuQTg?e=QBTvso", 5751, 5921, "夜もすがら君想ふ ED"],
 
     // 2021/6/18 【歌枠/sing a song】HoneyWorksで青春を駆けよう🌈
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EaMhYbshg4RHu1Ud14yAR8wB7cvBWOUmiOf5IGAtUmNMeg?e=ajh1WJ", 742, 902, "告白予行練習"],
