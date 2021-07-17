@@ -6,6 +6,9 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 歌ってみた Give a reason
+    ["Lfi8Ow6aFt0", 0, 0, "Give a reason"],
+
     // 2021/7/12 【歌枠/sing a song】ピアノで癒しのボカロ歌枠🎹
     ["2s-bvzXKzcg", 134, 367, "いかないで"],
     ["2s-bvzXKzcg", 466, 731, "砂の惑星"],
@@ -80,7 +83,7 @@
     ["d2UaGdasMN0", 1839, 2160, "The Everlasting Guilty Crown"],
     ["d2UaGdasMN0", 2326, 2615, "MEMORIA"],
     // ["d2UaGdasMN0", 2860, 3144, "独白"],
-    ["d2UaGdasMN0", 3274, 3535, "Give a reason"],
+    // ["d2UaGdasMN0", 3274, 3535, "Give a reason"],
     ["d2UaGdasMN0", 3824, 4093, "カラフル"],
     ["d2UaGdasMN0", 4205, 4450, "Sparkling Daydream"],
     ["d2UaGdasMN0", 4590, 4871, "ユメヲカケル!"],
