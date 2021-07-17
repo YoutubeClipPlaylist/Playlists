@@ -6,6 +6,25 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/7/16 【歌枠/sing songs】ラブライブ！μ's縛りの歌枠🥳✨もう既に懐かしい…✨
+    ["EmnCWVYwr28", 219, 538, "僕らのLIVE 君とのLIFE"],
+    ["EmnCWVYwr28", 796, 1065, "僕らは今のなかで"],
+    ["EmnCWVYwr28", 1269, 1538, "夏色えがおで1,2,Jump!"],
+    ["EmnCWVYwr28", 1730, 2005, "Wonderful Rush"],
+    ["EmnCWVYwr28", 2207, 2502, "Music S.T.A.R.T!!"],
+    ["EmnCWVYwr28", 2711, 2978, "Love marginal"],
+    ["EmnCWVYwr28", 3123, 3388, "Cutie Panther"],
+    ["EmnCWVYwr28", 3673, 3943, "Dancing stars on me!"],
+    ["EmnCWVYwr28", 4099, 4366, "輝夜の城で踊りたい"],
+    ["EmnCWVYwr28", 4542, 4783, "No brand girls"],
+    ["EmnCWVYwr28", 5010, 5264, "START:DASH!!"],
+    ["EmnCWVYwr28", 5352, 5870, "Snow halation"],
+    ["EmnCWVYwr28", 5620, 5869, "それは僕たちの奇跡"],
+    ["EmnCWVYwr28", 6061, 6324, "ススメ→トゥモロウ"],
+    ["EmnCWVYwr28", 6677, 6967, "愛してるばんざーい!"],
+    // ["EmnCWVYwr28", 6997, 7189, "おねがいダーリン ED"],
+    ["EmnCWVYwr28", 8022, 8129, "なわとび (Short Acapella)"],
+
     // 2021/7/9 【歌枠/Sing songs】なにも気にせずただただ好きな歌をひたすら歌いたい😆✨
     // ["USqaDaTfS64", 376, 566, "シル・ヴ・プレジデント"],
     ["USqaDaTfS64", 940, 1178, "First kiss"],
@@ -24,7 +43,7 @@
 
     // 2021/7/2 【歌枠／sing songs】7月最初🌟夏といえば...！？
     ["ofhKkF89dYw", 215, 474, "Fire◎Flower"],
-    ["ofhKkF89dYw", 961, 1231, "夏色えがおで1,2,Jump!"],
+    // ["ofhKkF89dYw", 961, 1231, "夏色えがおで1,2,Jump!"], //New7/16
     ["ofhKkF89dYw", 1576, 1800, "夏祭り"],
     ["ofhKkF89dYw", 2157, 2498, "君の知らない物語"],
     ["ofhKkF89dYw", 2994, 3213, "夏のドーン！"],
