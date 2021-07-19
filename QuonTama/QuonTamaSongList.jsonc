@@ -485,23 +485,24 @@
     // ["ndG9cU2bmkw", 6095, 6339, "crossing field"], //New5/7
     // ["ndG9cU2bmkw", 6373, 6541, "夜もすがら君想ふ ED"],
 
-    // 2021/4/14 朝からキャラソンでテンションアゲアゲ🧚‍♀️
-    ["bI6AaAIsaL8", 117, 207, "侵略ノススメ (Short)"],
-    ["bI6AaAIsaL8", 558, 650, "エブリデイワールド (Short)"],
-    ["bI6AaAIsaL8", 956, 1192, "不可思議のカルテ"], //New6/20
-    ["bI6AaAIsaL8", 1543, 1743, "ようこそジャパリパークへ"],
-    // ["bI6AaAIsaL8", 1963, 2188, "お願いマッスル"], //New6/9
-    ["bI6AaAIsaL8", 2635, 2891, "恋愛サーキュレーション"],
-    ["bI6AaAIsaL8", 3094, 3345, "白金ディスコ"],
-    ["bI6AaAIsaL8", 3526, 3779, "ambivalent world"],
-    ["bI6AaAIsaL8", 3937, 4211, "chocolate insomnia"],
-    ["bI6AaAIsaL8", 4772, 5005, "ふわふわ時間"],
-    // ["bI6AaAIsaL8", 5213, 5490, "God Knows..."], //New5/7
-    ["bI6AaAIsaL8", 5996, 6208, "かくしん的☆めたまるふぉ〜ぜっ!"],
-    ["bI6AaAIsaL8", 6656, 6887, "Daydream cafe"],
-    ["bI6AaAIsaL8", 7365, 7625, "INSIDE IDENTITY"],
-    // ["bI6AaAIsaL8", 7761, 8004, "恋は渾沌の隷也"], //New5/9
-    // ["bI6AaAIsaL8", 8083, 8251, "夜もすがら君想ふ ED"],
+    // 版權
+    // // 2021/4/14 朝からキャラソンでテンションアゲアゲ🧚‍♀️
+    // ["bI6AaAIsaL8", 117, 207, "侵略ノススメ (Short)"],
+    // ["bI6AaAIsaL8", 558, 650, "エブリデイワールド (Short)"],
+    // ["bI6AaAIsaL8", 956, 1192, "不可思議のカルテ"], //New6/20
+    // ["bI6AaAIsaL8", 1543, 1743, "ようこそジャパリパークへ"],
+    // // ["bI6AaAIsaL8", 1963, 2188, "お願いマッスル"], //New6/9
+    // ["bI6AaAIsaL8", 2635, 2891, "恋愛サーキュレーション"],
+    // ["bI6AaAIsaL8", 3094, 3345, "白金ディスコ"],
+    // ["bI6AaAIsaL8", 3526, 3779, "ambivalent world"],
+    // ["bI6AaAIsaL8", 3937, 4211, "chocolate insomnia"],
+    // ["bI6AaAIsaL8", 4772, 5005, "ふわふわ時間"],
+    // // ["bI6AaAIsaL8", 5213, 5490, "God Knows..."], //New5/7
+    // ["bI6AaAIsaL8", 5996, 6208, "かくしん的☆めたまるふぉ〜ぜっ!"],
+    // ["bI6AaAIsaL8", 6656, 6887, "Daydream cafe"],
+    // ["bI6AaAIsaL8", 7365, 7625, "INSIDE IDENTITY"],
+    // // ["bI6AaAIsaL8", 7761, 8004, "恋は渾沌の隷也"], //New5/9
+    // // ["bI6AaAIsaL8", 8083, 8251, "夜もすがら君想ふ ED"],
 
     // 2021/4/13 アニソン界の歌姫縛り💖
     // ["wrkdy1NBTCA", 115, 401, "MEMORIA"], //New7/4
@@ -737,11 +738,11 @@
     // ["rzFnxdTCgD8", 2287, 2562, "I beg you"], //New4/16
     // ["rzFnxdTCgD8", 2720, 2950, "daze"], //New5/16
     // ["rzFnxdTCgD8", 3003, 3281, "風になる"], //New3/17
-    // ["rzFnxdTCgD8", 3563, 3836, "chocolate insomnia"], //New4/14
+    ["rzFnxdTCgD8", 3563, 3836, "chocolate insomnia"], //New4/14
     ["rzFnxdTCgD8", 3929, 4174, "帰り道"],
     // ["rzFnxdTCgD8", 4434, 4666, "ヒトリゴト"], //New5/16
     // ["rzFnxdTCgD8", 4891, 5136, "Sparkling Daydream"], //New5/30
-    // ["rzFnxdTCgD8", 5677, 5935, "INSIDE IDENTITY"], //New4/14
+    ["rzFnxdTCgD8", 5677, 5935, "INSIDE IDENTITY"], //New4/14
     // ["rzFnxdTCgD8", 6042, 6270, "だってアタシのヒーロー。"], //New4/12
     // ["rzFnxdTCgD8", 6312, 6481, "夜もすがら君想ふ ED"],
 
@@ -789,16 +790,16 @@
     // ["yub2xpbaarI", 0, 0, "作業用BGMアニソン歌枠メドレー３"],
 
     // 2021/2/14 甘々の可愛い曲をプレゼント🍫💕sing a song
-    // ["n4O4D8TXBKk", 156, 389, "ふわふわ時間"], //New4/14
+    ["n4O4D8TXBKk", 156, 389, "ふわふわ時間"], //New4/14
     // ["n4O4D8TXBKk", 561, 834, "青空のラプソディ"], //New4/12
-    // ["n4O4D8TXBKk", 1160, 1417, "恋愛サーキュレーション"], //New4/14
-    // ["n4O4D8TXBKk", 1504, 1757, "白金ディスコ"], //New4/14
+    ["n4O4D8TXBKk", 1160, 1417, "恋愛サーキュレーション"], //New4/14
+    ["n4O4D8TXBKk", 1504, 1757, "白金ディスコ"], //New4/14
     // ["n4O4D8TXBKk", 1880, 2121, "CheerS"], //New5/2
     // ["n4O4D8TXBKk", 2270, 2361, "Girlish Lover (Short)"], //New3/17
     // ["n4O4D8TXBKk", 2420, 2513, "チカっとチカ千花っ (Short)"], //New5/30
     // ["n4O4D8TXBKk", 2630, 2722, "あ・え・い・う・え・お・あお!! (Short)"],
     ["n4O4D8TXBKk", 2749, 2842, "にめんせい☆ウラオモテライフ (Short)"],
-    // ["n4O4D8TXBKk", 3061, 3272, "かくしん的☆めたまるふぉ〜ぜっ!"], //New4/14
+    ["n4O4D8TXBKk", 3061, 3272, "かくしん的☆めたまるふぉ〜ぜっ!"], //New4/14
     // ["n4O4D8TXBKk", 3395, 3640, "Baby Sweet Berry Love"], //New5/23
     ["n4O4D8TXBKk", 3758, 3970, "ハレ晴レユカイ"],
     // ["n4O4D8TXBKk", 4072, 4302, "Daydream café"], //New4/14
@@ -923,8 +924,8 @@
     // ["BpU0aySc0G4", 3020, 3083, "ニンジーン Loves you yeah!"], //New5/7
     // ["BpU0aySc0G4", 3161, 3486, "放課後オーバーフロウ"], //New3/14
     // ["BpU0aySc0G4", 3626, 3975, "射手座☆午後九時Don\t be late"], //New4/18
-    // ["BpU0aySc0G4", 4156, 4249, "エブリデイワールド (Short)"], //New4/14
-    // ["BpU0aySc0G4", 4489, 4581, "侵略ノススメ (Short)"], //New4/14
+    ["BpU0aySc0G4", 4156, 4249, "エブリデイワールド (Short)"], //New4/14
+    ["BpU0aySc0G4", 4489, 4581, "侵略ノススメ (Short)"], //New4/14
     // ["BpU0aySc0G4", 4719, 4985, "Fallen"], //New4/9
     // ["BpU0aySc0G4", 5069, 5428, "Planetes"], //New5/9
     // ["BpU0aySc0G4", 5622, 5875, "Hacking to the Gate"], //New3/28
@@ -936,7 +937,7 @@
     // 2021/1/10 新曲多め？！ sing a song
     ["1N_j3LoqAwE", 120, 209, "くちづけDiamond (Short)"],
     ["1N_j3LoqAwE", 338, 584, "COOLISH WALK"],
-    // ["1N_j3LoqAwE", 862, 1099, "不可思議のカルテ"], //New4/14
+    ["1N_j3LoqAwE", 862, 1099, "不可思議のカルテ"], //New4/14
     // ["1N_j3LoqAwE", 1275, 1491, "MOON PRIDE"], //New3/7
     // ["1N_j3LoqAwE", 1642, 1843, "うっせぇわ"], //New1/28
     // ["1N_j3LoqAwE", 2127, 2402, "いけないボーダーライン"], //New4/18
