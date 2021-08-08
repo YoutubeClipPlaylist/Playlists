@@ -6,6 +6,18 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 鈴花ステラ合作歌回
+    ["jUrd_pGyeTI", 292, 572, "トライアングラー"],
+    ["jUrd_pGyeTI", 1093, 322, "Brave Shine"],
+    ["jUrd_pGyeTI", 1328, 1562, "ふわふわ時間"],
+    ["jUrd_pGyeTI", 2146, 2419, "いけないボーダーライン"],
+    ["jUrd_pGyeTI", 2428, 2692, "ANIMA"],
+    ["jUrd_pGyeTI", 3234, 3509, "天使にふれたよ!"],
+    ["jUrd_pGyeTI", 3519, 3758, "oath sign"],
+    ["jUrd_pGyeTI", 4342, 4621, "Catch the Moment"],
+    ["jUrd_pGyeTI", 4628, 4885, "Don't say \"lazy\""],
+    ["jUrd_pGyeTI", 5381, 5684, "ライオン"],
+
     // 花丸はれる合作歌回
     // 2021/5/8 初！アニソンデュエット祭り🎆
     ["HyF7rb974LQ", 412, 681, "コネクト"],
