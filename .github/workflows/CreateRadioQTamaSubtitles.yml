@@ -3,8 +3,8 @@ name: Create RadioQTama Subtitle
 on:
   push:
     branches: [ QuonTama ]
-  schedule:
-    - cron:  '0 0 * * *'
+  # schedule:
+  #   - cron:  '0 0 * * *'
   workflow_dispatch:
 
 jobs:
