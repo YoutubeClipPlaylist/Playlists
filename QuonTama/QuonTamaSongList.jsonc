@@ -6,6 +6,126 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/8/13 【歌枠/sing a song】EGOIST縛りの歌枠！🌙
+    ["PBNV9MRdg7A", 141, 454, "名前のない怪物"],
+    ["PBNV9MRdg7A", 950, 1214, "Fallen"],
+    ["PBNV9MRdg7A", 1512, 1763, "Departures〜あなたにおくるアイの歌〜"],
+    ["PBNV9MRdg7A", 1886, 2088, "エウテルペ (Acapella)"],
+    ["PBNV9MRdg7A", 2281, 2565, "KABANERI OF THE IRON FORTRESS"],
+    // ["PBNV9MRdg7A", 2680, 2939, "ninelie"],
+    ["PBNV9MRdg7A", 3057, 3254, "咲かせや咲かせ"],
+    ["PBNV9MRdg7A", 3521, 3798, "英雄 運命の詩"],
+    ["PBNV9MRdg7A", 4282, 4643, "Planetes"],
+    ["PBNV9MRdg7A", 4728, 5078, "All Alone With You"],
+    ["PBNV9MRdg7A", 5178, 5502, "The Everlasting Guilty Crown"],
+    ["PBNV9MRdg7A", 5737, 6075, "My Dearest"],
+    // ["PBNV9MRdg7A", 6180, 6349, "夜もすがら君想ふ ED"],
+
+    // 歌ってみた シンデレラ
+    ["n5VGCyT0GPI", 0, 0, "シンデレラ"],
+
+    // 2021/8/8 【耐久歌枠/sing a song】夏フェス開催！最高の夏にしようね！👒
+    // ["EDMw-A6AWhU", 198, 458, "Give a reason"],
+    // ["EDMw-A6AWhU", 462, 684, "HOT LIMIT"],
+    // ["EDMw-A6AWhU", 870, 1142, "いけないボーダーライン"],
+    // ["EDMw-A6AWhU", 1149, 1360, "ハレ晴レユカイ"],
+    // ["EDMw-A6AWhU", 1366, 1545, "檄！帝国華撃団"],
+    // ["EDMw-A6AWhU", 1555, 1790, "ゆずれない願い"],
+    // ["EDMw-A6AWhU", 1993, 2238, "Sparkling Daydream"],
+    // ["EDMw-A6AWhU", 2248, 2507, "INSIDE IDENTITY"],
+    // // ["0a45hyiVJTw", 2516, 2758, "ツキアカリのミチシルベ"], //版權
+    // ["EDMw-A6AWhU", 2512, 2808, "月光花"],
+    // ["EDMw-A6AWhU", 2965, 3316, "RE:I AM"],
+    // ["EDMw-A6AWhU", 3321, 3655, "六等星の夜"],
+    // ["EDMw-A6AWhU", 3664, 3992, "茜さす"],
+    // ["EDMw-A6AWhU", 4260, 4544, "旅の途中"],
+    // ["EDMw-A6AWhU", 4553, 4809, "たぶん"],
+    // ["EDMw-A6AWhU", 4813, 5171, "うたかた花火"],
+    // ["EDMw-A6AWhU", 5177, 5447, "春擬き"],
+    // ["EDMw-A6AWhU", 5654, 5924, "夏色えがおで1,2,Jump!"],
+    // ["EDMw-A6AWhU", 5934, 6197, "破滅の純情"],
+    // ["EDMw-A6AWhU", 6203, 6459, "Butter-fly"],
+    // ["EDMw-A6AWhU", 6691, 6894, "怪物"],
+    // // ["0a45hyiVJTw", 7152, 7360, "踊"], //版權
+    // ["EDMw-A6AWhU", 6902, 7098, "ハルジオン"],
+    // ["EDMw-A6AWhU", 7263, 7510, "流星"],
+    // ["EDMw-A6AWhU", 7518, 7748, "Paradisus-Paradoxum"],
+    // ["EDMw-A6AWhU", 7752, 8003, "空色デイズ"],
+    // ["EDMw-A6AWhU", 8008, 8243, "佐賀事変"],
+    // ["EDMw-A6AWhU", 8342, 8595, "残酷な天使のテーゼ"],
+    // ["EDMw-A6AWhU", 8598, 8921, "魂のルフラン"],
+    // ["EDMw-A6AWhU", 8925, 9143, "廻廻奇譚"],
+    // ["EDMw-A6AWhU", 9146, 9334, "曇天"],
+    // ["EDMw-A6AWhU", 9467, 9646, "ヴァンパイア"],
+    // ["EDMw-A6AWhU", 9651, 9854, "ダーリンダンス"],
+    // // ["0a45hyiVJTw", 10326, 10561, "magnet"], //版權
+    // ["EDMw-A6AWhU", 9862, 10101, "PLATONIC GIRL"],
+    // ["EDMw-A6AWhU", 10219, 10476, "このピアノでお前を8759632145回ぶん殴る"],
+    // ["EDMw-A6AWhU", 10480, 10680, "ボッカデラベリタ"],
+    // ["EDMw-A6AWhU", 10685, 10970, "少女レイ"],
+    // ["EDMw-A6AWhU", 10977, 11253, "ロミオとシンデレラ"],
+    // ["EDMw-A6AWhU", 11434, 11639, "聖槍爆裂ボーイ"],
+    ["EDMw-A6AWhU", 11642, 11867, "乱躁滅裂ガール"],
+    ["EDMw-A6AWhU", 11872, 12048, "妄想疾患■ガール"],
+    // ["EDMw-A6AWhU", 12182, 12316, "KING"],
+    // ["EDMw-A6AWhU", 12322, 12455, "エンヴィーベイビー"],
+    // ["EDMw-A6AWhU", 12461, 12643, "ルマ"],
+    // ["EDMw-A6AWhU", 12823, 13023, "ただ君に晴れ"],
+    // ["EDMw-A6AWhU", 13144, 13369, "ヒッチコック"],
+    // // ["0a45hyiVJTw", 15920, 16169, "花に亡霊"], //版權
+    // ["EDMw-A6AWhU", 13375, 13637, "夜に駆ける"],
+    // ["EDMw-A6AWhU", 13771, 14041, "猫"],
+    // ["EDMw-A6AWhU", 14047, 14331, "ドライフラワー"],
+    // ["EDMw-A6AWhU", 14356, 14677, "Pretender"],
+    // ["EDMw-A6AWhU", 14686, 14964, "白日"],
+    // ["EDMw-A6AWhU", 14978, 15223, "群青"],
+    // ["EDMw-A6AWhU", 15440, 15778, "My Dearest"],
+    // ["EDMw-A6AWhU", 15784, 16062, "Catch the Moment"],
+    // ["EDMw-A6AWhU", 16071, 16339, "ANIMA"],
+    // ["EDMw-A6AWhU", 16447, 16659, "インフェルノ"],
+    // ["EDMw-A6AWhU", 16667, 16904, "Cry Baby"],
+    // ["EDMw-A6AWhU", 16911, 17156, "oath sign"],
+    // ["EDMw-A6AWhU", 17171, 17448, "God Knows..."],
+    // ["EDMw-A6AWhU", 17639, 17920, "前前前世"],
+    // ["EDMw-A6AWhU", 17927, 18177, "again"],
+    // ["EDMw-A6AWhU", 18188, 18409, "瞬間センチメンタル"],
+    // ["EDMw-A6AWhU", 18419, 18656, "unravel"],
+    // ["EDMw-A6AWhU", 18857, 19208, "ダイアモンド クレバス"],
+    // ["EDMw-A6AWhU", 19216, 19515, "暁の車"],
+    // ["EDMw-A6AWhU", 19533, 19825, "unlasting"],
+    // ["EDMw-A6AWhU", 19837, 20106, "炎"],
+    // ["EDMw-A6AWhU", 20270, 20560, "MEMORIA"],
+    // ["EDMw-A6AWhU", 20574, 20845, "Sincerely"],
+    // ["EDMw-A6AWhU", 20853, 21181, "WILL"],
+    // ["EDMw-A6AWhU", 21193, 21443, "Departures〜あなたにおくるアイの歌〜"],
+    // ["EDMw-A6AWhU", 21469, 21760, "Ref:rain"],
+    // ["EDMw-A6AWhU", 21778, 22126, "オレンジ"],
+    // ["EDMw-A6AWhU", 22348, 22641, "深愛"],
+    // ["EDMw-A6AWhU", 22732, 22978, "プラチナ"],
+    // ["EDMw-A6AWhU", 22988, 23257, "カラフル"],
+    // ["EDMw-A6AWhU", 23273, 23564, "あんなに一緒だったのに"],
+    // ["EDMw-A6AWhU", 23664, 23878, "COLORS"],
+    // ["EDMw-A6AWhU", 23890, 24159, "モザイクカケラ"],
+    // ["EDMw-A6AWhU", 24172, 24427, "Snow halation"],
+    // ["EDMw-A6AWhU", 24443, 24737, "Angelic Angel"],
+    // ["EDMw-A6AWhU", 24862, 25091, "君じゃなきゃダメみたい"],
+    // ["EDMw-A6AWhU", 25108, 25333, "Daydream cafe"],
+    // ["EDMw-A6AWhU", 25344, 25644, "ライオン"],
+    // ["EDMw-A6AWhU", 25652, 25903, "only my railgun"],
+    // ["EDMw-A6AWhU", 25910, 26140, "Brave Shine"],
+    // ["EDMw-A6AWhU", 26289, 26570, "謎"],
+    // ["EDMw-A6AWhU", 26579, 26770, "タッチ"],
+    // ["EDMw-A6AWhU", 26784, 27022, "ピースサイン"],
+    // ["EDMw-A6AWhU", 27131, 27449, "鳥の詩"],
+    // ["EDMw-A6AWhU", 27462, 27743, "創聖のアクエリオン"],
+    // ["EDMw-A6AWhU", 27753, 28067, "ETERNAL BLAZE"],
+    // // ["0a45hyiVJTw", 32546, 32887, "君の知らない物語"], //版權
+    // ["EDMw-A6AWhU", 28276, 28592, "ノーザンクロス"],
+    // ["EDMw-A6AWhU", 28602, 28838, "紅蓮華"],
+    // ["EDMw-A6AWhU", 28995, 29283, "Sing My Pleasure"],
+    // ["EDMw-A6AWhU", 29294, 29539, "crossing field"],
+    // ["EDMw-A6AWhU", 29714, 29964, "Rising Hope"],
+
     // 歌ってみた シル・ヴ・プレジデント
     ["_ggyuK-UZNo", 0, 0, "シル・ヴ・プレジデント"],
 
@@ -204,7 +324,7 @@
     ["d2UaGdasMN0", 581, 810, "君じゃなきゃダメみたい"],
     ["d2UaGdasMN0", 921, 1172, "空色デイズ"],
     // ["d2UaGdasMN0", 1334, 1541, "Preserved Roses"], //New7/30
-    ["d2UaGdasMN0", 1839, 2160, "The Everlasting Guilty Crown"],
+    // ["d2UaGdasMN0", 1839, 2160, "The Everlasting Guilty Crown"], //New8/13
     ["d2UaGdasMN0", 2326, 2615, "MEMORIA"],
     // ["d2UaGdasMN0", 2860, 3144, "独白"],
     // ["d2UaGdasMN0", 3274, 3535, "Give a reason"],
@@ -375,8 +495,8 @@
     ["XXHIPV7D2KI", 1287, 1541, "First Love"],
     ["XXHIPV7D2KI", 1719, 1906, "パート・オブ・ユア・ワールド"],
     ["XXHIPV7D2KI", 2247, 2425, "檄！帝国華撃団"],
-    ["XXHIPV7D2KI", 2760, 3098, "My Dearest"],
-    ["XXHIPV7D2KI", 3248, 3361, "エウテルペ (Short)"],
+    // ["XXHIPV7D2KI", 2760, 3098, "My Dearest"], //New8/13
+    // ["XXHIPV7D2KI", 3248, 3361, "エウテルペ (Short)"],
     ["XXHIPV7D2KI", 3456, 3779, "告白"],
     ["XXHIPV7D2KI", 3996, 4259, "Overfly"],
     ["XXHIPV7D2KI", 4549, 4869, "ハナミズキ"],
@@ -443,9 +563,9 @@
     ["GEsvT446PRg", 3304, 3667, "アメフラシの歌～Beautiful Rain～"],
     // ["GEsvT446PRg", 3792, 4076, "逆光"], //New6/23
     // ["GEsvT446PRg", 4163, 4423, "ninelie"],
-    ["GEsvT446PRg", 4426, 4624, "咲かせや咲かせ"],
-    ["GEsvT446PRg", 4846, 5158, "名前のない怪物"],
-    ["GEsvT446PRg", 5164, 5515, "All Alone With You"],
+    // ["GEsvT446PRg", 4426, 4624, "咲かせや咲かせ"], //New8/13
+    // ["GEsvT446PRg", 4846, 5158, "名前のない怪物"], //New8/13
+    // ["GEsvT446PRg", 5164, 5515, "All Alone With You"], //New8/13
     // ["GEsvT446PRg", 5615, 5908, "深愛"], //New7/21
     // ["GEsvT446PRg", 6015, 6186, "夜もすがら君想ふ ED"],
 
@@ -461,7 +581,7 @@
     ["53oTzfg05gw", 2769, 3011, "たった1つの想い"],
     ["53oTzfg05gw", 3151, 3435, "旅の途中"],
     // ["53oTzfg05gw", 3551, 3842, "あんなに一緒だったのに"], //New6/27
-    ["53oTzfg05gw", 4266, 4628, "Planetes"],
+    // ["53oTzfg05gw", 4266, 4628, "Planetes"], //New8/13
     ["53oTzfg05gw", 4842, 5140, "平行線"],
     // ["53oTzfg05gw", 5395, 5629, "太陽曰く燃えよカオス"], //New7/5
     // ["53oTzfg05gw", 5791, 6034, "恋は渾沌の隷也"], //New7/5
@@ -530,7 +650,7 @@
     ["fAlGoDNt6kg", 764, 1001, "ピースサイン"],
     ["fAlGoDNt6kg", 1277, 1524, "狂乱 Hey Kids!!"],
     ["fAlGoDNt6kg", 1740, 1935, "Skyreach"],
-    ["fAlGoDNt6kg", 2230, 2515, "KABANERI OF THE IRON FORTRESS"],
+    // ["fAlGoDNt6kg", 2230, 2515, "KABANERI OF THE IRON FORTRESS"], //New8/13
     // ["fAlGoDNt6kg", 2682, 2922, "めざせポケモンマスター"], //New8/1
     // ["fAlGoDNt6kg", 3064, 3318, "そばかす"], //New6/23
     ["fAlGoDNt6kg", 3782, 4003, "瞬間センチメンタル"],
@@ -601,7 +721,7 @@
     // ["ndG9cU2bmkw", 1611, 1879, "カラフル"], //New7/4
     // ["ndG9cU2bmkw", 2153, 2396, "Starry Wish"], //New7/18
     ["ndG9cU2bmkw", 2842, 3071, "Paradisus-Paradoxum"],
-    ["ndG9cU2bmkw", 3264, 3541, "英雄 運命の詩"],
+    // ["ndG9cU2bmkw", 3264, 3541, "英雄 運命の詩"], //New8/13
     ["ndG9cU2bmkw", 3941, 4176, "ゆずれない願い"],
     ["ndG9cU2bmkw", 4373, 4610, "unravel"],
     ["ndG9cU2bmkw", 4809, 5124, "ETERNAL BLAZE"],
@@ -676,7 +796,7 @@
     // ["vHPGjeDhn3I", 562, 849, "サリシノハラ -Piano Ver.-"], //New7/12
     ["vHPGjeDhn3I", 1058, 1328, "My Soul,Your Beats!"],
     // ["vHPGjeDhn3I", 1526, 1777, "traumerei"], //New7/25
-    ["vHPGjeDhn3I", 1991, 2255, "Fallen"],
+    // ["vHPGjeDhn3I", 1991, 2255, "Fallen"], //New8/13
     ["vHPGjeDhn3I", 2374, 2626, "かたちあるもの"],
     // ["vHPGjeDhn3I", 2709, 3060, "ダイアモンドクレバス"], //New4/18
     ["vHPGjeDhn3I", 3239, 3482, "愛錠"],
@@ -899,7 +1019,7 @@
     // ["cb9LeRh3lys", 1597, 1953, "うたかた花火"], //New7/18
     ["cb9LeRh3lys", 2048, 2325, "シルシ"],
     // ["cb9LeRh3lys", 2380, 2672, "unlasting"], //New3/28
-    ["cb9LeRh3lys", 2786, 3036, "Departures〜あなたにおくるアイの歌〜"], //New3/14
+    // ["cb9LeRh3lys", 2786, 3036, "Departures〜あなたにおくるアイの歌〜"], //New3/14
     // ["cb9LeRh3lys", 3116, 3462, "オレンジ"], //7!! //New6/6
     // ["cb9LeRh3lys", 3594, 3894, "春はゆく"], //New4/16
     // ["cb9LeRh3lys", 4045, 4369, "フリージア"],
