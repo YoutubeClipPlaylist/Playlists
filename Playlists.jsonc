@@ -158,6 +158,15 @@
             "url": "https://github.com/LittleRice1007"
         }
     },
+    {
+        "name": "ItouYunaSpecialSongList",
+        "tag": ["Itou", "Yuna", "ItouYuna", "public"],
+        "route": "ItouYuna/ItouYunaSpecialSongList.jsonc",
+        "maintainer": {
+            "name": "LittleRice",
+            "url": "https://github.com/LittleRice1007"
+        }
+    },
     // HaneMiya
     {
         "name": "HaneMiyaSongList",
