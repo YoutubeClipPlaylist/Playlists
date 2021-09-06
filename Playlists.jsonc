@@ -160,7 +160,7 @@
     },
     {
         "name": "ItouYunaSpecialSongList",
-        "tag": ["Itou", "Yuna", "ItouYuna", "public"],
+        "tag": ["Itou", "Yuna", "ItouYuna", "special", "public"],
         "route": "ItouYuna/ItouYunaSpecialSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
