@@ -186,5 +186,15 @@
             "name": "Edison Lee",
             "url": "https://github.com/edisonlee55"
         }
+    },
+    // Mizuki
+    {
+        "name": "MizukiSongList",
+        "tag": ["Mizuki", "public"],
+        "route": "Mizuki/MizukiSongList.jsonc",
+        "maintainer": {
+            "name": "LittleRice",
+            "url": "https://github.com/LittleRice1007"
+        }
     }
 ]
