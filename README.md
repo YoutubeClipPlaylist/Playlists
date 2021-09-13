@@ -34,6 +34,7 @@
 | [羽宮くぅ](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A)   | [小飯](https://github.com/LittleRice1007)    |
 | [町田ちま](https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw)   | [da21510](https://github.com/da21510)        |
 | [牧野白](https://www.youtube.com/channel/UCbZcxNKrC0a6IZYBowvzAUg)   | [Edison Lee](https://github.com/edisonlee55) |
+| [浠Mizuki](https://www.youtube.com/channel/UCjv4bfP_67WLuPheS-Z8Ekg) | [小飯](https://github.com/LittleRice1007)    |
 
 <!--| [神月天](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A) | [小飯](https://github.com/LittleRice1007) |-->
 
@@ -60,3 +61,5 @@
 | 町田ちま全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=MachitaChima&shuffle=1>                  |
 | 牧野白全歌單循序      | <https://www.youtube.com/?startplaylist&playlistinclude=MakinoShiro>                             |
 | 牧野白全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=MakinoShiro&shuffle=1>                   |
+| 浠Mizuki全歌單循序    | <https://www.youtube.com/?startplaylist&playlistinclude=Mizuki>                                  |
+| 浠Mizuki全歌單隨機    | <https://www.youtube.com/?startplaylist&playlistinclude=Mizuki&shuffle=1>                        |
