@@ -6,6 +6,69 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/9/19 【歌枠/sing a song】大好きなLiSAさん縛り第２弾🌟
+    ["gb0McS8_Bmw", 158, 438, "best day, best way"],
+    ["gb0McS8_Bmw", 587, 861, "Rally Go Round"],
+    ["gb0McS8_Bmw", 864, 1142, "Catch the Moment"],
+    ["gb0McS8_Bmw", 1419, 1697, "シルシ"],
+    ["gb0McS8_Bmw", 1857, 2149, "unlasting"],
+    // ["gb0McS8_Bmw", 2408, 2643, "紅蓮華"],
+    ["gb0McS8_Bmw", 2646, 2919, "from the edge"],
+    // ["gb0McS8_Bmw", 3140, 3410, "炎"],
+    ["gb0McS8_Bmw", 3720, 3962, "愛錠"],
+    ["gb0McS8_Bmw", 3970, 4192, "HADASHi NO STEP"],
+    ["gb0McS8_Bmw", 4647, 4881, "ASH"],
+    ["gb0McS8_Bmw", 4887, 5129, "dawn"],
+    ["gb0McS8_Bmw", 5357, 5584, "だってアタシのヒーロー。"],
+    ["gb0McS8_Bmw", 5737, 5957, "ADAMAS"],
+    ["gb0McS8_Bmw", 6130, 6373, "oath sign"],
+    ["gb0McS8_Bmw", 6378, 6622, "crossing field"],
+    ["gb0McS8_Bmw", 6778, 7025, "Rising Hope"],
+    // ["gb0McS8_Bmw", 7033, 7202, "夜もすがら君想ふ ED"],
+
+    // 2021/9/16 【歌枠/sing a song】ゲリラ歌枠！歌いたい曲歌う💓
+    // ["n_aLM3zlDzU", 144, 402, "Give a reason"],
+    ["n_aLM3zlDzU", 683, 877, "雫"],
+    ["n_aLM3zlDzU", 1170, 1378, "灰色のサーガ"],
+    ["n_aLM3zlDzU", 1634, 1911, "→unfinished→"],
+    // ["n_aLM3zlDzU", 2112, 2361, "光るなら"],
+    ["n_aLM3zlDzU", 2543, 2791, "ファンサ"],
+    ["n_aLM3zlDzU", 3309, 3537, "人生リセットボタン"],
+    ["n_aLM3zlDzU", 3702, 3914, "深海少女"],
+    ["n_aLM3zlDzU", 4032, 4242, "インフェルノ"],
+    ["n_aLM3zlDzU", 4644, 4914, "adrenaline!!!"],
+    ["n_aLM3zlDzU", 5084, 5323, "気まぐれロマンティック"],
+    ["n_aLM3zlDzU", 5430, 5667, "unravel"],
+    // ["n_aLM3zlDzU", 5731, 5899, "夜もすがら君想ふ ED"],
+
+    // 2021/9/15 【歌枠/sing a song】まったり朝のお歌たいむ🌞
+    ["YvAdH0Ecn20", 647, 929, "RPG"],
+    ["YvAdH0Ecn20", 1102, 1339, "金曜日のおはよう -another story-"],
+    ["YvAdH0Ecn20", 1596, 1880, "旅の途中"],
+    ["YvAdH0Ecn20", 1955, 2143, "曇天"],
+    ["YvAdH0Ecn20", 2368, 2571, "嘘"],
+    ["YvAdH0Ecn20", 2985, 3272, "Sing My Pleasure"],
+    ["YvAdH0Ecn20", 3425, 3744, "Pretender"],
+    ["YvAdH0Ecn20", 3905, 4188, "ドライフラワー"],
+    ["YvAdH0Ecn20", 4253, 4524, "猫"],
+    ["YvAdH0Ecn20", 4748, 4980, "ツインズ"],
+    ["YvAdH0Ecn20", 5153, 5443, "マリーゴールド"],
+    ["YvAdH0Ecn20", 5518, 5753, "Cry Baby"],
+    ["YvAdH0Ecn20", 5907, 6095, "ローリンガール"],
+    // ["YvAdH0Ecn20", 6182, 6315, "エンヴィーベイビー"],
+    ["YvAdH0Ecn20", 6361, 6579, "if…"],
+    ["YvAdH0Ecn20", 6707, 6945, "かいしんのいちげき!"],
+    ["YvAdH0Ecn20", 7420, 7800, "愛・おぼえていますか"],
+    ["YvAdH0Ecn20", 7864, 8126, "アイノカタチ"],
+    ["YvAdH0Ecn20", 8223, 8395, "俺ら東京さ行ぐだ"],
+    ["YvAdH0Ecn20", 8465, 8717, "白金ディスコ"],
+    ["YvAdH0Ecn20", 8813, 8899, "ハム太郎とっとこうた"],
+    ["YvAdH0Ecn20", 9022, 9236, "踊"],
+    ["YvAdH0Ecn20", 9564, 9736, "ABC体操"],
+    ["YvAdH0Ecn20", 9822, 10037, "HOT LIMIT"],
+    // ["YvAdH0Ecn20", 10064, 10232, "夜もすがら君想ふ ED"],
+    ["YvAdH0Ecn20", 11253, 11438, "ケロッ!とマーチ"],
+
     // 2021/9/12 【歌枠/sing a song】エモソングでまったりとした夜を...🌙
     ["hUMLbkps0FE", 159, 397, "花に亡霊"],
     ["hUMLbkps0FE", 565, 866, "奏"],
@@ -32,7 +95,7 @@
     ["6bnN-BoZOq4", 2328, 2614, "Q&A リサイタル!"],
     ["6bnN-BoZOq4", 2691, 2901, "かくしん的☆めたまるふぉ〜ぜっ!"],
     ["6bnN-BoZOq4", 3002, 3231, "Paradisus-Paradoxum"],
-    ["6bnN-BoZOq4", 3290, 3504, "HOT LIMIT"],
+    // ["6bnN-BoZOq4", 3290, 3504, "HOT LIMIT"], //New9/15
     // ["6bnN-BoZOq4", 3510, 3677, "夜もすがら君想ふ ED"],
 
     // 2021/9/10 【歌枠/sing a song】スタジオジブリ曲縛り🌳
@@ -59,10 +122,10 @@
     ["1wkjLTBEl2Y", 2434, 2695, "オリオンをなぞる"],
     ["1wkjLTBEl2Y", 2919, 3167, "花ハ踊レヤいろはにほ"],
     ["1wkjLTBEl2Y", 3325, 3522, "咲かせや咲かせ"],
-    ["1wkjLTBEl2Y", 3713, 3916, "嘘"],
+    // ["1wkjLTBEl2Y", 3713, 3916, "嘘"], //New9/15
     ["1wkjLTBEl2Y", 4180, 4433, "レイン"],
     ["1wkjLTBEl2Y", 4586, 4879, "月光花"],
-    ["1wkjLTBEl2Y", 5111, 5283, "ABC体操"],
+    // ["1wkjLTBEl2Y", 5111, 5283, "ABC体操"], //New9/15
     ["1wkjLTBEl2Y", 5465, 5645, "U"],
     ["1wkjLTBEl2Y", 5808, 6114, "DEAREST DROP"],
     // ["1wkjLTBEl2Y", 6171, 6340, "夜もすがら君想ふ ED"],
@@ -83,7 +146,7 @@
     // ["VT_eSNA53Ac", 3002, 3247, "夜に駆ける"],
     ["VT_eSNA53Ac", 3349, 3593, "群青"],
     ["VT_eSNA53Ac", 3696, 3830, "KING"],
-    ["VT_eSNA53Ac", 3906, 4040, "エンヴィーベイビー"],
+    // ["VT_eSNA53Ac", 3906, 4040, "エンヴィーベイビー"], //New9/15
     ["VT_eSNA53Ac", 4138, 4310, "グッバイ宣言"],
     // ["VT_eSNA53Ac", 4468, 4646, "ヴァンパイア"],
     ["VT_eSNA53Ac", 4828, 5061, "シャルル"],
@@ -109,7 +172,7 @@
     // ["VT_eSNA53Ac", 11934, 12204, "ANIMA"],
     // ["VT_eSNA53Ac", 12312, 12637, "フリージア"],
     ["VT_eSNA53Ac", 12739, 13052, "とある科学の超電磁砲メドレー"],
-    ["VT_eSNA53Ac", 13105, 13352, "Rising Hope"],
+    // ["VT_eSNA53Ac", 13105, 13352, "Rising Hope"], //New9/19
     // ["VT_eSNA53Ac", 13622, 13839, "HOT LIMIT"], //New9/11
     // ["VT_eSNA53Ac", 13897, 14066, "夜もすがら君想ふ ED"],
 
@@ -123,8 +186,8 @@
     ["4PHKemXvw5s", 2289, 2477, "エウテルペ (Acapella)"],
     ["4PHKemXvw5s", 2513, 2785, "こちら、幸福安心委員会です"],
     ["4PHKemXvw5s", 3000, 3348, "あたしが隣にいるうちに"],
-    ["4PHKemXvw5s", 3458, 3702, "愛錠"],
-    ["4PHKemXvw5s", 3940, 4225, "ドライフラワー"],
+    // ["4PHKemXvw5s", 3458, 3702, "愛錠"] //New9/19
+    // ["4PHKemXvw5s", 3940, 4225, "ドライフラワー"], //New9/15
     ["4PHKemXvw5s", 4301, 4422, "果てなき道 (Acapella)"],
     ["4PHKemXvw5s", 4456, 4671, "マジLOVE1000%"],
     ["4PHKemXvw5s", 4787, 5126, "射手座☆午後九時Don't be late"],
@@ -169,7 +232,7 @@
     // ["z-3mBUJnfVM", 3052, 3281, "Brave Shine"], //New8/29
     ["z-3mBUJnfVM", 3414, 3727, "LAST STARDUST"],
     ["z-3mBUJnfVM", 3907, 4183, "英雄 運命の詩"],
-    ["z-3mBUJnfVM", 4406, 4640, "ASH"],
+    // ["z-3mBUJnfVM", 4406, 4640, "ASH"], //New9/19
     ["z-3mBUJnfVM", 4764, 5012, "KOE"],
     ["z-3mBUJnfVM", 5105, 5390, "月と花束"],
     ["z-3mBUJnfVM", 5840, 6087, "星が降るユメ"],
@@ -179,7 +242,7 @@
     ["z-3mBUJnfVM", 7525, 7827, "春はゆく"],
     // ["z-3mBUJnfVM", 8053, 8336, "独白"],
     // ["z-3mBUJnfVM", 8384, 8672, "逆光"], //New8/29
-    ["z-3mBUJnfVM", 8818, 9061, "oath sign"],
+    // ["z-3mBUJnfVM", 8818, 9061, "oath sign"], //New9/19
     // ["z-3mBUJnfVM", 9212, 9382, "夜もすがら君想ふ ED"],
 
     // 2021/8/18 【朝歌/sing a song】まったり歌う夏休みの朝🌞
@@ -194,7 +257,7 @@
     ["QsbbnUD8OQE", 4529, 4835, "ひまわりの約束"],
     ["QsbbnUD8OQE", 4913, 5144, "海の声"],
     ["QsbbnUD8OQE", 5354, 5609, "涙そうそう"],
-    ["QsbbnUD8OQE", 6048, 6285, "Cry Baby"],
+    // ["QsbbnUD8OQE", 6048, 6285, "Cry Baby"], //New9/15
     ["QsbbnUD8OQE", 6951, 7221, "キセキ"],
     ["QsbbnUD8OQE", 7333, 7448, "Love so sweet (Short)"],
     ["QsbbnUD8OQE", 7473, 7737, "Monster"],
@@ -213,7 +276,7 @@
     // ["xVjdWQeB08I", 1466, 1736, "メリッサ"], //New8/30
     ["xVjdWQeB08I", 1999, 2240, "CheerS"],
     ["xVjdWQeB08I", 2380, 2617, "sweets parade"],
-    ["xVjdWQeB08I", 2770, 3051, "シルシ"],
+    // ["xVjdWQeB08I", 2770, 3051, "シルシ"], //New9/19
     ["xVjdWQeB08I", 3238, 3627, "MIRAI"],
     ["xVjdWQeB08I", 3786, 4063, "だんご大家族"],
     // ["xVjdWQeB08I", 4223, 4510, "Q&A リサイタル!"], //New8/30
@@ -221,7 +284,7 @@
     ["xVjdWQeB08I", 4941, 5200, "もってけ!セーラーふく"],
     ["xVjdWQeB08I", 5383, 5637, "カワキヲアメク"],
     ["xVjdWQeB08I", 5696, 5993, "平行線"],
-    ["xVjdWQeB08I", 6207, 6445, "気まぐれロマンティック"],
+    // ["xVjdWQeB08I", 6207, 6445, "気まぐれロマンティック"], //New9/16
     // ["xVjdWQeB08I", 6458, 6626, "夜もすがら君想ふ ED"],
 
     // 2021/8/13 【歌枠/sing a song】EGOIST縛りの歌枠！🌙
@@ -348,7 +411,7 @@
     ["_ggyuK-UZNo", 0, 0, "シル・ヴ・プレジデント"],
 
     // 2021/8/4 【歌枠/sing a song】まったりモーニングソング🌞
-    ["TkfUAFuLiJ4", 485, 572, "ハム太郎とっとこうた"],
+    // ["TkfUAFuLiJ4", 485, 572, "ハム太郎とっとこうた"], //New9/15
     ["TkfUAFuLiJ4", 679, 849, "変わらないもの"],
     ["TkfUAFuLiJ4", 1004, 1283, "たぶん"],
     ["TkfUAFuLiJ4", 2180, 2385, "カタオモイ"],
@@ -418,8 +481,8 @@
     ["nBsJc3vNfk8", 3705, 3960, "Hacking to the Gate"],
     ["nBsJc3vNfk8", 4269, 4538, "I will..."],
     ["nBsJc3vNfk8", 4785, 5034, "traumerei"],
-    ["nBsJc3vNfk8", 5202, 5395, "雫"],
-    ["nBsJc3vNfk8", 5490, 5698, "灰色のサーガ"],
+    // ["nBsJc3vNfk8", 5202, 5395, "雫"],,
+    // ["nBsJc3vNfk8", 5490, 5698, "灰色のサーガ"] //New9/16
     ["nBsJc3vNfk8", 5869, 6133, "Synchrogazer"],
     ["nBsJc3vNfk8", 6288, 6543, "Butter-fly"],
     // ["nBsJc3vNfk8", 6595, 6763, "夜もすがら君想ふ ED"],
@@ -429,7 +492,7 @@
     ["d_WCgzf04JI", 1044, 1271, "DANZEN!ふたりはプリキュア"],
     ["d_WCgzf04JI", 1395, 1652, "僕らの戦場"],
     // ["d_WCgzf04JI", 1800, 2017, "HOT LIMIT"], //New8/4
-    ["d_WCgzf04JI", 2183, 2420, "金曜日のおはよう"],
+    // ["d_WCgzf04JI", 2183, 2420, "金曜日のおはよう"], //New9/15
     // ["d_WCgzf04JI", 2670, 3002, "フリージア"],
     ["d_WCgzf04JI", 3161, 3365, "ただ君に晴れ"],
     // ["d_WCgzf04JI", 3441, 3699, "メルト"], //New8/27
@@ -443,7 +506,7 @@
     ["d_WCgzf04JI", 7743, 7981, "夏祭り-Arrange ver.-"],
     // ["d_WCgzf04JI", 8101, 8384, "ドライフラワー"], //New8/29
     ["d_WCgzf04JI", 8474, 8875, "Everything"],
-    ["d_WCgzf04JI", 9023, 9284, "アイノカタチ"],
+    // ["d_WCgzf04JI", 9023, 9284, "アイノカタチ"], //New9/15
     ["d_WCgzf04JI", 9450, 9800, "逢いたくていま"],
     ["d_WCgzf04JI", 10126, 10404, "Shangri-La"],
     // ["d_WCgzf04JI", 10517, 10792, "I beg you"], //New8/21
@@ -497,7 +560,7 @@
     ["yaMc0jH-dfg", 1021, 1281, "星屑ビーナス"],
     ["yaMc0jH-dfg", 1450, 1736, "Ref:rain"],
     // ["yaMc0jH-dfg", 1865, 2085, "火炎"], //New8/4
-    ["yaMc0jH-dfg", 2149, 2425, "→unfinished→"],
+    // ["yaMc0jH-dfg", 2149, 2425, "→unfinished→"], //New9/16
     // ["yaMc0jH-dfg", 2578, 2829, "海色"], //New8/1
     ["yaMc0jH-dfg", 2990, 3207, "ラブノベルス"],
     ["yaMc0jH-dfg", 3293, 3622, "冬がくれた予感"],
@@ -523,8 +586,8 @@
     ["2Y8ktYo6UCI", 4838, 5043, "ドーナツホール"],
     ["2Y8ktYo6UCI", 5363, 5640, "白日"],
     ["2Y8ktYo6UCI", 5768, 5969, "ヴィラン"],
-    ["2Y8ktYo6UCI", 6298, 6506, "踊"],
-    ["2Y8ktYo6UCI", 6625, 6871, "ファンサ"],
+    // ["2Y8ktYo6UCI", 6298, 6506, "踊"], //New9/15
+    // ["2Y8ktYo6UCI", 6625, 6871, "ファンサ"] //New9/16,
     // ["2Y8ktYo6UCI", 7066, 7300, "太陽曰く燃えよカオス"], //New7/18
     ["2Y8ktYo6UCI", 7442, 7684, "恋は渾沌の隷也"],
     ["2Y8ktYo6UCI", 7868, 8142, "青空のラプソディ"],
@@ -532,7 +595,7 @@
     // ["2Y8ktYo6UCI", 8883, 9085, "怪物"], //New8/29
     ["2Y8ktYo6UCI", 9263, 9465, "うっせぇわ"],
     // ["2Y8ktYo6UCI", 9638, 9852, "COLORS"],
-    ["2Y8ktYo6UCI", 9937, 10190, "dawn"],
+    // ["2Y8ktYo6UCI", 9937, 10190, "dawn"], //New9/19
     ["2Y8ktYo6UCI", 10415, 10697, "創聖のアクエリオン"],
     // ["2Y8ktYo6UCI", 10856, 11118, "うまぴょい伝説"], //New8/30
     // ["2Y8ktYo6UCI", 11197, 11367, "夜もすがら君想ふ ED"],
@@ -549,9 +612,9 @@
     ["d2UaGdasMN0", 3824, 4093, "カラフル"],
     ["d2UaGdasMN0", 4205, 4450, "Sparkling Daydream"],
     // ["d2UaGdasMN0", 4590, 4871, "ユメヲカケル!"], //New8/30
-    ["d2UaGdasMN0", 5050, 5338, "Sing My Pleasure"],
+    // ["d2UaGdasMN0", 5050, 5338, "Sing My Pleasure"], //New9/15
     ["d2UaGdasMN0", 5341, 5674, "Fluorite Eye's Song"],
-    ["d2UaGdasMN0", 5870, 6114, "crossing field"],
+    // ["d2UaGdasMN0", 5870, 6114, "crossing field"], //New9/19
     // ["d2UaGdasMN0", 6130, 6299, "夜もすがら君想ふ ED"],
 
     // 2021/7/2 【歌枠/sing a song】夜のしっとりアカペラ歌枠(Acapella)
@@ -575,7 +638,7 @@
 
     // 2021/6/27 【歌枠/sing anime song】大好きな梶浦さん楽曲縛り✨
     // ["laFRIb5K_Lo", 116, 385, "炎"],
-    ["laFRIb5K_Lo", 537, 810, "from the edge"],
+    // ["laFRIb5K_Lo", 537, 810, "from the edge"], //New9/19
     // ["laFRIb5K_Lo", 1027, 1320, "あんなに一緒だったのに"], //New8/29
     // ["laFRIb5K_Lo", 1321, 1620, "暁の車"], //New8/29
     // ["laFRIb5K_Lo", 1893, 2255, "花の唄"], //New8/21
@@ -635,7 +698,7 @@
     // ["hTnX57Y09HM", 1851, 2152, "日曜日の秘密"], //New7/30
     ["hTnX57Y09HM", 2325, 2564, "夢ファンファーレ"],
     ["hTnX57Y09HM", 2649, 2874, "東京サマーセッション"], //New7/18
-    ["hTnX57Y09HM", 3094, 3327, "ツインズ"],
+    // ["hTnX57Y09HM", 3094, 3327, "ツインズ"], //New9/15
     ["hTnX57Y09HM", 3669, 3898, "ウルフ"],
     ["hTnX57Y09HM", 3957, 4203, "カヌレ"],
     ["hTnX57Y09HM", 4354, 4665, "センパイ。"],
@@ -655,7 +718,7 @@
     // ["emFfjgvZJNk", 1568, 1763, "君をのせて"], //New9/10
     ["emFfjgvZJNk", 1965, 2137, "もののけ姫 Acapella"],
     // ["emFfjgvZJNk", 2293, 2496, "Arrietty's Song"], //New9/10
-    ["emFfjgvZJNk", 3135, 3356, "ADAMAS"],
+    // ["emFfjgvZJNk", 3135, 3356, "ADAMAS"], //New9/19
     // ["emFfjgvZJNk", 4095, 4314, "HOT LIMIT"], //New7/21
     // ["emFfjgvZJNk", 4904, 5164, "Don't say \"lazy\""], //New8/1
     // ["emFfjgvZJNk", 5320, 5539, "1/3の純情な感情"], //New8/30
@@ -797,7 +860,7 @@
     ["53oTzfg05gw", 1923, 2192, "ユキトキ"],
     ["53oTzfg05gw", 2194, 2463, "春擬き"],
     ["53oTzfg05gw", 2769, 3011, "たった1つの想い"],
-    ["53oTzfg05gw", 3151, 3435, "旅の途中"],
+    // ["53oTzfg05gw", 3151, 3435, "旅の途中"], //New9/15
     // ["53oTzfg05gw", 3551, 3842, "あんなに一緒だったのに"], //New6/27
     // ["53oTzfg05gw", 4266, 4628, "Planetes"], //New8/13
     // ["53oTzfg05gw", 4842, 5140, "平行線"], //New8/15
@@ -827,11 +890,11 @@
     ["h_Pz0HTsE6g", 6709, 6963, "Here"],
     // ["h_Pz0HTsE6g", 7201, 7444, "渡月橋 ～君 想ふ～"], //New8/1
     ["h_Pz0HTsE6g", 7545, 7740, "ハルジオン"],
-    ["h_Pz0HTsE6g", 8060, 8331, "猫"],
+    // ["h_Pz0HTsE6g", 8060, 8331, "猫"], //New9/15
     ["h_Pz0HTsE6g", 8668, 8730, "ニンジーン Loves you yeah!"],
     ["h_Pz0HTsE6g", 8852, 9165, "LAST STARDUST"], //New6/20 //New8/21
     // ["h_Pz0HTsE6g", 9310, 9587, "Shangri-La"], //New7/21
-    ["h_Pz0HTsE6g", 9702, 9888, "曇天"],
+    // ["h_Pz0HTsE6g", 9702, 9888, "曇天"], //New9/15
     ["h_Pz0HTsE6g", 10017, 10229, "スペシャルガール"],
     ["h_Pz0HTsE6g", 10347, 10593, "プラチナ"],
     // ["h_Pz0HTsE6g", 10724, 11010, "Ref:rain"], //New7/11
@@ -846,7 +909,7 @@
 
     // 2021/5/2 珍しの多ジャンルDay😋
     // ["ZLCZcj5N7II", 127, 367, "千本桜"], //New8/27
-    ["ZLCZcj5N7II", 595, 916, "Pretender"],
+    // ["ZLCZcj5N7II", 595, 916, "Pretender"], //New9/15
     // ["ZLCZcj5N7II", 1122, 1383, "星屑ビーナス"], //New7/11
     ["ZLCZcj5N7II", 1628, 1925, "ライラック"],
     // ["ZLCZcj5N7II", 2065, 2320, "秒針を噛む"], //New8/29
@@ -908,7 +971,7 @@
     ["L5dZlAEbIp4", 1997, 2237, "花に亡霊"], //New9/12
     // ["L5dZlAEbIp4", 2462, 2719, "恋愛裁判"], //New7/12
     ["L5dZlAEbIp4", 3376, 3653, "からくりピエロ"],
-    ["L5dZlAEbIp4", 3818, 4008, "ローリンガール"],
+    // ["L5dZlAEbIp4", 3818, 4008, "ローリンガール"], //New9/15
     ["L5dZlAEbIp4", 4127, 4403, "アンノウン・マザーグース"],
     // ["L5dZlAEbIp4", 4596, 4898, "命に嫌われている"], //New7/12
     // ["L5dZlAEbIp4", 5146, 5401, "アイロニ"], //New7/12
@@ -941,7 +1004,7 @@
     // ["ndG9cU2bmkw", 2842, 3071, "Paradisus-Paradoxum"], //New9/11
     // ["ndG9cU2bmkw", 3264, 3541, "英雄 運命の詩"], //New8/13
     ["ndG9cU2bmkw", 3941, 4176, "ゆずれない願い"],
-    ["ndG9cU2bmkw", 4373, 4610, "unravel"],
+    // ["ndG9cU2bmkw", 4373, 4610, "unravel"], //New9/16
     ["ndG9cU2bmkw", 4809, 5124, "ETERNAL BLAZE"],
     // ["ndG9cU2bmkw", 5661, 5896, "紅蓮華"],
     // ["ndG9cU2bmkw", 6095, 6339, "crossing field"], //New5/7
@@ -955,7 +1018,7 @@
     // ["bI6AaAIsaL8", 1543, 1743, "ようこそジャパリパークへ"],
     // // ["bI6AaAIsaL8", 1963, 2188, "お願いマッスル"], //New6/9
     // ["bI6AaAIsaL8", 2635, 2891, "恋愛サーキュレーション"],
-    // ["bI6AaAIsaL8", 3094, 3345, "白金ディスコ"],
+    // // ["bI6AaAIsaL8", 3094, 3345, "白金ディスコ"], //New9/15
     // ["bI6AaAIsaL8", 3526, 3779, "ambivalent world"],
     // ["bI6AaAIsaL8", 3937, 4211, "chocolate insomnia"],
     // ["bI6AaAIsaL8", 4772, 5005, "ふわふわ時間"], //New8/1
@@ -985,8 +1048,8 @@
     ["XyJONwZaSX8", 1143, 1200, "君が代 (Short)"], //日本国国歌
     // ["XyJONwZaSX8", 1345, 1592, "プラチナ"], //New5/7
     // ["XyJONwZaSX8", 1706, 2027, "The Everlasting Guilty Crown"], //New7/4
-    ["XyJONwZaSX8", 2193, 2421, "だってアタシのヒーロー。"],
-    ["XyJONwZaSX8", 2629, 2904, "Rally Go Round"],
+    // ["XyJONwZaSX8", 2193, 2421, "だってアタシのヒーロー。"], //New9/19
+    // ["XyJONwZaSX8", 2629, 2904, "Rally Go Round"], //New9/19
     ["XyJONwZaSX8", 3224, 3513, "ハルウタ"],
     // ["XyJONwZaSX8", 3824, 4100, "七転八起☆至上主義!"], //New9/5
     // ["XyJONwZaSX8", 4228, 4502, "青空のラプソディ"], //New7/5
@@ -1061,7 +1124,7 @@
     // ["iIo4_iQZL8Y", 2764, 3020, "sister's noise"], //New5/30
     // ["iIo4_iQZL8Y", 3195, 3433, "final phase"], //New7/25
     // ["iIo4_iQZL8Y", 3560, 3810, "again"], //New5/30
-    ["iIo4_iQZL8Y", 3964, 4256, "unlasting"],
+    // ["iIo4_iQZL8Y", 3964, 4256, "unlasting"], //New9/19
     // ["iIo4_iQZL8Y", 4337, 4697, "一番の宝物"], //New5/7
     // ["iIo4_iQZL8Y", 4821, 5081, "Hacking to the Gate"], //New5/9
     // ["iIo4_iQZL8Y", 5155, 5401, "プラチナ"], //New4/12
@@ -1213,7 +1276,7 @@
 
     // 2021/2/21 ６万人ありがとう✨王道アニソン歌います！sing a song
     // ["9bLORkCTZt4", 109, 345, "紅蓮華"],
-    ["9bLORkCTZt4", 475, 687, "インフェルノ"],
+    // ["9bLORkCTZt4", 475, 687, "インフェルノ"], //New9/16
     // ["9bLORkCTZt4", 856, 1133, "God Knows..."], //New4/14
     // ["9bLORkCTZt4", 1346, 1572, "おジャ魔女カーニバル"], //New7/21
     // ["9bLORkCTZt4", 1839, 2109, "コネクト"],
@@ -1223,7 +1286,7 @@
     // ["9bLORkCTZt4", 3121, 3463, "君の知らない物語"], //New3/14
     // ["9bLORkCTZt4", 3715, 3968, "残酷な天使のテーゼ"], //New3/21
     // ["9bLORkCTZt4", 4106, 4351, "crossing field"], //New4/15
-    ["9bLORkCTZt4", 4403, 4681, "Catch the Moment"],
+    // ["9bLORkCTZt4", 4403, 4681, "Catch the Moment"], //New9/19
     // ["9bLORkCTZt4", 4895, 5210, "ETERNAL BLAZE"], //New4/15
     // ["9bLORkCTZt4", 5274, 5575, "ライオン"], //New4/18
     ["9bLORkCTZt4", 5672, 5953, "創聖のアクエリオン"], //New5/2
@@ -1255,7 +1318,7 @@
     // ["n4O4D8TXBKk", 156, 389, "ふわふわ時間"], //New4/14
     // ["n4O4D8TXBKk", 561, 834, "青空のラプソディ"], //New4/12
     ["n4O4D8TXBKk", 1160, 1417, "恋愛サーキュレーション"], //New4/14
-    ["n4O4D8TXBKk", 1504, 1757, "白金ディスコ"], //New4/14
+    // ["n4O4D8TXBKk", 1504, 1757, "白金ディスコ"], //New4/14
     // ["n4O4D8TXBKk", 1880, 2121, "CheerS"], //New5/2
     // ["n4O4D8TXBKk", 2270, 2361, "Girlish Lover (Short)"], //New3/17
     // ["n4O4D8TXBKk", 2420, 2513, "チカっとチカ千花っ (Short)"], //New5/30
@@ -1299,7 +1362,7 @@
     // ["LlVqZpzshrA", 1127, 1396, "猫"], //New5/7
     // ["LlVqZpzshrA", 1758, 2049, "アイネクライネ"], //唱炸了
     // ["LlVqZpzshrA", 2192, 2560, "鳥の詩"], //New5/23
-    ["LlVqZpzshrA", 2708, 3001, "深海少女"],
+    // ["LlVqZpzshrA", 2708, 3001, "深海少女"], //New9/16
     // ["LlVqZpzshrA", 3117, 3384, "心做し"], //New7/12
     // ["LlVqZpzshrA", 3511, 3764, "アイロニ"], //New4/17
     // ["LlVqZpzshrA", 3889, 4169, "からくりピエロ"], //New4/17
@@ -1437,7 +1500,7 @@
     // ["QcymUTP93Dk", 628, 916, "ROCK-mode '18"], //New5/7
     // ["QcymUTP93Dk", 1161, 1427, "夜に駆ける"],
     // ["QcymUTP93Dk", 1692, 1985, "月光花"], //New1/24
-    ["QcymUTP93Dk", 2116, 2335, "if…"],
+    // ["QcymUTP93Dk", 2116, 2335, "if…"], //New9/15
     // ["QcymUTP93Dk", 2433, 2798, "花の唄"], //New4/16
     // ["QcymUTP93Dk", 2880, 3155, "I beg you"], //New4/16
     // ["QcymUTP93Dk", 3207, 3507, "春はゆく"], //New2/21
@@ -1731,7 +1794,7 @@
     // ["k-muid-bJNs", 3025, 3254, "病名は愛だった"], //New12/31
     ["k-muid-bJNs", 3340, 3588, "愛して愛して愛して"],
     ["k-muid-bJNs", 3688, 3954, "ラプンツェル"],
-    ["k-muid-bJNs", 4105, 4332, "人生リセットボタン"],
+    // ["k-muid-bJNs", 4105, 4332, "人生リセットボタン"], //New9/16
     ["k-muid-bJNs", 4441, 4660, "おじゃま虫"],
     // ["k-muid-bJNs", 4949, 5084, "KING"], //New12/31
     // ["k-muid-bJNs", 5406, 5608, "ボッカデラベリタ"], //New1/28
