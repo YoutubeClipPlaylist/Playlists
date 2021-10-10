@@ -6,6 +6,12 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2021/10/9 【3Dお披露目】久遠たま、ついに動きます！！！
+    ["JqxgTSbqdf0", 192, 283, "ABC体操"],
+    ["JqxgTSbqdf0", 2792, 3080, "Sing My Pleasure"],
+    // ["JqxgTSbqdf0", 3097, 3367, "炎"],
+    ["JqxgTSbqdf0", 3389, 3632, "crossing field"],
+
     // 歌ってみた GO! GO! MANIAC
     ["i7umbBaAV5E", 0, 0, "GO! GO! MANIAC"],
 
@@ -140,7 +146,7 @@
     ["pWWnR074QpM", 8300, 8621, "鳥の詩"],
     ["pWWnR074QpM", 8813, 9100, "you"],
     ["pWWnR074QpM", 9230, 9443, "六兆年と一夜物語"],
-    ["pWWnR074QpM", 9514, 9686, "ABC体操"],
+    // ["pWWnR074QpM", 9514, 9686, "ABC体操"], //New10/9
     // ["pWWnR074QpM", 9860, 10075, "HOT LIMIT"], //New9/29
     // ["pWWnR074QpM", 10082, 10251, "夜もすがら君想ふ ED"],
 
@@ -160,7 +166,7 @@
     ["gb0McS8_Bmw", 5357, 5584, "だってアタシのヒーロー。"],
     ["gb0McS8_Bmw", 5737, 5957, "ADAMAS"],
     ["gb0McS8_Bmw", 6130, 6373, "oath sign"],
-    ["gb0McS8_Bmw", 6378, 6622, "crossing field"],
+    // ["gb0McS8_Bmw", 6378, 6622, "crossing field"], //New10/9
     ["gb0McS8_Bmw", 6778, 7025, "Rising Hope"],
     // ["gb0McS8_Bmw", 7033, 7202, "夜もすがら君想ふ ED"],
 
@@ -185,7 +191,7 @@
     ["YvAdH0Ecn20", 1596, 1880, "旅の途中"],
     ["YvAdH0Ecn20", 1955, 2143, "曇天"],
     ["YvAdH0Ecn20", 2368, 2571, "嘘"],
-    ["YvAdH0Ecn20", 2985, 3272, "Sing My Pleasure"],
+    // ["YvAdH0Ecn20", 2985, 3272, "Sing My Pleasure"], //New10/9
     ["YvAdH0Ecn20", 3425, 3744, "Pretender"],
     ["YvAdH0Ecn20", 3905, 4188, "ドライフラワー"],
     ["YvAdH0Ecn20", 4253, 4524, "猫"],
