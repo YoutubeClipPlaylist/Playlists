@@ -1,0 +1,32 @@
+/**
+ * 歌單格式為JSON with Comments
+ * ["VideoID", StartTime, EndTime, "Title"]
+ * VideoID: 必須用引號包住，為字串型態。
+ * StartTime: 只能是非負數。如果要從頭播放，輸入0
+ * EndTime: 只能是非負數。如果要播放至尾，輸入0
+ * Title?: 必須用引號包住，為字串型態
+ * SubSrc?: 必須用雙引號包住，為字串型態，可選
+ */
+[
+    // 2021/12/14 【歌枠／ Singing】初めての歌枠だ！まったり練習するぞ♬【新人Vtuber】 Singing Anime songs
+    ["33gLiTyQsVo", 92, 292, "薔薇は美しく散る"],
+    ["33gLiTyQsVo", 698, 924, "純情"],
+    ["33gLiTyQsVo", 1425, 1633, "怪物"],
+    ["33gLiTyQsVo", 1955, 2304, "なんでもないや"],
+    ["33gLiTyQsVo", 2832, 3166, "六等星の夜"],
+    ["33gLiTyQsVo", 3651, 3966, "名前のない怪物"],
+    ["33gLiTyQsVo", 4467, 4746, "God knows"],
+    ["33gLiTyQsVo", 4972, 5077, "炎(Short)"],
+    ["33gLiTyQsVo", 5186, 5394, "うせえわ"],
+    ["33gLiTyQsVo", 5685, 5898, "裏切り者のレクイエム"],
+
+    // 2021/12/8 【初配信】はじめまして！薬袋アルマです！【新人Vtuber】
+    ["X7NyMoi-8Pk", 165, 435, "ANIMA"],
+    ["X7NyMoi-8Pk", 3474, 3689, "Los! Los! Los!"],
+    ["X7NyMoi-8Pk", 3785, 3990, "Believer"],
+    ["X7NyMoi-8Pk", 4063, 4289, "津軽海峡・冬景色"],
+    ["X7NyMoi-8Pk", 4642, 4855, "踊"],
+
+    // 歌ってみた たばこ
+    ["q8QcValORZE", 5751, 5921, "たばこ"]
+]
