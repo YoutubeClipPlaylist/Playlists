@@ -8,6 +8,18 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    // 2021/12/29 【歌枠／ Singing】お祝い！収益化未達成記念歌枠！！バラード縛り！♬【新人Vtuber】 Singing songs
+    ["s78U7mgXFlU", 389, 637, "Departures ～あなたにおくるアイの歌～"],
+    ["s78U7mgXFlU", 769, 1041, "炎"],
+    ["s78U7mgXFlU", 1308, 1640, "フリージア"],
+    ["s78U7mgXFlU", 1948, 2390, "帰還"],
+    ["s78U7mgXFlU", 2829, 3177, "Planetes"],
+    ["s78U7mgXFlU", 3499, 3743, "忘れじの言の葉"],
+    ["s78U7mgXFlU", 4301, 4583, "ドライフラワー"],
+    ["s78U7mgXFlU", 4715, 4974, "Lemon"],
+    ["s78U7mgXFlU", 5508, 5810, "MY HEART WILL GO ON"],
+    ["s78U7mgXFlU", 6122, 6490, "僕が死のうと思ったのは"],
+
     // 2021/12/14 【歌枠／ Singing】初めての歌枠だ！まったり練習するぞ♬【新人Vtuber】 Singing Anime songs
     ["33gLiTyQsVo", 92, 292, "薔薇は美しく散る"],
     ["33gLiTyQsVo", 698, 924, "純情"],
