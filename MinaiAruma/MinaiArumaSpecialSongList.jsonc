@@ -1,0 +1,14 @@
+/**
+ * 歌單格式為JSON with Comments
+ * ["VideoID", StartTime, EndTime, "Title"]
+ * VideoID: 必須用引號包住，為字串型態。
+ * StartTime: 只能是非負數。如果要從頭播放，輸入0
+ * EndTime: 只能是非負數。如果要播放至尾，輸入0
+ * Title?: 必須用引號包住，為字串型態
+ * SubSrc?: 必須用雙引號包住，為字串型態，可選
+ */
+[
+    // 2021/01/08 【歌枠／ Singing】デビュー1ヶ月記念！艦長生き残ったよ！♬【新人Vtuber】 Singing songs
+    ["ld-cz_5HqMc", 3354, 3673, "他們說我是沒有用的年輕人"],
+    ["ld-cz_5HqMc", 5643, 5896, "鬼神童子 Zenki"]
+]
