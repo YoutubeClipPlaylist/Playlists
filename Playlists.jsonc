@@ -54,6 +54,91 @@
             "url": "https://github.com/jim60105"
         }
     },
+    // MatoriKakeru
+    {
+        "name": "MatoriKakeruSongList",
+        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public"],
+        "route": "MatoriKakeru/MatoriKakeruSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    {
+        "name": "MatoriKakeruBackupSongList",
+        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public", "onedrive"],
+        "route": "MatoriKakeru/MatoriKakeruBackupSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    {
+        "name": "MatoriKakeruSpecialSongList",
+        "tag": ["Matori", "Kakeru", "MatoriKakeru", "special", "public"],
+        "route": "MatoriKakeru/MatoriKakeruSpecialSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    // MinaiAruma
+    {
+        "name": "MinaiArumaSongList",
+        "tag": ["Minai", "Aruma", "MinaiAruma", "public"],
+        "route": "MinaiAruma/MinaiArumaSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    {
+        "name": "MinaiArumaSpecialSongList",
+        "tag": ["Minai", "Aruma", "MinaiAruma", "special", "public"],
+        "route": "MinaiAruma/MinaiArumaSpecialSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    {
+        "name": "MinaiArumaBackupSongList",
+        "tag": ["Minai", "Aruma", "MinaiAruma", "public", "onedrive"],
+        "route": "MinaiAruma/MinaiArumaBackupSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    // KandukiAma
+    {
+        "name": "KandukiAmaSongList",
+        "tag": ["Kanduki", "Ama", "KandukiAma", "public"],
+        "route": "KandukiAma/KandukiAmaSongList.jsonc",
+        "maintainer": {
+            "name": "LittleRice",
+            "url": "https://github.com/LittleRice1007"
+        }
+    },
+    // ItouYuna
+    {
+        "name": "ItouYunaSongList",
+        "tag": ["Itou", "Yuna", "ItouYuna", "public"],
+        "route": "ItouYuna/ItouYunaSongList.jsonc",
+        "maintainer": {
+            "name": "LittleRice",
+            "url": "https://github.com/LittleRice1007"
+        }
+    },
+    {
+        "name": "ItouYunaSpecialSongList",
+        "tag": ["Itou", "Yuna", "ItouYuna", "special", "public"],
+        "route": "ItouYuna/ItouYunaSpecialSongList.jsonc",
+        "maintainer": {
+            "name": "LittleRice",
+            "url": "https://github.com/LittleRice1007"
+        }
+    },
     // SudaYoruka
     {
         "name": "SudaYorukaSongList",
@@ -98,73 +183,6 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
-    },
-    // MatoriKakeru
-    {
-        "name": "MatoriKakeruSongList",
-        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public"],
-        "route": "MatoriKakeru/MatoriKakeruSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        }
-    },
-    {
-        "name": "MatoriKakeruBackupSongList",
-        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public", "onedrive"],
-        "route": "MatoriKakeru/MatoriKakeruBackupSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        }
-    },
-    {
-        "name": "MatoriKakeruSpecialSongList",
-        "tag": ["Matori", "Kakeru", "MatoriKakeru", "special", "public"],
-        "route": "MatoriKakeru/MatoriKakeruSpecialSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        }
-    },
-    // MinaiAruma
-    {
-        "name": "MinaiArumaSongList",
-        "tag": ["Minai", "Aruma", "MinaiAruma", "public"],
-        "route": "MinaiAruma/MinaiArumaSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        }
-    },
-    // KandukiAma
-    {
-        "name": "KandukiAmaSongList",
-        "tag": ["Kanduki", "Ama", "KandukiAma", "public"],
-        "route": "KandukiAma/KandukiAmaSongList.jsonc",
-        "maintainer": {
-            "name": "LittleRice",
-            "url": "https://github.com/LittleRice1007"
-        }
-    },
-    // ItouYuna
-    {
-        "name": "ItouYunaSongList",
-        "tag": ["Itou", "Yuna", "ItouYuna", "public"],
-        "route": "ItouYuna/ItouYunaSongList.jsonc",
-        "maintainer": {
-            "name": "LittleRice",
-            "url": "https://github.com/LittleRice1007"
-        }
-    },
-    {
-        "name": "ItouYunaSpecialSongList",
-        "tag": ["Itou", "Yuna", "ItouYuna", "special", "public"],
-        "route": "ItouYuna/ItouYunaSpecialSongList.jsonc",
-        "maintainer": {
-            "name": "LittleRice",
-            "url": "https://github.com/LittleRice1007"
         }
     },
     // HaneMiya
