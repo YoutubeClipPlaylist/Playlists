@@ -8,6 +8,22 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    // 歌ってみた LOS!LOS!LOS!
+    ["LDLERBsMyH8", 0, 0, "LOS!LOS!LOS!"],
+
+    // 2021/01/08 【歌枠／ Singing】デビュー1ヶ月記念！艦長生き残ったよ！♬【新人Vtuber】 Singing songs
+    ["ld-cz_5HqMc", 115, 324, "Northern Lights"],
+    ["ld-cz_5HqMc", 533, 786, "嵐の中で輝いて"],
+    ["ld-cz_5HqMc", 1074, 1353, "Shangri-la"],
+    ["ld-cz_5HqMc", 1611, 1921, "Last Stardust"],
+    // ["ld-cz_5HqMc", 2205, 0, "King"], //版權
+    ["ld-cz_5HqMc", 2919, 3187, "Fly Me to the Moon"],
+    // ["ld-cz_5HqMc", 3354, 3673, "他們說我是沒有用的年輕人"],
+    ["ld-cz_5HqMc", 4345, 4612, "unravel"],
+    ["ld-cz_5HqMc", 4814, 5114, "オルフェンズの涙"],
+    ["ld-cz_5HqMc", 5271, 5486, "踊"],
+    // ["ld-cz_5HqMc", 5643, 5896, "鬼神童子 Zenki"],
+
     // 2021/12/29 【歌枠／ Singing】お祝い！収益化未達成記念歌枠！！バラード縛り！♬【新人Vtuber】 Singing songs
     ["s78U7mgXFlU", 389, 637, "Departures ～あなたにおくるアイの歌～"],
     ["s78U7mgXFlU", 769, 1041, "炎"],
@@ -37,7 +53,7 @@
     ["X7NyMoi-8Pk", 3474, 3689, "Los! Los! Los!"],
     ["X7NyMoi-8Pk", 3785, 3990, "Believer"],
     ["X7NyMoi-8Pk", 4063, 4289, "津軽海峡・冬景色"],
-    ["X7NyMoi-8Pk", 4642, 4855, "踊"],
+    // ["X7NyMoi-8Pk", 4642, 4855, "踊"], //New1/8
 
     // 歌ってみた たばこ
     ["q8QcValORZE", 0, 0, "たばこ"]
