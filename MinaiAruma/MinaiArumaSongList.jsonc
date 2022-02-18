@@ -8,6 +8,36 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    // 2022/02/04 懐かしいボカロ縛り！！♬
+    ["UE_nLDmvB0E", 535, 816, "ロミオとシンデレラ"],
+    // ["UE_nLDmvB0E", 1022, 1236, "六兆年と一夜物語"],
+    ["UE_nLDmvB0E", 1388, 1613, "吉原ラメント"],
+    ["UE_nLDmvB0E", 1787, 2048, "白い雪のプリンセスは"],
+    ["UE_nLDmvB0E", 2257, 2445, "天ノ弱"],
+    ["UE_nLDmvB0E", 2642, 2877, "magnet"],
+    ["UE_nLDmvB0E", 3246, 3516, "天樂"],
+    ["UE_nLDmvB0E", 3737, 4007, "サリシノハラ"],
+    ["UE_nLDmvB0E", 4167, 4380, "六兆年と一夜物語"],
+    ["UE_nLDmvB0E", 4488, 4744, "病名恋ワズライ"],
+    ["UE_nLDmvB0E", 5108, 5420, "初めての恋が終わる時"],
+    ["UE_nLDmvB0E", 5587, 5848, "上弦の月"],
+    ["UE_nLDmvB0E", 5895, 6040, "Ievan Polkka"],
+
+    // 2022/01/22 2600人いけますか？！アニソン多め！！♬
+    ["bK7OqZVARQU", 328, 563, "ゆずれない願い"],
+    // ["bK7OqZVARQU", 733, 1019, "少女レイ"], //版權
+    ["bK7OqZVARQU", 1307, 1588, "This game"],
+    ["bK7OqZVARQU", 1741, 1944, "嘘"],
+    ["bK7OqZVARQU", 2141, 2469, "tune the rainbow"],
+    ["bK7OqZVARQU", 2813, 3060, "夢想歌"],
+    ["bK7OqZVARQU", 3296, 3545, "花に亡霊"],
+    ["bK7OqZVARQU", 3845, 4102, "INSIDE IDENTITY"],
+    // ["bK7OqZVARQU", 4293, 4532, "千本桜"], //版權
+    ["bK7OqZVARQU", 4709, 4800, "残響散歌 (Short)"],
+    ["bK7OqZVARQU", 4847, 5096, "YOU GET TO BURNING"],
+    ["bK7OqZVARQU", 5252, 5478, "READY STEADY GO"],
+    ["bK7OqZVARQU", 5736, 5868, "宇宙戦艦ヤマト"],
+
     // 歌ってみた LOS!LOS!LOS!
     ["LDLERBsMyH8", 0, 0, "LOS!LOS!LOS!"],
 
