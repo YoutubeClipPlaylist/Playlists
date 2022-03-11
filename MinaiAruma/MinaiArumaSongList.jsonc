@@ -8,6 +8,41 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    // 2022/03/08 デビュー3ヶ月記念配信！！お祝いするぞぉ！♬Ꮚ•̀ꈊ•́Ꮚ
+    ["gMemjYpUJAw", 282, 465, "U"],
+    ["gMemjYpUJAw", 737, 968, "星間飛行"],
+    ["gMemjYpUJAw", 1342, 1680, "射手座☆午後九時Don't be late"],
+    ["gMemjYpUJAw", 2028, 2292, "aLIEz"],
+    ["gMemjYpUJAw", 2994, 3274, "もらい泣き"],
+    ["gMemjYpUJAw", 3619, 3143, "Shangri-La"],
+    ["gMemjYpUJAw", 4113, 4401, "Ref:rain"],
+    ["gMemjYpUJAw", 4633, 4851, "LOS!LOS!LOS!"],
+    // ["gMemjYpUJAw", 5051, 5407, "たばこ"],
+    ["gMemjYpUJAw", 5628, 5811, "ヴァンパイア"],
+    ["gMemjYpUJAw", 5991, 6248, "病名恋ワズライ"],
+    ["gMemjYpUJAw", 6405, 6627, "津軽海峡冬景色"],
+    ["gMemjYpUJAw", 6736, 6948, "裏切り者のレクイエム"],
+
+    // 2022/02/24 やはりアニソンが大好き！歌うぞー－－－！！♬
+    ["gDixp-C8sGk", 370, 552, "エウテルペ"],
+    ["gDixp-C8sGk", 735, 1147, "Over soul"],
+    ["gDixp-C8sGk", 1393, 1676, "Kabaneri of the Iron Fortress"],
+    ["gDixp-C8sGk", 1915, 2179, "ときめきの導火線"],
+    ["gDixp-C8sGk", 2404, 2682, "英雄 運命の詩"],
+    ["gDixp-C8sGk", 2899, 3143, "奇跡の海"],
+    ["gDixp-C8sGk", 3376, 3625, "ないない"],
+    ["gDixp-C8sGk", 3808, 4096, "境界の彼方"],
+    ["gDixp-C8sGk", 4365, 4599, "紅蓮華"],
+    ["gDixp-C8sGk", 4752, 5067, "Ghost of a Smile"],
+    ["gDixp-C8sGk", 5280, 5564, "Nevereverland"],
+    ["gDixp-C8sGk", 5768, 6015, "ninelie"],
+
+    // 2022/02/08 デビュー２ヶ月記念ミニライブ！！♬
+    ["gQj6tOqSAB0", 196, 450, "Snow halation"],
+    ["gQj6tOqSAB0", 647, 764, "ワルキューレがとまらない"],
+    ["gQj6tOqSAB0", 1056, 1332, "ヘビーローテーション"],
+    ["gQj6tOqSAB0", 1568, 1778, "バレンタイン・キッス"],
+
     // 2022/02/04 懐かしいボカロ縛り！！♬
     ["UE_nLDmvB0E", 535, 816, "ロミオとシンデレラ"],
     // ["UE_nLDmvB0E", 1022, 1236, "六兆年と一夜物語"],
@@ -18,7 +53,7 @@
     ["UE_nLDmvB0E", 3246, 3516, "天樂"],
     ["UE_nLDmvB0E", 3737, 4007, "サリシノハラ"],
     ["UE_nLDmvB0E", 4167, 4380, "六兆年と一夜物語"],
-    ["UE_nLDmvB0E", 4488, 4744, "病名恋ワズライ"],
+    // ["UE_nLDmvB0E", 4488, 4744, "病名恋ワズライ"], //New3/8
     ["UE_nLDmvB0E", 5108, 5420, "初めての恋が終わる時"],
     ["UE_nLDmvB0E", 5587, 5848, "上弦の月"],
     ["UE_nLDmvB0E", 5895, 6040, "Ievan Polkka"],
@@ -44,7 +79,7 @@
     // 2021/01/08 【歌枠／ Singing】デビュー1ヶ月記念！艦長生き残ったよ！♬【新人Vtuber】 Singing songs
     ["ld-cz_5HqMc", 115, 324, "Northern Lights"],
     ["ld-cz_5HqMc", 533, 786, "嵐の中で輝いて"],
-    ["ld-cz_5HqMc", 1074, 1353, "Shangri-la"],
+    // ["ld-cz_5HqMc", 1074, 1353, "Shangri-la"], //New3/8
     ["ld-cz_5HqMc", 1611, 1921, "Last Stardust"],
     // ["ld-cz_5HqMc", 2205, 0, "King"], //版權
     ["ld-cz_5HqMc", 2919, 3187, "Fly Me to the Moon"],
@@ -76,11 +111,11 @@
     ["33gLiTyQsVo", 4467, 4746, "God knows"],
     // ["33gLiTyQsVo", 4972, 5077, "炎(Short)"],
     ["33gLiTyQsVo", 5186, 5394, "うせえわ"],
-    ["33gLiTyQsVo", 5685, 5898, "裏切り者のレクイエム"],
+    // ["33gLiTyQsVo", 5685, 5898, "裏切り者のレクイエム"], //New3/8
 
     // 2021/12/8 【初配信】はじめまして！薬袋アルマです！【新人Vtuber】
     ["X7NyMoi-8Pk", 165, 435, "ANIMA"],
-    ["X7NyMoi-8Pk", 3474, 3689, "Los! Los! Los!"],
+    // ["X7NyMoi-8Pk", 3474, 3689, "LOS!LOS!LOS!"], //New3/8
     ["X7NyMoi-8Pk", 3785, 3990, "Believer"],
     ["X7NyMoi-8Pk", 4063, 4289, "津軽海峡・冬景色"],
     // ["X7NyMoi-8Pk", 4642, 4855, "踊"], //New1/8
