@@ -1,4 +1,18 @@
 [
+    // 2022/3/3 アカペラでなんでも(?)歌う！
+    ["Adg_KrdsiKQ", 109, 245, "うれしいひな祭り"],
+    ["Adg_KrdsiKQ", 420, 1108, "娘々スペシャルメドレー特盛り"],
+    // ["Adg_KrdsiKQ", 1315, 1492, "Calc."],
+    // ["Adg_KrdsiKQ", 1650, 1856, "忘れじの言の葉"],
+    ["Adg_KrdsiKQ", 1961, 2147, "Euterpe"],
+    ["Adg_KrdsiKQ", 2207, 2481, "うまぴょい伝説"],
+    // ["Adg_KrdsiKQ", 2770, 3043, "英雄 運命の詩"],
+    ["Adg_KrdsiKQ", 3112, 3193, "Désir"],
+    // ["Adg_KrdsiKQ", 3357, 3638, "trust you"],
+    // ["Adg_KrdsiKQ", 3746, 3987, "再会"],
+    // ["Adg_KrdsiKQ", 4024, 4262, "再会"],
+    // ["Adg_KrdsiKQ", 4980, 5193, "悪魔の子"],
+
     // 2022/1/7 【メン限】リクエストで歌いまする！！
     // ["IlmIua2UWos", 98, 375, "Shangri-La"],
     // ["IlmIua2UWos", 733, 1098, "終わりの世界から"],
@@ -39,7 +53,7 @@
     // 2021/6/14 【】【Vtuber/久遠たま】
     // ["iNOOjxcRncs", 1060, 1253, "ジャガーノート"], //New8/27
     // ["iNOOjxcRncs", 1435, 1495, "ドライフラワー (Short)"],
-    ["iNOOjxcRncs", 1523, 1719, "春を告げる (Short)"],
+    // ["iNOOjxcRncs", 1523, 1719, "春を告げる (Short)"], //New3/6
     // ["iNOOjxcRncs", 1800, 2101, "マリーゴールド"], //New9/15
     // ["iNOOjxcRncs", 2224, 2429, "怪物"],
     ["iNOOjxcRncs", 2534, 2625, "さよならエレジー (Short)"],
