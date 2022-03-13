@@ -1,0 +1,30 @@
+/**
+ * 歌單格式為JSON with Comments
+ * ["VideoID", StartTime, EndTime, "Title"]
+ * VideoID: 必須用引號包住，為字串型態。
+ * StartTime: 只能是非負數。如果要從頭播放，輸入0
+ * EndTime: 只能是非負數。如果要播放至尾，輸入0
+ * Title?: 必須用引號包住，為字串型態
+ * SubSrc?: 必須用雙引號包住，為字串型態，可選
+ */
+[
+    // 2022/1/17 改めまして、はじめまして
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 1177, 1484, "紅蓮の弓矢"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 1605, 1830, "往け"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 2005, 2276, "アンコール"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 2488, 2690, "神っぽいな"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 2989, 3251, "破滅の純情"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 3384, 3629, "白金ディスコも無ェ (IKZO吉幾三)"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 3803, 4031, "虎視眈々"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 4180, 4430, "夜に駆ける THE HOME TAKE"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 4658, 4901, "テルーの唄 (Acapella)"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 5064, 5340, "Ghost of a smile (Acapella)"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 5432, 5648, "ダダダダ天使"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 5787, 5974, "フォニイ"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 6035, 6313, "アゲハ蝶"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 6364, 6622, "サウダージ"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 6682, 6930, "DAYS"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 6935, 7150, "COLORS"],
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 7287, 7504, "HOT LIMIT"]
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVxqr9rKUp5Jrm3orsi_3n8BmKavUbLqf4ikdEKSeiMlwA?e=Lyjqew", 7506, 7676, "夜もすがら君想ふ ED"]
+]
