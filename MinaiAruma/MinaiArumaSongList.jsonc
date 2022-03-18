@@ -8,6 +8,20 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    // 2022/03/16 いよいよ定期歌枠始まります！！初見さん大歓迎♬
+    ["HgE-CjYdCHM", 397, 652, "JUST COMMUNICATION"],
+    ["HgE-CjYdCHM", 913, 1183, "Fly Me to the Moon"],
+    ["HgE-CjYdCHM", 1500, 1759, "Secret of my heart"],
+    ["HgE-CjYdCHM", 2218, 2480, "夢見る少女じゃいられない"],
+    ["HgE-CjYdCHM", 2753, 3044, "あんなに一緒だったのに"],
+    ["HgE-CjYdCHM", 3443, 3801, "青空のナミダ"],
+    ["HgE-CjYdCHM", 4096, 4337, "甲賀忍法帖"],
+    // ["HgE-CjYdCHM", 4620, 4926, "Voyage"], //版權
+    ["HgE-CjYdCHM", 5210, 5532, "The everlasting guilty crown"],
+    ["HgE-CjYdCHM", 5722, 5873, "恋"],
+    ["HgE-CjYdCHM", 6308, 6537, "碼頭姑娘"],
+    ["HgE-CjYdCHM", 6673, 6883, "Never gonna give you up"],
+
     // 2022/03/08 デビュー3ヶ月記念配信！！お祝いするぞぉ！♬Ꮚ•̀ꈊ•́Ꮚ
     ["gMemjYpUJAw", 282, 465, "U"],
     ["gMemjYpUJAw", 737, 968, "星間飛行"],
@@ -105,7 +119,7 @@
     ["33gLiTyQsVo", 92, 292, "薔薇は美しく散る"],
     ["33gLiTyQsVo", 698, 924, "純情"],
     ["33gLiTyQsVo", 1425, 1633, "怪物"],
-    ["33gLiTyQsVo", 1955, 2304, "なんでもないや"],
+    // ["33gLiTyQsVo", 1955, 2304, "なんでもないや"], //版權
     ["33gLiTyQsVo", 2832, 3166, "六等星の夜"],
     ["33gLiTyQsVo", 3651, 3966, "名前のない怪物"],
     ["33gLiTyQsVo", 4467, 4746, "God knows"],
