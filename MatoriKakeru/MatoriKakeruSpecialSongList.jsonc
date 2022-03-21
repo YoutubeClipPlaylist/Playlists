@@ -21,22 +21,52 @@
 
     // 和亜玖魔サキ連動
     // 2022/3/1 コラボ歌枠✨バチバチカッコよく決めるだわよ😎✨【亜玖魔サキ/Vtuber/間取かける】
-    // https://youtu.be/VheJGsS26T4
+    ["VheJGsS26T4", 114, 344, "劣等上等"],
+    ["VheJGsS26T4", 574, 837, "アイのシナリオ"],
+    ["VheJGsS26T4", 1111, 1361, "only my railgun"],
+    ["VheJGsS26T4", 1646, 1895, "完全感覚Dreamer"],
+    ["VheJGsS26T4", 2139, 2431, "愛をこめて花束を"],
+    ["VheJGsS26T4", 2663, 2796, "KING"],
+    ["VheJGsS26T4", 3144, 3411, "ANIMA"],
+    ["VheJGsS26T4", 3559, 3813, "Redo"],
+    ["VheJGsS26T4", 4057, 4333, "God knows..."],
+    ["VheJGsS26T4", 4506, 4752, "Rising Hope"],
+    ["VheJGsS26T4", 4906, 5123, "チューリングラブ"],
 
     // 和涼風しとら連動
     // 2022/2/19 コラボ歌枠✨多ジャンル歌うわよ～～！！✨【涼風しとら/Vtuber/間取かける】
-    // https://youtu.be/QssdPXNeAHg
+    ["QssdPXNeAHg", 344, 561, "Gimme×Gimme"],
+    ["QssdPXNeAHg", 769, 1131, "一番の宝物"],
+    ["QssdPXNeAHg", 1476, 1818, "君の知らない物語"],
+    ["QssdPXNeAHg", 2123, 2356, "いーあるふぁんくらぶ"],
+    ["QssdPXNeAHg", 2689, 2929, "Mela!"],
+    ["QssdPXNeAHg", 3297, 3619, "奏"],
+    ["QssdPXNeAHg", 3797, 4067, "青春アミーゴ"],
+    ["QssdPXNeAHg", 4324, 4553, "星間飛行"],
+    ["QssdPXNeAHg", 4894, 5172, "ヘビーローテーション"],
+    ["QssdPXNeAHg", 5483, 5701, "ブルーバード"],
+    ["QssdPXNeAHg", 6308, 6580, "ワルキューレは裏切らない"],
 
     // 和亜玖魔サキ連動
     // 2022/2/17 【歌枠】間取かけるちゃんと歌う!!⚡【#あくまのささやき】
-    // https://youtu.be/ZN9zE2PXLCg
+    ["ZN9zE2PXLCg", 521, 741, "瞬間センチメンタル"],
+    ["ZN9zE2PXLCg", 788, 1038, "空色デイズ"],
+    ["ZN9zE2PXLCg", 1226, 1419, "阿修羅ちゃん"],
+    ["ZN9zE2PXLCg", 1611, 1852, "夢をかなえてドラえもん"],
+    ["ZN9zE2PXLCg", 2213, 2477, "破滅の純情"],
+    ["ZN9zE2PXLCg", 2546, 2761, "Femme Fatale"],
+    ["ZN9zE2PXLCg", 2908, 3088, "残響散歌"],
+    ["ZN9zE2PXLCg", 3237, 3482, "全力バタンキュー"],
+    ["ZN9zE2PXLCg", 3663, 3942, "This game"],
+    ["ZN9zE2PXLCg", 4067, 4355, "愛してるばんざーい!"],
+    ["ZN9zE2PXLCg", 4492, 4729, "正解はひとつ!じゃない!!"],
 
     // 四人合唱Cover
     // 歌ってみた 正解はひとつ!じゃない!!-ミルキィホームズ【亜玖魔サキ×間取かける×海月シェル×猫乃ユキノ】
     ["tn6ZvrCEZKc", 247, 441, "正解はひとつ!じゃない!!"],
 
     // 和真鹿るり連動，因為網路問題很慘烈
-    // 2022/11/25 初めてのコラボ！#マジカける 二人で最高の魔法をかけてあげる！【新人Vtuber/真鹿るり/間取かける】
+    // 2021/11/25 初めてのコラボ！#マジカける 二人で最高の魔法をかけてあげる！【新人Vtuber/真鹿るり/間取かける】
     // ["xpookNbhjQg", 586, 0, "コネクト"],
     // ["xpookNbhjQg", 1380, 0, "ANIMA"],
     // ["xpookNbhjQg", 2050, 0, "Ready Steady"],
@@ -44,8 +74,18 @@
     // ["xpookNbhjQg", 7237, 0, "革命デュアリズム"],
 
     // 和ユナ連動
-    // 2022/10/14 最高のLIVEをお届けします…💕#URライブ【伊冬ユナ/間取かける】
-    // https://youtu.be/PYOyNDSFpOI
+    // 2021/10/14 最高のLIVEをお届けします…💕#URライブ【伊冬ユナ/間取かける】
+    ["PYOyNDSFpOI", 327, 596, "ANIMA"],
+    ["PYOyNDSFpOI", 978, 1216, "ルカルカ★ナイトフィーバー"],
+    ["PYOyNDSFpOI", 1242, 1452, "おこちゃま戦争"],
+    ["PYOyNDSFpOI", 2122, 2330, "怪物"],
+    ["PYOyNDSFpOI", 2349, 2553, "夜のピエロ"],
+    ["PYOyNDSFpOI", 3074, 3338, "地球最後の告白を"],
+    ["PYOyNDSFpOI", 3354, 3585, "シャルル"],
+    ["PYOyNDSFpOI", 3989, 4235, "全力バタンキュー"],
+    ["PYOyNDSFpOI", 4253, 4484, "回レ！雪月花"],
+    ["PYOyNDSFpOI", 5438, 5707, "雨とカプチーノ"],
+    ["PYOyNDSFpOI", 6118, 6367, "ファンサ"],
 
     // 和エムリィ連動
     // 2021/10/7 RMK卍組おっふLIVE✨【新人Vtuber/苓吃エムリィ/間取かける】
@@ -61,10 +101,11 @@
     ["ler9Oj7GQXY", 4884, 5188, "マリーゴールド"],
     ["ler9Oj7GQXY", 5438, 5654, "ダダダダ天使"],
 
-    // 和亜玖魔サキ連動，版權
-    // 【歌と雑談】歌うまVtuber‼間取かけるちゃんと一緒に歌う✨✨【#サキの歌うまVコラボ】
+    // 和亜玖魔サキ連動，版權，且只有左聲道
+    // 2021/10/2 【歌と雑談】歌うまVtuber‼間取かけるちゃんと一緒に歌う✨✨【#サキの歌うまVコラボ】
     // https://www.youtube.com/watch?v=GHbkMUho2bo
-    // https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EbtkE55_3bpEjNFmuRJjx6sBXaFU3GwjAFemGRJfQBg6bw?e=qeFCe3
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EbtkE55_3bpEjNFmuRJjx6sBXaFU3GwjAFemGRJfQBg6bw?e=qeFCe3", 1606, 1822, "チューリングラブ"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EbtkE55_3bpEjNFmuRJjx6sBXaFU3GwjAFemGRJfQBg6bw?e=qeFCe3", 2874, 3106, "劣等上等"],
 
     // 和エムリィ連動
     // 2021/8/31 ぼくのお部屋にご招待！RMK卍組のハウスライブ😎✨【新人Vtuber/苓吃エムリィ/間取かける】
