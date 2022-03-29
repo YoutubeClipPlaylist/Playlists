@@ -6,6 +6,24 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 歌ってみた 悪魔の子
+    ["-zCjfXBeGKs", 0, 0, "悪魔の子"],
+
+    // 2022/3/27 【歌枠/sing a song】真実はいつも一つ！！！名探偵コナン縛り👓
+    ["u6ZPG9EITvI", 157, 439, "謎"],
+    ["u6ZPG9EITvI", 643, 919, "Winter Bells"],
+    ["u6ZPG9EITvI", 1076, 1327, "always"],
+    ["u6ZPG9EITvI", 1433, 1651, "BLUE SAPPHIRE"],
+    ["u6ZPG9EITvI", 1864, 2122, "Secret of my heart"],
+    ["u6ZPG9EITvI", 2302, 2560, "SUMMER TIME GONE"],
+    ["u6ZPG9EITvI", 2694, 2944, "夏を待つセイル(帆)のように"],
+    ["u6ZPG9EITvI", 3102, 3365, "Growing of my heart"],
+    ["u6ZPG9EITvI", 3545, 3786, "Time after time ～花舞う街で～"],
+    // ["u6ZPG9EITvI", 3915, 4158, "渡月橋 ～君 想ふ～"],
+    ["u6ZPG9EITvI", 4259, 4488, "七つの海を渡る風のように"],
+    ["u6ZPG9EITvI", 4674, 4938, "永遠の不在証明"],
+    ["u6ZPG9EITvI", 5158, 5447, "ハルウタ"],
+
     // 2022/3/24 【10万人耐久歌枠】新たなる世界へ...!!!!! sing a song
     ["5tvhHCTpQjc", 189, 504, "ETERNAL BLAZE"],
     ["5tvhHCTpQjc", 685, 936, "空色デイズ"],
@@ -76,7 +94,7 @@
 
     // 2022/3/13 【歌枠/sing a song】アニソンをたくさん歌う日😘
     ["R6faIn5tpn8", 143, 380, "DADDY! DADDY! DO!"],
-    ["R6faIn5tpn8", 641, 931, "ハルウタ"],
+    // ["R6faIn5tpn8", 641, 931, "ハルウタ"], //New3/27
     ["R6faIn5tpn8", 941, 1163, "BAKU"],
     ["R6faIn5tpn8", 1430, 1646, "MOON PRIDE"],
     ["R6faIn5tpn8", 1926, 2195, "カラフル"],
@@ -145,8 +163,8 @@
 
     // 2022/3/2 【歌枠/sing a song】Acousticな癒し歌枠🌙
     ["cjUV_TqUcvI", 224, 456, "ブルーバード"],
-    ["cjUV_TqUcvI", 605, 874, "謎"],
-    ["cjUV_TqUcvI", 969, 1224, "Secret of my heart"],
+    // ["cjUV_TqUcvI", 605, 874, "謎"], //New3/27
+    // ["cjUV_TqUcvI", 969, 1224, "Secret of my heart"], //New3/27
     ["cjUV_TqUcvI", 1357, 1653, "Butter-fly"],
     ["cjUV_TqUcvI", 1809, 2071, "Story"],
     ["cjUV_TqUcvI", 2296, 2561, "三日月"],
@@ -193,7 +211,7 @@
     ["GoUxh9gnFpk", 3832, 4180, "あたしが隣にいるうちに"],
     ["GoUxh9gnFpk", 4354, 4644, "MEMORIA"],
     ["GoUxh9gnFpk", 4793, 5153, "一番の宝物"],
-    ["GoUxh9gnFpk", 5289, 5514, "悪魔の子"],
+    // ["GoUxh9gnFpk", 5289, 5514, "悪魔の子"],
     ["GoUxh9gnFpk", 5614, 5854, "JOINT"],
     ["GoUxh9gnFpk", 5866, 6116, "traumerei"],
     // ["GoUxh9gnFpk", 6407, 6642, "紅蓮華"],
@@ -400,7 +418,7 @@
     ["HC6_Wfpalxc", 918, 1216, "ベリーメリークリスマス"],
     ["HC6_Wfpalxc", 1358, 1554, "あわてんぼうのサンタクロース"],
     ["HC6_Wfpalxc", 1625, 1720, "ジングルベル"],
-    ["HC6_Wfpalxc", 1804, 2079, "Winter Bells"],
+    // ["HC6_Wfpalxc", 1804, 2079, "Winter Bells"], //New3/27
     ["HC6_Wfpalxc", 2197, 2456, "恋しさと せつなさと 心強さと"],
     // ["HC6_Wfpalxc", 2471, 2749, "promise"], //New3/24
     ["HC6_Wfpalxc", 2978, 3307, "メリクリ"],
@@ -478,8 +496,8 @@
     // 2021/12/5 【歌枠/sing a song】アニメ映画の主題歌縛り！！！✨
     // ["g7Ncntsg054", 136, 315, "U"], //New3/24
     ["g7Ncntsg054", 489, 770, "前前前世"],
-    ["g7Ncntsg054", 880, 1109, "七つの海を渡る風のように"],
-    ["g7Ncntsg054", 1114, 1355, "Time after time ～花舞う街で～"],
+    // ["g7Ncntsg054", 880, 1109, "七つの海を渡る風のように"], //New3/27
+    // ["g7Ncntsg054", 1114, 1355, "Time after time ～花舞う街で～"], //New3/27
     // ["g7Ncntsg054", 1548, 1872, "WILL"],
     // ["g7Ncntsg054", 2041, 2316, "I beg you"], //New2/22
     // ["g7Ncntsg054", 2323, 2624, "春はゆく"], //New3/6
@@ -1486,7 +1504,7 @@
     // 2021/7/18 【歌枠/sing anime song】夏のアニソン曲を歌いまくるっ！🍉
     // ["FrxMvwOCjKs", 138, 366, "夏祭り"], //New7/21
     // ["FrxMvwOCjKs", 660, 894, "太陽曰く燃えよカオス"], //New12/31
-    ["FrxMvwOCjKs", 1124, 1400, "夏を待つセイル(帆)のように"],
+    // ["FrxMvwOCjKs", 1124, 1400, "夏を待つセイル(帆)のように], //New3/27
     ["FrxMvwOCjKs", 1648, 1893, "Starry Wish"],
     ["FrxMvwOCjKs", 2112, 2468, "うたかた花火"],
     // ["FrxMvwOCjKs", 2595, 2874, "変わらないもの"], //New8/4
