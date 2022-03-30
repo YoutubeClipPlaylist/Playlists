@@ -468,35 +468,35 @@
 
     // 2021/12/10 ローテーブルでどこまで歌えるのか…見ものだな…😎ﾌﾌﾌ
     ["ZdMUltQafvo", 488, 704, "マジLOVE1000％"],
-    // ["ZdMUltQafvo", 1024, 1276, "Alchemy"], //New1/14
-    // ["ZdMUltQafvo", 1606, 1819, "ブルーバード"], //New3/16
-    // ["ZdMUltQafvo", 2042, 2297, "Butter-Fly"], //New3/16
-    // ["ZdMUltQafvo", 2504, 2724, "瞬間センチメンタル"], //New1/28
-    ["ZdMUltQafvo", 3058, 3300, "フィクサー"],
-    ["ZdMUltQafvo", 3471, 3726, "からくりピエロ"],
-    // ["ZdMUltQafvo", 4153, 4392, "あの夢をなぞって"], //New3/25
-    // ["ZdMUltQafvo", 4730, 4935, "聖槍爆裂ボーイ"], //New1/21
-    ["ZdMUltQafvo", 4961, 5151, "脳漿炸裂ガール"],
-    // ["ZdMUltQafvo", 5667, 5938, "ギラギラ"], //New3/29
-    // ["ZdMUltQafvo", 6222, 6433, "春を告げる"], //New3/4
-    // ["ZdMUltQafvo", 6905, 7155, "残酷な天使のテーゼ"], //New3/16
-    // ["ZdMUltQafvo", 7189, 7381, "おねがいダーリン ED"],
+    // ["DIHPewQTLAU", 1024, 1276, "Alchemy"], //New1/14
+    // ["DIHPewQTLAU", 1606, 1819, "ブルーバード"], //New3/16
+    // ["DIHPewQTLAU", 2042, 2297, "Butter-Fly"], //New3/16
+    // ["DIHPewQTLAU", 2504, 2724, "瞬間センチメンタル"], //New1/28
+    ["DIHPewQTLAU", 3058, 3300, "フィクサー"],
+    ["DIHPewQTLAU", 3471, 3726, "からくりピエロ"],
+    // ["DIHPewQTLAU", 4153, 4392, "あの夢をなぞって"], //New3/25
+    // ["DIHPewQTLAU", 4730, 4935, "聖槍爆裂ボーイ"], //New1/21
+    ["DIHPewQTLAU", 4961, 5151, "脳漿炸裂ガール"],
+    // ["DIHPewQTLAU", 5667, 5938, "ギラギラ"], //New3/29
+    // ["DIHPewQTLAU", 6222, 6433, "春を告げる"], //New3/4
+    // ["DIHPewQTLAU", 6905, 7155, "残酷な天使のテーゼ"], //New3/16
+    // ["DIHPewQTLAU", 7189, 7381, "おねがいダーリン ED"],
 
     // 2021/12/3 かわいい曲縛りの歌枠…💖
-    // ["ZdMUltQafvo", 430, 584, "シンデレラ"], //New2/25
-    // ["ZdMUltQafvo", 894, 1110, "おじゃま虫"],
-    ["ZdMUltQafvo", 1313, 1572, "わたしの恋はホッチキス"],
-    // ["ZdMUltQafvo", 1913, 2091, "ヴァンパイア"],
-    // ["ZdMUltQafvo", 2307, 2541, "ふわふわ時間"], //New2/11
-    ["ZdMUltQafvo", 2757, 2989, "さくらんぼ"],
-    // ["ZdMUltQafvo", 3212, 3402, "シル・ヴ・プレジデント"], //New3/29
-    // ["ZdMUltQafvo", 3801, 4049, "おちゃめ機能"], //New12/29
-    // ["ZdMUltQafvo", 4395, 4641, "愛言葉Ⅲ"], //New2/25
-    // ["ZdMUltQafvo", 4875, 5145, "U&I"], //New1/14
-    ["ZdMUltQafvo", 5372, 5605, "おじゃま虫Ⅱ"], //New3/29
-    // ["ZdMUltQafvo", 5888, 6027, "シンデレラ(Giga First Night Remix)"], //New12/29
-    // ["ZdMUltQafvo", 6222, 6425, "ダーリンダンス"], //New3/29
-    // ["ZdMUltQafvo", 6439, 6632, "おねがいダーリン ED"],
+    // ["i7ibxztlxlI", 430, 584, "シンデレラ"], //New2/25
+    // ["i7ibxztlxlI", 894, 1110, "おじゃま虫"],
+    ["i7ibxztlxlI", 1313, 1572, "わたしの恋はホッチキス"],
+    // ["i7ibxztlxlI", 1913, 2091, "ヴァンパイア"],
+    // ["i7ibxztlxlI", 2307, 2541, "ふわふわ時間"], //New2/11
+    ["i7ibxztlxlI", 2757, 2989, "さくらんぼ"],
+    // ["i7ibxztlxlI", 3212, 3402, "シル・ヴ・プレジデント"], //New3/29
+    // ["i7ibxztlxlI", 3801, 4049, "おちゃめ機能"], //New12/29
+    // ["i7ibxztlxlI", 4395, 4641, "愛言葉Ⅲ"], //New2/25
+    // ["i7ibxztlxlI", 4875, 5145, "U&I"], //New1/14
+    ["i7ibxztlxlI", 5372, 5605, "おじゃま虫Ⅱ"], //New3/29
+    // ["i7ibxztlxlI", 5888, 6027, "シンデレラ(Giga First Night Remix)"], //New12/29
+    // ["i7ibxztlxlI", 6222, 6425, "ダーリンダンス"], //New3/29
+    // ["i7ibxztlxlI", 6439, 6632, "おねがいダーリン ED"],
 
     // 2021/11/26 ぼくの歌を聴いて...！(寝起き)【新人Vtuber/間取かける】
     // ["TfJrY3-1usc", 572, 830, "夜に駆ける"], //New3/18
