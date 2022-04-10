@@ -8,6 +8,19 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    // 2022/04/08 デビュー4ヶ月記念配信！！ちょっとお知らせ！♬Ꮚ•̀ꈊ•́Ꮚ 艦長生存4個月紀念歌回
+    ["mgAdASRWfBI", 390, 570, "残響散歌"],
+    ["mgAdASRWfBI", 923, 1238, "世界は恋に落ちている"],
+    ["mgAdASRWfBI", 1456, 1674, "ペガサス幻想"],
+    ["mgAdASRWfBI", 1767, 2028, "ジョジョ～その血の運命"],
+    ["mgAdASRWfBI", 2206, 2415, "怪物"],
+    ["mgAdASRWfBI", 2617, 2876, "BLOODY STREAM"],
+    ["mgAdASRWfBI", 2951, 3187, "Get Wild"],
+    ["mgAdASRWfBI", 3427, 3688, "Will"],
+    ["mgAdASRWfBI", 3957, 4155, "薔薇は美しく散る"],
+    ["mgAdASRWfBI", 4939, 5295, "SAKURA"],
+    ["mgAdASRWfBI", 5420, 5603, "俺らこんな村いやだLv.100"],
+
     // 2022/03/16 いよいよ定期歌枠始まります！！初見さん大歓迎♬
     ["HgE-CjYdCHM", 397, 652, "JUST COMMUNICATION"],
     ["HgE-CjYdCHM", 913, 1183, "Fly Me to the Moon"],
@@ -82,7 +95,7 @@
     ["bK7OqZVARQU", 3296, 3545, "花に亡霊"],
     ["bK7OqZVARQU", 3845, 4102, "INSIDE IDENTITY"],
     // ["bK7OqZVARQU", 4293, 4532, "千本桜"], //版權
-    ["bK7OqZVARQU", 4709, 4800, "残響散歌 (Short)"],
+    // ["bK7OqZVARQU", 4709, 4800, "残響散歌 (Short)"], //New4/8
     ["bK7OqZVARQU", 4847, 5096, "YOU GET TO BURNING"],
     ["bK7OqZVARQU", 5252, 5478, "READY STEADY GO"],
     ["bK7OqZVARQU", 5736, 5868, "宇宙戦艦ヤマト"],
@@ -116,9 +129,9 @@
     ["s78U7mgXFlU", 6122, 6490, "僕が死のうと思ったのは"],
 
     // 2021/12/14 【歌枠／ Singing】初めての歌枠だ！まったり練習するぞ♬【新人Vtuber】 Singing Anime songs
-    ["33gLiTyQsVo", 92, 292, "薔薇は美しく散る"],
+    // ["33gLiTyQsVo", 92, 292, "薔薇は美しく散る"], //New4/8
     ["33gLiTyQsVo", 698, 924, "純情"],
-    ["33gLiTyQsVo", 1425, 1633, "怪物"],
+    // ["33gLiTyQsVo", 1425, 1633, "怪物"], //New4/8
     // ["33gLiTyQsVo", 1955, 2304, "なんでもないや"], //版權
     ["33gLiTyQsVo", 2832, 3166, "六等星の夜"],
     ["33gLiTyQsVo", 3651, 3966, "名前のない怪物"],
