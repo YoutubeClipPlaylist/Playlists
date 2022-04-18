@@ -6,6 +6,27 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 久遠たま & 万鬼夜行(男團)
+    // 歌ってみた 推しの座☆流星群
+    // ["mUW9AVTZ6a8", 0, 0, "推しの座☆流星群"],
+
+    // 久遠たま & 松永依織
+    // 2022/4/15 来なきゃ損！最強アニソンコラボ歌枠🎤#いおたまLIVE / 松永依織 w/久遠たま
+    ["3ZF-4GXh0NI", 155, 360, "Preserved Roses"],
+    ["3ZF-4GXh0NI", 591, 817, "往け"],
+    ["3ZF-4GXh0NI", 829, 1069, "IGNITE"],
+    ["3ZF-4GXh0NI", 1503, 1774, "adrenaline!!!"],
+    ["3ZF-4GXh0NI", 1785, 2002, "廻廻奇譚"],
+    ["3ZF-4GXh0NI", 2558, 2874, "ワルキューレが止まらない"],
+    ["3ZF-4GXh0NI", 2888, 3161, "トライアングラー"],
+    ["3ZF-4GXh0NI", 3843, 4093, "Only my railgun"],
+    ["3ZF-4GXh0NI", 4103, 4364, "LEVEL5 - judgelight -"],
+    ["3ZF-4GXh0NI", 4776, 5037, "Give a reason"],
+    ["3ZF-4GXh0NI", 5049, 5272, "悪魔の子"],
+    ["3ZF-4GXh0NI", 5725, 5972, "Rising Hope"],
+    ["3ZF-4GXh0NI", 6169, 6385, "Hot Limit"],
+    ["3ZF-4GXh0NI", 6393, 6696, "ライオン"],
+
     // 愚人節たま貓
     // 2022/4/1 【歌枠/sing a song】???
     ["pGvs4UQFef4", 248, 514, "sugar sweet nightmare"],
@@ -26,15 +47,15 @@
 
     // ココツキ CocoTsuki Project 合作歌回
     // 2021/11/22 🔴【コラボ歌枠】久遠たまちゃんが来てくれたァ！🥚🌏【Singing Stream】
-    ["X4TGUKIY14w", 307, 545, "革命デュアリズム "],
-    ["X4TGUKIY14w", 843, 1090, "Rising Hope "],
-    ["X4TGUKIY14w", 1338, 1590, "空色デイズ "],
-    ["X4TGUKIY14w", 1852, 2109, "Here "],
-    ["X4TGUKIY14w", 2410, 2720, "ノーザンクロス "],
-    ["X4TGUKIY14w", 2842, 3103, "僕らの戦場 "],
-    ["X4TGUKIY14w", 3215, 3530, "ETERNAL BLAZE "],
-    ["X4TGUKIY14w", 3657, 3898, "Mela! "],
-    ["X4TGUKIY14w", 4117, 4322, "怪物 "],
+    ["X4TGUKIY14w", 307, 545, "革命デュアリズム"],
+    ["X4TGUKIY14w", 843, 1090, "Rising Hope"],
+    ["X4TGUKIY14w", 1338, 1590, "空色デイズ"],
+    ["X4TGUKIY14w", 1852, 2109, "Here"],
+    ["X4TGUKIY14w", 2410, 2720, "ノーザンクロス"],
+    ["X4TGUKIY14w", 2842, 3103, "僕らの戦場"],
+    ["X4TGUKIY14w", 3215, 3530, "ETERNAL BLAZE"],
+    ["X4TGUKIY14w", 3657, 3898, "Mela!"],
+    ["X4TGUKIY14w", 4117, 4322, "怪物"],
     ["X4TGUKIY14w", 4620, 4877, "拝啓ドッペルゲンガー"],
 
     // 久遠たま & Cosmos☆MonStars(男團)
