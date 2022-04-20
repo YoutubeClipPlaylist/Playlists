@@ -1,32 +1,4 @@
 [
-    // IROA
-    {
-        "name": "IROASongList",
-        "tag": ["IROA", "Quon", "Tama", "QuonTama", "public"],
-        "route": "IROA/IROASongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        }
-    },
-    {
-        "name": "IROABackupSongList",
-        "tag": ["IROA", "Quon", "Tama", "QuonTama", "public", "onedrive"],
-        "route": "IROA/IROABackupSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        }
-    },
-    {
-        "name": "IROATwitcastingSongList",
-        "tag": ["IROA", "Quon", "Tama", "QuonTama", "public", "twitcasting"],
-        "route": "IROA/IROATwitcastingSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        }
-    },
     // QuonTama
     {
         "name": "QuonTamaSongList",
@@ -82,6 +54,34 @@
             "url": "https://github.com/jim60105"
         }
     },
+    // IROA
+    {
+        "name": "IROASongList",
+        "tag": ["IROA", "Quon", "Tama", "QuonTama", "public"],
+        "route": "IROA/IROASongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    {
+        "name": "IROABackupSongList",
+        "tag": ["IROA", "Quon", "Tama", "QuonTama", "public", "onedrive"],
+        "route": "IROA/IROABackupSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    // {
+    //     "name": "IROATwitcastingSongList",
+    //     "tag": ["IROA", "Quon", "Tama", "QuonTama", "public", "twitcasting"],
+    //     "route": "IROA/IROATwitcastingSongList.jsonc",
+    //     "maintainer": {
+    //         "name": "jim60105",
+    //         "url": "https://github.com/jim60105"
+    //     }
+    // },
     // MatoriKakeru
     {
         "name": "MatoriKakeruSongList",
