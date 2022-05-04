@@ -6,6 +6,44 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 歌ってみた リバイバルゼロ
+    ["Epa6bIN0wRU", 0, 0, "リバイバルゼロ"],
+
+    // 歌ってみた FIRE BIRD
+    ["cNMs-5s-g9w", 0, 0, "FIRE BIRD"],
+
+    // 作業用BGM歌枠メドレー9
+    // ["3_AtghYykCA", 0, 0, "作業用BGM歌枠メドレー9"],
+
+    // 卡拉OK & 對唱
+    // 2022/4/19 【KARAOKE】学校お仕事終わりに集合ー！！一緒に歌おう✨
+    // ["vzkGTvY1Jso", 588, 891, "マリーゴールド"],
+    // ["vzkGTvY1Jso", 1074, 1328, "サウダージ"],
+    // ["vzkGTvY1Jso", 1417, 1693, "アゲハ蝶"],
+    // ["vzkGTvY1Jso", 1900, 2170, "猫"],
+    // ["vzkGTvY1Jso", 2367, 2591, "お願いマッスル"],
+    // ["vzkGTvY1Jso", 2798, 3015, "チューリングラブ"],
+    // ["vzkGTvY1Jso", 3431, 3655, "ロキ"],
+    // ["vzkGTvY1Jso", 3710, 3954, "竹取オーバーナイトセンセーション"],
+    // ["vzkGTvY1Jso", 4081, 4306, "東京サマーセッション"],
+    // ["vzkGTvY1Jso", 4573, 4788, "踊"],
+    // ["vzkGTvY1Jso", 4873, 5067, "阿修羅ちゃん"],
+    // ["vzkGTvY1Jso", 5306, 5549, "L.Miranic"],
+    // ["vzkGTvY1Jso", 5661, 5880, "ぼうけんのしょがきえました！"],
+    // ["vzkGTvY1Jso", 5995, 6192, "一心不乱"],
+    // ["vzkGTvY1Jso", 6307, 6521, "よくばり"],
+    // ["vzkGTvY1Jso", 6760, 6962, "怪物"],
+    // ["vzkGTvY1Jso", 7225, 7426, "カルマ"],
+    // ["vzkGTvY1Jso", 7575, 7851, "宿命"],
+    // ["vzkGTvY1Jso", 8324, 8571, "流星"],
+    // ["vzkGTvY1Jso", 8681, 8934, "To see the future"],
+    // ["vzkGTvY1Jso", 9216, 9464, "光るなら"],
+    // ["vzkGTvY1Jso", 9670, 9895, "負けないで"],
+    // ["vzkGTvY1Jso", 9981, 10199, "if…"],
+    // ["vzkGTvY1Jso", 10367, 10629, "うまぴょい伝説"],
+    // ["vzkGTvY1Jso", 10869, 11086, "HOT LIMIT"],
+    // // ["vzkGTvY1Jso", 11184, 11352, "夜もすがら君想ふ ED"],
+
     // 2022/4/17 【歌枠/sing a song】エモい曲でしっとりとした日曜日を🌙
     ["yDpTcXRr6xs", 151, 463, "ガーネット"],
     ["yDpTcXRr6xs", 685, 1041, "うたかた花火"],
@@ -1025,21 +1063,22 @@
     // ["NUKB_IPLaZw", 6035, 6326, "トライアングラー"], //ランカ・リー=中島愛 & シェリル・ノームstarring May'n
     // ["NUKB_IPLaZw", 6324, 6494, "夜もすがら君想ふ ED"],
 
-    // 2021/9/24 【歌枠/sing a song】アーカイブ無しの歌枠！生き残れば奇跡✨
-    // ["kXdWizOetfg", 146, 344, "夜のピエロ"], //New12/11
-    // ["kXdWizOetfg", 590, 825, "magnet"], //New3/11
-    ["kXdWizOetfg", 992, 1241, "花に亡霊"],
-    ["kXdWizOetfg", 1436, 1761, "Best Friend"],
-    // ["kXdWizOetfg", 1940, 2217, "会いたくて 会いたくて"], //New11/2
-    ["kXdWizOetfg", 2545, 2825, "if"], //西野カナ
-    // ["kXdWizOetfg", 3044, 3327, "打上花火"], //New3/15
-    // ["kXdWizOetfg", 3461, 3707, "再会"],
-    // // ["kXdWizOetfg", 3461, 3707, "テルーの唄"], //版權
-    // ["kXdWizOetfg", 3936, 4179, "ツキアカリのミチシルベ"], //New11/21
-    // // ["kXdWizOetfg", 3936, 4179, "trust you"], //版權
-    // ["kXdWizOetfg", 4432, 4648, "ダダダダ天使"],
-    // ["kXdWizOetfg", 4798, 5139, "君の知らない物語"], //New4/3
-    // ["kXdWizOetfg", 5147, 5321, "夜もすがら君想ふ ED"],
+    // 私人
+    // // 2021/9/24 【歌枠/sing a song】アーカイブ無しの歌枠！生き残れば奇跡✨
+    // // ["kXdWizOetfg", 146, 344, "夜のピエロ"], //New12/11
+    // // ["kXdWizOetfg", 590, 825, "magnet"], //New3/11
+    // ["kXdWizOetfg", 992, 1241, "花に亡霊"],
+    // ["kXdWizOetfg", 1436, 1761, "Best Friend"],
+    // // ["kXdWizOetfg", 1940, 2217, "会いたくて 会いたくて"], //New11/2
+    // ["kXdWizOetfg", 2545, 2825, "if"], //西野カナ
+    // // ["kXdWizOetfg", 3044, 3327, "打上花火"], //New3/15
+    // // ["kXdWizOetfg", 3461, 3707, "再会"],
+    // // // ["kXdWizOetfg", 3461, 3707, "テルーの唄"], //版權
+    // // ["kXdWizOetfg", 3936, 4179, "ツキアカリのミチシルベ"], //New11/21
+    // // // ["kXdWizOetfg", 3936, 4179, "trust you"], //版權
+    // // ["kXdWizOetfg", 4432, 4648, "ダダダダ天使"],
+    // // ["kXdWizOetfg", 4798, 5139, "君の知らない物語"], //New4/3
+    // // ["kXdWizOetfg", 5147, 5321, "夜もすがら君想ふ ED"],
 
     // 2021/9/21 【朝歌/sing a song】おはようの歌🌅
     ["pWWnR074QpM", 517, 720, "おしりかじり虫"],
@@ -1133,7 +1172,7 @@
     // ["YvAdH0Ecn20", 11253, 11438, "ケロッ!とマーチ"], //New9/21
 
     // 2021/9/12 【歌枠/sing a song】エモソングでまったりとした夜を...🌙
-    // ["hUMLbkps0FE", 159, 397, "花に亡霊"], //New9/24
+    ["hUMLbkps0FE", 159, 397, "花に亡霊"], //New9/24
     // ["hUMLbkps0FE", 565, 866, "奏"], //New10/25
     // ["hUMLbkps0FE", 1141, 1427, "フクロウ ～フクロウが知らせる客が来たと～"], //New10/25
     // ["hUMLbkps0FE", 1535, 1781, "忘れじの言の葉"], //New10/25
@@ -2641,18 +2680,19 @@
     // 歌ってみた Snow halation
     ["Y-EVxJhfsfE", 0, 0, "Snow halation"],
 
-    // 2020/12/15 今まで謎に消された歌😂＆音源ない歌アカペラで歌う
-    ["svQwwn4qh6c", 366, 586, "花に亡霊 Acapella"],
-    ["svQwwn4qh6c", 777, 1057, "ユメセカイ Acapella"],
-    ["svQwwn4qh6c", 1294, 1576, "ロミオとシンデレラ Acapella"],
-    // ["svQwwn4qh6c", 1684, 1873, "エウテルペ Acapella"],
-    ["svQwwn4qh6c", 1990, 2229, "Departures〜あなたにおくるアイの歌〜 Acapella"],
-    ["svQwwn4qh6c", 2438, 2792, "ノーザンクロス Acapella"],
-    // ["svQwwn4qh6c", 2917, 3032, "Giraffe Blues Acapella"], //New1/17
-    ["svQwwn4qh6c", 3133, 3410, "たった1つの想い Acapella"],
-    ["svQwwn4qh6c", 3827, 4079, "VOICE Acapella"],
-    ["svQwwn4qh6c", 5155, 5437, "シルシ Acapella"],
-    // ["svQwwn4qh6c", 5529, 5684, "夜もすがら君想ふ Acapella ED"],
+    // 私人
+    // // 2020/12/15 今まで謎に消された歌😂＆音源ない歌アカペラで歌う
+    // ["svQwwn4qh6c", 366, 586, "花に亡霊 Acapella"],
+    // ["svQwwn4qh6c", 777, 1057, "ユメセカイ Acapella"],
+    // ["svQwwn4qh6c", 1294, 1576, "ロミオとシンデレラ Acapella"],
+    // // ["svQwwn4qh6c", 1684, 1873, "エウテルペ Acapella"],
+    // ["svQwwn4qh6c", 1990, 2229, "Departures〜あなたにおくるアイの歌〜 Acapella"],
+    // ["svQwwn4qh6c", 2438, 2792, "ノーザンクロス Acapella"],
+    // // ["svQwwn4qh6c", 2917, 3032, "Giraffe Blues Acapella"], //New1/17
+    // ["svQwwn4qh6c", 3133, 3410, "たった1つの想い Acapella"],
+    // ["svQwwn4qh6c", 3827, 4079, "VOICE Acapella"],
+    // ["svQwwn4qh6c", 5155, 5437, "シルシ Acapella"],
+    // // ["svQwwn4qh6c", 5529, 5684, "夜もすがら君想ふ Acapella ED"],
 
     // 2020/12/13 🎂お誕生日パーティー開催🎉
     // ["jHeW6Wm0zK4", 240, 513, "いけないボーダーライン"], //New1/10
