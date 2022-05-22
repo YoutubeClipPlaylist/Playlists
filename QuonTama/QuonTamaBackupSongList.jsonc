@@ -1,4 +1,7 @@
 [
+    // 2022/5/11 【歌枠/sing a song】リクエストで歌います🥳
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EaXQl8rIp0tAo-hoQAlblY8BkJyYZgZkJwuhXe6oo61tSQ?e=iaMCw1", 4626, 4850, "エウテルペ"],
+
     // 2022/1/21 【歌枠/Sing a song】アーカイブ無しのショート歌枠🥀【Vtuber/久遠たま】
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfi4wuah_pHkOMC85qZWLEBYaOJaZuWG8hH83sdnrLfeQ?e=wxDu4I", 1174, 1442, "世界がひとつになるまで"],
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfi4wuah_pHkOMC85qZWLEBYaOJaZuWG8hH83sdnrLfeQ?e=wxDu4I", 3033, 3274, "たった一つの想い"],
@@ -7,6 +10,9 @@
 
     // 2022/1/16 【歌枠/Sing a song】ケロケロでエフェクト強めな歌🌟
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EQ705KqCQd9Kv9gvwQQMnysBLt8WZrsafwJUJ63JcKewQw?e=ngtNi4", 2395, 2606, "インビジブル"],
+
+    // 歌ってみた LAST STARDUST
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ESafmpFWmxJIlmRaSiFiayQBPlvcDUFwgfwWU696qxvRow?e=q75xKD", 0, 0, "LAST STARDUST"],
 
     // 2021/9/24 【歌枠/sing a song】アーカイブ無しの歌枠！生き残れば奇跡✨
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Efey7p8aaNdIgqVb1ZGva58BAc-bb1rJaJGpmVRedyrATw?e=4xODdx", 1436, 1761, "Best Friend"],
@@ -128,11 +134,17 @@
     // 2021/6/9 【歌雑談/sing ＆ talk】朝にぴったりな歌を歌う🌞
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EcEBPy8LgZNMhXHZgh5VU4oBcDprTiYX-LG3uMVhDh4Bwg?e=QmlD8N", 648, 809, "さんぽ"],
 
+    // 歌ってみた あなたがいた森
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EW93-2HcxV5Bor6Pn_DggF0BCiOdJo2voIIemj43aND6mw?e=wSi4e4", 0, 0, "あなたがいた森"],
+
     // 2021/1/10 新曲多め？！ sing a song
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EfizGLbln7dIoaHHjMLgPdQB0NnCziQbmbA3HKT68Dgkfg?e=Mxz2Df", 120, 209, "くちづけDiamond (Short)"],
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EfizGLbln7dIoaHHjMLgPdQB0NnCziQbmbA3HKT68Dgkfg?e=Mxz2Df", 862, 1099, "不可思議のカルテ"], //New4/14
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EfizGLbln7dIoaHHjMLgPdQB0NnCziQbmbA3HKT68Dgkfg?e=Mxz2Df", 4377, 4639, "アイのシナリオ"],
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EfizGLbln7dIoaHHjMLgPdQB0NnCziQbmbA3HKT68Dgkfg?e=Mxz2Df", 5591, 5913, "告白"], //New5/26
+
+    // 歌ってみた Happy Halloween
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ERGXs2bRTq1Mr7NM1DofJ_oBwQm4RwBS_G-I3Qtar28j4Q?e=Ccgcwu", 0, 0, "Happy Halloween"],
 
     // Twitter
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfiLaOR-tVHnmwcXaZQmXsBa5YLtdr_6RO-1jdikBnK8Q?e=Zcn3TI", 0, 0, "Sing My Pleasure"], //New5/16
