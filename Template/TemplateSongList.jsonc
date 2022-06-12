@@ -1,31 +1,9 @@
-/**
- * 歌單格式為JSON with Comments
- * ["VideoID", StartTime, EndTime, "Title", "SubSrc"]
- * VideoID: 必須用引號包住，為字串型態。
- * StartTime: 只能是非負數。如果要從頭播放，輸入0
- * EndTime: 只能是非負數。如果要播放至尾，輸入0
- * Title?: 必須用引號包住，為字串型態
- * SubSrc?: 必須用雙引號包住，為字串型態，可選
- */
 [
-    // Youtube
     ["vE4CSN_-Vi4", 0, 0, "ジレンマ"],
-
-    // Youtube
     ["ErcR5rowv80", 162, 405, "JOINT"],
-
-    // Youtube (ASS 字幕範例)
     ["ZHbvVL-3QPc", 0, 0, "#10 アニメ『Vivy』を語る！", "https://gitlab.com/api/v4/projects/23810267/repository/blobs/e3abb03fd026758efb441cf67b8531774dc4204c/raw"],
-
-    // OneDrive (sharepoint.com)
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EQ705KqCQd9Kv9gvwQQMnysBLt8WZrsafwJUJ63JcKewQw?e=ngtNi4", 2395, 2606, "インビジブル"],
-
-    // OneDrive (onedrive.live.com)
     ["https://1drv.ms/v/s!Aj6jjHkkqIpTnVP39yNxRS9UJmx5?e=ZIetCk", 2395, 2606, "インビジブル"],
-
-    // GoogleDrive
     ["1V5M3WrcHn1-0R3QG6u8k-zNMpkGSt8jy", 2395, 2606, "インビジブル"],
-
-    // Twitcasting
     ["https://twitcasting.tv/t3c_o0o/movie/689411516", 2549, 2808, "夜に駆ける"]
 ]
