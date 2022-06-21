@@ -1,8 +1,8 @@
 [
     {
-        "name": "TemplateSongList",
-        "tag": ["Template", "public", "onedrive"],
-        "route": "Template/TemplateSongList.jsonc",
+        "name": "DemoSongList",
+        "tag": ["Demo", "public"],
+        "route": "Demo/DemoSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
