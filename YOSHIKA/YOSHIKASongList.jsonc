@@ -7,11 +7,32 @@
  * Title?: 必須用引號包住，為字串型態
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
-[
-    //2022.06.20 【 #歌枠 】元気100％で歌うYO🍠Singing Stream 🍠【 Vtuber 】
-    ["AlkgAd00dEM", 5409, 5618, "ミックスナッツ"],
-    ["AlkgAd00dEM", 5732, 5976, "愛言葉Ⅲ"],
-
+[    
+    //2022.06.19 【 #歌枠 】ただいま！久しぶりの歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
+    ["BC5FpTHcEs8", 4860, 5220, "僕が死のうと思ったのは"],
+    
+    //2022.06.12 【 #歌枠 】癒しのジブリ縛り歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["dcJHybKoEE4", 1304, 1465, "さんぽ"],
+    ["dcJHybKoEE4", 1742, 1920, "ルージュの伝言"],
+    ["dcJHybKoEE4", 2167, 2374, "君をのせて"],
+    ["dcJHybKoEE4", 3284, 3566, "時の歌"],
+    ["dcJHybKoEE4", 4134, 4341, "もののけ姫"],
+    ["dcJHybKoEE4", 6152, 6392, "となりのトトロ"],
+    ["dcJHybKoEE4", 6615, 6871, "風になる"],
+    ["dcJHybKoEE4", 7302, 7505, "いつも何度でも"],
+    ["dcJHybKoEE4", 8277, 8542, "世界の約束"],
+    ["dcJHybKoEE4", 8811, 9050, "テルーの唄"],
+    
+    //2022.06.08 【 #歌枠 】皆からのリクエスト歌うYO🍠 Singing Stream 🍠【 Vtuber 】
+    ["lDnOrgkSG-o", 5004, 5268, "少女レイ"],
+    
+    //2022.06.06 【 #歌枠 】元気にアニソン歌うぞおおおお🍠 Singing Stream 🍠【 Vtuber 】
+    ["jNUJRdr96HU", 3602, 3869, "メリッサ"],
+    
+    //2022.06.01 【 #歌枠 】まったり歌うYO🍠 Singing Stream 🍠【 Vtuber 】
+    ["LfpoHCEiT9I", 1687, 1911, "闇のBAROQUE -バロック-"],
+    ["LfpoHCEiT9I", 2079, 2321, "Lacrimosa"], 
+          
     //2022.03.14 【オリジナル曲】ファンファーレ / よしか⁂ 【MV】
     ["RWTvuBqCW7c", 0, 0, "ファンファーレ"]
 ]
