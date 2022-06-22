@@ -252,5 +252,15 @@
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
         }
+    },
+    // YOSHIKA
+    {
+        "name": "YOSHIKASongList",
+        "tag": ["YOSHIKA", "public"],
+        "route": "YOSHIKA/YOSHIKASongList.jsonc",
+        "maintainer": {
+            "name": "ralfjr",
+            "url": "https://github.com/ralfjr"
+        }
     }
 ]
