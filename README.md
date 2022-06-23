@@ -47,6 +47,7 @@
 | [牧野白](https://www.youtube.com/channel/UCbZcxNKrC0a6IZYBowvzAUg)   | [Edison Lee](https://github.com/edisonlee55) |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/MakinoShiro?label=%20&style=for-the-badge)
 | [浠Mizuki](https://www.youtube.com/channel/UCjv4bfP_67WLuPheS-Z8Ekg) | [小飯](https://github.com/LittleRice1007)    |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/Mizuki?label=%20&style=for-the-badge)
 | [神月天](https://www.youtube.com/channel/UC4-EyORUDI_kyckQFmW3P7A) | [小飯](https://github.com/LittleRice1007) |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/KandukiAma?label=%20&style=for-the-badge)|
+| [YOSHIKA⁂Ch.](https://www.youtube.com/c/YOSHIKA-Ch) | [ralfjr](https://github.com/ralfjr) |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/YOSHIKA?label=%20&style=for-the-badge)|
 
 ## 啟動連結
 
@@ -77,3 +78,5 @@
 | 牧野白全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=MakinoShiro&shuffle=1>                   |
 | 浠Mizuki全歌單循序    | <https://www.youtube.com/?startplaylist&playlistinclude=Mizuki>                                  |
 | 浠Mizuki全歌單隨機    | <https://www.youtube.com/?startplaylist&playlistinclude=Mizuki&shuffle=1>                        |
+| YOSHIKA全歌單循序     | <https://www.youtube.com/?startplaylist&playlistinclude=YOSHIKA>                                 |
+| YOSHIKA全歌單隨機     | <https://www.youtube.com/?startplaylist&playlistinclude=YOSHIKA&shuffle=1>                       |
