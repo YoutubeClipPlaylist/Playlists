@@ -8,6 +8,13 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.07.08 【 #歌枠 】ピアノ伴奏で歌うYO🎹 Piano only Singing Stream 🎹【 Vtuber 】
+    ["oBrxK6kVdZ0", 1381, 1578, "ノーダウト(Piano ver.)"],
+    ["oBrxK6kVdZ0", 3786, 4000, "オン・マイ・オウン"],
+    ["oBrxK6kVdZ0", 6388, 6600, "Let It Go ～ありのままで～"],
+    ["oBrxK6kVdZ0", 8694, 8979, "妄想感傷代償聯盟(Piano ver.)"],
+    ["oBrxK6kVdZ0", 9143, 9385, "メランコリック"],
+    
     //2022.07.05 【 #歌枠 】ウキウキッ☆歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["cx_RzotUPmA", 5277, 5612, "オーケストラ"],
     ["cx_RzotUPmA", 5837, 6056, "悪魔の子"],
@@ -23,6 +30,9 @@
     ["R1ftc9Mli4I", 8793, 8985, "シル・ヴ・プレジデント"],
     ["R1ftc9Mli4I", 10443, 10697, "Lemon"],
     ["R1ftc9Mli4I", 10808, 11102, "星を仰ぐ"],
+    
+    //2022.06.28 【 #歌枠 】のんびりのびのび歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["-YKN5bLzImY", 9763, 9994, "Brave Heart"],
     
     //2022.06.22 【 #歌枠 】深夜の癒しのバラード歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["bQb3c8E6WJw", 12061, 12352, "会いたくて"],
@@ -59,6 +69,8 @@
     ["aNGiKXA9baI", 8559, 8772, "優しい彗星"],
     ["aNGiKXA9baI", 8980, 9214, "デイ・ドリーム・ビリーバー"],
     ["aNGiKXA9baI", 2547, 2853, "魂のルフラン"],
+    ["aNGiKXA9baI", 5082, 5324, "only my railgun"],
+    ["aNGiKXA9baI", 1848, 2141, "ライオン"],
         
     //2022.06.08 【 #歌枠 】皆からのリクエスト歌うYO🍠 Singing Stream 🍠【 Vtuber 】
     ["lDnOrgkSG-o", 5004, 5268, "少女レイ"],
@@ -69,6 +81,9 @@
     //2022.06.01 【 #歌枠 】まったり歌うYO🍠 Singing Stream 🍠【 Vtuber 】
     ["LfpoHCEiT9I", 1687, 1911, "闇のBAROQUE -バロック-"],
     ["LfpoHCEiT9I", 2079, 2321, "Lacrimosa"], 
+    
+    //2022.06.02 【 #歌枠 】11,111人目指して歌う歌枠🍠 Singing Stream 🍠【 Vtuber 】
+    ["yJ9-HSTatnM", 5643, 5948, "紅蓮の弓矢"],
     
     //2022.05.10 【 #歌枠 】ピアノ伴奏限定歌枠🎹 Piano only Singing Stream 🎹【 Vtuber 】
     ["zODotKpa9K4", 10029, 10194, "リメンバー・ミー"],
@@ -82,6 +97,8 @@
     ["DH-clqgp8J4", 5065, 5297, "十六夜涙"],
     ["DH-clqgp8J4", 5787, 6034, "you"],
     ["DH-clqgp8J4", 8765, 8978, "極楽浄土"],
+    ["DH-clqgp8J4", 12847, 13074, "いつも何度でも"],
+    ["DH-clqgp8J4", 17228, 17481, "Here"],
     
     //2022.05.02 【 #歌枠 / Singing 】 GWだ🌟歌の強化合宿！1日目だYO🌟 Karaoke 🌟【Vtuber】
     ["wB1RODzPI5w", 8830, 9086, "恋のシグナルRin rin rin"],
@@ -98,6 +115,9 @@
     //2022.02.08 【 歌枠 / Singing 】寝れない夜のための歌枠 🎶 Karaoke 🎶 【新人Vtuber】
     ["WVtd1pbwb6c", 6804, 7120, "さよならだけが人生だ"],
     
+    //2021.12.19 【耐久歌枠】5050人目指して楽しく歌おう！！Sing a song！！【Vsinger の 歌枠】
+    ["EIcfgINM1PA", 5013, 5307, "少年と魔法のロボット"],
+       
     //2021.10.09 【新人Vtuber】チャンネル登録者様3000人or8時間耐久歌枠！！耐久頑張るぞ！！Sing a songs！！ 【耐久歌枠】
     ["j_mpo6iJO5E", 1663, 1878, "ヒロインたるもの！"],
    
