@@ -8,11 +8,30 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.07.19 【 #歌枠 】深夜の元気な歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["NpXSAvg3CuI", 0, 0, "x"],
+    ["NpXSAvg3CuI", 0, 0, "x"],
+    ["NpXSAvg3CuI", 0, 0, "x"],
+    ["NpXSAvg3CuI", 0, 0, "x"],
+    ["NpXSAvg3CuI", 0, 0, "x"],
+    ["NpXSAvg3CuI", 0, 0, "x"],
+    ["NpXSAvg3CuI", 0, 0, "x"],
+    ["NpXSAvg3CuI", 0, 0, "x"],
+    
     //2022.07.17 【 #歌枠 】湿気を吹き飛ばす歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["lfixifgQoiw", 3646, 3932, "フクロウ ～フクロウが知らせる客が来たと"],
-    ["lfixifgQoiw", 0, 0, "x"],
-    ["lfixifgQoiw", 0, 0, "x"],
-    
+    ["lfixifgQoiw", 2267, 2521, "心絵"],
+    ["lfixifgQoiw", 5097, 5264, "大正浪漫"],
+    ["lfixifgQoiw", 6844, 7049, "Lilium"],
+    ["lfixifgQoiw", 7221, 7510, "横顔"],
+    ["lfixifgQoiw", 8017, 8261, "光るなら"],
+    ["lfixifgQoiw", 8459, 8669, "おとなの掟"],
+    ["lfixifgQoiw", 9231, 9497, "ギラギラ"],
+    ["lfixifgQoiw", 10786, 11037, "For フルーツバスケット"],
+    ["lfixifgQoiw", 11184, 11472, "アムリタ"],
+    ["lfixifgQoiw", 11596, 11905, "愛してる"],
+    ["lfixifgQoiw", 13081, 13411, "小さきもの"],
+            
     //2022.07.16 【 #歌枠 】のんびりのびのび歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["afI8lXrfpV8", 4307, 4593, "心做し"],
     ["afI8lXrfpV8", 5923, 6127, "邪魔"],
@@ -22,7 +41,7 @@
     ["afI8lXrfpV8", 8297, 8576, "みちしるべ"],
     ["afI8lXrfpV8", 9334, 9622, "晴れのち夏の雨"],
     ["afI8lXrfpV8", 11151, 11375, "希望峰"],
-    ["afI8lXrfpV8", 11479, 0, "ダイアの花"],
+    ["afI8lXrfpV8", 11479, 11697, "ダイアの花"],
             
     //2022.07.14 【 #歌枠 】好きな曲歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["EDzxUw21xzI", 1804, 2034, "エガオノキミへ"],
