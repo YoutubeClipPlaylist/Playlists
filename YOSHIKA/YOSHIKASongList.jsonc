@@ -7,7 +7,10 @@
  * Title?: 必須用引號包住，為字串型態
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
-[   
+[   //2022.07.21 【 #歌枠 】ルンルンな歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["xGNiJn_iD1Q", 5374, 5641, "Legend of Mermaid"],
+    ["xGNiJn_iD1Q", 6891, 7135, "永遠のあくる日"],
+        
     //2022.07.19 【 #歌枠 】深夜の元気な歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["NpXSAvg3CuI", 1121, 1368, "Star Divine"],
     ["NpXSAvg3CuI", 2506, 2715, "夕景イエスタデイ"],
@@ -16,11 +19,6 @@
     ["NpXSAvg3CuI", 4493, 4713, "新時代"],
     ["NpXSAvg3CuI", 4970, 5220, "ANGELUS -アンジェラス"],
     ["NpXSAvg3CuI", 7147, 7310, "アンパンマンのマーチ"],
-    ["NpXSAvg3CuI", 0, 0, "x"],
-    ["NpXSAvg3CuI", 0, 0, "x"],
-    ["NpXSAvg3CuI", 0, 0, "x"],
-    ["NpXSAvg3CuI", 0, 0, "x"],
-    ["NpXSAvg3CuI", 0, 0, "x"],
     
     //2022.07.17 【 #歌枠 】湿気を吹き飛ばす歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["lfixifgQoiw", 3646, 3932, "フクロウ ～フクロウが知らせる客が来たと"],
