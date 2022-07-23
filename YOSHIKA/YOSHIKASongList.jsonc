@@ -7,7 +7,44 @@
  * Title?: 必須用引號包住，為字串型態
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
-[   
+[   //2022.07.21 【 #歌枠 】ルンルンな歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["xGNiJn_iD1Q", 5374, 5641, "Legend of Mermaid"],
+    ["xGNiJn_iD1Q", 6891, 7135, "永遠のあくる日"],
+        
+    //2022.07.19 【 #歌枠 】深夜の元気な歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["NpXSAvg3CuI", 1121, 1368, "Star Divine"],
+    ["NpXSAvg3CuI", 2506, 2715, "夕景イエスタデイ"],
+    ["NpXSAvg3CuI", 3070, 3304, "渡月橋～君想ふ～"],
+    ["NpXSAvg3CuI", 3455, 3650, "キミがいれば"],
+    ["NpXSAvg3CuI", 4493, 4713, "新時代"],
+    ["NpXSAvg3CuI", 4970, 5220, "ANGELUS -アンジェラス"],
+    ["NpXSAvg3CuI", 7147, 7310, "アンパンマンのマーチ"],
+    
+    //2022.07.17 【 #歌枠 】湿気を吹き飛ばす歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["lfixifgQoiw", 3646, 3932, "フクロウ ～フクロウが知らせる客が来たと"],
+    ["lfixifgQoiw", 2267, 2521, "心絵"],
+    ["lfixifgQoiw", 5097, 5264, "大正浪漫"],
+    ["lfixifgQoiw", 6844, 7049, "Lilium"],
+    ["lfixifgQoiw", 7221, 7510, "横顔"],
+    ["lfixifgQoiw", 8017, 8261, "光るなら"],
+    ["lfixifgQoiw", 8459, 8669, "おとなの掟"],
+    ["lfixifgQoiw", 9231, 9497, "ギラギラ"],
+    ["lfixifgQoiw", 10786, 11037, "For フルーツバスケット"],
+    ["lfixifgQoiw", 11184, 11472, "アムリタ"],
+    ["lfixifgQoiw", 11596, 11905, "愛してる"],
+    ["lfixifgQoiw", 13081, 13411, "小さきもの"],
+            
+    //2022.07.16 【 #歌枠 】のんびりのびのび歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["afI8lXrfpV8", 4307, 4593, "心做し"],
+    ["afI8lXrfpV8", 5923, 6127, "邪魔"],
+    ["afI8lXrfpV8", 6269, 6484, "恋愛フィロソフィア"],
+    ["afI8lXrfpV8", 7273, 7581, "世界は恋に落ちている"],
+    ["afI8lXrfpV8", 7772, 8048, "Winter Bells"],
+    ["afI8lXrfpV8", 8297, 8576, "みちしるべ"],
+    ["afI8lXrfpV8", 9334, 9622, "晴れのち夏の雨"],
+    ["afI8lXrfpV8", 11151, 11375, "希望峰"],
+    ["afI8lXrfpV8", 11479, 11697, "ダイアの花"],
+            
     //2022.07.14 【 #歌枠 】好きな曲歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["EDzxUw21xzI", 1804, 2034, "エガオノキミへ"],
     ["EDzxUw21xzI", 2323, 2583, "空も飛べるはず"],
@@ -112,6 +149,14 @@
     
     //2022.05.02 【 #歌枠 / Singing 】 GWだ🌟歌の強化合宿！1日目だYO🌟 Karaoke 🌟【Vtuber】
     ["wB1RODzPI5w", 8830, 9086, "恋のシグナルRin rin rin"],
+    
+    //2022.04.19 【 #歌枠 / Singing 】 みんなのリクエストを歌う歌枠🎵 Karaoke 🎤【Vtuber】
+    ["i-WJp8GGVT4", 3595, 3797, "神っぽいな"],
+    ["i-WJp8GGVT4", 7706, 7927, "Alright!ハートキャッチプリキュア!"],
+    ["i-WJp8GGVT4", 8215, 8449, "いーあるふぁんくらぶ"],
+    
+    //2022.03.24 【 #歌枠 / Singing 】久しぶり～歌うよ～🎤 Karaoke 🎤【Vtuber】
+    ["XV0wI4R5bxA", 8243, 8607, "地球最後の告白を"],
     
     //2022.03.25 【 #歌枠 / Singing 】作業用・睡眠用BGM歌枠🎤 Karaoke 🎤【Vtuber】
     ["H7gqPEFs7PY", 7071, 7351, "アクエリア舞う空"],
