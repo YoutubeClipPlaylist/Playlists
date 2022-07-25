@@ -7,7 +7,13 @@
  * Title?: 必須用引號包住，為字串型態
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
-[   //2022.07.21 【 #歌枠 】ルンルンな歌枠🍠Singing Stream 🍠【 Vtuber 】
+[   
+    //2022.07.23 【 #歌枠 】元気いっぱい歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["QGPZyWXLStg", 3965, 4208, "恋"],
+    ["QGPZyWXLStg", 4815, 5111, "１・２・３"],
+    ["QGPZyWXLStg", 5357, 5622, "You are a ghost, I am a ghost"],
+    
+    //2022.07.21 【 #歌枠 】ルンルンな歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["xGNiJn_iD1Q", 5374, 5641, "Legend of Mermaid"],
     ["xGNiJn_iD1Q", 6891, 7135, "永遠のあくる日"],
         
@@ -131,6 +137,12 @@
     
     //2022.06.02 【 #歌枠 】11,111人目指して歌う歌枠🍠 Singing Stream 🍠【 Vtuber 】
     ["yJ9-HSTatnM", 5643, 5948, "紅蓮の弓矢"],
+    
+    //2022.05.25 【 #歌枠 】少しだけ歌う歌枠🍠 Singing Stream 🍠【 Vtuber 】
+    ["BIWBR4fmtpU", 1690, 1897, "Falco-ファルコ-"],
+    ["BIWBR4fmtpU", 2048, 2255, "Northern Lights"],
+    ["BIWBR4fmtpU", 2406, 2659, "消せない罪"],
+    ["BIWBR4fmtpU", 5304, 5488, "ラブカ?"],
     
     //2022.05.10 【 #歌枠 】ピアノ伴奏限定歌枠🎹 Piano only Singing Stream 🎹【 Vtuber 】
     ["zODotKpa9K4", 10029, 10194, "リメンバー・ミー"],
