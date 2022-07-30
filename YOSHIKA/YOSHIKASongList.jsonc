@@ -95,6 +95,7 @@
     
     //2022.06.20 【 #歌枠 】元気100％で歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["AlkgAd00dEM", 3427, 3639, "おジャ魔女カーニバル!!"],
+    ["AlkgAd00dEM", 7844, 8076, "メグメグ☆ファイアーエンドレスナイト"],
         
     //2022.06.19 【 #歌枠 】ただいま！久しぶりの歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
     ["BC5FpTHcEs8", 4860, 5220, "僕が死のうと思ったのは"],
@@ -133,7 +134,8 @@
     
     //2022.06.01 【 #歌枠 】まったり歌うYO🍠 Singing Stream 🍠【 Vtuber 】
     ["LfpoHCEiT9I", 1687, 1911, "闇のBAROQUE -バロック-"],
-    ["LfpoHCEiT9I", 2079, 2321, "Lacrimosa"], 
+    ["LfpoHCEiT9I", 2079, 2321, "Lacrimosa"],
+    ["LfpoHCEiT9I", 2541, 2880, "悪ノ召使"],
     
     //2022.06.02 【 #歌枠 】11,111人目指して歌う歌枠🍠 Singing Stream 🍠【 Vtuber 】
     ["yJ9-HSTatnM", 5643, 5948, "紅蓮の弓矢"],
@@ -143,7 +145,7 @@
     ["BIWBR4fmtpU", 2048, 2255, "Northern Lights"],
     ["BIWBR4fmtpU", 2406, 2659, "消せない罪"],
     ["BIWBR4fmtpU", 5304, 5488, "ラブカ?"],
-    
+   
     //2022.05.10 【 #歌枠 】ピアノ伴奏限定歌枠🎹 Piano only Singing Stream 🎹【 Vtuber 】
     ["zODotKpa9K4", 10029, 10194, "リメンバー・ミー"],
     
@@ -175,9 +177,22 @@
     ["H7gqPEFs7PY", 6104, 6383, "アヴェ・マリア"],
     ["H7gqPEFs7PY", 6748, 6967, "全ての人の魂の詩"],
     ["H7gqPEFs7PY", 623, 843, "海の声"],
+    
+    //2022.03.17 【 #歌枠 / Singing 】リクエスト歌いますpart2 🎤 Karaoke 🎤【Vtuber】
+    ["9QP2wvis4WA", 4288, 4597, "愛しい人へ"],
+    ["9QP2wvis4WA", 5688, 6026, "Letter Song"],
+    ["9QP2wvis4WA", 6538, 6748, "スイートマジック"],
+    ["9QP2wvis4WA", 7445, 7686, "Mela!"],
+    ["9QP2wvis4WA", 9084, 9332, "CLEAR"],
                  
     //2022.03.14 【オリジナル曲】ファンファーレ / よしか⁂ 【MV】
     ["RWTvuBqCW7c", 0, 0, "ファンファーレ"],
+    
+    //2022.02.20 【歌枠 / Singing】感謝を込めて歌います！ Karaoke ！【新人Vtuber】
+    ["9lfdmP-cPJ0", 3258, 3501, "プラチナ"],
+    ["9lfdmP-cPJ0", 1047, 1226, "残響散歌"],
+    ["9lfdmP-cPJ0", 1445, 1558, "キャットラビング"],
+    ["9lfdmP-cPJ0", 2146, 2317, "あ・い・う・え・おにぎり"],
     
     //2022.02.08 【 歌枠 / Singing 】寝れない夜のための歌枠 🎶 Karaoke 🎶 【新人Vtuber】
     ["WVtd1pbwb6c", 6804, 7120, "さよならだけが人生だ"],
