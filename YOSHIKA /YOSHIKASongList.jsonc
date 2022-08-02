@@ -8,6 +8,10 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.08.01 【 #歌枠 】8月だ！元気もりもり歌枠！🍠Singing Stream 🍠【 Vtuber 】
+    ["BnpS4No8HPo", 3984, 4284, "Ahoy!! 我ら宝鐘海賊団☆"],
+    ["BnpS4No8HPo", 6659, 6942, "空の欠片"],
+        
     //2022.07.23 【 #歌枠 】元気いっぱい歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["QGPZyWXLStg", 3965, 4208, "恋"],
     ["QGPZyWXLStg", 4815, 5111, "１・２・３"],
