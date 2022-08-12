@@ -8,6 +8,25 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.08.11 【 #歌枠 】高みを目指して歌うYO！🍠Singing Stream 🍠【 Vtuber 】
+    ["_aXRv4Qq4as", 2201, 2435, "逆光"],
+    ["_aXRv4Qq4as", 3246, 3430, "Rolling star"],
+    ["_aXRv4Qq4as", 4685, 4937, "桜日和"],
+    ["_aXRv4Qq4as", 7708, 7993, "黒猫"],
+    ["_aXRv4Qq4as", 8089, 8297, "トエト"],
+    ["_aXRv4Qq4as", 8359, 8554, "ドレミファロンド"],
+    
+    //2022.08.09 【 #歌枠 】楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["UFit7v940ZM", 2747, 2971, "ECHO"],
+      
+    //2022.08.07 【 #歌枠 】まったりバラード歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["2VSQTxhLcPw", 2187, 2508, "小さきもの"],
+    ["2VSQTxhLcPw", 3262, 3580, "さよならだけが人生だ"],
+    ["2VSQTxhLcPw", 4348, 4659, "粉雪"],
+    ["2VSQTxhLcPw", 5262, 5542, "アムリタ"],
+    ["2VSQTxhLcPw", 6725, 7036, "MOTHER"],
+    ["2VSQTxhLcPw", 8534, 8846, "竈門炭治郎のうた"],
+    
     //2022.08.05 【 #歌枠 】1.9万人目指し皆からのリクエスト歌うYO！🍠Singing Stream 🍠【 Vtuber 】
     ["ZWEvPKt8f2o", 1364, 1618, "私は最強"],
     ["ZWEvPKt8f2o", 2666, 2896, "Cyclone"],
@@ -72,9 +91,9 @@
     ["lfixifgQoiw", 8459, 8669, "おとなの掟"],
     ["lfixifgQoiw", 9231, 9497, "ギラギラ"],
     ["lfixifgQoiw", 10786, 11037, "For フルーツバスケット"],
-    ["lfixifgQoiw", 11184, 11472, "アムリタ"],
+    //["lfixifgQoiw", 11184, 11472, "アムリタ"],
     ["lfixifgQoiw", 11596, 11905, "愛してる"],
-    ["lfixifgQoiw", 13081, 13411, "小さきもの"],
+    //["lfixifgQoiw", 13081, 13411, "小さきもの"],
             
     //2022.07.16 【 #歌枠 】のんびりのびのび歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["afI8lXrfpV8", 4307, 4593, "心做し"],
@@ -236,7 +255,7 @@
     ["9lfdmP-cPJ0", 2146, 2317, "あ・い・う・え・おにぎり"],
     
     //2022.02.08 【 歌枠 / Singing 】寝れない夜のための歌枠 🎶 Karaoke 🎶 【新人Vtuber】
-    ["WVtd1pbwb6c", 6804, 7120, "さよならだけが人生だ"],
+    //["WVtd1pbwb6c", 6804, 7120, "さよならだけが人生だ"],
     
     //2021.12.19 【耐久歌枠】5050人目指して楽しく歌おう！！Sing a song！！【Vsinger の 歌枠】
     ["EIcfgINM1PA", 5013, 5307, "少年と魔法のロボット"],
