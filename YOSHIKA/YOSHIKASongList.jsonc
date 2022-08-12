@@ -8,6 +8,14 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.08.11 【 #歌枠 】高みを目指して歌うYO！🍠Singing Stream 🍠【 Vtuber 】
+    ["_aXRv4Qq4as", 2201, 2435, "逆光"],
+    ["_aXRv4Qq4as", 3246, 3430, "Rolling star"],
+    ["_aXRv4Qq4as", 4685, 4937, "桜日和"],
+    ["_aXRv4Qq4as", 7708, 7993, "黒猫"],
+    ["_aXRv4Qq4as", 8089, 8297, "トエト"],
+    ["_aXRv4Qq4as", 8359, 8554, "ドレミファロンド"],
+    
     //2022.08.09 【 #歌枠 】楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["UFit7v940ZM", 2747, 2971, "ECHO"],
       
