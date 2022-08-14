@@ -8,6 +8,12 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.08.12 【 #歌枠 】元気にアニソン縛りで歌うYO！🍠Singing Stream 🍠【 Vtuber 】
+    ["NGnyfkft1ls", 3068, 3349, "世界のつづき"],
+    ["NGnyfkft1ls", 4327, 4548, "ハッピー☆マテリアル"],
+    ["NGnyfkft1ls", 6086, 6320, "ラピスラズリ"],
+    ["NGnyfkft1ls", 9384, 9652, "偲芳歌"],
+    
     //2022.08.11 【 #歌枠 】高みを目指して歌うYO！🍠Singing Stream 🍠【 Vtuber 】
     ["_aXRv4Qq4as", 2201, 2435, "逆光"],
     ["_aXRv4Qq4as", 3246, 3430, "Rolling star"],
