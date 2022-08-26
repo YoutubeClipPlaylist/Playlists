@@ -8,6 +8,11 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.08.25 【 #歌枠 】最高に楽しい歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
+    ["MwGH8AnENK0", 4790, 5023, "YUME日和"],
+    ["MwGH8AnENK0", 6330, 6569, "花に亡霊"],
+    ["MwGH8AnENK0", 13049, 13215, "リメンバー・ミー"],
+    
     //2022.08.23【 #歌枠 】楽しくたくさん歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["opOP1cPfdfM", 8598, 8908, "紡唄"],
     ["opOP1cPfdfM", 11140, x, "remember"],
