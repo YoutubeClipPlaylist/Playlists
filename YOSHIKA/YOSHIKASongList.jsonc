@@ -8,6 +8,12 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.08.26 【 #歌枠 】のんびりのびのび歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["p56CzpYsfdU", 3079, 3351, "寝・逃・げでリセット"],
+    ["p56CzpYsfdU", 3618, 3863, "ジッパー"],
+    ["p56CzpYsfdU", 8345, 8612, "Lascia Chio pianga"],
+    ["p56CzpYsfdU", 8782, 9024, "ひまわりの家の輪舞曲"],
+    
     //2022.08.25 【 #歌枠 】最高に楽しい歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
     ["MwGH8AnENK0", 4790, 5023, "YUME日和"],
     ["MwGH8AnENK0", 6330, 6569, "花に亡霊"],
@@ -152,6 +158,9 @@
     ["EDzxUw21xzI", 8540, 8679, "ホール・ニュー・ワールド"],
     ["EDzxUw21xzI", 8770, 8956, "パート・オブ・ユア・ワールド"],
     ["EDzxUw21xzI", 9091, 9311, "生まれてはじめて"],
+    
+    //2022.07.12 【 #歌枠 】楽しく元気に歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["5-6kMVcMZeM", 4944, 5243, "Myself"],
         
     //2022.07.08 【 #歌枠 】ピアノ伴奏で歌うYO🎹 Piano only Singing Stream 🎹【 Vtuber 】
     ["oBrxK6kVdZ0", 1381, 1578, "ノーダウト(Piano ver.)"],
