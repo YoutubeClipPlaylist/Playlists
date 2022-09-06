@@ -8,6 +8,22 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.09.05 【 #歌枠 】ピアノ伴奏縛り歌枠＆感謝のSC読み🍠Singing Stream 🍠【 Vtuber 】
+    ["dDY6S-mSWqM", 4798, 5051, "糸"],
+    
+    //2022.09.04 【 #歌枠 】新衣装で楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["0ZORABs5JVg", 3334, 3554, "今宵はHalloween Night!"],
+    ["0ZORABs5JVg", 4733, 4993, "ホントノキモチ"],
+    ["0ZORABs5JVg", 6776, 6985, "やさしさに包まれたなら"],
+    ["0ZORABs5JVg", 10286, 10482, "ドレミファロンド"],
+    ["0ZORABs5JVg", 12081, 12170, "かくしん的☆めたまるふぉ～ぜっ！"],
+    
+    //2022.09.02 【 #歌枠 】久々のゲリラ⁉歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["h2SZvj2bACw", 3299, 3507, "恋は太陽 ～CIRCUS!～"],
+        
+    //2022.08.30 【 #歌枠 】深夜の元気な歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["pLIlkziB8Yk", 2709, 2957, "Happiness"],
+    
     //2022.08.26 【 #歌枠 】のんびりのびのび歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["p56CzpYsfdU", 3079, 3351, "寝・逃・げでリセット"],
     ["p56CzpYsfdU", 3618, 3863, "ジッパー"],
