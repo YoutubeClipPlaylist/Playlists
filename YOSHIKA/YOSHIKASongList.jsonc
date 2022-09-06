@@ -8,6 +8,9 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.09.05 【 #歌枠 】ピアノ伴奏縛り歌枠＆感謝のSC読み🍠Singing Stream 🍠【 Vtuber 】
+    ["dDY6S-mSWqM", 4798, 5051, "糸"],
+    
     //2022.09.04 【 #歌枠 】新衣装で楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["0ZORABs5JVg", 3334, 3554, "今宵はHalloween Night!"],
     ["0ZORABs5JVg", 4733, 4993, "ホントノキモチ"],
