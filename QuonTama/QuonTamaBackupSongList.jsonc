@@ -1,7 +1,4 @@
 [
-    // 2022/5/11 【歌枠/sing a song】リクエストで歌います🥳
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EaXQl8rIp0tAo-hoQAlblY8BkJyYZgZkJwuhXe6oo61tSQ?e=iaMCw1", 4626, 4850, "エウテルペ"],
-
     // 2022/5/8 HoneyWorks縛り第二弾💕青春の香り！！！
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ETrxneB4LZ1LiWzO_eYMwRwBVGzfq2NMBXzBaQiQQ7aTwA?e=c1hcIn", 2221, 2434, "ロメオ"],
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ETrxneB4LZ1LiWzO_eYMwRwBVGzfq2NMBXzBaQiQQ7aTwA?e=c1hcIn", 4088, 4246, "告白予行練習"],
@@ -12,7 +9,7 @@
 
     // 2022/1/21 【歌枠/Sing a song】アーカイブ無しのショート歌枠🥀【Vtuber/久遠たま】
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfi4wuah_pHkOMC85qZWLEBYaOJaZuWG8hH83sdnrLfeQ?e=wxDu4I", 1174, 1442, "世界がひとつになるまで"],
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfi4wuah_pHkOMC85qZWLEBYaOJaZuWG8hH83sdnrLfeQ?e=wxDu4I", 3033, 3274, "たった一つの想い"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfi4wuah_pHkOMC85qZWLEBYaOJaZuWG8hH83sdnrLfeQ?e=wxDu4I", 3033, 3274, "たった一つの想い"], //New8/24
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfi4wuah_pHkOMC85qZWLEBYaOJaZuWG8hH83sdnrLfeQ?e=wxDu4I", 4292, 4559, "色彩"],
 
     // 2022/1/16 【歌枠/Sing a song】ケロケロでエフェクト強めな歌🌟
@@ -68,7 +65,7 @@
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ER4X_O47PQBKg-Aj-7vyZt8BSGlwRwuwltpgnjzxqjc7Gw?e=KDMk6L", 343, 555, "ロストワンの号哭"], //New10/4
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ER4X_O47PQBKg-Aj-7vyZt8BSGlwRwuwltpgnjzxqjc7Gw?e=KDMk6L", 640, 857, "すーぱーぬこわーるど"], //New11/16
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ER4X_O47PQBKg-Aj-7vyZt8BSGlwRwuwltpgnjzxqjc7Gw?e=KDMk6L", 969, 1183, "嗚呼、素晴らしきニャン生"],
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ER4X_O47PQBKg-Aj-7vyZt8BSGlwRwuwltpgnjzxqjc7Gw?e=KDMk6L", 1347, 1559, "ハウトゥー世界征服"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ER4X_O47PQBKg-Aj-7vyZt8BSGlwRwuwltpgnjzxqjc7Gw?e=KDMk6L", 1347, 1559, "ハウトゥー世界征服"],
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ER4X_O47PQBKg-Aj-7vyZt8BSGlwRwuwltpgnjzxqjc7Gw?e=KDMk6L", 1710, 1942, "拍手喝采歌合"],
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ER4X_O47PQBKg-Aj-7vyZt8BSGlwRwuwltpgnjzxqjc7Gw?e=KDMk6L", 2019, 2115, "犬のおまわりさん (Short)"],
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ER4X_O47PQBKg-Aj-7vyZt8BSGlwRwuwltpgnjzxqjc7Gw?e=KDMk6L", 2206, 2502, "Just Be Friends"], //New3/11
@@ -174,10 +171,6 @@
     // 2020/12/11 スタジオジブリ作品限定歌枠✨Sing a song
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EQZmoMCMwe5HqDTQG5Hsi8IByaGUtgSC0J6fctDS7tjrpg?e=3T9s1w", 1524, 1686, "崖の上のポニョ"],
 
-    // 2020/12/4 ボカロをうたう！エフェクト多様？！Sing a song
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EYn3Qi8mtIJMsZ6OZmeXpksB8ywgbhtQEzaJxg7aCi0NCQ?e=SRgCkT", 2034, 2301, "フラジール"],
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EYn3Qi8mtIJMsZ6OZmeXpksB8ywgbhtQEzaJxg7aCi0NCQ?e=SRgCkT", 4146, 4446, "会いたい"],
-
     // 歌ってみた Happy Halloween
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ERGXs2bRTq1Mr7NM1DofJ_oBwQm4RwBS_G-I3Qtar28j4Q?e=Ccgcwu", 0, 0, "Happy Halloween"],
 
@@ -189,9 +182,6 @@
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EcUh5oQJszZLrbSuL2JSK_8BAYDbMNYpS8ahsUe7OwgEcw?e=bhS0YR", 1016, 1277, "ビタースウィート"],
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EcUh5oQJszZLrbSuL2JSK_8BAYDbMNYpS8ahsUe7OwgEcw?e=bhS0YR", 1748, 1945, "ドレミファロンド"],
 
-    // 2020/9/30 ボカロ限定でたくさん歌う！
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EQcMloNMZNBAm8vFZ0zGxsgBEWtU-B4cGPxTuM9N4wAQGg?e=eMg74m", 2904, 3148, "再教育"],
-
     // 2020/9/18 アニソン祭りじゃ～！！
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Edxxa-84G0VCgajqAKwA3f4BLPxZG3-60B3-WamCnlKecQ?e=izuQJy", 649, 758, "Little Busters! (Short)"],
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Edxxa-84G0VCgajqAKwA3f4BLPxZG3-60B3-WamCnlKecQ?e=izuQJy", 2047, 2123, "nameless story (Short)"],
@@ -200,11 +190,5 @@
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EdE-7qov5b9Kk4uIWKmmhFQBsySOB3XMT2JvKNVcZAzGTg?e=XW5Tp8", 318, 523, "ゴーストルール"],
 
     // Twitter
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EWfiLaOR-tVHnmwcXaZQmXsBa5YLtdr_6RO-1jdikBnK8Q?e=Zcn3TI", 0, 0, "Sing My Pleasure"], //New5/16
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EV86EkgimTZHnAPv6Ymmr24BTjVjm9KvdayamHgr24E0MA?e=vra6bO", 0, 0, "httpst.coBIeu5IGHwp ↑の1番難しい所を3ヶ月ぶりに歌ってみたら果たして歌えるのか？！🤔 【検証結果👇🏻】"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/Ec0J78_gZVZGvjQxYTPxC7wB9zJ7WvxdIydTcGkvjxTXgA?e=N9abP3", 0, 0, "今日も配信来てくれてありがとう！ おやしゅみ！！！！！！"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EVEyToVzw45BhEga8qIua70BIXkvtvoO2XYCywxmlp9NfQ?e=h8Ow3c", 0, 0, "朝窓を開けたら、こちらを覗いていた👀"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ERdfC-iSvN5Psf5xy_ebBygBSyF13vetrZTWPysVXw1uOw?e=QfqVxE", 0, 0, "たま子さんおはたまー！"],
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EUD4llKgG2JCh4s9ODPExmYBNN3S3UZUwMtGkH3FxVT1Kw?e=Lf8x3B", 0, 0, "たまの全身全霊滑舌その２"]
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EXkXq6p7S01Bi6IWZzyRoIgB0y8HlSG1kvO8yKGwQjNVVw?e=3dilwa", 0, 0, "たまの全身全霊滑舌その１"],
 ]
