@@ -36,6 +36,15 @@
             "url": "https://github.com/jim60105"
         }
     },
+    {
+        "name": "QuonTamaCDSongList",
+        "tag": ["Quon", "Tama", "QuonTama", "CD"],
+        "route": "QuonTama/QuonTamaCDSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
     // {
     //     "name": "QuonTamaTwitcastingSongList",
     //     "tag": ["Quon", "Tama", "QuonTama", "public", "twitcasting"],
