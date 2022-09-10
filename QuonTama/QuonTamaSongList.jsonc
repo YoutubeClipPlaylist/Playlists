@@ -41,11 +41,11 @@
     ["O3-IGgWdjpQ", 5285, 5507, "RESISTER"],
     ["O3-IGgWdjpQ", 5518, 5804, "虹の彼方に"],
     ["O3-IGgWdjpQ", 5951, 6234, "Resolution"],
-    ["O3-IGgWdjpQ", 6244, 6535, "unlasting"],
+    // ["O3-IGgWdjpQ", 6244, 6535, "unlasting"],
     // ["O3-IGgWdjpQ", 6627, 6894, "ANIMA"],
     ["O3-IGgWdjpQ", 6902, 7170, "I will..."],
     ["O3-IGgWdjpQ", 7241, 7467, "往け"],
-    ["O3-IGgWdjpQ", 7564, 7805, "crossing field"],
+    // ["O3-IGgWdjpQ", 7564, 7805, "crossing field"],
 
     // 2022/9/2 ボカロをメインに歌う🌟
     ["j2nrMPZlcuY", 407, 605, "太陽系デスコ"],
@@ -83,7 +83,7 @@
     ["NFhJnEDtjUo", 207, 482, "いけないボーダーライン"],
     ["NFhJnEDtjUo", 865, 1151, "オベリスク"],
     ["NFhJnEDtjUo", 1378, 1654, "motto☆派手にね！"],
-    ["NFhJnEDtjUo", 1740, 1998, "もってけ!セーラーふく"],
+    // ["NFhJnEDtjUo", 1740, 1998, "もってけ!セーラーふく"],
     ["NFhJnEDtjUo", 2123, 2412, "朝が来る"],
     ["NFhJnEDtjUo", 2685, 2878, "春を告げる"],
     ["NFhJnEDtjUo", 3235, 3431, "夜のピエロ"],
@@ -198,10 +198,10 @@
     ["acOP_PPpLh4", 1236, 1454, "やさしいキスをして"],
     ["acOP_PPpLh4", 1650, 1888, "あんずの花"],
     ["acOP_PPpLh4", 2066, 2272, "Preserved Roses"],
-    ["acOP_PPpLh4", 2353, 2590, "革命デュアリズム"],
+    // ["acOP_PPpLh4", 2353, 2590, "革命デュアリズム"],
     ["acOP_PPpLh4", 2844, 3210, "花の唄"],
     ["acOP_PPpLh4", 3343, 3643, "春はゆく"],
-    ["acOP_PPpLh4", 3923, 4213, "美しき残酷な世界"],
+    // ["acOP_PPpLh4", 3923, 4213, "美しき残酷な世界"],
     ["acOP_PPpLh4", 4573, 4936, "Planetes"],
     ["acOP_PPpLh4", 5053, 5345, "月光花"],
     ["acOP_PPpLh4", 5673, 5946, "上弦の月"],
@@ -297,7 +297,7 @@
     ["QjSk-HHHhw8", 2134, 2388, "Get it on ～光速クライmax"],
     ["QjSk-HHHhw8", 2653, 2870, "Welcome To My FanClub's Night!"],
     ["QjSk-HHHhw8", 2878, 3191, "禁断のエリクシア"],
-    ["QjSk-HHHhw8", 3399, 3748, "ダイアモンド クレバス"],
+    // ["QjSk-HHHhw8", 3399, 3748, "ダイアモンド クレバス"],
     ["QjSk-HHHhw8", 3759, 4083, "放課後オーバーフロウ"],
     ["QjSk-HHHhw8", 4269, 4544, "ホシキラ"],
     ["QjSk-HHHhw8", 4562, 4879, "dシュディスタb"],
@@ -411,7 +411,7 @@
     ["gsxkJU3rVac", 3720, 3940, "乙女解剖"],
     ["gsxkJU3rVac", 4530, 4817, "アイネクライネ"],
     // ["gsxkJU3rVac", 4844, 5122, "シルシ"], //New9/4
-    ["gsxkJU3rVac", 5576, 5887, "名前のない怪物"],
+    // ["gsxkJU3rVac", 5576, 5887, "名前のない怪物"],
     // ["gsxkJU3rVac", 5921, 6154, "紅蓮華"],
     // ["gsxkJU3rVac", 6552, 6734, "残響散歌"], //New8/7
     
@@ -449,8 +449,8 @@
     ["eynWXmVS-wY", 8994, 9253, "アイのシナリオ"],
     ["eynWXmVS-wY", 9476, 9589, "睡蓮花 (Short)"],
     // ["eynWXmVS-wY", 9776, 10036, "オリオンをなぞる"], //New7/7
-    ["eynWXmVS-wY", 10272, 10518, "oath sign"],
-    ["eynWXmVS-wY", 10747, 11026, "This game"],
+    // ["eynWXmVS-wY", 10272, 10518, "oath sign"],
+    // ["eynWXmVS-wY", 10747, 11026, "This game"],
     // ["eynWXmVS-wY", 11375, 11591, "HOT LIMIT"], //New7/31
 
     // 歌ってみた 正しくなれない
@@ -459,7 +459,7 @@
     // 2022/6/28 夕焼けと歌🌇 初見さんも大歓迎！
     ["BFZc9rbx1CU", 449, 750, "点描の唄"],
     ["BFZc9rbx1CU", 1412, 1697, "少女レイ"],
-    ["BFZc9rbx1CU", 2231, 2481, "空色デイズ"],
+    // ["BFZc9rbx1CU", 2231, 2481, "空色デイズ"],
     ["BFZc9rbx1CU", 2775, 3046, "Sincerely"],
     ["BFZc9rbx1CU", 3245, 3571, "茜さす"],
     ["BFZc9rbx1CU", 3729, 3932, "カタオモイ"],
@@ -526,7 +526,7 @@
     // ["aR8DuurgZiE", 4828, 5082, "Here"], //New9/6
     // ["aR8DuurgZiE", 5261, 5528, "17才"], //New8/14
     ["aR8DuurgZiE", 5709, 5927, "PHANTOM MINDS"],
-    ["aR8DuurgZiE", 6081, 6318, "unravel"],
+    // ["aR8DuurgZiE", 6081, 6318, "unravel"],
     // ["aR8DuurgZiE", 6336, 6505, "夜もすがら君想ふ ED"],
  
     // 2022/6/14 リクエストでまったり歌います🥀
@@ -1231,7 +1231,7 @@
     // ["JaQzKwmT7OA", 3879, 4127, "Howling"], //New3/2
     // ["JaQzKwmT7OA", 4138, 4378, "Realize"], //New1/23
     // ["JaQzKwmT7OA", 4600, 4846, "oath sign"], //New2/6
-    ["JaQzKwmT7OA", 5131, 5376, "Sparkling Daydream"],
+    // ["JaQzKwmT7OA", 5131, 5376, "Sparkling Daydream"],
     // ["JaQzKwmT7OA", 5383, 5554, "夜もすがら君想ふ ED"],
 
     // 2021/12/24 X’masパーティー歌枠🎄
@@ -1351,7 +1351,7 @@
     // ["eTJUVaKzZZw", 741, 1017, "七転八起☆至上主義!"], //New7/3
     // ["eTJUVaKzZZw", 1105, 1376, "ギラギラ"], //New12/11
     // ["eTJUVaKzZZw", 1482, 1746, "シリョクケンサ"], //New3/11
-    ["eTJUVaKzZZw", 2036, 2289, "Hacking to the Gate"],
+    // ["eTJUVaKzZZw", 2036, 2289, "Hacking to the Gate"],
     // ["eTJUVaKzZZw", 2548, 2800, "To see the future"], //New6/26
     // ["eTJUVaKzZZw", 2896, 3169, "from the edge"], //New8/22
     // ["eTJUVaKzZZw", 3323, 3607, "月と花束"], //New2/8
