@@ -8,32 +8,21 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
-    // 2022/5/15 睡眠導入歌枠💤！裏声祭り！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長的假音訓練睡眠歌回！
-    ["NCBsASvPn-Y", 4952, 5263, "大魚"],
-    ["NCBsASvPn-Y", 5608, 5830, "碼頭姑娘"],
+    // 【コラボ歌枠】癒しボイスのリファちゃんと一緒に歌います🎵 ft.有北リファ【薬袋アルマ／VTuber】和リファちゃん一起唱歌啦！Ꮚ•̀ꈊ•́Ꮚ
+    // https://www.youtube.com/watch?v=oO68AzAuE9Y
 
-    // 2022/04/04 走音歌回！中国語の曲縛り！中文歌回！！初見さん大歓迎♬
-    ["Grj6MYHmWMs", 698, 943, "天黑黑"],
-    ["Grj6MYHmWMs", 1222, 1431, "遇見"],
-    ["Grj6MYHmWMs", 2056, 2284, "Lydia"],
-    ["Grj6MYHmWMs", 2499, 2781, "我們的愛"],
-    ["Grj6MYHmWMs", 2907, 3166, "倒帶"],
-    ["Grj6MYHmWMs", 3885, 4145, "泡沫"],
-    // ["Grj6MYHmWMs", 4576, 4883, "煎熬"], //煎羊
-    ["Grj6MYHmWMs", 5307, 5588, "人間不值得"],
-    ["Grj6MYHmWMs", 5688, 5807, "不為誰而作的歌 (Short)"],
-    ["Grj6MYHmWMs", 5935, 6150, "隱形的翅膀"],
-    ["Grj6MYHmWMs", 6262, 6483, "劈你的雷正在路上"],
-    // ["Grj6MYHmWMs", 6666, 6980, "大魚"], //New5/15
-    // ["Grj6MYHmWMs", 7279, 7514, "太陽"], //她說當作沒這首
-    ["Grj6MYHmWMs", 7792, 8050, "小幸運"],
-    // ["Grj6MYHmWMs", 8166, 8376, "碼頭姑娘"], //New5/15
-    ["Grj6MYHmWMs", 8449, 8651, "ㄘㄨㄚˋ冰進行曲"],
+    // 【コラボ歌枠】ひよりちゃんと一緒に歌います🎵 ft.羽天ひより【薬袋アルマ／VTuber】和ひよりちゃん一起唱歌啦！Ꮚ•̀ꈊ•́Ꮚ
+    // https://www.youtube.com/watch?v=-aLqr5AG97w
 
-    // 2022/03/16 いよいよ定期歌枠始まります！！初見さん大歓迎♬
-    // ["HgE-CjYdCHM", 6308, 6537, "碼頭姑娘"], //New4/4
+    // 【コラボ歌枠】羊牛同盟！布奈ちゃんと一緒に歌います🎵 ft.蘆棠布奈【薬袋アルマ／VTuber】和布奈一起在青青草原上唱歌啦！Ꮚ•̀ꈊ•́Ꮚ
+    // https://www.youtube.com/watch?v=LkPIQ29EQ40
 
-    // 2022/01/08 【歌枠／ Singing】デビュー1ヶ月記念！艦長生き残ったよ！♬【新人Vtuber】 Singing songs
-    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EZs4Cnow_nNDhq9SWxmoM3EB2MYoRo0mxe-L8gnNWbpN7g?e=9huRki", 3354, 3673, "他們說我是沒有用的年輕人"],
-    ["ld-cz_5HqMc", 5643, 5896, "鬼神童子 Zenki"]
+    // 【コラボ歌枠】ヴィヴィちゃんと一緒に歌います🎵 ft.名雪薇薇【薬袋アルマ／VTuber】和Vivy豹豹一起唱歌啦！Ꮚ•̀ꈊ•́Ꮚ
+    // https://youtu.be/kwNjMUpG86s
+    
+    // 【コラボ歌枠】 艦長歡迎光臨 一起開心唱歌! ft.薬袋アルマ
+    // https://www.youtube.com/watch?v=8F6afibLD2c
+
+    // 【歌枠／Singing】薬膳ナス鍋初の歌コラボだー－－－艦長可愛くなれるのか？！🎵初見さん大歓迎！♬Ꮚ•̀ꈊ•́Ꮚ【薬袋アルマ／紅記えり／新人Vtuber】
+    // https://www.youtube.com/watch?v=egPZdriZvkU
 ]
