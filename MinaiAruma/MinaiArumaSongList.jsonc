@@ -8,6 +8,18 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    // 2022/09/16 Aimer縛り歌枠！睡眠導入しちゃう💙初見さん大歓迎！♬Ꮚ•̀ꈊ•́Ꮚ✨【新人Vtuber】Aimer限定歌回！
+    ["nMwBoQIJgYM", 363, 546, "残響散歌"],
+    ["nMwBoQIJgYM", 1034, 1359, "StarRingChild"],
+    ["nMwBoQIJgYM", 2262, 2537, "I beg you"],
+    ["nMwBoQIJgYM", 2960, 3246, "Ref:rain"],
+    ["nMwBoQIJgYM", 3684, 3943, "星屑ビーナス"],
+    ["nMwBoQIJgYM", 4276, 4585, "LAST STARDUST"],
+    ["nMwBoQIJgYM", 4928, 5276, "季路"],
+    ["nMwBoQIJgYM", 5556, 5891, "六等星の夜"],
+    ["nMwBoQIJgYM", 6229, 6554, "茜さす"],
+    ["nMwBoQIJgYM", 6765, 7108, "RE:I AM"],
+
     // 2022/5/21 喉が爆発した歌枠！初見さん大歓迎！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長的破喉嚨歌回！
     ["CouPOEHTo1c", 452, 734, "創聖のアクエリオン"],
     // ["CouPOEHTo1c", 870, 1124, "吹雪"], // 唱爆了
@@ -66,7 +78,7 @@
     ["lAdSThzhcnU", 341, 611, "ANIMA"],
     ["lAdSThzhcnU", 849, 1093, "crossing field"],
     ["lAdSThzhcnU", 1568, 1858, "THERE IS A REASON"],
-    ["lAdSThzhcnU", 2674, 3017, "RE:I AM"],
+    // ["lAdSThzhcnU", 2674, 3017, "RE:I AM"], //New9/16
     // ["lAdSThzhcnU", 3291, 3431, "フリージア (Short)"], //New5/4
     ["lAdSThzhcnU", 3745, 4055, "美しき残酷な世界"],
     // ["lAdSThzhcnU", 4188, 4400, "風のうた"], //New5/8
@@ -78,7 +90,7 @@
     ["lAdSThzhcnU", 6922, 7130, "うっせぇわ"],
 
     // 2022/04/08 デビュー4ヶ月記念配信！！ちょっとお知らせ！♬Ꮚ•̀ꈊ•́Ꮚ 艦長生存4個月紀念歌回
-    ["mgAdASRWfBI", 390, 570, "残響散歌"],
+    // ["mgAdASRWfBI", 390, 570, "残響散歌"], //New9/16
     ["mgAdASRWfBI", 923, 1238, "世界は恋に落ちている"],
     ["mgAdASRWfBI", 1456, 1674, "ペガサス幻想"],
     ["mgAdASRWfBI", 1767, 2028, "ジョジョ～その血の運命"],
@@ -111,7 +123,7 @@
     ["gMemjYpUJAw", 2028, 2292, "aLIEz"],
     ["gMemjYpUJAw", 2994, 3274, "もらい泣き"],
     ["gMemjYpUJAw", 3619, 3143, "Shangri-La"],
-    ["gMemjYpUJAw", 4113, 4401, "Ref:rain"],
+    // ["gMemjYpUJAw", 4113, 4401, "Ref:rain"], //New9/16
     // ["gMemjYpUJAw", 4633, 4851, "LOS!LOS!LOS!"],
     // ["gMemjYpUJAw", 5051, 5407, "たばこ"],
     ["gMemjYpUJAw", 5628, 5811, "ヴァンパイア"],
@@ -176,7 +188,7 @@
     ["ld-cz_5HqMc", 115, 324, "Northern Lights"],
     ["ld-cz_5HqMc", 533, 786, "嵐の中で輝いて"],
     // ["ld-cz_5HqMc", 1074, 1353, "Shangri-la"], //New3/8
-    ["ld-cz_5HqMc", 1611, 1921, "Last Stardust"],
+    // ["ld-cz_5HqMc", 1611, 1921, "Last Stardust"], //New9/16
     // ["ld-cz_5HqMc", 2205, 0, "King"], //版權
     // ["ld-cz_5HqMc", 2919, 3187, "Fly Me to the Moon"], //New3/16
     // ["ld-cz_5HqMc", 3354, 3673, "他們說我是沒有用的年輕人"],
@@ -202,7 +214,7 @@
     // ["33gLiTyQsVo", 698, 924, "純情"], //New5/21
     // ["33gLiTyQsVo", 1425, 1633, "怪物"], //New4/8
     // ["33gLiTyQsVo", 1955, 2304, "なんでもないや"], //版權 //New5/4
-    ["33gLiTyQsVo", 2832, 3166, "六等星の夜"],
+    // ["33gLiTyQsVo", 2832, 3166, "六等星の夜"], //New9/16
     ["33gLiTyQsVo", 3651, 3966, "名前のない怪物"],
     // ["33gLiTyQsVo", 4467, 4746, "God knows"], //New5/21
     // ["33gLiTyQsVo", 4972, 5077, "炎(Short)"],
