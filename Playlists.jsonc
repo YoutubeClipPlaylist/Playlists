@@ -130,6 +130,15 @@
         }
     },
     {
+        "name": "MinaiArumaChineseSongList",
+        "tag": ["Minai", "Aruma", "MinaiAruma", "chinese", "public"],
+        "route": "MinaiAruma/MinaiArumaChineseSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        }
+    },
+    {
         "name": "MinaiArumaSpecialSongList",
         "tag": ["Minai", "Aruma", "MinaiAruma", "special", "public"],
         "route": "MinaiAruma/MinaiArumaSpecialSongList.jsonc",
