@@ -7,16 +7,22 @@
  * Title?: 必須用引號包住，為字串型態
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
-[   //2022.09.08 【 #耐久歌枠 】皆で行くぞ22,222人！元気に騒ぐ歌枠！🍠Singing Stream 🍠【 Vtuber 】
+[   
+    //2022.09.17 【 #歌枠 】超元気にたくさん歌う歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["JaVSc_X_mq8", 5587, 5777, "Tot Musica"],
+    ["JaVSc_X_mq8", 11686, 11914, "悪魔の子"],
+    
+    //2022.09.08 【 #耐久歌枠 】皆で行くぞ22,222人！元気に騒ぐ歌枠！🍠Singing Stream 🍠【 Vtuber 】
     ["iM27TXU2wLk", 1295, 1570, "舞台少女心得"],
     ["iM27TXU2wLk", 15068, 15285, "ハグしちゃお"],
     ["iM27TXU2wLk", 15855, 16093, "涙そうそう"],
-    ["iM27TXU2wLk", 16207, 16303, "Tot Musica"],
+    //["iM27TXU2wLk", 16207, 16303, "Tot Musica"],
     ["iM27TXU2wLk", 17072, 17308, "革命デュアリズム"],
     ["iM27TXU2wLk", 17438, 17708, "おはよう。"],
         
     //2022.09.07 【 #歌枠 】楽しく元気にリクエスト歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["Cap5sPYkK7M", 13261, 13490, "勇気100％"],
+    ["Cap5sPYkK7M", 8203, 8446, "永遠のあくる日"],
     
     //2022.09.05 【 #歌枠 】ピアノ伴奏縛り歌枠＆感謝のSC読み🍠Singing Stream 🍠【 Vtuber 】
     ["dDY6S-mSWqM", 4798, 5051, "糸"],
@@ -49,6 +55,9 @@
     //2022.08.23【 #歌枠 】楽しくたくさん歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["opOP1cPfdfM", 8598, 8908, "紡唄"],
     ["opOP1cPfdfM", 11140, 11474, "remember"],
+    
+    //2022.08.22【 #歌枠 】深夜の元気なお歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["1NfuCwd2DDY", 6694, 6975, "Love so sweet"],
         
     //2022.08.19 【 #歌枠 】ボカロ限定で歌っていくYO🍠Singing Stream 🍠【 Vtuber 】
     //["kzSbYM0_wqc", 2463, 2638, "カンタレラ"],
@@ -191,6 +200,9 @@
     
     //2022.07.12 【 #歌枠 】楽しく元気に歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["5-6kMVcMZeM", 4944, 5243, "Myself"],
+    
+    //2022.07.10 【 #歌枠 】みんなからのリクエスト歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["e9CkTAGug_8", 9981, 10213, "忘れじの言の葉"],
         
     //2022.07.08 【 #歌枠 】ピアノ伴奏で歌うYO🎹 Piano only Singing Stream 🎹【 Vtuber 】
     ["oBrxK6kVdZ0", 1381, 1578, "ノーダウト(Piano ver.)"],
@@ -209,7 +221,7 @@
     //2022.07.03 【#歌枠 】めっちゃ楽しい歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["qkZWtsClh6s", 6380, 6548, "You Raise me Up"],
     ["qkZWtsClh6s", 7174, 7301, "O mio babbino caro"],
-    //["qkZWtsClh6s", 11938, 12166, "夕闇ノ殺メ唄"],
+    ["qkZWtsClh6s", 11938, 12166, "夕闇ノ殺メ唄"],
             
     //2022.07.01 【 #歌枠 】7月最初のわくわく歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["R1ftc9Mli4I", 1725, 1983, "ココロのちず"],
