@@ -7,12 +7,27 @@
  */
 [
     // 和夜白魔メア連動
-    // #堕ちライブ おメアとのお初！そしてコラボ歌枠💖【#Vtuber/#間取かける/#夜白魔メア 】
-    // https://www.youtube.com/watch?v=x4RhY-ZHAeY
+    // 2022/9/14 #堕ちライブ おメアとのお初！そしてコラボ歌枠💖【#Vtuber/#間取かける/#夜白魔メア 】
+    ["x4RhY-ZHAeY", 524, 761, "逆光"],
+    ["x4RhY-ZHAeY", 1417, 1779, "一番の宝物"],
+    ["x4RhY-ZHAeY", 2253, 2486, "ヒトリゴト"],
+    ["x4RhY-ZHAeY", 2938, 3152, "Los!Los!Los!"],
+    ["x4RhY-ZHAeY", 3775, 3931, "サラマンダー"],
+    ["x4RhY-ZHAeY", 4395, 4529, "CH4NGE"],
+    ["x4RhY-ZHAeY", 4991, 5216, "ヒッチコック"],
+    ["x4RhY-ZHAeY", 5336, 5576, "革命デュアリズム"],
 
     // 和有北リファ連動
     // 2022/06/28  #わっふぇん リファちゃんと初コラボ...✨✨いっぱいうたうぜぃ【#Vtuber/#有北リファ/#間取かける】
-    // https://youtu.be/mGHwL0-0Yvo
+    ["mGHwL0-0Yvo", 592, 793, "ようこそジャパリパークへ"],
+    ["mGHwL0-0Yvo", 1373, 1589, "HOTLIMIT"],
+    ["mGHwL0-0Yvo", 2571, 2761, "あゝオオサカdreamin'night"],
+    ["mGHwL0-0Yvo", 3293, 3566, "いけないボーダーライン"],
+    ["mGHwL0-0Yvo", 4302, 4513, "ハレ晴レユカイ"],
+    ["mGHwL0-0Yvo", 5177, 5413, "ポジティブ☆ダンスタイム"],
+    ["mGHwL0-0Yvo", 6511, 6810, "ライオン"],
+    ["mGHwL0-0Yvo", 7714, 7984, "風になる"],
+    ["mGHwL0-0Yvo", 8168, 8394, "ロキ"],
 
     // 和天狼ウルル連動
     // 2022/5/18 ウルかけコラボ第2弾😎✨【#Vtuber/#天狼ウルル/#間取かける】
@@ -248,9 +263,8 @@
 
     // 和亜玖魔サキ連動，版權，且只有左聲道
     // 2021/10/2 【歌と雑談】歌うまVtuber‼間取かけるちゃんと一緒に歌う✨✨【#サキの歌うまVコラボ】
-    // https://www.youtube.com/watch?v=GHbkMUho2bo
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EbtkE55_3bpEjNFmuRJjx6sBXaFU3GwjAFemGRJfQBg6bw?e=qeFCe3", 1606, 1822, "チューリングラブ"],
-    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EbtkE55_3bpEjNFmuRJjx6sBXaFU3GwjAFemGRJfQBg6bw?e=qeFCe3", 2874, 3106, "劣等上等"],
+    // ["GHbkMUho2bo", 1606, 1822, "チューリングラブ"],
+    // ["GHbkMUho2bo", 2874, 3106, "劣等上等"],
 
     // 和エムリィ連動
     // 2021/8/31 ぼくのお部屋にご招待！RMK卍組のハウスライブ😎✨【新人Vtuber/苓吃エムリィ/間取かける】
