@@ -1,0 +1,19 @@
+/**
+ * ["VideoID", StartTime, EndTime, "Title"]
+ * VideoID: 必須用引號包住，為字串型態。
+ * StartTime: 只能是非負數。如果要從頭播放，輸入0
+ * EndTime: 只能是非負數。如果要播放至尾，輸入0
+ * Title: 必須用引號包住，為字串型態
+ */
+[
+    // 2022/1/28 1月最後の定期歌枠！！...早ァァ！？
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EX-MqhBEi0xChNEISPlvD8oBR9Jh607d8-36rA8lEjAhwg?e=Ge82jb", 2018, 2248, "Girlish Lover"],
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EX-MqhBEi0xChNEISPlvD8oBR9Jh607d8-36rA8lEjAhwg?e=Ge82jb", 2374, 2632, "Don't say \"lazy\""],
+
+    // 2021/8/10 アーカイブ①❗朝の部！喉はもつのか...！？
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EXwhZ9tNKT1CuxmGiTE19cEBjBRxmat8wjetjAyCkPCL3A?e=odBoDT", 7761, 8015, "となりのトトロ"],
+
+    // 2021/6/4 ６月最初の金曜日の夜！！盛り上げていくぞ～✨
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EYIsKLhGzRpMoFlbfyBGKPIBSANrxDx-kEw_uHfTe30a0w?e=62fc2N", 5470, 5730, "0.993055555555555"]
+    // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EYIsKLhGzRpMoFlbfyBGKPIBSANrxDx-kEw_uHfTe30a0w?e=62fc2N", 6689, 6919, "Girlish Lover"],
+]
