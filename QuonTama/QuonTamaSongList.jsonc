@@ -1097,7 +1097,7 @@
     ["nC2nAZGiKnQ", 2451, 2655, "great escape"],
     // ["nC2nAZGiKnQ", 2663, 2891, "悪魔の子"], //New2/22
     ["nC2nAZGiKnQ", 3072, 3309, "disillusion"],
-    // ["nC2nAZGiKnQ", 3322, 3569, "KOE"], // 喉嚨唱啞了QQ
+    ["nC2nAZGiKnQ", 3322, 3569, "KOE"], // 喉嚨唱啞了QQ
     // ["nC2nAZGiKnQ", 3570, 3799, "Brave Shine"],
     // ["nC2nAZGiKnQ", 4226, 4453, "crossing field"],
 
@@ -1412,21 +1412,22 @@
     // 作業用BGM アニソン歌枠メドレー７
     // ["wBSdeNlbx8w", 0, 0, "作業用BGMアニソン歌枠メドレー７"],
 
-    // 2021/11/21 リスナーさん選曲の歌枠🧸
-    // ["rgImdNtlksc", 145, 370, "おジャ魔女カーニバル"], //New3/15
-    // ["rgImdNtlksc", 567, 807, "気まぐれロマンティック"], //New7/12
-    // ["rgImdNtlksc", 989, 1267, "白日"], //New7/12
-    // ["rgImdNtlksc", 1628, 1870, "ツキアカリのミチシルベ"], //New2/6
-    // ["rgImdNtlksc", 2018, 2331, "ガーネット"], //New12/5
-    // ["rgImdNtlksc", 2708, 2937, "ゆずれない願い"], //New4/10
-    ["rgImdNtlksc", 3188, 3481, "あなたがいた森"],
-    // ["rgImdNtlksc", 3553, 3825, "雲雀"], //New2/22
-    // ["rgImdNtlksc", 3967, 4203, "Cry Baby"], //New12/19
-    // ["rgImdNtlksc", 4280, 4541, "恋しさと せつなさと 心強さと"], //New12/8
-    // ["rgImdNtlksc", 4677, 5024, "RE:I AM"], //New12/31
-    // ["rgImdNtlksc", 5116, 5421, "DEAREST DROP"], //New3/24
-    // ["rgImdNtlksc", 5523, 5769, "プラチナ"],
-    // ["rgImdNtlksc", 5780, 5950, "夜もすがら君想ふ ED"],
+    // 私人
+    // // 2021/11/21 リスナーさん選曲の歌枠🧸
+    // // ["rgImdNtlksc", 145, 370, "おジャ魔女カーニバル"], //New3/15
+    // // ["rgImdNtlksc", 567, 807, "気まぐれロマンティック"], //New7/12
+    // // ["rgImdNtlksc", 989, 1267, "白日"], //New7/12
+    // // ["rgImdNtlksc", 1628, 1870, "ツキアカリのミチシルベ"], //New2/6
+    // // ["rgImdNtlksc", 2018, 2331, "ガーネット"], //New12/5
+    // // ["rgImdNtlksc", 2708, 2937, "ゆずれない願い"], //New4/10
+    // // ["rgImdNtlksc", 3188, 3481, "あなたがいた森"],
+    // // ["rgImdNtlksc", 3553, 3825, "雲雀"], //New2/22
+    // // ["rgImdNtlksc", 3967, 4203, "Cry Baby"], //New12/19
+    // // ["rgImdNtlksc", 4280, 4541, "恋しさと せつなさと 心強さと"], //New12/8
+    // // ["rgImdNtlksc", 4677, 5024, "RE:I AM"], //New12/31
+    // // ["rgImdNtlksc", 5116, 5421, "DEAREST DROP"], //New3/24
+    // // ["rgImdNtlksc", 5523, 5769, "プラチナ"],
+    // // ["rgImdNtlksc", 5780, 5950, "夜もすがら君想ふ ED"],
 
     // 2021/11/16 【耐久歌枠/sing a song】9.5万人達成するまで歌い続けます！！🔥
     // ["XLV_Z5z_NDc", 456, 726, "メリッサ"], //New2/20
@@ -2082,28 +2083,29 @@
     // 作業用BGM アニソン歌枠メドレー６
     // ["or4QJRP87EI", 0, 0, "作業用BGMアニソン歌枠メドレー6"],
 
-    // 2021/8/21 Fate縛り歌枠✨問おう、貴方が私のマスターか？
-    // ["z-3mBUJnfVM", 154, 389, "disillusion"], //New2/20
-    // ["z-3mBUJnfVM", 628, 921, "あなたがいた森"],
-    // ["z-3mBUJnfVM", 1245, 1535, "MEMORIA"], //New2/22
-    // ["z-3mBUJnfVM", 1699, 1950, "to the beginning"], //New12/31
-    // ["z-3mBUJnfVM", 2131, 2392, "空は高く風は歌う"], //New12/31
-    // ["z-3mBUJnfVM", 2561, 2815, "ideal white"], //New6/14
-    // ["z-3mBUJnfVM", 3052, 3281, "Brave Shine"], //New8/29
-    // ["z-3mBUJnfVM", 3414, 3727, "LAST STARDUST"],
-    ["z-3mBUJnfVM", 3907, 4183, "英雄 運命の詩"], //New6/19
-    // ["z-3mBUJnfVM", 4406, 4640, "ASH"], //New9/19
-    ["z-3mBUJnfVM", 4764, 5012, "KOE"],
-    // ["z-3mBUJnfVM", 5105, 5390, "月と花束"], //New11/16
-    // ["z-3mBUJnfVM", 5840, 6087, "星が降るユメ"], //New7/7
-    // ["z-3mBUJnfVM", 6344, 6615, "雲雀"], //New11/21
-    // ["z-3mBUJnfVM", 6775, 7090, "花の唄"], //New10/3
-    // ["z-3mBUJnfVM", 7162, 7437, "I beg you"], //New10/3
-    // ["z-3mBUJnfVM", 7525, 7827, "春はゆく"], //New10/3,
-    // ["z-3mBUJnfVM", 8053, 8336, "独白"],
-    // ["z-3mBUJnfVM", 8384, 8672, "逆光"], //New8/29
-    // ["z-3mBUJnfVM", 8818, 9061, "oath sign"], //New9/19
-    // ["z-3mBUJnfVM", 9212, 9382, "夜もすがら君想ふ ED"],
+    // 私人
+    // // 2021/8/21 Fate縛り歌枠✨問おう、貴方が私のマスターか？
+    // // ["z-3mBUJnfVM", 154, 389, "disillusion"], //New2/20
+    // // ["z-3mBUJnfVM", 628, 921, "あなたがいた森"],
+    // // ["z-3mBUJnfVM", 1245, 1535, "MEMORIA"], //New2/22
+    // // ["z-3mBUJnfVM", 1699, 1950, "to the beginning"], //New12/31
+    // // ["z-3mBUJnfVM", 2131, 2392, "空は高く風は歌う"], //New12/31
+    // // ["z-3mBUJnfVM", 2561, 2815, "ideal white"], //New6/14
+    // // ["z-3mBUJnfVM", 3052, 3281, "Brave Shine"], //New8/29
+    // // ["z-3mBUJnfVM", 3414, 3727, "LAST STARDUST"],
+    // // ["z-3mBUJnfVM", 3907, 4183, "英雄 運命の詩"], //New6/19
+    // // ["z-3mBUJnfVM", 4406, 4640, "ASH"], //New9/19
+    // // ["z-3mBUJnfVM", 4764, 5012, "KOE"],
+    // // ["z-3mBUJnfVM", 5105, 5390, "月と花束"], //New11/16
+    // // ["z-3mBUJnfVM", 5840, 6087, "星が降るユメ"], //New7/7
+    // // ["z-3mBUJnfVM", 6344, 6615, "雲雀"], //New11/21
+    // // ["z-3mBUJnfVM", 6775, 7090, "花の唄"], //New10/3
+    // // ["z-3mBUJnfVM", 7162, 7437, "I beg you"], //New10/3
+    // // ["z-3mBUJnfVM", 7525, 7827, "春はゆく"], //New10/3,
+    // // ["z-3mBUJnfVM", 8053, 8336, "独白"],
+    // // ["z-3mBUJnfVM", 8384, 8672, "逆光"], //New8/29
+    // // ["z-3mBUJnfVM", 8818, 9061, "oath sign"], //New9/19
+    // // ["z-3mBUJnfVM", 9212, 9382, "夜もすがら君想ふ ED"],
 
     // 2021/8/18 【朝歌/sing a song】まったり歌う夏休みの朝🌞
     // ["QsbbnUD8OQE", 571, 870, "ORION"], //New11/2
