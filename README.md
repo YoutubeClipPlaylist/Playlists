@@ -36,8 +36,7 @@
 
 | Vtuber                                                           | 維護者                            | Last Commit                                                                                                                     |
 |------------------------------------------------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| [IROA](https://www.youtube.com/channel/UCO3RDKQclxKAb3CxNq0MOsQ) | [琳](https://github.com/jim60105) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/IROA?label=%20&style=for-the-badge) |
-| [久遠たま](https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw)   | [琳](https://github.com/jim60105)            |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/QuonTama?label=%20&style=for-the-badge)
+| [久遠たま](https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw)<br>[IROA](https://www.youtube.com/channel/UCO3RDKQclxKAb3CxNq0MOsQ)  | [琳](https://github.com/jim60105)            |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/QuonTama?label=%20&style=for-the-badge)
 | [須多夜花](https://www.youtube.com/channel/UCuy-kZJ7HWwUU-eKv0zUZFQ) | [琳](https://github.com/jim60105)            |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/SudaYoruka?label=%20&style=for-the-badge)
 | [間取かける](https://www.youtube.com/channel/UCiLt4FLjMXszLOh5ISi1oqw)  | [琳](https://github.com/jim60105)            |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/MatoriKakeru?label=%20&style=for-the-badge)
 | [薬袋アルマ](https://www.youtube.com/channel/UCD1QOCJIAPsMKMvRSXjLahw)  | [琳](https://github.com/jim60105)            |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/MinaiAruma?label=%20&style=for-the-badge)
@@ -55,8 +54,6 @@
 |---------------------|--------------------------------------------------------------------------------------------------|
 | 全清單 循序           | <https://www.youtube.com/?startplaylist>                                                         |
 | 全清單 隨機           | <https://www.youtube.com/?startplaylist&shuffle=1>                                               |
-| IROA全歌單循序        | <https://www.youtube.com/?startplaylist&playlistinclude=IROA>                                    |
-| IROA全歌單隨機        | <https://www.youtube.com/?startplaylist&playlistinclude=IROA&shuffle=1>                          |
 | 久遠たま全歌單循序      | <https://www.youtube.com/?startplaylist&playlistinclude=tama&playlistexclude=NotSongs>           |
 | 久遠たま歌單(排除會限)  | <https://www.youtube.com/?startplaylist&playlistinclude=tama&playlistexclude=member_NotSongs>    |
 | 久遠たま全歌單隨機      | <https://www.youtube.com/?startplaylist&playlistinclude=tama&playlistexclude=NotSongs&shuffle=1> |
