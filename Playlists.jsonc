@@ -7,7 +7,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "久遠たま"
     },
     {
         "name": "QuonTamaSpecialSongList",
@@ -16,7 +17,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "久遠たま"
     },
     {
         "name": "QuonTamaBackupSongList",
@@ -25,7 +27,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "久遠たま"
     },
     {
         "name": "QuonTamaMemberSongList",
@@ -34,7 +37,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "久遠たま"
     },
     {
         "name": "QuonTamaCDSongList",
@@ -43,7 +47,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "久遠たま"
     },
     // {
     //     "name": "QuonTamaTwitcastingSongList",
@@ -52,7 +57,8 @@
     //     "maintainer": {
     //         "name": "jim60105",
     //         "url": "https://github.com/jim60105"
-    //     }
+    //     },
+    //     "singer": "久遠たま"
     // },
     {
         "name": "QuonTamaRadioQTamaList",
@@ -61,7 +67,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "久遠たま"
     },
     // IROA
     {
@@ -71,7 +78,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "IROA"
     },
     {
         "name": "IROABackupSongList",
@@ -80,7 +88,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "IROA"
     },
     // {
     //     "name": "IROATwitcastingSongList",
@@ -89,7 +98,8 @@
     //     "maintainer": {
     //         "name": "jim60105",
     //         "url": "https://github.com/jim60105"
-    //     }
+    //     },
+    //     "singer": "IROA"
     // },
     // MatoriKakeru
     {
@@ -99,7 +109,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "間取かける"
     },
     {
         "name": "MatoriKakeruBackupSongList",
@@ -108,7 +119,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "間取かける"
     },
     {
         "name": "MatoriKakeruSpecialSongList",
@@ -117,7 +129,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "間取かける"
     },
     // MinaiAruma
     {
@@ -127,7 +140,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "薬袋アルマ"
     },
     {
         "name": "MinaiArumaChineseSongList",
@@ -136,7 +150,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "薬袋アルマ"
     },
     {
         "name": "MinaiArumaSpecialSongList",
@@ -145,7 +160,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "薬袋アルマ"
     },
     {
         "name": "MinaiArumaBackupSongList",
@@ -154,7 +170,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "薬袋アルマ"
     },
     // KandukiAma
     {
@@ -164,7 +181,8 @@
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
-        }
+        },
+        "singer": "神月天"
     },
     // ItouYuna
     {
@@ -174,7 +192,8 @@
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
-        }
+        },
+        "singer": "伊冬ユナ"
     },
     {
         "name": "ItouYunaSpecialSongList",
@@ -183,7 +202,8 @@
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
-        }
+        },
+        "singer": "伊冬ユナ"
     },
     // SudaYoruka
     {
@@ -193,7 +213,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "須多夜花"
     },
     {
         "name": "SudaYorukaSpecialSongList",
@@ -202,7 +223,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "須多夜花"
     },
     {
         "name": "SudaYorukaChineseSongList",
@@ -211,7 +233,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "須多夜花"
     },
     {
         "name": "SudaYorukaBackupSongList",
@@ -220,7 +243,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "須多夜花"
     },
     {
         "name": "SudaYorukaMemberSongList",
@@ -229,7 +253,8 @@
         "maintainer": {
             "name": "jim60105",
             "url": "https://github.com/jim60105"
-        }
+        },
+        "singer": "須多夜花"
     },
     // HaneMiya
     {
@@ -239,7 +264,8 @@
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
-        }
+        },
+        "singer": "羽宮くぅ"
     },
     // MachitaChima
     {
@@ -249,7 +275,8 @@
         "maintainer": {
             "name": "da21510",
             "url": "https://github.com/da21510"
-        }
+        },
+        "singer":"町田ちま"
     },
     // MakinoShiro
     {
@@ -259,7 +286,8 @@
         "maintainer": {
             "name": "Edison Lee",
             "url": "https://github.com/edisonlee55"
-        }
+        },
+        "singer":"牧野白"
     },
     // Mizuki
     {
@@ -269,7 +297,8 @@
         "maintainer": {
             "name": "LittleRice",
             "url": "https://github.com/LittleRice1007"
-        }
+        },
+        "singer": "浠Mizuki"
     },
     // YOSHIKA
     {
@@ -279,6 +308,7 @@
         "maintainer": {
             "name": "ralfjr",
             "url": "https://github.com/ralfjr"
-        }
+        },
+        "singer": "YOSHIKA"
     }
 ]
