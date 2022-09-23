@@ -2,6 +2,7 @@ name: JSON Syntax Check
 
 on:
   pull_request:
+    branches-ignore: [AutoGenerator]
 
 jobs:
   json-syntax-check:
