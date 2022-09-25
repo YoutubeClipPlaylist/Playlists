@@ -3,7 +3,7 @@
     {
         "name": "QuonTamaSongList",
         "name_display": "久遠たま QuonTama",
-        "tag": ["Quon", "Tama", "QuonTama", "public"],
+        "tag": ["久遠たま", "Quon", "Tama", "QuonTama", "public"],
         "route": "QuonTama/QuonTamaSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -14,7 +14,7 @@
     {
         "name": "QuonTamaSpecialSongList",
         "name_display": "久遠たま Special",
-        "tag": ["Quon", "Tama", "QuonTama", "public"],
+        "tag": ["久遠たま", "Quon", "Tama", "QuonTama", "public"],
         "route": "QuonTama/QuonTamaSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -25,7 +25,7 @@
     {
         "name": "QuonTamaBackupSongList",
         "name_display": "久遠たま Backup",
-        "tag": ["Quon", "Tama", "QuonTama", "public", "onedrive"],
+        "tag": ["久遠たま", "Quon", "Tama", "QuonTama", "public", "onedrive"],
         "route": "QuonTama/QuonTamaBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -36,7 +36,7 @@
     {
         "name": "QuonTamaMemberSongList",
         "name_display": "久遠たま Members Only",
-        "tag": ["Quon", "Tama", "QuonTama", "member"],
+        "tag": ["久遠たま", "Quon", "Tama", "QuonTama", "member"],
         "route": "QuonTama/QuonTamaMemberSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -46,8 +46,8 @@
     },
     {
         "name": "QuonTamaCDSongList",
-        "name_display":"久遠たま CD",
-        "tag": ["Quon", "Tama", "QuonTama", "CD"],
+        "name_display": "久遠たま CD",
+        "tag": ["久遠たま", "Quon", "Tama", "QuonTama", "CD"],
         "route": "QuonTama/QuonTamaCDSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -58,7 +58,7 @@
     // {
     //     "name": "QuonTamaTwitcastingSongList",
     //     "name_display": "久遠たま ツイキャス",
-    //     "tag": ["Quon", "Tama", "QuonTama", "public", "twitcasting"],
+    //     "tag": ["久遠たま","Quon", "Tama", "QuonTama", "public", "twitcasting"],
     //     "route": "QuonTama/QuonTamaTwitcastingSongList.jsonc",
     //     "maintainer": {
     //         "name": "jim60105",
@@ -69,7 +69,7 @@
     {
         "name": "QuonTamaRadioQTamaList",
         "name_display": "久遠たま RadioQTama",
-        "tag": ["Quon", "Tama", "QuonTama", "public", "RadioQTama", "NotSongs"],
+        "tag": ["久遠たま", "Quon", "Tama", "QuonTama", "public", "RadioQTama", "NotSongs"],
         "route": "QuonTama/QuonTamaRadioQTamaList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -80,7 +80,7 @@
     // IROA
     {
         "name": "IROASongList",
-        "name_display":"IROA",
+        "name_display": "IROA",
         "tag": ["IROA", "Quon", "Tama", "QuonTama", "public"],
         "route": "IROA/IROASongList.jsonc",
         "maintainer": {
@@ -91,7 +91,7 @@
     },
     {
         "name": "IROABackupSongList",
-        "name_display":"IROA Backup",
+        "name_display": "IROA Backup",
         "tag": ["IROA", "Quon", "Tama", "QuonTama", "public", "onedrive"],
         "route": "IROA/IROABackupSongList.jsonc",
         "maintainer": {
@@ -114,8 +114,8 @@
     // MatoriKakeru
     {
         "name": "MatoriKakeruSongList",
-        "name_display":"間取かける MatoriKakeru",
-        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public"],
+        "name_display": "間取かける MatoriKakeru",
+        "tag": ["間取かける", "Matori", "Kakeru", "MatoriKakeru", "public"],
         "route": "MatoriKakeru/MatoriKakeruSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -125,8 +125,8 @@
     },
     {
         "name": "MatoriKakeruBackupSongList",
-        "name_display":"間取かける Backup",
-        "tag": ["Matori", "Kakeru", "MatoriKakeru", "public", "onedrive"],
+        "name_display": "間取かける Backup",
+        "tag": ["間取かける", "Matori", "Kakeru", "MatoriKakeru", "public", "onedrive"],
         "route": "MatoriKakeru/MatoriKakeruBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -137,7 +137,7 @@
     {
         "name": "MatoriKakeruSpecialSongList",
         "name_display": "間取かける Special",
-        "tag": ["Matori", "Kakeru", "MatoriKakeru", "special", "public"],
+        "tag": ["間取かける", "Matori", "Kakeru", "MatoriKakeru", "special", "public"],
         "route": "MatoriKakeru/MatoriKakeruSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -149,7 +149,7 @@
     {
         "name": "MinaiArumaSongList",
         "name_display": "薬袋アルマ MinaiAruma",
-        "tag": ["Minai", "Aruma", "MinaiAruma", "public"],
+        "tag": ["薬袋アルマ", "Minai", "Aruma", "MinaiAruma", "public"],
         "route": "MinaiAruma/MinaiArumaSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -160,7 +160,7 @@
     {
         "name": "MinaiArumaChineseSongList",
         "name_display": "薬袋アルマ Chinese",
-        "tag": ["Minai", "Aruma", "MinaiAruma", "chinese", "public"],
+        "tag": ["薬袋アルマ", "Minai", "Aruma", "MinaiAruma", "chinese", "public"],
         "route": "MinaiAruma/MinaiArumaChineseSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -171,7 +171,7 @@
     {
         "name": "MinaiArumaSpecialSongList",
         "name_display": "薬袋アルマ Special",
-        "tag": ["Minai", "Aruma", "MinaiAruma", "special", "public"],
+        "tag": ["薬袋アルマ", "Minai", "Aruma", "MinaiAruma", "special", "public"],
         "route": "MinaiAruma/MinaiArumaSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -182,7 +182,7 @@
     {
         "name": "MinaiArumaBackupSongList",
         "name_display": "薬袋アルマ Backup",
-        "tag": ["Minai", "Aruma", "MinaiAruma", "public", "onedrive"],
+        "tag": ["薬袋アルマ", "Minai", "Aruma", "MinaiAruma", "public", "onedrive"],
         "route": "MinaiAruma/MinaiArumaBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -194,7 +194,7 @@
     {
         "name": "KandukiAmaSongList",
         "name_display": "神月天 KandukiAma",
-        "tag": ["Kanduki", "Ama", "KandukiAma", "public"],
+        "tag": ["神月天", "Kanduki", "Ama", "KandukiAma", "public"],
         "route": "KandukiAma/KandukiAmaSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
@@ -206,7 +206,7 @@
     {
         "name": "ItouYunaSongList",
         "name_display": "伊冬ユナ ItouYuna",
-        "tag": ["Itou", "Yuna", "ItouYuna", "public"],
+        "tag": ["伊冬ユナ", "Itou", "Yuna", "ItouYuna", "public"],
         "route": "ItouYuna/ItouYunaSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
@@ -217,7 +217,7 @@
     {
         "name": "ItouYunaSpecialSongList",
         "name_display": "伊冬ユナ Special",
-        "tag": ["Itou", "Yuna", "ItouYuna", "special", "public"],
+        "tag": ["伊冬ユナ", "Itou", "Yuna", "ItouYuna", "special", "public"],
         "route": "ItouYuna/ItouYunaSpecialSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
@@ -229,7 +229,7 @@
     {
         "name": "SudaYorukaSongList",
         "name_display": "須多夜花 SudaYoruka",
-        "tag": ["Suda", "Yoruka", "SudaYoruka", "public"],
+        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "public"],
         "route": "SudaYoruka/SudaYorukaSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -240,7 +240,7 @@
     {
         "name": "SudaYorukaSpecialSongList",
         "name_display": "須多夜花 Special",
-        "tag": ["Suda", "Yoruka", "SudaYoruka", "special", "public"],
+        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "special", "public"],
         "route": "SudaYoruka/SudaYorukaSpecialSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -251,7 +251,7 @@
     {
         "name": "SudaYorukaChineseSongList",
         "name_display": "須多夜花 Chinese",
-        "tag": ["Suda", "Yoruka", "SudaYoruka", "Chinese", "public"],
+        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "Chinese", "public"],
         "route": "SudaYoruka/SudaYorukaChineseSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -262,7 +262,7 @@
     {
         "name": "SudaYorukaBackupSongList",
         "name_display": "須多夜花 Backup",
-        "tag": ["Suda", "Yoruka", "SudaYoruka", "public", "onedrive"],
+        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "public", "onedrive"],
         "route": "SudaYoruka/SudaYorukaBackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -273,7 +273,7 @@
     {
         "name": "SudaYorukaMemberSongList",
         "name_display": "須多夜花 Members Only",
-        "tag": ["Suda", "Yoruka", "SudaYoruka", "member"],
+        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "member"],
         "route": "SudaYoruka/SudaYorukaMemberSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -285,7 +285,7 @@
     {
         "name": "HaneMiyaSongList",
         "name_display": "羽宮くぅ HaneMiya",
-        "tag": ["Hane", "Miya", "HaneMiya", "public"],
+        "tag": ["羽宮くぅ", "Hane", "Miya", "HaneMiya", "public"],
         "route": "HaneMiya/HaneMiyaSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
@@ -297,7 +297,7 @@
     {
         "name": "MachitaChimaSongList",
         "name_display": "町田ちま MachitaChima",
-        "tag": ["Machita", "Chima", "MachitaChima", "public"],
+        "tag": ["町田ちま", "Machita", "Chima", "MachitaChima", "public"],
         "route": "MachitaChima/MachitaChimaSongList.jsonc",
         "maintainer": {
             "name": "da21510",
@@ -309,7 +309,7 @@
     {
         "name": "MakinoShiroSongList",
         "name_display": "牧野白 MakinoShiro",
-        "tag": ["Makino", "Shiro", "MakinoShiro", "public"],
+        "tag": ["牧野白", "Makino", "Shiro", "MakinoShiro", "public"],
         "route": "MakinoShiro/MakinoShiroSongList.jsonc",
         "maintainer": {
             "name": "Edison Lee",
@@ -321,7 +321,7 @@
     {
         "name": "MizukiSongList",
         "name_display": "浠 Mizuki",
-        "tag": ["Mizuki", "public"],
+        "tag": ["浠Mizuki", "Mizuki", "浠", "public"],
         "route": "Mizuki/MizukiSongList.jsonc",
         "maintainer": {
             "name": "LittleRice",
@@ -345,7 +345,7 @@
     {
         "name": "t3cSongList",
         "name_display": "炭酸ちゃん",
-        "tag": ["t3c", "public", "炭酸ちゃん"],
+        "tag": ["炭酸ちゃん", "t3c", "public"],
         "route": "t3c/t3cSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -356,7 +356,7 @@
     {
         "name": "t3cTwitcastingSongList",
         "name_display": "炭酸ちゃん ツイキャス",
-        "tag": ["t3c", "public", "炭酸ちゃん"],
+        "tag": ["炭酸ちゃん", "t3c", "public"],
         "route": "t3c/t3cTwitcastingSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -368,7 +368,15 @@
     {
         "name": "RekuiEmuriiAutoGeneratedSonglist",
         "name_display": "苓吃エムリィ (Auto Generated)",
-        "tag": ["RekuiEmurii", "Rekui", "Emurii", "Emly", "public", "AutoGenerated"],
+        "tag": [
+            "苓吃エムリィ",
+            "RekuiEmurii",
+            "Rekui",
+            "Emurii",
+            "Emly",
+            "public",
+            "AutoGenerated"
+        ],
         "route": "AutoGenerator/RekuiEmuriiAutoGeneratedSonglist.jsonc",
         "maintainer": {
             "name": "AutoGenerator",
@@ -379,7 +387,7 @@
     {
         "name": "KurenagiEriAutoGeneratedSonglist",
         "name_display": "紅記えり (Auto Generated)",
-        "tag": ["KurenagiEri", "Kurenagi", "Eri", "public", "AutoGenerated"],
+        "tag": ["紅記えり", "KurenagiEri", "Kurenagi", "Eri", "public", "AutoGenerated"],
         "route": "AutoGenerator/KurenagiEriAutoGeneratedSonglist.jsonc",
         "maintainer": {
             "name": "AutoGenerator",
@@ -390,7 +398,7 @@
     {
         "name": "MaisakiBerryAutoGeneratedSonglist",
         "name_display": "苺咲べりぃ (Auto Generated)",
-        "tag": ["MaisakiBerry", "Maisaki", "Berry", "public", "AutoGenerated"],
+        "tag": ["苺咲べりぃ", "MaisakiBerry", "Maisaki", "Berry", "public", "AutoGenerated"],
         "route": "AutoGenerator/MaisakiBerryAutoGeneratedSonglist.jsonc",
         "maintainer": {
             "name": "AutoGenerator",
@@ -412,7 +420,14 @@
     {
         "name": "ShishigamiLeonaAutoGeneratedSonglist",
         "name_display": "獅子神レオナ (Auto Generated)",
-        "tag": ["ShishigamiLeona", "Shishigami", "Leona", "public", "AutoGenerated"],
+        "tag": [
+            "獅子神レオナ",
+            "ShishigamiLeona",
+            "Shishigami",
+            "Leona",
+            "public",
+            "AutoGenerated"
+        ],
         "route": "AutoGenerator/ShishigamiLeonaAutoGeneratedSonglist.jsonc",
         "maintainer": {
             "name": "AutoGenerator",
@@ -423,7 +438,7 @@
     {
         "name": "IORI_MATSUNAGAAutoGeneratedSonglist",
         "name_display": "松永依織 (Auto Generated)",
-        "tag": ["IORI_MATSUNAGA", "IORI", "MATSUNAGA", "public", "AutoGenerated"],
+        "tag": ["松永依織", "IORI_MATSUNAGA", "IORI", "MATSUNAGA", "public", "AutoGenerated"],
         "route": "AutoGenerator/IORI_MATSUNAGAAutoGeneratedSonglist.jsonc",
         "maintainer": {
             "name": "AutoGenerator",
@@ -433,8 +448,8 @@
     },
     {
         "name": "MachitaChimaAutoGeneratedSonglist",
-        "name_display": "町田ちま (Auto Generated)", 
-        "tag": ["MachitaChima", "Machita", "Chima", "public", "AutoGenerated"],
+        "name_display": "町田ちま (Auto Generated)",
+        "tag": ["町田ちま", "MachitaChima", "Machita", "Chima", "public", "AutoGenerated"],
         "route": "AutoGenerator/MachitaChimaAutoGeneratedSonglist.jsonc",
         "maintainer": {
             "name": "AutoGenerator",
@@ -445,7 +460,7 @@
     {
         "name": "SuzukaStellaAutoGeneratedSonglist",
         "name_display": "鈴鹿ステラ (Auto Generated)",
-        "tag": ["SuzukaStella", "Suzuka", "Stella", "public", "AutoGenerated"],
+        "tag": ["鈴花ステラ", "SuzukaStella", "Suzuka", "Stella", "public", "AutoGenerated"],
         "route": "AutoGenerator/SuzukaStellaAutoGeneratedSonglist.jsonc",
         "maintainer": {
             "name": "AutoGenerator",
@@ -456,7 +471,7 @@
     {
         "name": "HienMadokaAutoGeneratedSonglist",
         "name_display": "火閻まどか (Auto Generated)",
-        "tag": ["HienMadoka", "Hien", "Madoka", "public", "AutoGenerated"],
+        "tag": ["火閻まどか", "HienMadoka", "Hien", "Madoka", "public", "AutoGenerated"],
         "route": "AutoGenerator/HienMadokaAutoGeneratedSonglist.jsonc",
         "maintainer": {
             "name": "AutoGenerator",
