@@ -81,7 +81,7 @@
     {
         "name": "IROASongList",
         "name_display": "IROA",
-        "tag": ["IROA", "Quon", "Tama", "QuonTama", "public"],
+        "tag": ["IROA", "久遠たま", "Quon", "Tama", "QuonTama", "public"],
         "route": "IROA/IROASongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -92,7 +92,7 @@
     {
         "name": "IROABackupSongList",
         "name_display": "IROA Backup",
-        "tag": ["IROA", "Quon", "Tama", "QuonTama", "public", "onedrive"],
+        "tag": ["IROA", "久遠たま", "Quon", "Tama", "QuonTama", "public", "onedrive"],
         "route": "IROA/IROABackupSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
@@ -103,7 +103,7 @@
     // {
     //     "name": "IROATwitcastingSongList",
     //     "name_display": "IROA ツイキャス",
-    //     "tag": ["IROA", "Quon", "Tama", "QuonTama", "public", "twitcasting"],
+    //     "tag": ["IROA", "久遠たま", "Quon", "Tama", "QuonTama", "public", "twitcasting"],
     //     "route": "IROA/IROATwitcastingSongList.jsonc",
     //     "maintainer": {
     //         "name": "jim60105",
@@ -356,7 +356,7 @@
     {
         "name": "t3cTwitcastingSongList",
         "name_display": "炭酸ちゃん ツイキャス",
-        "tag": ["炭酸ちゃん", "t3c", "public"],
+        "tag": ["炭酸ちゃん", "t3c", "public", "twitcasting"],
         "route": "t3c/t3cTwitcastingSongList.jsonc",
         "maintainer": {
             "name": "jim60105",
