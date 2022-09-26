@@ -3,7 +3,7 @@ name: JSON Syntax Check
 on:
   pull_request:
     branches-ignore:
-      - jim60105/AutoGenerator
+      - AutoGenerator
 
 jobs:
   json-syntax-check:
