@@ -86,23 +86,23 @@ static IEnumerable<string> ReadHandmadePlaylists(Channel channel)
         {
             try
             {
-                string str = File.ReadAllText(file, Encoding.UTF8);
-                using JsonDocument document = JsonDocument.Parse(str, new JsonDocumentOptions
+                using FileStream fs = File.OpenRead(file);
+                List<ISong> temp = JsonSerializer.Deserialize<List<ISong>>(
+                    fs,
+                    new JsonSerializerOptions
+                    {
+                        ReadCommentHandling = JsonCommentHandling.Skip,
+                        AllowTrailingCommas = true
+                    }
+                ) ?? new();
+
+                foreach (var song in temp)
                 {
-                    CommentHandling = JsonCommentHandling.Skip,
-                    AllowTrailingCommas = true
-                });
-                foreach (JsonElement songElement in document.RootElement.EnumerateArray())
-                {
-                    var songEnumerator = songElement.EnumerateArray();
-                    songEnumerator.MoveNext();
-                    var videoId = songEnumerator.Current.ToString();
-                    if (!string.IsNullOrEmpty(videoId)) handmadeVideos.Add(videoId);
-                    songEnumerator.MoveNext();
-                    songEnumerator.MoveNext();
-                    songEnumerator.MoveNext();
-                    var title = songEnumerator.Current.ToString();
-                    if (!string.IsNullOrEmpty(title)) handmadeVideos.Add(title);
+                    handmadeVideos.Add(song.VideoId);
+                    if (!string.IsNullOrEmpty(song.Title))
+                    {
+                        handmadeVideos.Add(song.Title);
+                    }
                 }
             }
             catch (JsonException)
@@ -158,7 +158,14 @@ static int FetchAPIAsync(IChannel channel, RestClient client, ref List<ISong> ne
     }
 
     newPlaylist.AddRange(response.items.Select(p =>
-        new Song(p.video_id ?? "", p.start ?? 0, p.end ?? 0, p.name ?? "", "")));
+        new Song()
+        {
+            VideoId = p.video_id ?? "",
+            StartTime = p.start ?? 0,
+            EndTime = p.end ?? 0,
+            Title = (p.name ?? "").Split('/')[0].Trim(),
+            SubSrc = ""
+        }));
 
     Console.WriteLine($"Progress: {newPlaylist.Count}/{response.total}");
     return (response.total ?? 0) - newPlaylist.Count;
@@ -187,26 +194,8 @@ static void WriteJsoncFile(Channel channel, List<string> handmadeVideos, List<IS
     sw.WriteLine("");
     sw.Flush();
 
-    int count = 0;
-    jw.WriteStartArray();
-    foreach (ISong song in newPlaylist)
-    {
-        if (handmadeVideos.Contains(song.VideoId)
-            || handmadeVideos.Contains(song.Title))
-            continue;
-
-        jw.WriteStartArray();
-        jw.WriteStringValue(song.VideoId);
-        jw.WriteNumberValue(song.StartTime);
-        jw.WriteNumberValue(song.EndTime);
-        jw.WriteStringValue(song.Title);
-        jw.WriteEndArray();
-        jw.Flush();
-        count++;
-    }
-    jw.WriteEndArray();
-    jw.Flush();
-    Console.WriteLine($"Write {count} songs to jsonc file.");
+    sw.Write(JsonSerializer.Serialize(newPlaylist.ToArray()));
+    Console.WriteLine($"Write {newPlaylist.Count} songs to jsonc file.");
 
     Console.WriteLine("Finish to generate jsonc file.");
 }
