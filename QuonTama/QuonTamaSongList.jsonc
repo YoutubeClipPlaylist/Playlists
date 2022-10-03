@@ -980,10 +980,10 @@
     // ["ijypFuWhCDs", 1178, 1368, "シル・ヴ・プレジデント"],
     // ["ijypFuWhCDs", 1497, 1734, "Cry Baby"], //New7/31
     // ["ijypFuWhCDs", 2032, 2353, "Pretender"], //New7/7
-    ["ijypFuWhCDs", 2488, 2736, "恋"],
+    // ["ijypFuWhCDs", 2488, 2736, "恋"],
     // ["ijypFuWhCDs", 2953, 3236, "打上花火"],
     // ["ijypFuWhCDs", 3363, 3665, "点描の唄"], //New6/28
-    ["ijypFuWhCDs", 3835, 4046, "3年目の浮気"],
+    // ["ijypFuWhCDs", 3835, 4046, "3年目の浮気"],
     // ["ijypFuWhCDs", 4225, 4443, "三原色"], //New7/12
     // ["ijypFuWhCDs", 4447, 4642, "ハルジオン"], //New7/12
     // ["ijypFuWhCDs", 4862, 5054, "阿修羅ちゃん"],
@@ -1719,7 +1719,7 @@
     ["DoTrSqVubHU", 1981, 2181, "ようこそジャパリパークへ"],
     // ["DoTrSqVubHU", 2300, 2528, "Daydream cafe"], //New10/17
     // ["DoTrSqVubHU", 2682, 2943, "オリオンをなぞる"], //New11/7
-    // ["DoTrSqVubHU", 3053, 3301, "恋"], //New3/15
+    ["DoTrSqVubHU", 3053, 3301, "恋"], //New3/15
     // ["DoTrSqVubHU", 3480, 3709, "星間飛行"], //New12/31
     // ["DoTrSqVubHU", 3877, 3968, "侵略ノススメ☆"], //New1/23
     // ["DoTrSqVubHU", 4223, 4444, "廻廻奇譚"], //New11/7
@@ -1882,7 +1882,7 @@
     // ["pWWnR074QpM", 2765, 3011, "DAYS"], //New5/22
     // ["pWWnR074QpM", 3081, 3329, "おちゃめ機能"], //New2/13
     // ["pWWnR074QpM", 3673, 3861, "シル・ヴ・プレジデント"], //New10/17
-    // ["pWWnR074QpM", 3965, 4174, "3年目の浮気"], //New3/15
+    ["pWWnR074QpM", 3965, 4174, "3年目の浮気"], //New3/15
     // ["pWWnR074QpM", 4540, 4630, "病名は愛だった (Short)"], //New10/4
     ["pWWnR074QpM", 4754, 4851, "イエスタデイ (Short)"],
     ["pWWnR074QpM", 4964, 5149, "ケロッ!とマーチ"],
