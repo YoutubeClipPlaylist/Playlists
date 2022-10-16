@@ -8,6 +8,12 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.10.15 【 #歌枠 】好きな曲を好きなだけ歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["9oVqdiWResw", 2433, 2689, "Chau#"],
+    ["9oVqdiWResw", 3632, 3875, "瑠璃色の地球"],
+    ["9oVqdiWResw", 7826, 8117, "明日への扉"],
+    ["9oVqdiWResw", 9806, 10072, "You are a ghost, I am a ghost"],
+    
     //2022.10.12 【 #歌枠 】ジブリメドレー歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["qi8J4JdmBOY", 2109, 2348, "カントリー・ロード"],
     
@@ -226,6 +232,7 @@
     
     //2022.07.10 【 #歌枠 】みんなからのリクエスト歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["e9CkTAGug_8", 9981, 10213, "忘れじの言の葉"],
+    ["e9CkTAGug_8", 2190, 2420, "空想メソロギヰ"],
         
     //2022.07.08 【 #歌枠 】ピアノ伴奏で歌うYO🎹 Piano only Singing Stream 🎹【 Vtuber 】
     ["oBrxK6kVdZ0", 1381, 1578, "ノーダウト(Piano ver.)"],
