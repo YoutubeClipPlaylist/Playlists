@@ -8,6 +8,10 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.10.17【 #歌枠 】深夜の元気な歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
+    ["hf2NEZ-UwLE", 4808, 5119, "愛しい人へ"],
+    ["hf2NEZ-UwLE", 16813, 17009, "ビンクスの酒"],
+    
     //2022.10.15 【 #歌枠 】好きな曲を好きなだけ歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["9oVqdiWResw", 2433, 2689, "Chau#"],
     ["9oVqdiWResw", 3632, 3875, "瑠璃色の地球"],
@@ -182,6 +186,7 @@
     //2022.07.21 【 #歌枠 】ルンルンな歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["xGNiJn_iD1Q", 5374, 5641, "Legend of Mermaid"],
     //["xGNiJn_iD1Q", 6891, 7135, "永遠のあくる日"],
+    ["xGNiJn_iD1Q", 5962, 6211, "CLEAR"],
         
     //2022.07.19 【 #歌枠 】深夜の元気な歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["NpXSAvg3CuI", 1121, 1368, "Star Divine"],
@@ -399,7 +404,7 @@
           
     //2021.10.09 【新人Vtuber】チャンネル登録者様3000人or8時間耐久歌枠！！耐久頑張るぞ！！Sing a songs！！ 【耐久歌枠】
     ["j_mpo6iJO5E", 1663, 1878, "ヒロインたるもの！"],
-   
+       
     //2021.10.09 【新人Vtuber】チャンネル登録者様3000人or8時間耐久歌枠！！耐久頑張るぞ！！Sing a songs！！ 【耐久歌枠】
     ["oiGMFkvWQAw", 2262, 2474, "ブルーバード"],
           
