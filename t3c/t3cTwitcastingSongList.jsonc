@@ -8,6 +8,35 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    // 2022/9/26 れんしう
+    // ["https://twitcasting.tv/t3c_o0o/movie/746500088", 124, 420, "Stellar Stellar"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 589, 811, "新時代"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 946, 1136, "TEMPLATE"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 1170, 1438, "ANIMA"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 1493, 1771, "This game"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 2293, 2541, "Rising Hope"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 2724, 3006, "シルシ"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 3157, 3313, "サラマンダー"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 3588, 3815, "シャルル"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 3835, 4043, "ライカ"],
+    // ["https://twitcasting.tv/t3c_o0o/movie/746500088", 4146, 4345, "Lap Tap Love"],
+    // ["https://twitcasting.tv/t3c_o0o/movie/746500088", 4556, 4885, "夏の半券"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 4938, 5298, "林檎売りの泡沫少女"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 5373, 5673, "ワールドランプシェード"],
+    // ["https://twitcasting.tv/t3c_o0o/movie/746500088", 5738, 5986, "8.32"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 6056, 6325, "サリシノハラ"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 6505, 6756, "優しさの理由"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 6781, 7036, "irony"],
+    // ["https://twitcasting.tv/t3c_o0o/movie/746500088", 7198, 7466, "コネクト"],
+    // ["https://twitcasting.tv/t3c_o0o/movie/746500088", 7568, 7846, "創聖のアクエリオン"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 7887, 8238, "ダイアモンドクレバス"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 8383, 8739, "一番の宝物"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 8775, 9047, "炎"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 9160, 9414, "バタフライ"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 9499, 9733, "ときめきシュガー"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 9756, 10025, "ぴゅあぴゅあはーと"],
+    ["https://twitcasting.tv/t3c_o0o/movie/746500088", 10257, 10527, "U&I"],
+
     // 2022/9/22 ちょっとリハビリさせて
     ["https://twitcasting.tv/t3c_o0o/movie/746077444", 15, 298, "GHOST"],
     ["https://twitcasting.tv/t3c_o0o/movie/746077444", 310, 541, "駆けろ"],
