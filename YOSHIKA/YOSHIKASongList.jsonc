@@ -8,6 +8,10 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.10.18【 #歌枠 】楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["fCoHCQOq7ww", 847, 1059, "COLORS"],
+    ["fCoHCQOq7ww", 6933, 7199, "Lascia Ch'io pianga"],
+    
     //2022.10.17【 #歌枠 】深夜の元気な歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
     ["hf2NEZ-UwLE", 4808, 5119, "愛しい人へ"],
     ["hf2NEZ-UwLE", 16813, 17009, "ビンクスの酒"],
