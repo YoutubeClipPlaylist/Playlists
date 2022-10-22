@@ -50,6 +50,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: AutoGenerator
+          file_pattern: AutoGenerator
           commit_message: 'Github Action: Auto Generator'
           commit_user_name: Github Action Bot # defaults to "GitHub Actions"
           commit_author: Github Action Bot <actions@github.com> # defaults to author of the commit that triggered the run
