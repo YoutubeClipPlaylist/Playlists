@@ -9,17 +9,42 @@ on:
   workflow_dispatch:
 
 jobs:
-  Auto_Generator:
+  Build:
     runs-on: windows-latest # dotnet SDK built-in
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          ref: AutoGenerator
+
+      - name: dotnet publish
+        working-directory: AutoGenerator/AutoGenerator
+        run: dotnet publish /p:Configuration=Release /p:PublishProfile=FolderProfile
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: artifact
+          path: AutoGenerator/AutoGenerator/bin/Release/net6.0/publish/win-x64
+          retention-days: 7
+
+  Auto_Generator:
+    needs: build
+    runs-on: windows-latest # dotnet SDK built-in
+
+    steps:
+      - uses: actions/checkout@v3
         with:
           ref: master
 
+      - name: Download artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: artifact
+
       - name: Auto Generator
         shell: cmd
-        run: "call .github\\workflows\\AutoGenerator.exe"
+        run: 'call AutoGenerator.exe'
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -33,7 +58,7 @@ jobs:
     needs: Auto_Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           ref: AutoGenerator
 
