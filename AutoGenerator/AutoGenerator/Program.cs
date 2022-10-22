@@ -194,8 +194,14 @@ static void WriteJsoncFile(Channel channel, List<string> handmadeVideos, List<IS
     sw.WriteLine("");
     sw.Flush();
 
-    sw.Write(JsonSerializer.Serialize(newPlaylist.ToArray()));
+    sw.Write(JsonSerializer.Serialize(newPlaylist.ToArray(),
+                                      options: new()
+                                      {
+                                          Encoder = JavaScriptEncoder.Create(UnicodeRanges.All),
+                                          WriteIndented = true,
+                                      }));
+    sw.Flush();
     Console.WriteLine($"Write {newPlaylist.Count} songs to jsonc file.");
 
-    Console.WriteLine("Finish to generate jsonc file.");
+    Console.WriteLine("Finish generating jsonc files.");
 }
