@@ -150,10 +150,17 @@ static int FetchAPIAsync(IChannel channel, RestClient client, ref List<ISong> ne
     request.AddOrUpdateHeader("authority", "music.holodex.net");
     request.AddOrUpdateHeader("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36");
 
-    var response = client.Post<Response>(request);
-    if (null == response
-        || null == response.items)
+    Response? response;
+    try
     {
+        response = client.Post<Response>(request);
+
+        if (null == response || null == response.items) 
+            throw new Exception();
+    }
+    catch (Exception e)
+    {
+        Console.Error.WriteLine(e.Message);
         throw new HttpRequestException("API response invalid.");
     }
 
