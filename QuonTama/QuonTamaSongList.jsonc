@@ -6,10 +6,26 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2022/10/23 EGOISTさん縛りの歌枠💐
+    // ["UD1PFYM9jXE", 227, 550, "The Everlasting Guilty Crown"],
+    ["UD1PFYM9jXE", 796, 1073, "英雄 運命の詩"],
+    ["UD1PFYM9jXE", 1430, 1653, "エウテルペ"],
+    ["UD1PFYM9jXE", 1669, 1802, "原罪の灯"],
+    ["UD1PFYM9jXE", 2381, 2666, "KABANERI OF THE IRON FORTRESS"],
+    // ["UD1PFYM9jXE", 2676, 2934, "ninelie"],
+    ["UD1PFYM9jXE", 3444, 3810, "Planetes"],
+    ["UD1PFYM9jXE", 3819, 4168, "All Alone With You"],
+    ["UD1PFYM9jXE", 4337, 4566, "最後の花弁"],
+    ["UD1PFYM9jXE", 4729, 5045, "Ghost of a smile"],
+    ["UD1PFYM9jXE", 5055, 5306, "Departures〜あなたにおくるアイの歌〜"],
+    ["UD1PFYM9jXE", 5448, 5711, "絶体絶命"],
+    // ["UD1PFYM9jXE", 6038, 6353, "名前のない怪物"],
+    ["UD1PFYM9jXE", 6438, 6633, "咲かせや咲かせ"],
+
     // 歌ってみた KICK BACK
     ["Ewnt9o7c1vo", 0, 0, "KICK BACK"],
 
-    // 2022/10/21 【歌枠/sing a song】華の金曜日✨のんびり歌います～
+    // 2022/10/21 華の金曜日✨のんびり歌います～
     ["rCSTtRbvUzs", 368, 566, "CAT'S EYE"],
     ["rCSTtRbvUzs", 655, 922, "Shout Baby"],
     ["rCSTtRbvUzs", 1200, 1390, "タッチ"],
@@ -27,7 +43,7 @@
     // ["rCSTtRbvUzs", 6844, 7036, "祝福"],
     // ["rCSTtRbvUzs", 7078, 7298, "HOT LIMIT"],
 
-    // 2022/10/16 【歌枠/sing a song】今宵はアニソン祭り⭐️
+    // 2022/10/16 今宵はアニソン祭り⭐️
     ["0cWc-JzEBFo", 200, 473, "Rally Go Round"],
     ["0cWc-JzEBFo", 868, 1085, "廻廻奇譚"],
     ["0cWc-JzEBFo", 1242, 1510, "七色シンフォニー"],
@@ -81,7 +97,7 @@
     ["twI321x4tfk", 2879, 3135, "ワールドイズマイン"],
     // ["twI321x4tfk", 3404, 3642, "正しくなれない"],
     ["twI321x4tfk", 3937, 4173, "忘れじの言の葉"],
-    ["twI321x4tfk", 4276, 4478, "エウテルペ"],
+    // ["twI321x4tfk", 4276, 4478, "エウテルペ"], //New10/23
     ["twI321x4tfk", 4630, 4930, "オルフェンズの涙"],
     // ["twI321x4tfk", 4937, 5268, "フリージア"],
     ["twI321x4tfk", 5569, 5798, "歌よ"],
@@ -120,7 +136,7 @@
     ["LgVKpIQmuUE", 1284, 1478, "シンクロマニカ"],
     ["LgVKpIQmuUE", 1568, 1838, "春擬き"],
     ["LgVKpIQmuUE", 2172, 2505, "My Dearest"],
-    ["LgVKpIQmuUE", 2517, 2768, "Departures〜あなたにおくるアイの歌〜"],
+    // ["LgVKpIQmuUE", 2517, 2768, "Departures〜あなたにおくるアイの歌〜"], //New10/23
     ["LgVKpIQmuUE", 3017, 3278, "カーストルーム"],
     ["LgVKpIQmuUE", 3742, 4013, "Little Busters!"],
     ["LgVKpIQmuUE", 4512, 4762, "緋色の空"],
@@ -160,7 +176,7 @@
     ["7wqwICsJZH0", 6246, 6504, "Butter-fly"],
 
     // 2022/9/23 オールジャンヌで歌います😉👍
-    ["eYP8h2z0qN8", 461, 738, "英雄 運命の詩"],
+    // ["eYP8h2z0qN8", 461, 738, "英雄 運命の詩"], //New10/23
     ["eYP8h2z0qN8", 1084, 1398, "ETERNAL BLAZE"],
     ["eYP8h2z0qN8", 1716, 1992, "いけないボーダーライン"],
     ["eYP8h2z0qN8", 2091, 2397, "Giraffe Blues"],
@@ -218,8 +234,8 @@
     ["WE3dUykKTVs", 3402, 3696, "フクロウ ～フクロウが知らせる客が来たと～"],
     ["WE3dUykKTVs", 3849, 4186, "変わらないもの"],
     // ["WE3dUykKTVs", 4360, 4605, "悪魔の子"],
-    ["WE3dUykKTVs", 4851, 5218, "Planetes"],
-    ["WE3dUykKTVs", 5230, 5545, "Ghost of a smile"],
+    // ["WE3dUykKTVs", 4851, 5218, "Planetes"], //New10/23
+    // ["WE3dUykKTVs", 5230, 5545, "Ghost of a smile"], //New10/23
     ["WE3dUykKTVs", 5773, 6072, "secret base ～君がくれたもの～"],
     // ["WE3dUykKTVs", 6276, 6511, "夜もすがら君想ふ ED"],
 
@@ -716,7 +732,7 @@
     ["sNOyED-cqyk", 907, 1141, "ふわふわ時間"],
     ["sNOyED-cqyk", 1315, 1486, "ムーンライト伝説"],
     ["sNOyED-cqyk", 1686, 1889, "翼"],
-    ["sNOyED-cqyk", 2084, 2280, "咲かせや咲かせ"],
+    // ["sNOyED-cqyk", 2084, 2280, "咲かせや咲かせ"], //New10/23
     // ["sNOyED-cqyk", 2577, 2780, "生命のアリア"], //New9/23
     // ["sNOyED-cqyk", 3161, 3450, "朝が来る"], //New8/30
     ["sNOyED-cqyk", 3722, 3817, "ルンがピカッと光ったら (Short)"],
@@ -1368,7 +1384,7 @@
     // ["h9piEHQ_P48", 1957, 2224, "七色シンフォニー"], //New10/21
     // ["h9piEHQ_P48", 2236, 2581, "オレンジ"], //7!! //New5/25
     // ["h9piEHQ_P48", 2719, 3009, "美しき残酷な世界"], //New8/8
-    ["h9piEHQ_P48", 3181, 3465, "KABANERI OF THE IRON FORTRESS"],
+    // ["h9piEHQ_P48", 3181, 3465, "KABANERI OF THE IRON FORTRESS"], //New10/23
     // ["h9piEHQ_P48", 3647, 3903, "narrative"], //New6/12
     // ["h9piEHQ_P48", 4110, 4385, "天使にふれたよ!"], //New6/26
     // ["h9piEHQ_P48", 4543, 4907, "Planetes"], //New5/25
@@ -2345,7 +2361,7 @@
     // ["PBNV9MRdg7A", 3057, 3254, "咲かせや咲かせ"], //New9/5
     // ["PBNV9MRdg7A", 3521, 3798, "英雄 運命の詩"], //New8/21
     // ["PBNV9MRdg7A", 4282, 4643, "Planetes"], //New1/23
-    ["PBNV9MRdg7A", 4728, 5078, "All Alone With You"],
+    // ["PBNV9MRdg7A", 4728, 5078, "All Alone With You"], //New10/23
     // ["PBNV9MRdg7A", 5178, 5502, "The Everlasting Guilty Crown"], //New2/6
     // ["PBNV9MRdg7A", 5737, 6075, "My Dearest"] //New4/10
     // ["PBNV9MRdg7A", 6180, 6349, "夜もすがら君想ふ ED"],
