@@ -8,6 +8,9 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.10.23【 #歌枠 】深夜の元気歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["B9meqEC89fQ", 2787, 2966, "メイジ・オブ・ヴァイオレット"],
+    
     //2022.10.18【 #歌枠 】楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["fCoHCQOq7ww", 847, 1059, "COLORS"],
     ["fCoHCQOq7ww", 6933, 7199, "Lascia Ch'io pianga"],
