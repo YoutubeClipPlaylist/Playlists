@@ -8,6 +8,22 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.10.27【 #歌枠 】夕方のるんるん歌枠🍠Singing Stream 🍠【 Vtuber 】 
+    ["BbMByYU-nKA", 2251, 2518, "花は咲く"],
+    ["BbMByYU-nKA", 5889, 6104, "ハートのつばさ"],
+    ["BbMByYU-nKA", 8654, 8890, "ドラえもん"],
+    ["BbMByYU-nKA", 8951, 9264, "ループ"],
+    ["BbMByYU-nKA", 11965, 12049, "ハッピー・ジャムジャム"],    
+    
+    //2022.10.26【 #歌枠 】楽しく歌いまっせ🍠Singing Stream 🍠【 Vtuber 】
+    ["bDIY_Stzr0U", 675, 901, "さくらんぼ"],
+    ["bDIY_Stzr0U", 3206, 3456, "アントワネットブルー"],
+    ["bDIY_Stzr0U", 3553, 3800, "departure"],
+    ["bDIY_Stzr0U", 7199, 7479, "アムリタ"],
+    
+    //2022.10.23【 #歌枠 】深夜の元気歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["B9meqEC89fQ", 2787, 2966, "メイジ・オブ・ヴァイオレット"],
+    
     //2022.10.18【 #歌枠 】楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["fCoHCQOq7ww", 847, 1059, "COLORS"],
     ["fCoHCQOq7ww", 6933, 7199, "Lascia Ch'io pianga"],
