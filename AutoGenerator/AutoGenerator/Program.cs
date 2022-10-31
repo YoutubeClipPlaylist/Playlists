@@ -191,6 +191,11 @@ static List<ISong> FilterPlaylist(HashSet<string> exclusiveWords, List<ISong> ne
                        result.Add(item);
                        distinctTitle.Add(item.Title);
                    }
+                   else if (item.StartTime == 0)
+                   {
+                       result.RemoveAll(p => p.Title == item.Title);
+                       result.Add(item);
+                   }
                });
 
     return result;
