@@ -8,6 +8,9 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.10.31【 #歌枠 】11月初めの歌枠だYO🍠Singing Stream🍠【 Vtuber 】  
+    ["RxaZIl5hXR0", 5466, 5715, "I’m Your Treasure Box"],
+    
     //2022/10.30【 #歌枠 】NewPCで高音質⁉歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
     ["zy1kjVqAzPw", 7735, 7971, "ベテルギウス"],
     
@@ -52,7 +55,7 @@
     ["dRwOFFYa93w", 4443, 4724, "恋するフォーチュンクッキー"],
     ["dRwOFFYa93w", 5035, 5263, "Over Soul"],
     ["dRwOFFYa93w", 7933, 8188, "白い雪のプリンセスは"],
-    ["dRwOFFYa93w", 8837, 9088, "I’m Your Treasure Box"],
+    //["dRwOFFYa93w", 8837, 9088, "I’m Your Treasure Box"],
     
     //2022.10.04 【 #歌枠 】深夜ののんびり歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["TURou55TU9I", 5424, 5754, "月迷風影"],
