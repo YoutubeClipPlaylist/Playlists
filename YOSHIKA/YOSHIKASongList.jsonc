@@ -7,8 +7,11 @@
  * Title?: 必須用引號包住，為字串型態
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
-[   
-    //2022.11.03【 #歌枠 】元気もりもり歌枠だYO🍠Singing Stream🍠【 Vtuber 】
+[   //2022.11.04【 #歌枠 】楽しく歌う歌枠だYO🍠Singing Stream🍠【 Vtuber 】
+    ["FtXKaPDmKgs", 550, 763, "COLORS"],
+    ["FtXKaPDmKgs", 2177, 2386, "スイートマジック"],    
+    
+    //2022.11.02【 #歌枠 】元気もりもり歌枠だYO🍠Singing Stream🍠【 Vtuber 】
     ["zYRbw6pkbFA", 3244, 3438, "祝福"],
     ["zYRbw6pkbFA", 8110, 8347, "ベテルギウス"],
     
@@ -32,7 +35,7 @@
     ["B9meqEC89fQ", 2787, 2966, "メイジ・オブ・ヴァイオレット"],
     
     //2022.10.18【 #歌枠 】楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
-    ["fCoHCQOq7ww", 847, 1059, "COLORS"],
+    //["fCoHCQOq7ww", 847, 1059, "COLORS"],
     ["fCoHCQOq7ww", 6933, 7199, "Lascia Ch'io pianga"],
     
     //2022.10.17【 #歌枠 】深夜の元気な歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
