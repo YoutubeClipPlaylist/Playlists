@@ -72,3 +72,4 @@ jobs:
           destination_branch: 'master'
           pr_title: 'AutoGenerator to master auto PR'
           pr_body: ':robot: Automated PR from **AutoGenerator** to **master**'
+          pr_label: 'automerge'

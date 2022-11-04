@@ -1,29 +1,29 @@
-name: Automatically Merge PRs
+name: Automatically Approve / Merge PR
 on:
   pull_request:
 
 jobs:
-  Auto_Approve_and_Merge_PRs:
-    name: Auto Approve and Merge PRs
+  Auto_Approve:
+    name: Auto Approve
     runs-on: ubuntu-latest
-    if: github.actor == 'actions-user[bot]' || github.actor == 'jim60105'
+    # These participants were assessed and allowed to skip the review.
+    # Please contact jim60105 if you have any questions.
+    if: github.actor == 'jim60105' || github.actor == 'ralfjr'
     steps:
       - name: Auto approve
         uses: hmarr/auto-approve-action@v2.0.0
         with:
           github-token: '${{ secrets.GITHUB_TOKEN }}'
 
-      - name: Give label
-        uses: buildsville/add-remove-label@v1
-        with:
-          token: ${{secrets.GITHUB_TOKEN}}
-          label: 'automerge'
-          type: add
-
+  Auto_Merge_PR:
+    name: Auto Merge PR
+    runs-on: ubuntu-latest
+    needs: 'Auto_Approve'
+    steps:
       - name: Git Auto Merge
-        if: ${{ success() }}
         uses: plm9606/automerge_actions@1.2.2
         with:
+          # Use PAT to trigger the minify workflow
           github-token: ${{ secrets.MY_GITHUB_TOKEN }}
           merge-method: merge
           reviewers-number: 0
