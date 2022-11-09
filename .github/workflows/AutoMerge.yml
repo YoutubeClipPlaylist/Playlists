@@ -13,7 +13,7 @@ jobs:
       - name: Auto approve
         uses: hmarr/auto-approve-action@v3
         with:
-          github-token: '${{ secrets.MY_GITHUB_TOKEN }}'
+          github-token: '${{ secrets.GITHUB_TOKEN }}'
 
   Auto_Merge_PR:
     name: Auto Merge PR
