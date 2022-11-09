@@ -11,9 +11,9 @@ jobs:
     if: github.actor == 'jim60105' || github.actor == 'ralfjr'
     steps:
       - name: Auto approve
-        uses: hmarr/auto-approve-action@v2.0.0
+        uses: hmarr/auto-approve-action@v3
         with:
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
+          github-token: '${{ secrets.MY_GITHUB_TOKEN }}'
 
   Auto_Merge_PR:
     name: Auto Merge PR
