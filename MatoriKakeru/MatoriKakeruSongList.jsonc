@@ -52,7 +52,7 @@
     // 2022/9/16 初見も常連も=fのみーんなあつまれ～～😎✨
     // ["cFucc1rRkJw", 406, 641, "逆光"], //New9/30
     ["cFucc1rRkJw", 1124, 1299, "ウタカタララバイ"],
-    ["cFucc1rRkJw", 1545, 1739, "Tot Musica"],
+    // ["cFucc1rRkJw", 1545, 1739, "Tot Musica"], //New10/30
     ["cFucc1rRkJw", 1930, 2146, "踊"],
     ["cFucc1rRkJw", 2517, 2649, "CH4NGE"],
     ["cFucc1rRkJw", 2788, 2922, "エンヴィーベイビー"],
@@ -187,7 +187,7 @@
     // ["r-Wq1tKfW3E", 7662, 7854, "おねがいダーリン ED"],
 
     // 2022/5/2 無加工歌枠！やっぱりエコー無しはﾄﾞｷﾄﾞｷ...🙄
-    ["yiLrdppRkj0", 1243, 1376, "CH4NGE"], //New9/16
+    // ["yiLrdppRkj0", 1243, 1376, "CH4NGE"], //New9/16
     ["yiLrdppRkj0", 1877, 2074, "Dynamite"],
     // ["yiLrdppRkj0", 2669, 2903, "ノーチラス"], //New5/6
     ["yiLrdppRkj0", 3435, 3639, "神っぽいな"],
@@ -1069,7 +1069,7 @@
     // ["irkBWelfvQw", 6464, 6665, "ダーリンダンス"], //New10/8
     // ["irkBWelfvQw", 7261, 7471, "スイートマジック"], //New2/25
     ["irkBWelfvQw", 7780, 7943, "テレキャスタービーボーイ"],
-    ["irkBWelfvQw", 8289, 8502, "永久のキズナ feat.Another Infinity"],
+    // ["irkBWelfvQw", 8289, 8502, "永久のキズナ feat.Another Infinity"],
     // ["irkBWelfvQw", 9281, 9504, "お願いマッスル"], //New10/22
     // ["irkBWelfvQw", 9857, 10057, "ようこそジャパリパークへ"], //New3/11
     // ["irkBWelfvQw", 10398, 10575, "ヴァンパイア"],
@@ -1293,7 +1293,7 @@
     // ["EmnCWVYwr28", 1269, 1538, "夏色えがおで1,2,Jump！"], //New5/6
     ["EmnCWVYwr28", 1730, 2005, "Wonderful Rush"],
     ["EmnCWVYwr28", 2207, 2502, "Music S.T.A.R.T！！"],
-    ["EmnCWVYwr28", 2711, 2978, "Love marginal"],
+    // ["EmnCWVYwr28", 2711, 2978, "Love marginal"], //New10/29
     // ["EmnCWVYwr28", 3123, 3388, "Cutie Panther"], //New11/26
     ["EmnCWVYwr28", 3673, 3943, "Dancing stars on me！"],
     ["EmnCWVYwr28", 4099, 4366, "輝夜の城で踊りたい"],
