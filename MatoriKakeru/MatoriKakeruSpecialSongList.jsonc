@@ -6,6 +6,16 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // EmbellirGift(苓吃エムリィ、間取かける、涼風しとら)
+    // 歌ってみた LiBiDo FUSION
+    ["AgLqYXk4imU", 0, 0, "LiBiDo FUSION"],
+    // 歌ってみた no face
+    ["G_I1S-fvSXc", 0, 0, "no face"],
+
+    // るかこ姉妹
+    // 歌ってみた Blessing
+    ["X4cXiVbgx-I", 0, 0, "Blessing"],
+
     // 和夜白魔メア連動
     // 2022/9/14 #堕ちライブ おメアとのお初！そしてコラボ歌枠💖【#Vtuber/#間取かける/#夜白魔メア 】
     ["x4RhY-ZHAeY", 524, 761, "逆光"],
