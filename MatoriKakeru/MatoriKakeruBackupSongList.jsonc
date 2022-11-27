@@ -6,6 +6,9 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    // 2022/5/6 青いイメージの曲を歌う...(独断と偏見...！)ネモフィラ畑 LIVE !!✨✨
+    ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/ET9DlJoexbpBs7lrtx9__BIBpmSSaFxaEpOhA8Puvd5mug?e=ZHrXis", 6397, 6688, "アクアテラリウム"],
+
     // 2022/1/28 1月最後の定期歌枠！！...早ァァ！？
     ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EX-MqhBEi0xChNEISPlvD8oBR9Jh607d8-36rA8lEjAhwg?e=Ge82jb", 2018, 2248, "Girlish Lover"],
     // ["https://gothuedutw-my.sharepoint.com/:v:/g/personal/f03350001_go_thu_edu_tw/EX-MqhBEi0xChNEISPlvD8oBR9Jh607d8-36rA8lEjAhwg?e=Ge82jb", 2374, 2632, "Don't say \"lazy\""],
