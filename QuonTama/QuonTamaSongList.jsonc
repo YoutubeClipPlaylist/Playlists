@@ -6,6 +6,12 @@
  * Title: 必須用引號包住，為字串型態
  */
 [
+    //// 組曲
+    //// 2022/12/13 🎈🎂新たな一年の始まりの歌🎂🎈
+
+    // 歌ってみた DEAREST DROP
+    ["TDbTYR3mM2k", 0, 0, "DEAREST DROP"],
+
     // 2022/12/11 今週もお疲れさまでしたの歌枠🌟
     ["7RLBkJEaQOY", 227, 497, "staple stable"],
     ["7RLBkJEaQOY", 841, 1085, "happy bite"],
@@ -320,7 +326,7 @@
     // 2022/10/25 初見さんも大歓迎👑リクエスト歌枠
     ["gtrkgRApKsI", 361, 598, "YUME日和"],
     // ["gtrkgRApKsI", 923, 1180, "私は最強"], //New11/27
-    ["gtrkgRApKsI", 1534, 1835, "DEAREST DROP"],
+    // ["gtrkgRApKsI", 1534, 1835, "DEAREST DROP"],
     ["gtrkgRApKsI", 2071, 2334, "Fallen"],
     // ["gtrkgRApKsI", 2441, 2633, "KICK BACK"],
     ["gtrkgRApKsI", 2875, 3048, "アスノヨゾラ哨戒班"],
@@ -1430,7 +1436,7 @@
     // ["5tvhHCTpQjc", 189, 504, "ETERNAL BLAZE"], //New5/5
     // ["5tvhHCTpQjc", 685, 936, "空色デイズ"], //New6/28
     // ["5tvhHCTpQjc", 1053, 1313, "Give a reason"],
-    ["5tvhHCTpQjc", 1433, 1739, "DEAREST DROP"], //New8/16
+    // ["5tvhHCTpQjc", 1433, 1739, "DEAREST DROP"], //New8/16
     // ["5tvhHCTpQjc", 1914, 2177, "Synchrogazer"], //New10/2
     // ["5tvhHCTpQjc", 2334, 2587, "海色"], //New10/9
     // ["5tvhHCTpQjc", 2716, 3004, "Sing My Pleasure"],
