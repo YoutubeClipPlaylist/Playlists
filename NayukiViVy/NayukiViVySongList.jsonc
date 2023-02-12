@@ -8,13 +8,29 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    //2021.11.27
+    ["a-sxvfVnOTo", 30, 256, "開始懂了"],
+    ["a-sxvfVnOTo", 673, 850, "一翦梅"],
+    ["a-sxvfVnOTo", 967, 1218, "你要的愛"],
+    ["a-sxvfVnOTo", 1415, 1676, "身騎白馬"],
+    ["a-sxvfVnOTo", 2423, 2695, "我愛你"],
+    ["a-sxvfVnOTo", 2946, 3170, "接受"],
+    ["a-sxvfVnOTo", 3386, 3590, "說散就散"],
+    ["a-sxvfVnOTo", 4175, 4411, "炎"],
+    ["a-sxvfVnOTo", 4960, 5201, "大海"],
+    ["a-sxvfVnOTo", 5590, 5829, "簡單愛"],
+    ["a-sxvfVnOTo", 6010, 6259, "夜に駆ける"],
+    ["a-sxvfVnOTo", 6625, 6725, "Ahoy 我ら宝鐘海賊団(短版)"],
+    ["a-sxvfVnOTo", 7329, 7515, "Wherever you are"],
+    ["a-sxvfVnOTo", 8030, 8280, "花若離枝（台語）"],
+    ["a-sxvfVnOTo", 8987, 9186, "鬼新娘（粵語）"],
     
     //2021.11.20
     ["Y2IhVN54xNs", 61, 315, "宇多田光—First love"],
-    ["Y2IhVN54xNs", 0, 0, "盧廣仲—刻在我心底的名字"],
-    ["Y2IhVN54xNs", 0, 0, "葛仲珊—皇后區的皇后"],
-    ["Y2IhVN54xNs", 0, 0, "GUMI—King"],
-    ["Y2IhVN54xNs", 0, 0, "花澤香菜—戀愛循環"],
+    ["Y2IhVN54xNs", 362, 665, "盧廣仲—刻在我心底的名字"],
+    ["Y2IhVN54xNs", 732, 910, "葛仲珊—皇后區的皇后"],
+    ["Y2IhVN54xNs", 912, 1046, "GUMI—King"],
+    ["Y2IhVN54xNs", 1146, 1396, "花澤香菜—戀愛循環"],
     
     //Cover
     ["BHgU60IKEqA", 0, 0, "Ref: rain"],
