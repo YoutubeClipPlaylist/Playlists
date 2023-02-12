@@ -8,6 +8,55 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [
+    //2021.12.10
+    ["avlSKaqNSAI", 20, 258, "僕が死のうと思ったのは"],
+    ["avlSKaqNSAI", 30, 256, "我的歌聲裡"],
+    ["avlSKaqNSAI", 30, 256, "志明與春嬌"],
+    ["avlSKaqNSAI", 30, 256, "盛夏光年"],
+    ["avlSKaqNSAI", 30, 256, "星空"],
+    ["avlSKaqNSAI", 30, 256, "First love"],
+    ["avlSKaqNSAI", 30, 256, "鬼新娘"],
+    ["avlSKaqNSAI", 30, 256, "說愛你"],
+    ["avlSKaqNSAI", 30, 256, "龍捲風"],
+    ["avlSKaqNSAI", 30, 256, "我期待"],
+    ["avlSKaqNSAI", 30, 256, "我還是愛著你"],
+    ["avlSKaqNSAI", 30, 256, "軋車"],
+    ["avlSKaqNSAI", 30, 256, "太陽"],
+    ["avlSKaqNSAI", 30, 256, "約翰藍儂 – 五月天"],
+    ["avlSKaqNSAI", 30, 256, "テルーの唄"],
+    ["avlSKaqNSAI", 30, 256, "不為誰而做的歌"],
+    ["avlSKaqNSAI", 30, 256, "If I Ain't Got You"],
+    ["avlSKaqNSAI", 30, 256, "残酷な天使のテーゼ"],
+    ["avlSKaqNSAI", 30, 256, "月牙灣"],
+    ["avlSKaqNSAI", 30, 256, "怪物"],
+    ["avlSKaqNSAI", 30, 256, "うっせぇわ(usseewa)"],
+    ["avlSKaqNSAI", 30, 256, "極樂淨土"],
+    ["avlSKaqNSAI", 30, 256, "BLUE CLAPPER"],
+    
+    //2021.11.27
+    ["a-sxvfVnOTo", 30, 256, "開始懂了"],
+    ["a-sxvfVnOTo", 673, 850, "一翦梅"],
+    ["a-sxvfVnOTo", 967, 1218, "你要的愛"],
+    ["a-sxvfVnOTo", 1415, 1676, "身騎白馬"],
+    ["a-sxvfVnOTo", 2423, 2695, "我愛你"],
+    ["a-sxvfVnOTo", 2946, 3170, "接受"],
+    ["a-sxvfVnOTo", 3386, 3590, "說散就散"],
+    ["a-sxvfVnOTo", 4175, 4411, "炎"],
+    ["a-sxvfVnOTo", 4960, 5201, "大海"],
+    ["a-sxvfVnOTo", 5590, 5829, "簡單愛"],
+    ["a-sxvfVnOTo", 6010, 6259, "夜に駆ける"],
+    ["a-sxvfVnOTo", 6625, 6725, "Ahoy 我ら宝鐘海賊団(短版)"],
+    ["a-sxvfVnOTo", 7329, 7515, "Wherever you are"],
+    ["a-sxvfVnOTo", 8030, 8280, "花若離枝（台語）"],
+    ["a-sxvfVnOTo", 8987, 9186, "鬼新娘（粵語）"],
+    
+    //2021.11.20
+    ["Y2IhVN54xNs", 61, 315, "First love(宇多田光)"],
+    ["Y2IhVN54xNs", 362, 665, "刻在我心底的名字(盧廣仲)"],
+    ["Y2IhVN54xNs", 732, 910, "皇后區的皇后(葛仲珊)"],
+    ["Y2IhVN54xNs", 912, 1046, "King(GUMI)"],
+    ["Y2IhVN54xNs", 1146, 1396, "戀愛循環(花澤香菜)"],
+    
     //Cover
     ["BHgU60IKEqA", 0, 0, "Ref: rain"],
     ["uGsgRkteySQ", 0, 0, "ONE"],
