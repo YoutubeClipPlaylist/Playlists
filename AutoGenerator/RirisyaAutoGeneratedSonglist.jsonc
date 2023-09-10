@@ -6,6 +6,13 @@
 [
   [
     "eWF5YAGl3F0",
+    175,
+    403,
+    "Rolling star",
+    ""
+  ],
+  [
+    "eWF5YAGl3F0",
     5141,
     5385,
     "unravel",
@@ -23,13 +30,6 @@
     4742,
     5051,
     "創聖のアクエリオン（Sousei No Aquarion）",
-    ""
-  ],
-  [
-    "eWF5YAGl3F0",
-    175,
-    403,
-    "Rolling star",
     ""
   ],
   [
@@ -86,13 +86,6 @@
     2712,
     2798,
     "夏色",
-    ""
-  ],
-  [
-    "NfBnxshXDrw",
-    5430,
-    5681,
-    "Close to you",
     ""
   ],
   [
@@ -223,9 +216,23 @@
   ],
   [
     "EK-3fOLz1HM",
+    2548,
+    2680,
+    "Pretender",
+    ""
+  ],
+  [
+    "EK-3fOLz1HM",
     4499,
     4590,
     "GHOST",
+    ""
+  ],
+  [
+    "EK-3fOLz1HM",
+    2167,
+    2237,
+    "星間飛行（Seikan Hikō）",
     ""
   ],
   [
@@ -251,23 +258,16 @@
   ],
   [
     "EK-3fOLz1HM",
-    2167,
-    2237,
-    "星間飛行（Seikan Hikō）",
-    ""
-  ],
-  [
-    "EK-3fOLz1HM",
-    2548,
-    2680,
-    "Pretender",
-    ""
-  ],
-  [
-    "EK-3fOLz1HM",
     2925,
     3024,
     "プリキュア5、スマイル go go!／PreCure5, Smile Go Go!",
+    ""
+  ],
+  [
+    "EK-3fOLz1HM",
+    3102,
+    3195,
+    "ダーリンダンス／Darling Dance",
     ""
   ],
   [
@@ -342,6 +342,13 @@
   ],
   [
     "jhJTzDI7LKA",
+    3725,
+    4010,
+    "少女レイ（Shoujo Rei）",
+    ""
+  ],
+  [
+    "jhJTzDI7LKA",
     1543,
     1751,
     "ゴーストルール／Ghost Rule",
@@ -359,20 +366,6 @@
     3252,
     3579,
     "secret base 〜君がくれたもの〜",
-    ""
-  ],
-  [
-    "jhJTzDI7LKA",
-    3725,
-    4010,
-    "少女レイ（Shoujo Rei）",
-    ""
-  ],
-  [
-    "jhJTzDI7LKA",
-    4801,
-    5008,
-    "ハレルヤスカイ／Hallelujah Sky",
     ""
   ],
   [
@@ -615,16 +608,16 @@
   ],
   [
     "EB-FzKcrKm8",
-    4485,
-    4851,
-    "さよならメモリーズ",
+    680,
+    890,
+    "春を告げる",
     ""
   ],
   [
     "EB-FzKcrKm8",
-    680,
-    890,
-    "春を告げる",
+    4485,
+    4851,
+    "さよならメモリーズ",
     ""
   ],
   [
@@ -673,20 +666,20 @@
     "q7SVOfpQEHY",
     0,
     185,
-    "トウキョウ・シャンディ・ランデヴ／Tokyo Shandy Rendez-vous",
+    "トウキョウ・シャンディ・ランデヴ",
     ""
   ],
   [
     "ULaIwTmvvT0",
-    2,
-    271,
+    0,
+    263,
     "命に嫌われている",
     ""
   ],
   [
     "YZJighaftQA",
     0,
-    153,
+    154,
     "アニマル",
     ""
   ],
@@ -749,8 +742,8 @@
   [
     "u1c9YUxzByo",
     0,
-    210,
-    "ダーリンダンス／Darling Dance",
+    204,
+    "ダーリンダンス",
     ""
   ],
   [
@@ -785,14 +778,28 @@
     "KBIk7N0fq-0",
     0,
     223,
-    "アスノヨゾラ哨戒班 (Acoustic Ver.)",
+    "アスノヨゾラ哨戒班",
+    ""
+  ],
+  [
+    "xAliCVelchw",
+    0,
+    213,
+    "ハレルヤスカイ／Hallelujah Sky",
     ""
   ],
   [
     "-UDu7DsDBnA",
-    6,
-    142,
+    0,
+    132,
     "エンヴィーベイビー",
+    ""
+  ],
+  [
+    "X4LVCa0g-fM",
+    0,
+    172,
+    "Booo! (Acoustic ver.)",
     ""
   ],
   [
@@ -805,14 +812,14 @@
   [
     "qMijvTBEbm0",
     0,
-    267,
+    269,
     "心做し",
     ""
   ],
   [
     "xUKCS4j7Tr8",
     0,
-    229,
+    228,
     "シャルル",
     ""
   ],
@@ -831,6 +838,20 @@
     ""
   ],
   [
+    "JwZo7LdqL_w",
+    0,
+    325,
+    "Close to you (Dear Ririsya Remix)",
+    ""
+  ],
+  [
+    "UfosvlEFjwc",
+    1726,
+    1810,
+    "謎 (Nazo) (Acoustic ver.)",
+    ""
+  ],
+  [
     "UfosvlEFjwc",
     2863,
     2945,
@@ -842,13 +863,6 @@
     1847,
     1930,
     "Secret of my heart (Acoustic ver.)",
-    ""
-  ],
-  [
-    "UfosvlEFjwc",
-    1726,
-    1810,
-    "謎 (Nazo) (Acoustic ver.)",
     ""
   ],
   [
@@ -1042,6 +1056,13 @@
   ],
   [
     "17TMRcK8mv8",
+    1905,
+    2031,
+    "chAngE (Acoustic short ver.)",
+    ""
+  ],
+  [
+    "17TMRcK8mv8",
     900,
     1003,
     "100万回の「I love you」(Acoustic short ver.)",
@@ -1073,13 +1094,6 @@
     3949,
     4009,
     "ワルキューレがとまらない (Walküre ga Tomaranai) (Acoustic short ver.)",
-    ""
-  ],
-  [
-    "17TMRcK8mv8",
-    1905,
-    2031,
-    "chAngE (Acoustic short ver.)",
     ""
   ],
   [
@@ -1148,7 +1162,7 @@
   [
     "q1knIjz8F3g",
     0,
-    204,
+    206,
     "神っぽいな",
     ""
   ],
@@ -1182,16 +1196,16 @@
   ],
   [
     "b02-35NXKsQ",
-    2874,
-    3133,
-    "Secret of My Heart",
+    1401,
+    1639,
+    "オトメロディー",
     ""
   ],
   [
     "b02-35NXKsQ",
-    1401,
-    1639,
-    "オトメロディー",
+    2874,
+    3133,
+    "Secret of My Heart",
     ""
   ],
   [
@@ -1833,13 +1847,6 @@
   ],
   [
     "iWyPz3SLcFA",
-    5360,
-    5646,
-    "パラレルナイト",
-    ""
-  ],
-  [
-    "iWyPz3SLcFA",
     2009,
     2233,
     "ヒッチコック",
@@ -2078,6 +2085,13 @@
   ],
   [
     "I48kMCfEpj4",
+    4425,
+    4661,
+    "Together",
+    ""
+  ],
+  [
+    "I48kMCfEpj4",
     1064,
     1256,
     "じょいふる",
@@ -2088,6 +2102,13 @@
     3515,
     3820,
     "恋愛写真",
+    ""
+  ],
+  [
+    "I48kMCfEpj4",
+    3936,
+    4225,
+    "タイヨウのうた",
     ""
   ],
   [
@@ -2119,23 +2140,9 @@
     ""
   ],
   [
-    "I48kMCfEpj4",
-    3936,
-    4225,
-    "タイヨウのうた",
-    ""
-  ],
-  [
-    "I48kMCfEpj4",
-    4425,
-    4661,
-    "Together",
-    ""
-  ],
-  [
     "kQ1T7rR2At8",
     0,
-    193,
+    194,
     "In Your Eyes (feat. 初音ミク)",
     ""
   ],
@@ -2324,7 +2331,7 @@
   [
     "a9JYW0Hflwg",
     0,
-    188,
+    189,
     "フォニイ",
     ""
   ],
@@ -2394,21 +2401,21 @@
   [
     "GADD1aR1wYI",
     0,
-    235,
+    236,
     "Unknown under the city",
     ""
   ],
   [
     "HWTyXYc9BtQ",
     0,
-    252,
+    253,
     "Marine Summer Session (feat. 葉山舞鈴)",
     ""
   ],
   [
     "T7btE98wlJU",
     0,
-    209,
+    210,
     "踊",
     ""
   ],
@@ -2416,7 +2423,7 @@
     "JPoZd1FXbfM",
     0,
     242,
-    "spiral tones(Capchii×凛々咲 Remix)",
+    "spiral tones (Capchii×凛々咲 Remix)",
     ""
   ],
   [
@@ -2542,14 +2549,14 @@
     "SnCmsftJxxA",
     0,
     94,
-    "drivers license【弾き語り】",
+    "drivers license",
     ""
   ],
   [
     "sJO7bYpELLw",
     0,
     349,
-    "パラレルナイト - Daybreak Remix【MV】",
+    "パラレルナイト (Daybreak Remix)",
     ""
   ],
   [
@@ -2633,14 +2640,14 @@
     "jBgCkYECapk",
     0,
     276,
-    "Close to you【MV】",
+    "Close to you",
     ""
   ],
   [
     "XhaicL2W94A",
     0,
     235,
-    "ズルくてすごい【MV】",
+    "ズルくてすごい",
     ""
   ],
   [
@@ -2906,7 +2913,7 @@
     "uNQeuAYfaH8",
     0,
     271,
-    "Last Christmas【MV】",
+    "Last Christmas",
     ""
   ],
   [
@@ -3067,7 +3074,7 @@
     "rZIPNsreQ8A",
     0,
     266,
-    "小夜子【MV】",
+    "小夜子 (FutureBass Remix)",
     ""
   ],
   [
@@ -3256,42 +3263,42 @@
     "dExs1dzoyVY",
     0,
     223,
-    "Re:Re:リスタート』【MV】",
+    "Re:Re:リスタート",
     ""
   ],
   [
     "GGWHQuAMrfI",
     0,
     275,
-    "STARRY NIGHT【MV】",
+    "STARRY NIGHT",
     ""
   ],
   [
     "Yq-pq7ucg3k",
     0,
     123,
-    "失礼しますが、RIP♡ (Ririsya Remix)【MV】",
+    "失礼しますが、RIP♡ (凛々咲 Remix)",
     ""
   ],
   [
     "ZZLbEbVL7PY",
     0,
     293,
-    "Alstroemeria【MV】",
+    "アルストロメリア",
     ""
   ],
   [
     "uN4_H1ZeIZ4",
     0,
     222,
-    "うつけ論争【MV】",
+    "うつけ論争",
     ""
   ],
   [
     "vI_1xomTCVY",
     0,
     292,
-    "Parallel Night【MV】",
+    "パラレルナイト",
     ""
   ]
 ]
