@@ -63,5 +63,3 @@
 | [苓吃エムリィ](https://www.youtube.com/channel/UC36tM-mb6ve_OA3jPynxp7g) | [(Auto Generated)](https://github.com/YoutubeClipPlaylist/Playlists/tree/AutoGenerator/AutoGenerator/AutoGenerator) |                                                                                                                                                    |
 | [伊冬ユナ](https://www.youtube.com/channel/UCYbzeYnRZuw7fZKrgu2bgtw)   | [小飯](https://github.com/LittleRice1007)                                                                           | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/YoutubeClipPlaylist/Playlists/ItouYuna?label=%20&style=for-the-badge)     |
 | [間取かける](https://www.youtube.com/channel/UCiLt4FLjMXszLOh5ISi1oqw)  | [琳](https://github.com/jim60105)                                                                                   | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/YoutubeClipPlaylist/Playlists/MatoriKakeru?label=%20&style=for-the-badge) |
-
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
