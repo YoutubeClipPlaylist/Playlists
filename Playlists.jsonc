@@ -22,17 +22,17 @@
         },
         "singer": "久遠たま"
     },
-    {
-        "name": "QuonTamaBackupSongList",
-        "name_display": "久遠たま Backup",
-        "tag": ["久遠たま", "Quon", "Tama", "QuonTama", "public", "onedrive"],
-        "route": "QuonTama/QuonTamaBackupSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "久遠たま"
-    },
+    // {
+    //     "name": "QuonTamaBackupSongList",
+    //     "name_display": "久遠たま Backup",
+    //     "tag": ["久遠たま", "Quon", "Tama", "QuonTama", "public", "onedrive"],
+    //     "route": "QuonTama/QuonTamaBackupSongList.jsonc",
+    //     "maintainer": {
+    //         "name": "jim60105",
+    //         "url": "https://github.com/jim60105"
+    //     },
+    //     "singer": "久遠たま"
+    // },
     {
         "name": "QuonTamaMemberSongList",
         "name_display": "久遠たま Members Only",
@@ -89,17 +89,17 @@
         },
         "singer": "IROA"
     },
-    {
-        "name": "IROABackupSongList",
-        "name_display": "IROA Backup",
-        "tag": ["IROA", "久遠たま", "Quon", "Tama", "QuonTama", "public", "onedrive"],
-        "route": "IROA/IROABackupSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "IROA"
-    },
+    // {
+    //     "name": "IROABackupSongList",
+    //     "name_display": "IROA Backup",
+    //     "tag": ["IROA", "久遠たま", "Quon", "Tama", "QuonTama", "public", "onedrive"],
+    //     "route": "IROA/IROABackupSongList.jsonc",
+    //     "maintainer": {
+    //         "name": "jim60105",
+    //         "url": "https://github.com/jim60105"
+    //     },
+    //     "singer": "IROA"
+    // },
     // {
     //     "name": "IROATwitcastingSongList",
     //     "name_display": "IROA ツイキャス",
@@ -123,17 +123,17 @@
         },
         "singer": "間取かける"
     },
-    {
-        "name": "MatoriKakeruBackupSongList",
-        "name_display": "間取かける Backup",
-        "tag": ["間取かける", "Matori", "Kakeru", "MatoriKakeru", "public", "onedrive"],
-        "route": "MatoriKakeru/MatoriKakeruBackupSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "間取かける"
-    },
+    // {
+    //     "name": "MatoriKakeruBackupSongList",
+    //     "name_display": "間取かける Backup",
+    //     "tag": ["間取かける", "Matori", "Kakeru", "MatoriKakeru", "public", "onedrive"],
+    //     "route": "MatoriKakeru/MatoriKakeruBackupSongList.jsonc",
+    //     "maintainer": {
+    //         "name": "jim60105",
+    //         "url": "https://github.com/jim60105"
+    //     },
+    //     "singer": "間取かける"
+    // },
     {
         "name": "MatoriKakeruSpecialSongList",
         "name_display": "間取かける Special",
@@ -179,17 +179,17 @@
         },
         "singer": "薬袋アルマ"
     },
-    {
-        "name": "MinaiArumaBackupSongList",
-        "name_display": "薬袋アルマ Backup",
-        "tag": ["薬袋アルマ", "Minai", "Aruma", "MinaiAruma", "public", "onedrive"],
-        "route": "MinaiAruma/MinaiArumaBackupSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "薬袋アルマ"
-    },
+    // {
+    //     "name": "MinaiArumaBackupSongList",
+    //     "name_display": "薬袋アルマ Backup",
+    //     "tag": ["薬袋アルマ", "Minai", "Aruma", "MinaiAruma", "public", "onedrive"],
+    //     "route": "MinaiAruma/MinaiArumaBackupSongList.jsonc",
+    //     "maintainer": {
+    //         "name": "jim60105",
+    //         "url": "https://github.com/jim60105"
+    //     },
+    //     "singer": "薬袋アルマ"
+    // },
     // KandukiAma
     {
         "name": "KandukiAmaSongList",
@@ -259,17 +259,17 @@
         },
         "singer": "須多夜花"
     },
-    {
-        "name": "SudaYorukaBackupSongList",
-        "name_display": "須多夜花 Backup",
-        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "public", "onedrive"],
-        "route": "SudaYoruka/SudaYorukaBackupSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "須多夜花"
-    },
+    // {
+    //     "name": "SudaYorukaBackupSongList",
+    //     "name_display": "須多夜花 Backup",
+    //     "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "public", "onedrive"],
+    //     "route": "SudaYoruka/SudaYorukaBackupSongList.jsonc",
+    //     "maintainer": {
+    //         "name": "jim60105",
+    //         "url": "https://github.com/jim60105"
+    //     },
+    //     "singer": "須多夜花"
+    // },
     {
         "name": "SudaYorukaMemberSongList",
         "name_display": "須多夜花 Members Only",
