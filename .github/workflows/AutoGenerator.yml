@@ -25,12 +25,14 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: artifact
-          path: AutoGenerator/AutoGenerator/bin/Release/net6.0/publish/win-x64
+          path: AutoGenerator/AutoGenerator/bin/Release/net8.0/publish/win-x64
           retention-days: 7
 
   Auto_Generator:
-    needs: build
+    needs: Build
     runs-on: windows-latest # dotnet SDK built-in
+    outputs:
+      changes_detected: ${{ steps.git_auto_commit.outputs.changes_detected }}
 
     steps:
       - uses: actions/checkout@v3
@@ -47,6 +49,7 @@ jobs:
         run: 'call AutoGenerator.exe'
 
       - name: Git Auto Commit
+        id: git_auto_commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: AutoGenerator
@@ -57,6 +60,7 @@ jobs:
 
   Auto_PR:
     needs: Auto_Generator
+    if: needs.Auto_Generator.outputs.changes_detected == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

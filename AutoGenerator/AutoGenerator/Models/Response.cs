@@ -4,10 +4,10 @@ namespace AutoGenerator.Models;
 public class Response
 {
     public int? total { get; set; }
-    public item[]? items { get; set; }
+    public Item[]? items { get; set; }
 }
 
-public class item
+public class Item
 {
     public string? channel_id { get; set; }
     public string? video_id { get; set; }
@@ -21,7 +21,7 @@ public class item
     public string? status { get; set; }
     public bool? is_mv { get; set; }
     public string? original_artist { get; set; }
-    public string? creator_id { get; set; }
+    public int? creator_id { get; set; }
     public string? id { get; set; }
     public Channel2? channel { get; set; }
 }
