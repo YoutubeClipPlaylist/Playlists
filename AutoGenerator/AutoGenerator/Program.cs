@@ -35,10 +35,7 @@ foreach (Channel channel in option.Channels)
     {
         Console.WriteLine($"Failure while performing channel {channel.Singer}.");
         Console.WriteLine(e.Message);
-        Console.WriteLine("Skip to the next channel.");
-        continue;
-
-        //Environment.Exit(12029);    // ERROR_INTERNET_CANNOT_CONNECT
+        Environment.Exit(12029);    // ERROR_INTERNET_CANNOT_CONNECT
     }
     newPlaylist = FilterPlaylist(exclusiveWords, newPlaylist);
     WriteJsoncFile(channel, newPlaylist);
