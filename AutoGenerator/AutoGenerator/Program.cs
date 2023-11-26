@@ -19,7 +19,7 @@ foreach (Channel channel in option.Channels)
     HashSet<string> exclusiveWords = ReadHandmadePlaylists(channel);
 
     Console.WriteLine("Start to fetch the api.");
-    List<ISong> newPlaylist = new();
+    List<ISong> newPlaylist = [];
     try
     {
         RestClient client = new("https://music.holodex.net/api/v2");
@@ -44,7 +44,7 @@ foreach (Channel channel in option.Channels)
 
 static IOptions Start()
 {
-    IOptions option = new Options();
+    IOptions? option = new Options();
     try
     {
         IConfiguration configuration = new ConfigurationBuilder()
@@ -83,14 +83,15 @@ static HashSet<string> ReadHandmadePlaylists(Channel channel)
             try
             {
                 using FileStream fs = File.OpenRead(file);
+                var jsonSerializerOptions = new JsonSerializerOptions
+                {
+                    ReadCommentHandling = JsonCommentHandling.Skip,
+                    AllowTrailingCommas = true
+                };
                 List<ISong> temp = JsonSerializer.Deserialize<List<ISong>>(
-                    fs,
-                    new JsonSerializerOptions
-                    {
-                        ReadCommentHandling = JsonCommentHandling.Skip,
-                        AllowTrailingCommas = true
-                    }
-                ) ?? new();
+                    utf8Json: fs,
+                    options: jsonSerializerOptions
+                ) ?? [];
 
                 foreach (var song in temp)
                 {
@@ -176,8 +177,8 @@ static int FetchAPIAsync(IChannel channel, RestClient client, ref List<ISong> ne
 
 static List<ISong> FilterPlaylist(HashSet<string> exclusiveWords, List<ISong> newPlaylist)
 {
-    List<ISong> result = new();
-    HashSet<string> distinctTitle = new();
+    List<ISong> result = [];
+    HashSet<string> distinctTitle = [];
     newPlaylist.Where(p => !exclusiveWords.Contains(p.VideoId)
                            && !exclusiveWords.Contains(p.Title))
                .ToList()
