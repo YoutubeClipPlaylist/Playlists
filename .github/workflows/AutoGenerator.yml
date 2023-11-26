@@ -25,7 +25,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: artifact
-          path: AutoGenerator/AutoGenerator/bin/Release/net6.0/publish/win-x64
+          path: AutoGenerator/AutoGenerator/bin/Release/net8.0/publish/win-x64
           retention-days: 7
 
   Auto_Generator:
