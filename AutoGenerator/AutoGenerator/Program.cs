@@ -10,6 +10,7 @@ Console.WriteLine("Application starts.");
 
 IOptions option = Start();
 
+bool hasfailed = false;
 foreach (Channel channel in option.Channels)
 {
     if (string.IsNullOrEmpty(channel.ChannelId)) continue;
@@ -20,13 +21,24 @@ foreach (Channel channel in option.Channels)
 
     Console.WriteLine("Start to fetch the api.");
     List<ISong> newPlaylist = [];
+    var timeoutTimes = 1;
     try
     {
         RestClient client = new("https://music.holodex.net/api/v2");
 
+        // API limit: Maximum 80 reqs per 2 minutes.
+        // We get 100 songs per req.
         while (FetchAPIAsync(channel, client, ref newPlaylist) > 0)
         {
-            await Task.Delay(TimeSpan.FromSeconds(1));
+            if (newPlaylist.Count + 100 > 8000 * timeoutTimes)
+            {
+                await Task.Delay(TimeSpan.FromMinutes(2));
+                timeoutTimes++;
+            }
+            else
+            {
+                await Task.Delay(TimeSpan.FromSeconds(1));
+            }
         }
         Console.WriteLine("Finish to fetch the api.");
         Console.WriteLine($"Get {newPlaylist.Count} songs.");
@@ -35,12 +47,16 @@ foreach (Channel channel in option.Channels)
     {
         Console.WriteLine($"Failure while performing channel {channel.Singer}.");
         Console.WriteLine(e.Message);
-        Environment.Exit(12029);    // ERROR_INTERNET_CANNOT_CONNECT
+        hasfailed = true;
     }
     newPlaylist = FilterPlaylist(exclusiveWords, newPlaylist);
     WriteJsoncFile(channel, newPlaylist);
     Console.WriteLine($"Finish {channel.Singer}: {channel.ChannelId}");
+    await Task.Delay(TimeSpan.FromSeconds(40));
 }
+
+if (hasfailed)
+    Environment.Exit(12029);    // ERROR_INTERNET_CANNOT_CONNECT
 
 static IOptions Start()
 {
@@ -135,7 +151,7 @@ static int FetchAPIAsync(IChannel channel, RestClient client, ref List<ISong> ne
     {
         channel_id = channel.ChannelId,
         paginated = true,
-        limit = 50,
+        limit = 100,
         offset = newPlaylist.Count
     });
     request.AddOrUpdateHeader("referer", $"https://music.holodex.net/channel/{channel.ChannelId}/songs");
@@ -148,12 +164,24 @@ static int FetchAPIAsync(IChannel channel, RestClient client, ref List<ISong> ne
     request.AddOrUpdateHeader("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36");
 
     Response? response;
+    string? rawResponse = "";
     try
     {
-        response = client.Post<Response>(request);
+        var restResponse = client.Execute(request);
+        rawResponse = restResponse.Content;
 
-        if (null == response || null == response.items)
-            throw new Exception();
+        if (null == restResponse || null == rawResponse)
+            throw new Exception("Response is empty.");
+
+        response = JsonSerializer.Deserialize<Response>(rawResponse);
+        if (null == response || response.items?.Length == 0)
+            throw new Exception("Response item count is 0.");
+    }
+    catch (JsonException e)
+    {
+        Console.Error.WriteLine(e.Message + " The raw response is as follows:");
+        Console.Error.WriteLine(rawResponse);
+        throw new HttpRequestException("API response invalid.");
     }
     catch (Exception e)
     {
@@ -161,7 +189,7 @@ static int FetchAPIAsync(IChannel channel, RestClient client, ref List<ISong> ne
         throw new HttpRequestException("API response invalid.");
     }
 
-    newPlaylist.AddRange(response.items.Select(p =>
+    newPlaylist.AddRange(response.items!.Select(p =>
         new Song()
         {
             VideoId = p.video_id ?? "",
