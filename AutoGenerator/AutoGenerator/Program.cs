@@ -1,10 +1,12 @@
 ﻿using AutoGenerator.Models;
 using Microsoft.Extensions.Configuration;
 using RestSharp;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Text.Unicode;
+using Response = AutoGenerator.Models.Response.response;
 
 Console.WriteLine("Application starts.");
 
@@ -58,6 +60,10 @@ foreach (Channel channel in option.Channels)
 if (hasfailed)
     Environment.Exit(12029);    // ERROR_INTERNET_CANNOT_CONNECT
 
+[UnconditionalSuppressMessage(
+    "Trimming",
+    "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functionality when trimming application code",
+    Justification = "The serialization type is reserved.")]
 static IOptions Start()
 {
     IOptions? option = new Options();
@@ -89,6 +95,10 @@ static IOptions Start()
     return option;
 }
 
+[UnconditionalSuppressMessage(
+    "Trimming",
+    "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functionality when trimming application code",
+    Justification = "The serialization type is reserved.")]
 static HashSet<string> ReadHandmadePlaylists(Channel channel)
 {
     HashSet<string> exclusiveWords = new(channel.ExcludeKeywords);
@@ -141,6 +151,10 @@ static HashSet<string> ReadHandmadePlaylists(Channel channel)
     return exclusiveWords;
 }
 
+[UnconditionalSuppressMessage(
+    "Trimming",
+    "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functionality when trimming application code",
+    Justification = "The serialization type is reserved.")]
 static int FetchAPIAsync(IChannel channel, RestClient client, ref List<ISong> newPlaylist)
 {
     if (string.IsNullOrEmpty(channel.ChannelId)) return 0;
@@ -227,6 +241,10 @@ static List<ISong> FilterPlaylist(HashSet<string> exclusiveWords, List<ISong> ne
     return result;
 }
 
+[UnconditionalSuppressMessage(
+    "Trimming",
+    "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functionality when trimming application code",
+    Justification = "The serialization type is reserved.")]
 static void WriteJsoncFile(Channel channel, List<ISong> newPlaylist)
 {
     Console.WriteLine("Start to generate jsonc file.");
