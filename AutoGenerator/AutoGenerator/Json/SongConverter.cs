@@ -5,6 +5,7 @@ using System.Text.Json.Serialization;
 namespace AutoGenerator.Json;
 
 [RequiresUnreferencedCode($"{nameof(SourceGenerationContext)} should be set for JsonOption TypeInfoResolver.")]
+[RequiresDynamicCode($"{nameof(SourceGenerationContext)} should be set for JsonOption TypeInfoResolver.")]
 class SongConverter : JsonConverter<ISong>
 {
     public override Song Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
