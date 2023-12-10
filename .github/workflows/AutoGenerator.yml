@@ -20,7 +20,7 @@ jobs:
           ref: master
 
       - name: Auto Generator
-        run: 'docker run -v .:/output -v AutoGenerator/AutoGenerator/appsettings.json:/app/appsettings.json ghcr.io/YoutubeClipPlaylist/PlaylistAutoGenerator'
+        run: 'chmod -R a+w AutoGenerator && docker run -v .:/output -v $PWD/AutoGenerator/AutoGenerator/appsettings.json:/app/appsettings.json ghcr.io/youtubeclipplaylist/playlistautogenerator'
 
       - name: Git Auto Commit
         id: git_auto_commit

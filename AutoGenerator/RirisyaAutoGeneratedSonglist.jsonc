@@ -146,6 +146,13 @@
   ],
   [
     "1acLEglbHt0",
+    4014,
+    4194,
+    "葛飾ラプソディー",
+    ""
+  ],
+  [
+    "1acLEglbHt0",
     1944,
     2161,
     "寄り酔い",
@@ -156,20 +163,6 @@
     3342,
     3557,
     "カタオモイ",
-    ""
-  ],
-  [
-    "1acLEglbHt0",
-    1322,
-    1576,
-    "バーモント・キス／Vermont Kiss",
-    ""
-  ],
-  [
-    "1acLEglbHt0",
-    708,
-    853,
-    "風のとおり道",
     ""
   ],
   [
@@ -195,13 +188,6 @@
   ],
   [
     "1acLEglbHt0",
-    2800,
-    3083,
-    "ピエロ／Pierrot",
-    ""
-  ],
-  [
-    "1acLEglbHt0",
     204,
     494,
     "はじめてのチュウ",
@@ -209,9 +195,23 @@
   ],
   [
     "1acLEglbHt0",
-    4014,
-    4194,
-    "葛飾ラプソディー",
+    708,
+    853,
+    "風のとおり道",
+    ""
+  ],
+  [
+    "1acLEglbHt0",
+    1322,
+    1576,
+    "バーモント・キス",
+    ""
+  ],
+  [
+    "1acLEglbHt0",
+    2800,
+    3083,
+    "ピエロ",
     ""
   ],
   [
@@ -300,23 +300,9 @@
   ],
   [
     "eWF5YAGl3F0",
-    1015,
-    1251,
-    "アイドル／Idol",
-    ""
-  ],
-  [
-    "eWF5YAGl3F0",
     5141,
     5385,
     "unravel",
-    ""
-  ],
-  [
-    "eWF5YAGl3F0",
-    3940,
-    4196,
-    "残酷な天使のテーゼ／The Cruel Angel\u0027s Thesis",
     ""
   ],
   [
@@ -328,30 +314,9 @@
   ],
   [
     "eWF5YAGl3F0",
-    4742,
-    5051,
-    "創聖のアクエリオン（Sousei No Aquarion）",
-    ""
-  ],
-  [
-    "eWF5YAGl3F0",
-    624,
-    889,
-    "コネクト／Connect",
-    ""
-  ],
-  [
-    "eWF5YAGl3F0",
     1686,
     1889,
-    "ちゅ、多様性。 （Chu,Tayousei.）",
-    ""
-  ],
-  [
-    "eWF5YAGl3F0",
-    1966,
-    2155,
-    "ラムのラブソング（Ramu no Love Song）",
+    "ちゅ、多様性。",
     ""
   ],
   [
@@ -363,9 +328,37 @@
   ],
   [
     "eWF5YAGl3F0",
+    624,
+    889,
+    "コネクト",
+    ""
+  ],
+  [
+    "eWF5YAGl3F0",
+    1966,
+    2155,
+    "ラムのラブソング",
+    ""
+  ],
+  [
+    "eWF5YAGl3F0",
     2741,
     3004,
-    "悪魔の子（Akuma no Ko）",
+    "悪魔の子",
+    ""
+  ],
+  [
+    "eWF5YAGl3F0",
+    3940,
+    4196,
+    "残酷な天使のテーゼ",
+    ""
+  ],
+  [
+    "eWF5YAGl3F0",
+    4742,
+    5051,
+    "創聖のアクエリオン",
     ""
   ],
   [
@@ -407,7 +400,7 @@
     "NfBnxshXDrw",
     4200,
     4303,
-    "本能（Honnou）／Instinct",
+    "本能／Instinct",
     ""
   ],
   [
@@ -415,20 +408,6 @@
     3937,
     4033,
     "幽霊東京／Ghost City Tokyo",
-    ""
-  ],
-  [
-    "NfBnxshXDrw",
-    1245,
-    1350,
-    "命に嫌われている／Hated by Life",
-    ""
-  ],
-  [
-    "NfBnxshXDrw",
-    1380,
-    1484,
-    "葛飾ラプソディー／Katsushika Rhapsody",
     ""
   ],
   [
@@ -454,13 +433,6 @@
   ],
   [
     "NfBnxshXDrw",
-    2850,
-    2968,
-    "星座になれたら／If I could be a constellation",
-    ""
-  ],
-  [
-    "NfBnxshXDrw",
     3370,
     3464,
     "ハッピーシンセサイザ",
@@ -468,30 +440,37 @@
   ],
   [
     "NfBnxshXDrw",
-    4345,
-    4430,
-    "めざせポケモンマスター（Mezase Pokemon Master）",
+    4470,
+    4557,
+    "キセキ",
     ""
   ],
   [
     "NfBnxshXDrw",
-    4470,
-    4557,
-    "キセキ（Kiseki）",
+    2850,
+    2968,
+    "星座になれたら",
+    ""
+  ],
+  [
+    "NfBnxshXDrw",
+    4345,
+    4430,
+    "めざせポケモンマスター",
     ""
   ],
   [
     "NfBnxshXDrw",
     4810,
     4916,
-    "青春ライン（Seisyun Line）",
+    "青春ライン",
     ""
   ],
   [
     "NfBnxshXDrw",
     4975,
     5257,
-    "メルト／Melt",
+    "メルト",
     ""
   ],
   [
@@ -545,6 +524,13 @@
   ],
   [
     "EK-3fOLz1HM",
+    528,
+    622,
+    "残酷な天使のテーゼ／The Cruel Angel\u0027s Thesis",
+    ""
+  ],
+  [
+    "EK-3fOLz1HM",
     772,
     856,
     "オラはにんきもの",
@@ -587,6 +573,13 @@
   ],
   [
     "EK-3fOLz1HM",
+    5175,
+    5298,
+    "星座になれたら／If I could be a constellation",
+    ""
+  ],
+  [
+    "EK-3fOLz1HM",
     4680,
     4757,
     "打上花火（Uchiagehanabi）",
@@ -615,23 +608,9 @@
   ],
   [
     "jhJTzDI7LKA",
-    3725,
-    4010,
-    "少女レイ（Shoujo Rei）",
-    ""
-  ],
-  [
-    "jhJTzDI7LKA",
-    1543,
-    1751,
-    "ゴーストルール／Ghost Rule",
-    ""
-  ],
-  [
-    "jhJTzDI7LKA",
     5163,
     5368,
-    "あの日の僕らへ（Anohino Bokurahe）",
+    "あの日の僕らへ",
     ""
   ],
   [
@@ -643,72 +622,44 @@
   ],
   [
     "jhJTzDI7LKA",
-    194,
-    415,
-    "怪獣の花唄（Kaiju No Hanauta）",
+    697,
+    968,
+    "#あくあ色ぱれっと",
     ""
   ],
   [
     "jhJTzDI7LKA",
-    697,
-    968,
-    "#あくあ色ぱれっと／Aqua-iro Pallete",
+    3725,
+    4010,
+    "少女レイ",
     ""
   ],
   [
-    "yvwwV9I39T4",
-    1809,
-    1942,
-    "強風オールバック（Kyoufuu All Back）",
+    "jhJTzDI7LKA",
+    1543,
+    1751,
+    "ゴーストルール",
     ""
   ],
   [
-    "yvwwV9I39T4",
-    2907,
-    3094,
-    "フォニイ／phony",
-    ""
-  ],
-  [
-    "yvwwV9I39T4",
-    1160,
-    1329,
-    "バグ／Bug",
-    ""
-  ],
-  [
-    "yvwwV9I39T4",
-    171,
-    350,
-    "ヴァンパイア／The Vampire",
+    "jhJTzDI7LKA",
+    194,
+    415,
+    "怪獣の花唄",
     ""
   ],
   [
     "yvwwV9I39T4",
     2192,
     2314,
-    "酔いどれ知らず（Yoidoreshirazu）",
-    ""
-  ],
-  [
-    "yvwwV9I39T4",
-    1397,
-    1590,
-    "トンデモワンダーズ／Tondemo-Wonderz",
+    "酔いどれ知らず",
     ""
   ],
   [
     "yvwwV9I39T4",
     574,
     822,
-    "ラグトレイン／Lag Train",
-    ""
-  ],
-  [
-    "yvwwV9I39T4",
-    2423,
-    2711,
-    "ロストワンの号哭（Piano ver.）",
+    "ラグトレイン",
     ""
   ],
   [
@@ -720,9 +671,44 @@
   ],
   [
     "yvwwV9I39T4",
+    1809,
+    1942,
+    "強風オールバック",
+    ""
+  ],
+  [
+    "yvwwV9I39T4",
+    171,
+    350,
+    "ヴァンパイア",
+    ""
+  ],
+  [
+    "yvwwV9I39T4",
+    2423,
+    2711,
+    "ロストワンの号哭 (Piano ver.)",
+    ""
+  ],
+  [
+    "yvwwV9I39T4",
     3950,
     4226,
-    "ロミオとシンデレラ／Romeo＆Cinderella",
+    "ロミオとシンデレラ",
+    ""
+  ],
+  [
+    "yvwwV9I39T4",
+    1160,
+    1329,
+    "バグ",
+    ""
+  ],
+  [
+    "yvwwV9I39T4",
+    1397,
+    1590,
+    "トンデモワンダーズ",
     ""
   ],
   [
@@ -811,30 +797,9 @@
   ],
   [
     "PR7qI9sHfyI",
-    3220,
-    3491,
-    "aqua iro palette",
-    ""
-  ],
-  [
-    "PR7qI9sHfyI",
     4638,
     4886,
-    "ファンサ（Fansa）",
-    ""
-  ],
-  [
-    "PR7qI9sHfyI",
-    165,
-    443,
-    "ヘビーローテーション／Heavy Rotation",
-    ""
-  ],
-  [
-    "PR7qI9sHfyI",
-    748,
-    936,
-    "ミニモニ。ジャンケンぴょん!（Mini-Moni Jankenpyon!）",
+    "ファンサ",
     ""
   ],
   [
@@ -846,30 +811,44 @@
   ],
   [
     "PR7qI9sHfyI",
+    2760,
+    2976,
+    "赤いスイートピー",
+    ""
+  ],
+  [
+    "PR7qI9sHfyI",
+    165,
+    443,
+    "ヘビーローテーション",
+    ""
+  ],
+  [
+    "PR7qI9sHfyI",
+    748,
+    936,
+    "ミニモニ。ジャンケンぴょん!",
+    ""
+  ],
+  [
+    "PR7qI9sHfyI",
     1479,
     1730,
-    "わたしの一番かわいいところ（Watashi no Ichiban Kawaiitokoro）",
+    "わたしの一番かわいいところ",
     ""
   ],
   [
     "PR7qI9sHfyI",
     1921,
     2184,
-    "サイレントマジョリティー／Silent Majority",
+    "サイレントマジョリティー",
     ""
   ],
   [
     "PR7qI9sHfyI",
     2360,
     2610,
-    "飾りじゃないのよ涙は（Kazarijyanainoyonamidawa）",
-    ""
-  ],
-  [
-    "PR7qI9sHfyI",
-    2760,
-    2976,
-    "赤いスイートピー（Akai Sweet Pea）",
+    "飾りじゃないのよ涙は",
     ""
   ],
   [
@@ -898,20 +877,6 @@
     4485,
     4851,
     "さよならメモリーズ",
-    ""
-  ],
-  [
-    "EB-FzKcrKm8",
-    1818,
-    2065,
-    "めざせポケモンマスター",
-    ""
-  ],
-  [
-    "EB-FzKcrKm8",
-    2221,
-    2405,
-    "ちゅ、多様性。",
     ""
   ],
   [
@@ -965,44 +930,9 @@
   ],
   [
     "5yWWrsf3qgg",
-    125,
-    350,
-    "ロキ／Roki",
-    ""
-  ],
-  [
-    "5yWWrsf3qgg",
-    611,
-    843,
-    "いーあるふぁんくらぶ（I-aru Fanclub）",
-    ""
-  ],
-  [
-    "5yWWrsf3qgg",
     934,
     1085,
-    "アイデンティティ／identity",
-    ""
-  ],
-  [
-    "5yWWrsf3qgg",
-    4194,
-    4458,
-    "命に嫌われている／Hated By Life",
-    ""
-  ],
-  [
-    "5yWWrsf3qgg",
-    2619,
-    2870,
-    "ラグトレイン／Lagtrain",
-    ""
-  ],
-  [
-    "5yWWrsf3qgg",
-    3004,
-    3230,
-    "乙女解剖（Otome Kaibou）",
+    "アイデンティティ",
     ""
   ],
   [
@@ -1010,6 +940,27 @@
     4618,
     4795,
     "アスノヨゾラ哨戒班／Night Sky Patrol of Tomorrow",
+    ""
+  ],
+  [
+    "5yWWrsf3qgg",
+    125,
+    350,
+    "ロキ",
+    ""
+  ],
+  [
+    "5yWWrsf3qgg",
+    611,
+    843,
+    "いーあるふぁんくらぶ",
+    ""
+  ],
+  [
+    "5yWWrsf3qgg",
+    3004,
+    3230,
+    "乙女解剖",
     ""
   ],
   [
@@ -1511,13 +1462,6 @@
   ],
   [
     "P6PGaVl2nZY",
-    3114,
-    3248,
-    "ヘビーローテーション",
-    ""
-  ],
-  [
-    "P6PGaVl2nZY",
     2103,
     2245,
     "アイロニ",
@@ -1567,6 +1511,13 @@
   ],
   [
     "1kbqpLxkE5c",
+    1058,
+    1174,
+    "残ってる (Acoustic Short ver.)",
+    ""
+  ],
+  [
+    "1kbqpLxkE5c",
     5128,
     5219,
     "Butter-Fly (Acoustic Short ver.)",
@@ -1584,20 +1535,6 @@
     3908,
     3979,
     "紅蓮の弓矢 (Guren No Yumiya) (Acoustic Short ver.)",
-    ""
-  ],
-  [
-    "1kbqpLxkE5c",
-    5556,
-    5634,
-    "ゴーストルール",
-    ""
-  ],
-  [
-    "1kbqpLxkE5c",
-    1058,
-    1174,
-    "残ってる (Acoustic Short ver.)",
     ""
   ],
   [
@@ -1724,13 +1661,6 @@
     4393,
     4640,
     "ロビンソン",
-    ""
-  ],
-  [
-    "kCQHZVYCobE",
-    2065,
-    2339,
-    "ピエロ",
     ""
   ],
   [
@@ -2281,13 +2211,6 @@
   ],
   [
     "qbffVKkJA_Y",
-    217,
-    434,
-    "赤いスイートピー",
-    ""
-  ],
-  [
-    "qbffVKkJA_Y",
     3846,
     4078,
     "木綿のハンカチーフ",
@@ -2466,13 +2389,6 @@
     6456,
     6585,
     "Ponponpon",
-    ""
-  ],
-  [
-    "k6HWyPZR7yo",
-    6030,
-    6170,
-    "コネクト",
     ""
   ],
   [
@@ -2897,233 +2813,254 @@
   ],
   [
     "RoLxihkET6M",
-    984,
-    1078,
-    "ブルーバード【弾き語り】",
-    ""
-  ],
-  [
-    "RoLxihkET6M",
-    1442,
-    1561,
-    "memories【弾き語り】",
-    ""
-  ],
-  [
-    "RoLxihkET6M",
-    2914,
-    3000,
-    "Butter-Fly【弾き語り】",
-    ""
-  ],
-  [
-    "RoLxihkET6M",
-    2662,
-    2761,
-    "God knows...【弾き語り】",
-    ""
-  ],
-  [
-    "RoLxihkET6M",
     3673,
     3772,
-    "Parallel Night【弾き語り】",
+    "Parallel Night (Acoustic ver.)",
     ""
   ],
   [
     "RoLxihkET6M",
-    2217,
-    2294,
-    "departure!【弾き語り】",
+    788,
+    869,
+    "ふわふわ時間 (Acoustic ver.)",
+    ""
+  ],
+  [
+    "RoLxihkET6M",
+    984,
+    1078,
+    "ブルーバード (Acoustic ver.)",
     ""
   ],
   [
     "RoLxihkET6M",
     1308,
     1412,
-    "ウィーアー!【弾き語り】",
+    "ウィーアー! (Acoustic ver.)",
     ""
   ],
   [
     "RoLxihkET6M",
-    3468,
-    3558,
-    "残酷な天使のテーゼ【弾き語り】",
+    1442,
+    1561,
+    "memories (Acoustic ver.)",
     ""
   ],
   [
     "RoLxihkET6M",
     1952,
     2039,
-    "恋愛サーキュレーション【弾き語り】",
+    "恋愛サーキュレーション (Acoustic ver.)",
     ""
   ],
   [
-    "MBzhuVdf7KQ",
-    1615,
-    1700,
-    "少女A【弾き語り】",
+    "RoLxihkET6M",
+    2217,
+    2294,
+    "departure! (Acoustic ver.)",
     ""
   ],
   [
-    "MBzhuVdf7KQ",
-    3481,
-    3606,
-    "I LOVE YOU【弾き語り】",
+    "RoLxihkET6M",
+    2662,
+    2761,
+    "God knows... (Acoustic ver.)",
     ""
   ],
   [
-    "MBzhuVdf7KQ",
-    674,
-    787,
-    "福笑い【弾き語り】",
-    ""
-  ],
-  [
-    "MBzhuVdf7KQ",
-    1359,
-    1441,
-    "舟唄【弾き語り】",
+    "RoLxihkET6M",
+    3468,
+    3558,
+    "残酷な天使のテーゼ (Acoustic ver.)",
     ""
   ],
   [
     "MBzhuVdf7KQ",
     3345,
     3414,
-    "負けないで【弾き語り】",
+    "負けないで (Acoustic ver.)",
     ""
   ],
   [
     "MBzhuVdf7KQ",
-    2228,
-    2326,
-    "かわいい【弾き語り】",
+    674,
+    787,
+    "福笑い (Acoustic ver.)",
     ""
   ],
   [
     "MBzhuVdf7KQ",
     1181,
     1276,
-    "雨の慕情【弾き語り】",
+    "雨の慕情 (Acoustic ver.)",
     ""
   ],
   [
-    "wrBfP6RfTnA",
-    1486,
-    1577,
-    "東京テディベア【弾き語り】",
+    "MBzhuVdf7KQ",
+    1359,
+    1441,
+    "舟唄 (Acoustic ver.)",
     ""
   ],
   [
-    "wrBfP6RfTnA",
-    1065,
-    1202,
-    "コイスルオトメ【弾き語り】",
+    "MBzhuVdf7KQ",
+    1615,
+    1700,
+    "少女A (Acoustic ver.)",
     ""
   ],
   [
-    "wrBfP6RfTnA",
-    3398,
-    3449,
-    "Say So (Japanese Version)【弾き語り】",
+    "MBzhuVdf7KQ",
+    2228,
+    2326,
+    "かわいい (Acoustic ver.)",
     ""
   ],
   [
-    "wrBfP6RfTnA",
-    1979,
-    2098,
-    "チャイナアドバイス【弾き語り】",
+    "MBzhuVdf7KQ",
+    2634,
+    2717,
+    "KING (Acoustic ver.)",
     ""
   ],
   [
-    "wrBfP6RfTnA",
-    1826,
-    1952,
-    "バーモント・キッス【弾き語り】",
-    ""
-  ],
-  [
-    "wrBfP6RfTnA",
-    2977,
-    3062,
-    "Like I\u0027m Gonna Lose You【弾き語り】",
-    ""
-  ],
-  [
-    "wrBfP6RfTnA",
-    3118,
-    3233,
-    "Let It Be【弾き語り】",
-    ""
-  ],
-  [
-    "wrBfP6RfTnA",
-    2745,
-    2835,
-    "First Love【弾き語り】",
-    ""
-  ],
-  [
-    "wrBfP6RfTnA",
-    2493,
-    2604,
-    "乙女解剖【弾き語り】",
-    ""
-  ],
-  [
-    "wrBfP6RfTnA",
-    2289,
-    2378,
-    "赤いスイートピー【弾き語り】",
+    "MBzhuVdf7KQ",
+    3481,
+    3606,
+    "I LOVE YOU (Acoustic ver.)",
     ""
   ],
   [
     "wrBfP6RfTnA",
     629,
     759,
-    "ロビンソン【弾き語り】",
+    "ロビンソン (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    2745,
+    2835,
+    "First Love (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    3398,
+    3449,
+    "Say So (Japanese, Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    1065,
+    1202,
+    "コイスルオトメ (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    2289,
+    2378,
+    "赤いスイートピー (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    2493,
+    2604,
+    "乙女解剖 (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    2977,
+    3062,
+    "Like I\u0027m Gonna Lose You (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    3118,
+    3233,
+    "Let It Be (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    1486,
+    1577,
+    "東京テディベア (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    1826,
+    1952,
+    "バーモント・キッス (Acoustic ver.)",
+    ""
+  ],
+  [
+    "wrBfP6RfTnA",
+    1979,
+    2098,
+    "チャイナアドバイス (Acoustic ver.)",
     ""
   ],
   [
     "wrBfP6RfTnA",
     3625,
     3721,
-    "愛をこめて花束を【弾き語り】",
+    "愛をこめて花束を (Acoustic ver.)",
     ""
   ],
   [
     "STQlPMksvXA",
     1450,
     1524,
-    "いかないで【弾き語り】",
-    ""
-  ],
-  [
-    "STQlPMksvXA",
-    2487,
-    2584,
-    "only my railgun【弾き語り】",
-    ""
-  ],
-  [
-    "STQlPMksvXA",
-    2800,
-    2868,
-    "カタオモイ【弾き語り】",
+    "いかないで (Acoustic ver.)",
     ""
   ],
   [
     "STQlPMksvXA",
     933,
     1034,
-    "花に雨を、君に歌を【弾き語り】",
+    "花に雨を、君に歌を (Acoustic ver.)",
     ""
   ],
   [
     "STQlPMksvXA",
     1301,
     1394,
-    "夢をかなえてドラえもん【弾き語り】",
+    "夢をかなえてドラえもん (Acoustic ver.)",
+    ""
+  ],
+  [
+    "STQlPMksvXA",
+    2218,
+    2320,
+    "めざせポケモンマスター (Acoustic ver.)",
+    ""
+  ],
+  [
+    "STQlPMksvXA",
+    2487,
+    2584,
+    "only my railgun (Acoustic ver.)",
+    ""
+  ],
+  [
+    "STQlPMksvXA",
+    2800,
+    2868,
+    "カタオモイ (Acoustic ver.)",
+    ""
+  ],
+  [
+    "STQlPMksvXA",
+    3027,
+    3193,
+    "愛のうた (Acoustic ver.)",
     ""
   ],
   [
@@ -3135,23 +3072,16 @@
   ],
   [
     "STQlPMksvXA",
-    1725,
-    1795,
-    "ゴーストルール【弾き語り】",
-    ""
-  ],
-  [
-    "STQlPMksvXA",
-    3027,
-    3193,
-    "愛のうた【弾き語り】",
-    ""
-  ],
-  [
-    "STQlPMksvXA",
     741,
     847,
-    "エイリアンズ【弾き語り】",
+    "エイリアンズ (Acoustic ver.)",
+    ""
+  ],
+  [
+    "STQlPMksvXA",
+    1725,
+    1795,
+    "ゴーストルール (Acoustic ver.)",
     ""
   ],
   [
@@ -3163,156 +3093,142 @@
   ],
   [
     "ODm2xkDN31E",
-    465,
-    796,
-    "メリクリ【Karaoke】",
-    ""
-  ],
-  [
-    "ODm2xkDN31E",
-    2095,
-    2417,
-    "粉雪【Karaoke】",
-    ""
-  ],
-  [
-    "ODm2xkDN31E",
-    1335,
-    1647,
-    "初めての恋が終わる時【Karaoke】",
-    ""
-  ],
-  [
-    "ODm2xkDN31E",
-    1812,
-    2084,
-    "ロマンスの神様【Karaoke】",
-    ""
-  ],
-  [
-    "ODm2xkDN31E",
-    3152,
-    3425,
-    "いつか【Karaoke】",
-    ""
-  ],
-  [
-    "ODm2xkDN31E",
     117,
     458,
-    "クリスマスソング【Karaoke】",
+    "クリスマスソング",
     ""
   ],
   [
     "ODm2xkDN31E",
-    2560,
-    2832,
-    "Last Christmas【Karaoke】",
+    465,
+    796,
+    "メリクリ",
     ""
   ],
   [
     "ODm2xkDN31E",
     1069,
     1328,
-    "白い雪のプリンセスは【Karaoke】",
+    "白い雪のプリンセスは",
     ""
   ],
   [
-    "MnefXrnTmcA",
-    2519,
-    2621,
-    "天使にふれたよ！【弾き語り】",
+    "ODm2xkDN31E",
+    1812,
+    2084,
+    "ロマンスの神様",
     ""
   ],
   [
-    "MnefXrnTmcA",
-    3395,
-    3702,
-    "メルト【弾き語り】",
+    "ODm2xkDN31E",
+    2095,
+    2417,
+    "粉雪",
     ""
   ],
   [
-    "MnefXrnTmcA",
-    1630,
-    1688,
-    "幸福論【弾き語り】",
-    ""
-  ],
-  [
-    "MnefXrnTmcA",
-    4014,
-    5265,
-    "弱虫モンブラン【弾き語り】",
-    ""
-  ],
-  [
-    "MnefXrnTmcA",
-    2231,
-    2343,
-    "小さな恋のうた【弾き語り】",
+    "ODm2xkDN31E",
+    3152,
+    3425,
+    "いつか",
     ""
   ],
   [
     "MnefXrnTmcA",
     1237,
     1284,
-    "赤鼻のトナカイ【弾き語り】",
-    ""
-  ],
-  [
-    "MnefXrnTmcA",
-    2876,
-    2966,
-    "しわ【弾き語り】",
-    ""
-  ],
-  [
-    "MnefXrnTmcA",
-    3231,
-    3354,
-    "だんご大家族【弾き語り】",
-    ""
-  ],
-  [
-    "MnefXrnTmcA",
-    1941,
-    2040,
-    "ここでキスして【弾き語り】",
-    ""
-  ],
-  [
-    "MnefXrnTmcA",
-    1758,
-    1861,
-    "群青日和【弾き語り】",
+    "赤鼻のトナカイ (Acoustic ver.)",
     ""
   ],
   [
     "MnefXrnTmcA",
     884,
     985,
-    "サンタクロース【弾き語り】",
+    "サンタクロース (Acoustic ver.)",
     ""
   ],
   [
     "MnefXrnTmcA",
     1389,
     1489,
-    "青い栞【弾き語り】",
+    "青い栞 (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    1758,
+    1861,
+    "群青日和 (Acoustic ver.)",
     ""
   ],
   [
     "MnefXrnTmcA",
     363,
     491,
-    "いつの日も【弾き語り】",
+    "いつの日も (Acoustic ver.)",
     ""
   ],
   [
     "MnefXrnTmcA",
     601,
     697,
-    "白金ディスコ【弾き語り】",
+    "白金ディスコ (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    2876,
+    2966,
+    "しわ (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    1630,
+    1688,
+    "幸福論 (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    1941,
+    2040,
+    "ここでキスして (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    2231,
+    2343,
+    "小さな恋のうた (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    2519,
+    2621,
+    "天使にふれたよ！ (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    3231,
+    3354,
+    "だんご大家族 (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    3395,
+    3702,
+    "メルト (Acoustic ver.)",
+    ""
+  ],
+  [
+    "MnefXrnTmcA",
+    4014,
+    5265,
+    "弱虫モンブラン (Acoustic ver.)",
     ""
   ],
   [
@@ -3324,114 +3240,128 @@
   ],
   [
     "0yS8ycXM34U",
-    3291,
-    3447,
-    "恋におちて -Fall in love-【弾き語り】",
-    ""
-  ],
-  [
-    "0yS8ycXM34U",
-    2959,
-    3112,
-    "瞬き【弾き語り】",
-    ""
-  ],
-  [
-    "0yS8ycXM34U",
-    6650,
-    6730,
-    "やさしさに包まれたなら【弾き語り】",
-    ""
-  ],
-  [
-    "0yS8ycXM34U",
     2729,
     2825,
-    "Sweets Parade【弾き語り】",
+    "Sweets Parade (Acoustic ver.)",
     ""
   ],
   [
     "0yS8ycXM34U",
-    1002,
-    1113,
-    "夜明けと蛍【弾き語り】",
-    ""
-  ],
-  [
-    "0yS8ycXM34U",
-    2240,
-    2312,
-    "GLORIA【弾き語り】",
-    ""
-  ],
-  [
-    "0yS8ycXM34U",
-    1634,
-    1742,
-    "Laugh away【弾き語り】",
-    ""
-  ],
-  [
-    "0yS8ycXM34U",
-    1350,
-    1470,
-    "心拍数♯0822【弾き語り】",
+    1867,
+    1931,
+    "丸の内サディスティック (Acoustic ver.)",
     ""
   ],
   [
     "0yS8ycXM34U",
     6423,
     6505,
-    "テルーの唄【弾き語り】",
+    "テルーの唄 (Acoustic ver.)",
     ""
   ],
   [
     "0yS8ycXM34U",
     774,
     864,
-    "lemon【弾き語り】",
+    "lemon (Acoustic ver.)",
     ""
   ],
   [
-    "zU0d39byR54",
-    1534,
-    1601,
-    "打上花火【弾き語り】",
+    "0yS8ycXM34U",
+    1002,
+    1113,
+    "夜明けと蛍 (Acoustic ver.)",
     ""
   ],
   [
-    "zU0d39byR54",
-    1189,
-    1279,
-    "君はロックを聴かない【弾き語り】",
+    "0yS8ycXM34U",
+    1350,
+    1470,
+    "心拍数♯0822 (Acoustic ver.)",
+    ""
+  ],
+  [
+    "0yS8ycXM34U",
+    1634,
+    1742,
+    "Laugh away (Acoustic ver.)",
+    ""
+  ],
+  [
+    "0yS8ycXM34U",
+    2240,
+    2312,
+    "GLORIA (Acoustic ver.)",
+    ""
+  ],
+  [
+    "0yS8ycXM34U",
+    2959,
+    3112,
+    "瞬き (Acoustic ver.)",
+    ""
+  ],
+  [
+    "0yS8ycXM34U",
+    3291,
+    3447,
+    "恋におちて -Fall in love- (Acoustic ver.)",
+    ""
+  ],
+  [
+    "0yS8ycXM34U",
+    6650,
+    6730,
+    "やさしさに包まれたなら (Acoustic ver.)",
+    ""
+  ],
+  [
+    "0yS8ycXM34U",
+    6827,
+    6913,
+    "風になる (Acoustic ver.)",
     ""
   ],
   [
     "zU0d39byR54",
     363,
     653,
-    "変わらないもの【弾き語り】",
+    "変わらないもの (Acoustic ver.)",
     ""
   ],
   [
     "zU0d39byR54",
-    1913,
-    2007,
-    "卒業写真【弾き語り】",
+    1534,
+    1601,
+    "打上花火 (Acoustic ver.)",
+    ""
+  ],
+  [
+    "zU0d39byR54",
+    1189,
+    1279,
+    "君はロックを聴かない (Acoustic ver.)",
     ""
   ],
   [
     "zU0d39byR54",
     806,
     900,
-    "香水【弾き語り】",
+    "香水 (Acoustic ver.)",
+    ""
+  ],
+  [
+    "zU0d39byR54",
+    1913,
+    2007,
+    "卒業写真 (Acoustic ver.)",
     ""
   ],
   [
     "zU0d39byR54",
     2336,
     2564,
-    "Good-bye Days【弾き語り】",
+    "Good-bye Days (Acoustic ver.)",
     ""
   ],
   [
