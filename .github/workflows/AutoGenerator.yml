@@ -9,48 +9,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  Build:
-    runs-on: windows-latest # dotnet SDK built-in
-
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          ref: AutoGenerator
-
-      - name: dotnet publish
-        working-directory: AutoGenerator/AutoGenerator
-        run: dotnet publish /p:Configuration=Release /p:PublishProfile=FolderProfile
-
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: artifact
-          path: AutoGenerator/AutoGenerator/bin/Release/net8.0/publish/win-x64
-          retention-days: 7
-
   Auto_Generator:
-    needs: Build
-    runs-on: windows-latest # dotnet SDK built-in
+    runs-on: unbuntu-latest
     outputs:
       changes_detected: ${{ steps.git_auto_commit.outputs.changes_detected }}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: master
 
-      - name: Download artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: artifact
-
       - name: Auto Generator
-        shell: cmd
-        run: 'call AutoGenerator.exe'
+        run: 'docker run -v .:/output -v AutoGenerator/AutoGenerator/appsettings.json:/app/appsettings.json ghcr.io/YoutubeClipPlaylist/PlaylistAutoGenerator'
 
       - name: Git Auto Commit
         id: git_auto_commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: AutoGenerator
           file_pattern: AutoGenerator
@@ -63,7 +37,7 @@ jobs:
     if: needs.Auto_Generator.outputs.changes_detected == 'true'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: AutoGenerator
 

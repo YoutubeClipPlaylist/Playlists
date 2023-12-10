@@ -3,7 +3,7 @@ namespace AutoGenerator.Models;
 
 public class Request
 {
-    public string channel_id { get; set; } = "";
+    public required string channel_id { get; set; }
 
     public bool paginated { get; set; }
     public int limit { get; set; }

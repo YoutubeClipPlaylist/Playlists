@@ -7,5 +7,5 @@ public interface IOptions
 
 public class Options : IOptions
 {
-    public Channel[] Channels { get; set; } = Array.Empty<Channel>();
+    public Channel[] Channels { get; set; } = [];
 }

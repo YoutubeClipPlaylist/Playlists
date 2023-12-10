@@ -397,3 +397,5 @@ Backup of *.doc*
 
 # Visio autosave temporary files
 *.~vsd*
+
+AutoGenerator/AutoGenerator/*.jsonc

@@ -1,18 +1,22 @@
 ﻿using AutoGenerator.Models;
 using Microsoft.Extensions.Configuration;
 using RestSharp;
+using RestSharp.Serializers.Json;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Text.Unicode;
+using Response = AutoGenerator.Models.Response.response;
 
 Console.WriteLine("Application starts.");
 
 IOptions option = Start();
 
 bool hasfailed = false;
-foreach (Channel channel in option.Channels)
+for (int i = 0; i < option.Channels.Length; i++)
 {
+    Channel channel = option.Channels[i];
     if (string.IsNullOrEmpty(channel.ChannelId)) continue;
 
     Console.WriteLine("Start to get the channel: " + channel.ChannelId);
@@ -24,7 +28,12 @@ foreach (Channel channel in option.Channels)
     var timeoutTimes = 1;
     try
     {
-        RestClient client = new("https://music.holodex.net/api/v2");
+        RestClient client = new(
+            "https://music.holodex.net/api/v2",
+            configureSerialization: s => s.UseSystemTextJson(new JsonSerializerOptions
+            {
+                TypeInfoResolver = SourceGenerationContext.Default
+            }));
 
         // API limit: Maximum 80 reqs per 2 minutes.
         // We get 100 songs per req.
@@ -52,7 +61,8 @@ foreach (Channel channel in option.Channels)
     newPlaylist = FilterPlaylist(exclusiveWords, newPlaylist);
     WriteJsoncFile(channel, newPlaylist);
     Console.WriteLine($"Finish {channel.Singer}: {channel.ChannelId}");
-    await Task.Delay(TimeSpan.FromSeconds(40));
+
+    if (i < option.Channels.Length - 1) await Task.Delay(TimeSpan.FromSeconds(40));
 }
 
 if (hasfailed)
@@ -60,18 +70,20 @@ if (hasfailed)
 
 static IOptions Start()
 {
-    IOptions? option = new Options();
     try
     {
-        IConfiguration configuration = new ConfigurationBuilder()
-            .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+        var configuration = new ConfigurationBuilder()
+            .AddJsonFile("appsettings.json", optional: false, reloadOnChange: false)
 #if DEBUG
             .AddJsonFile("appsettings.Development.json", optional: true, reloadOnChange: true)
 #endif
             .AddEnvironmentVariables()
             .Build();
 
-        option = configuration.Get<Options>();
+#if DEBUG
+        Console.WriteLine(configuration.GetDebugView());
+#endif
+        var option = configuration.Get<Options>();
         if (null == option
             || null == option.Channels
             || option.Channels.Length == 0)
@@ -79,16 +91,21 @@ static IOptions Start()
             throw new ApplicationException("Settings file is not valid.");
         }
         Console.WriteLine($"Get {option.Channels.Length} channels.");
+        return option;
     }
     catch (Exception e)
     {
         Console.WriteLine(e.Message);
         Console.WriteLine("ERROR_BAD_CONFIGURATION");
         Environment.Exit(1610); // ERROR_BAD_CONFIGURATION
+        throw;
     }
-    return option;
 }
 
+[UnconditionalSuppressMessage(
+    "Trimming",
+    "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functionality when trimming application code",
+    Justification = $"{nameof(SourceGenerationContext)} is set.")]
 static HashSet<string> ReadHandmadePlaylists(Channel channel)
 {
     HashSet<string> exclusiveWords = new(channel.ExcludeKeywords);
@@ -102,7 +119,8 @@ static HashSet<string> ReadHandmadePlaylists(Channel channel)
                 var jsonSerializerOptions = new JsonSerializerOptions
                 {
                     ReadCommentHandling = JsonCommentHandling.Skip,
-                    AllowTrailingCommas = true
+                    AllowTrailingCommas = true,
+                    TypeInfoResolver = SourceGenerationContext.Default
                 };
                 List<ISong> temp = JsonSerializer.Deserialize<List<ISong>>(
                     utf8Json: fs,
@@ -173,7 +191,7 @@ static int FetchAPIAsync(IChannel channel, RestClient client, ref List<ISong> ne
         if (null == restResponse || null == rawResponse)
             throw new Exception("Response is empty.");
 
-        response = JsonSerializer.Deserialize<Response>(rawResponse);
+        response = JsonSerializer.Deserialize(rawResponse, SourceGenerationContext.Default.response);
         if (null == response || response.items?.Length == 0)
             throw new Exception("Response item count is 0.");
     }
@@ -227,6 +245,10 @@ static List<ISong> FilterPlaylist(HashSet<string> exclusiveWords, List<ISong> ne
     return result;
 }
 
+[UnconditionalSuppressMessage(
+    "Trimming",
+    "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functionality when trimming application code",
+    Justification = $"{nameof(SourceGenerationContext)} is set.")]
 static void WriteJsoncFile(Channel channel, List<ISong> newPlaylist)
 {
     Console.WriteLine("Start to generate jsonc file.");
@@ -255,6 +277,7 @@ static void WriteJsoncFile(Channel channel, List<ISong> newPlaylist)
                                       {
                                           Encoder = JavaScriptEncoder.Create(UnicodeRanges.All),
                                           WriteIndented = true,
+                                          TypeInfoResolver = SourceGenerationContext.Default
                                       }));
     sw.Flush();
     Console.WriteLine($"Write {newPlaylist.Count} songs to jsonc file.");
