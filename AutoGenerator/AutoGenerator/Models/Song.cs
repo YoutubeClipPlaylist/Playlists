@@ -1,4 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿using AutoGenerator.Json;
 using System.Text.Json.Serialization;
 namespace AutoGenerator.Models;
 
@@ -12,7 +12,6 @@ public interface ISong
     public string SubSrc { get; set; }
 }
 
-[DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.All)]
 public class Song : ISong
 {
     public string VideoId { get; set; } = "";

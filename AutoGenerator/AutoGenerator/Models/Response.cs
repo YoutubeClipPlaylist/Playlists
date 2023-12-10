@@ -1,12 +1,8 @@
 ﻿#pragma warning disable IDE1006 // 命名樣式
-using System.Diagnostics.CodeAnalysis;
-
 namespace AutoGenerator.Models;
 
-[DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.All)]
 public class Response
 {
-    [DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.All)]
 #pragma warning disable CS8981 // 類型名稱只包含小寫的 ASCII 字元。此類名稱可能保留供此語言使用。
     public class response
 #pragma warning restore CS8981 // 類型名稱只包含小寫的 ASCII 字元。此類名稱可能保留供此語言使用。
@@ -15,7 +11,6 @@ public class Response
         public Item[]? items { get; set; }
     }
 
-    [DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.All)]
     public class Item
     {
         public string? channel_id { get; set; }
@@ -35,7 +30,6 @@ public class Response
         public Channel2? channel { get; set; }
     }
 
-    [DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.All)]
     public class Channel2
     {
         public string? name { get; set; }

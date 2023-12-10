@@ -2,9 +2,9 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-namespace AutoGenerator;
+namespace AutoGenerator.Json;
 
-[RequiresUnreferencedCode("Call of JsonSerializer.Deserialize and JsonSerializer.Serialize")]
+[RequiresUnreferencedCode($"{nameof(SourceGenerationContext)} should be set for JsonOption TypeInfoResolver.")]
 class SongConverter : JsonConverter<ISong>
 {
     public override Song Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
@@ -25,13 +25,15 @@ class SongConverter : JsonConverter<ISong>
         return song;
     }
 
-    public override void Write(Utf8JsonWriter writer, ISong value, JsonSerializerOptions options) =>
-        JsonSerializer.Serialize(writer, new dynamic[]
-        {
-            value.VideoId,
-            value.StartTime,
-            value.EndTime,
-            value.Title,
-            value.SubSrc
-        }, options);
+    public override void Write(Utf8JsonWriter writer, ISong value, JsonSerializerOptions options)
+    {
+        List<JsonElement> dto = [];
+        dto.Add(JsonDocument.Parse($"\"{value.VideoId}\"").RootElement);
+        dto.Add(JsonDocument.Parse($"{value.StartTime}").RootElement);
+        dto.Add(JsonDocument.Parse($"{value.EndTime}").RootElement);
+        dto.Add(JsonDocument.Parse($"\"{value.Title.Replace("\"", "\\\"")}\"").RootElement);
+        dto.Add(JsonDocument.Parse($"\"{value.SubSrc}\"").RootElement);
+
+        JsonSerializer.Serialize(writer, dto, options);
+    }
 }
