@@ -106,22 +106,27 @@ static IOptions Start()
     "Trimming",
     "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functionality when trimming application code",
     Justification = $"{nameof(SourceGenerationContext)} is set.")]
+[UnconditionalSuppressMessage(
+    "AOT",
+    "IL3050:Calling members annotated with 'RequiresDynamicCodeAttribute' may break functionality when AOT compiling.",
+    Justification = $"{nameof(SourceGenerationContext)} is set.")]
 static HashSet<string> ReadHandmadePlaylists(Channel channel)
 {
     HashSet<string> exclusiveWords = new(channel.ExcludeKeywords);
     if (Directory.Exists(channel.Singer_eng))
     {
+        var jsonSerializerOptions = new JsonSerializerOptions
+        {
+            ReadCommentHandling = JsonCommentHandling.Skip,
+            AllowTrailingCommas = true,
+            TypeInfoResolver = SourceGenerationContext.Default
+        };
+
         foreach (var file in Directory.GetFiles(channel.Singer_eng, "*.jsonc?"))
         {
             try
             {
                 using FileStream fs = File.OpenRead(file);
-                var jsonSerializerOptions = new JsonSerializerOptions
-                {
-                    ReadCommentHandling = JsonCommentHandling.Skip,
-                    AllowTrailingCommas = true,
-                    TypeInfoResolver = SourceGenerationContext.Default
-                };
                 List<ISong> temp = JsonSerializer.Deserialize<List<ISong>>(
                     utf8Json: fs,
                     options: jsonSerializerOptions
@@ -248,6 +253,10 @@ static List<ISong> FilterPlaylist(HashSet<string> exclusiveWords, List<ISong> ne
 [UnconditionalSuppressMessage(
     "Trimming",
     "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functionality when trimming application code",
+    Justification = $"{nameof(SourceGenerationContext)} is set.")]
+[UnconditionalSuppressMessage(
+    "AOT",
+    "IL3050:Calling members annotated with 'RequiresDynamicCodeAttribute' may break functionality when AOT compiling.",
     Justification = $"{nameof(SourceGenerationContext)} is set.")]
 static void WriteJsoncFile(Channel channel, List<ISong> newPlaylist)
 {
