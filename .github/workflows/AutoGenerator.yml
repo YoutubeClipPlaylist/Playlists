@@ -10,7 +10,7 @@ on:
 
 jobs:
   Auto_Generator:
-    runs-on: unbuntu-latest
+    runs-on: ubuntu-latest
     outputs:
       changes_detected: ${{ steps.git_auto_commit.outputs.changes_detected }}
 
