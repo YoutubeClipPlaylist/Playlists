@@ -6,9 +6,9 @@
 [
   [
     "Xy06FJDZNuc",
-    1568,
-    1899,
-    "歌に形はないけれど (Uta ni Katachi wa Nai Keredo)",
+    6420,
+    6676,
+    "First Love",
     ""
   ],
   [
@@ -16,6 +16,13 @@
     3600,
     3939,
     "雪の華 (Yuki no Hana)",
+    ""
+  ],
+  [
+    "Xy06FJDZNuc",
+    1568,
+    1899,
+    "歌に形はないけれど (Uta ni Katachi wa Nai Keredo)",
     ""
   ],
   [
@@ -100,13 +107,6 @@
     5881,
     6195,
     "ハッピーエンド (Happy End)",
-    ""
-  ],
-  [
-    "Xy06FJDZNuc",
-    6420,
-    6676,
-    "First Love",
     ""
   ],
   [
@@ -1028,16 +1028,16 @@
   ],
   [
     "2wYugOVEeM8",
-    4502,
-    4784,
-    "SUNNY DAY SONG",
+    897,
+    1164,
+    "WISH",
     ""
   ],
   [
     "2wYugOVEeM8",
-    897,
-    1164,
-    "WISH",
+    4502,
+    4784,
+    "SUNNY DAY SONG",
     ""
   ],
   [
@@ -1112,6 +1112,13 @@
   ],
   [
     "_o_IkFMjHbE",
+    3337,
+    3601,
+    "Overfly",
+    ""
+  ],
+  [
+    "_o_IkFMjHbE",
     9397,
     9674,
     "世界に一つだけの花 (Sekai ni Hitotsu Dake no Hana)",
@@ -1136,13 +1143,6 @@
     2901,
     3204,
     "Startear",
-    ""
-  ],
-  [
-    "_o_IkFMjHbE",
-    3337,
-    3601,
-    "Overfly",
     ""
   ],
   [
@@ -1321,10 +1321,24 @@
     ""
   ],
   [
+    "-k8dkpA-bP0",
+    8485,
+    8743,
+    "チェリー (Cherry)",
+    ""
+  ],
+  [
     "N0xuiHyr25Q",
     8919,
     9184,
     "M",
+    ""
+  ],
+  [
+    "N0xuiHyr25Q",
+    7165,
+    7435,
+    "金魚花火 (Kingyo Hanabi)",
     ""
   ],
   [
@@ -1339,13 +1353,6 @@
     6718,
     7081,
     "帰りたくなったよ (Kaeritaku Natta yo)",
-    ""
-  ],
-  [
-    "N0xuiHyr25Q",
-    7165,
-    7435,
-    "金魚花火 (Kingyo Hanabi)",
     ""
   ],
   [
@@ -1742,16 +1749,16 @@
   ],
   [
     "UdCgDna-o64",
-    1688,
-    1981,
-    "サイハテ (Saihate)",
+    2802,
+    3019,
+    "踊 (Odo)",
     ""
   ],
   [
     "UdCgDna-o64",
-    2802,
-    3019,
-    "踊 (Odo)",
+    1688,
+    1981,
+    "サイハテ (Saihate)",
     ""
   ],
   [
@@ -2001,16 +2008,16 @@
   ],
   [
     "9_AUjlBfTtQ",
-    7125,
-    7417,
-    "愛をこめて花束を (Ai o Komete Hanataba o)",
+    2926,
+    3177,
+    "only my railgun",
     ""
   ],
   [
     "9_AUjlBfTtQ",
-    2926,
-    3177,
-    "only my railgun",
+    7125,
+    7417,
+    "愛をこめて花束を (Ai o Komete Hanataba o)",
     ""
   ],
   [
@@ -2974,13 +2981,6 @@
   ],
   [
     "h6zG9qYFl64",
-    14196,
-    14454,
-    "チェリー (Cherry)",
-    ""
-  ],
-  [
-    "h6zG9qYFl64",
     15581,
     15850,
     "カラフル (Colorful)",
@@ -3401,16 +3401,16 @@
   ],
   [
     "zf3YSNeQITQ",
-    6653,
-    6958,
-    "恋になりたいAQUARIUM (Koi ni Naritai Aquarium)",
+    7459,
+    7709,
+    "Star!!",
     ""
   ],
   [
     "zf3YSNeQITQ",
-    7459,
-    7709,
-    "Star!!",
+    6653,
+    6958,
+    "恋になりたいAQUARIUM (Koi ni Naritai Aquarium)",
     ""
   ],
   [
@@ -3443,6 +3443,13 @@
   ],
   [
     "zUsEyybKJ8A",
+    9004,
+    9312,
+    "恋愛写真 (Renaishashin)",
+    ""
+  ],
+  [
+    "zUsEyybKJ8A",
     8586,
     8911,
     "青のじゅもん (Ao no Jumon)",
@@ -3460,13 +3467,6 @@
     2280,
     2528,
     "さよなら 大好きな人 (Sayonara Daisuki na Hito)",
-    ""
-  ],
-  [
-    "zUsEyybKJ8A",
-    9004,
-    9312,
-    "恋愛写真 (Renaishashin)",
     ""
   ],
   [
@@ -4689,16 +4689,16 @@
   ],
   [
     "MG1OtjOeNl0",
-    2136,
-    2341,
-    "キャンディキャンディ (Candy Candy)",
+    2865,
+    3127,
+    "待つわ (Matsu wa)",
     ""
   ],
   [
     "MG1OtjOeNl0",
-    2865,
-    3127,
-    "待つわ (Matsu wa)",
+    2136,
+    2341,
+    "キャンディキャンディ (Candy Candy)",
     ""
   ],
   [
