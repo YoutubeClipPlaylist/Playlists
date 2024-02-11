@@ -55,6 +55,13 @@
   ],
   [
     "KAniXpPcV60",
+    4236,
+    4467,
+    "Level off",
+    ""
+  ],
+  [
+    "KAniXpPcV60",
     1114,
     1404,
     "蝶々結び（Choucho Musubi）",
@@ -114,13 +121,6 @@
     2847,
     3071,
     "VORACITY",
-    ""
-  ],
-  [
-    "KAniXpPcV60",
-    4236,
-    4467,
-    "Level off",
     ""
   ],
   [
@@ -594,6 +594,20 @@
   ],
   [
     "I1Fp7_TAn30",
+    1917,
+    2174,
+    "ノラ／Nora",
+    ""
+  ],
+  [
+    "I1Fp7_TAn30",
+    945,
+    1214,
+    "Good-bye days",
+    ""
+  ],
+  [
+    "I1Fp7_TAn30",
     3504,
     3786,
     "いのちの名前（Inochi no Namae）",
@@ -604,13 +618,6 @@
     5609,
     5855,
     "回る空うさぎ／Sky Passing Around, Moon Rabbit",
-    ""
-  ],
-  [
-    "I1Fp7_TAn30",
-    945,
-    1214,
-    "Good-bye days",
     ""
   ],
   [
@@ -632,13 +639,6 @@
     660,
     874,
     "エルマ／Elma",
-    ""
-  ],
-  [
-    "I1Fp7_TAn30",
-    1917,
-    2174,
-    "ノラ／Nora",
     ""
   ],
   [
@@ -783,6 +783,13 @@
   ],
   [
     "2Xon84r0geE",
+    7414,
+    7737,
+    "側にいて（Sobaniite）",
+    ""
+  ],
+  [
+    "2Xon84r0geE",
     4112,
     4376,
     "星月夜（Hoshizukiyo）",
@@ -821,13 +828,6 @@
     2408,
     2734,
     "奏（Kanade）",
-    ""
-  ],
-  [
-    "2Xon84r0geE",
-    7414,
-    7737,
-    "側にいて（Sobaniite）",
     ""
   ],
   [
@@ -951,6 +951,13 @@
   ],
   [
     "CATAhoH0NUg",
+    8935,
+    9224,
+    "春泥棒／Spring Thief",
+    ""
+  ],
+  [
+    "CATAhoH0NUg",
     1378,
     1660,
     "打上花火（Uchiagehanabi）",
@@ -1010,13 +1017,6 @@
     2080,
     2304,
     "ヒッチコック／Hitchcock",
-    ""
-  ],
-  [
-    "CATAhoH0NUg",
-    8935,
-    9224,
-    "春泥棒／Spring Thief",
     ""
   ],
   [
@@ -1224,16 +1224,16 @@
   ],
   [
     "izog2yMZC2E",
-    379,
-    628,
-    "Only Human",
+    5144,
+    5417,
+    "Rainy proof（Acoustic）",
     ""
   ],
   [
     "izog2yMZC2E",
-    5144,
-    5417,
-    "Rainy proof（Acoustic）",
+    379,
+    628,
+    "Only Human",
     ""
   ],
   [
@@ -1315,16 +1315,16 @@
   ],
   [
     "Y0Cln30rb14",
-    2403,
-    2720,
-    "Pretender",
+    1078,
+    1340,
+    "再会（Saikai）",
     ""
   ],
   [
     "Y0Cln30rb14",
-    1078,
-    1340,
-    "再会（Saikai）",
+    2403,
+    2720,
+    "Pretender",
     ""
   ],
   [
@@ -1651,6 +1651,13 @@
   ],
   [
     "MwxXpEzxdOk",
+    6804,
+    7092,
+    "アイネクライネ／Eine Kleine",
+    ""
+  ],
+  [
+    "MwxXpEzxdOk",
     2204,
     2444,
     "レディメイド／Readymade",
@@ -1668,13 +1675,6 @@
     2562,
     2790,
     "新時代／New Genesis",
-    ""
-  ],
-  [
-    "MwxXpEzxdOk",
-    6804,
-    7092,
-    "アイネクライネ／Eine Kleine",
     ""
   ],
   [
@@ -1784,16 +1784,16 @@
   ],
   [
     "ZhHDo9f7ArE",
-    5017,
-    5235,
-    "津軽海峡・冬景色（Tsugaru Kaikyo Fuyugeshiki）",
+    2893,
+    3126,
+    "丸ノ内サディスティック／Marunouchi Sadistic",
     ""
   ],
   [
     "ZhHDo9f7ArE",
-    2893,
-    3126,
-    "丸ノ内サディスティック／Marunouchi Sadistic",
+    5017,
+    5235,
+    "津軽海峡・冬景色（Tsugaru Kaikyo Fuyugeshiki）",
     ""
   ],
   [
@@ -1833,16 +1833,16 @@
   ],
   [
     "NPc6eo7H15c",
-    4493,
-    4726,
-    "sleeping beauty",
+    4089,
+    4317,
+    "余命3日少女 （Yomei Mikka Shoujo）",
     ""
   ],
   [
     "NPc6eo7H15c",
-    4089,
-    4317,
-    "余命3日少女 （Yomei Mikka Shoujo）",
+    4493,
+    4726,
+    "sleeping beauty",
     ""
   ],
   [
@@ -2386,16 +2386,16 @@
   ],
   [
     "LkTdaNSYX_k",
-    1133,
-    1391,
-    "ninelie",
+    3821,
+    4064,
+    "Goodbye, Azure",
     ""
   ],
   [
     "LkTdaNSYX_k",
-    3821,
-    4064,
-    "Goodbye, Azure",
+    1133,
+    1391,
+    "ninelie",
     ""
   ],
   [
@@ -2708,16 +2708,16 @@
   ],
   [
     "Ot679qlGjV8",
-    3401,
-    3684,
-    "いのちの名前（Inochi no namae）",
+    4157,
+    4420,
+    "星月夜／Starry Night",
     ""
   ],
   [
     "Ot679qlGjV8",
-    4157,
-    4420,
-    "星月夜／Starry Night",
+    3401,
+    3684,
+    "いのちの名前（Inochi no namae）",
     ""
   ],
   [
@@ -3051,16 +3051,16 @@
   ],
   [
     "0B6AHn4M5VU",
-    810,
-    1099,
-    "アイネクライネ",
+    3257,
+    3403,
+    "from Y to Y",
     ""
   ],
   [
     "0B6AHn4M5VU",
-    3257,
-    3403,
-    "from Y to Y",
+    810,
+    1099,
+    "アイネクライネ",
     ""
   ],
   [
@@ -3121,6 +3121,13 @@
   ],
   [
     "m-RyPeqsrfg",
+    6400,
+    6645,
+    "群青",
+    ""
+  ],
+  [
+    "m-RyPeqsrfg",
     2262,
     2465,
     "カタオモイ",
@@ -3173,13 +3180,6 @@
     5724,
     5978,
     "からくりピエロ",
-    ""
-  ],
-  [
-    "m-RyPeqsrfg",
-    6400,
-    6645,
-    "群青",
     ""
   ],
   [
@@ -3464,16 +3464,16 @@
   ],
   [
     "pWkTY2KiJtU",
-    1026,
-    1342,
-    "鱗(うろこ)",
+    1359,
+    1684,
+    "楓",
     ""
   ],
   [
     "pWkTY2KiJtU",
-    1359,
-    1684,
-    "楓",
+    1026,
+    1342,
+    "鱗(うろこ)",
     ""
   ],
   [
@@ -3597,6 +3597,13 @@
   ],
   [
     "nvlFYEKVtUs",
+    6542,
+    6806,
+    "再生",
+    ""
+  ],
+  [
+    "nvlFYEKVtUs",
     248,
     503,
     "Tell Your World",
@@ -3607,13 +3614,6 @@
     1146,
     1229,
     "エンゼルフィッシュ (1 chorus)",
-    ""
-  ],
-  [
-    "nvlFYEKVtUs",
-    6542,
-    6806,
-    "再生",
     ""
   ],
   [
@@ -4584,6 +4584,13 @@
   ],
   [
     "4VjTibmFMk8",
+    2891,
+    3023,
+    "逢いたくていま (Aitakute Ima)",
+    ""
+  ],
+  [
+    "4VjTibmFMk8",
     904,
     1145,
     "六月は雨上がりの街を書く (Rokugatsu wa Ameaagari no Machi o Kaku)",
@@ -4594,13 +4601,6 @@
     2682,
     2831,
     "フラレガイガール (Furaregaigirl) (Short ver.)",
-    ""
-  ],
-  [
-    "4VjTibmFMk8",
-    2891,
-    3023,
-    "逢いたくていま (Aitakute Ima)",
     ""
   ],
   [
@@ -4696,16 +4696,16 @@
   ],
   [
     "83u6ZMJNaZE",
-    4282,
-    4607,
-    "アヤノの幸福理論 (Ayano No Kouhuku Riron)",
+    3916,
+    4144,
+    "妄想進化論 (Mousou Shinkaron)",
     ""
   ],
   [
     "83u6ZMJNaZE",
-    3916,
-    4144,
-    "妄想進化論 (Mousou Shinkaron)",
+    4282,
+    4607,
+    "アヤノの幸福理論 (Ayano No Kouhuku Riron)",
     ""
   ],
   [
@@ -5634,16 +5634,16 @@
   ],
   [
     "0FVmV35OEOk",
-    7640,
-    7947,
-    "明日への手紙 (Asu E No Tegami)",
+    8712,
+    8927,
+    "エルマ",
     ""
   ],
   [
     "0FVmV35OEOk",
-    8712,
-    8927,
-    "エルマ",
+    7640,
+    7947,
+    "明日への手紙 (Asu E No Tegami)",
     ""
   ],
   [
@@ -6089,16 +6089,16 @@
   ],
   [
     "cUoo3VF08aQ",
-    5560,
-    5632,
-    "さよならの夏 (Sayonara no Natsu) (Acapella, Short ver.)",
+    5765,
+    5859,
+    "アイモ",
     ""
   ],
   [
     "cUoo3VF08aQ",
-    5765,
-    5859,
-    "アイモ",
+    5560,
+    5632,
+    "さよならの夏 (Sayonara no Natsu) (Acapella, Short ver.)",
     ""
   ],
   [
@@ -7979,16 +7979,16 @@
   ],
   [
     "2OtyHkWJvkY",
-    3636,
-    3753,
-    "words (Acapella, Short ver.)",
+    6343,
+    6458,
+    "U (Acapella)",
     ""
   ],
   [
     "2OtyHkWJvkY",
-    6343,
-    6458,
-    "U (Acapella)",
+    3636,
+    3753,
+    "words (Acapella, Short ver.)",
     ""
   ],
   [
