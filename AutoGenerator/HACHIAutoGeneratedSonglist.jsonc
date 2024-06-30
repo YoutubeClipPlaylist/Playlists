@@ -20,6 +20,13 @@
   ],
   [
     "t4406MHS-TQ",
+    2978,
+    3247,
+    "晴る／Sunny",
+    ""
+  ],
+  [
+    "t4406MHS-TQ",
     65,
     268,
     "斜陽／Setting Sun",
@@ -72,13 +79,6 @@
     3312,
     3524,
     "inside you",
-    ""
-  ],
-  [
-    "t4406MHS-TQ",
-    2978,
-    3247,
-    "晴る／Sunny",
     ""
   ],
   [
@@ -286,6 +286,13 @@
   ],
   [
     "zvaJJpzlJEQ",
+    1812,
+    2011,
+    "ノーダウト／No Doubt",
+    ""
+  ],
+  [
+    "zvaJJpzlJEQ",
     3982,
     4264,
     "テルーの唄（Teru No Uta）",
@@ -303,13 +310,6 @@
     1254,
     1555,
     "Beautiful World",
-    ""
-  ],
-  [
-    "zvaJJpzlJEQ",
-    1812,
-    2011,
-    "ノーダウト／No Doubt",
     ""
   ],
   [
@@ -545,6 +545,13 @@
   ],
   [
     "IeG8SmCJmQo",
+    1692,
+    1948,
+    "バーモント・キス／Vermont Kiss",
+    ""
+  ],
+  [
+    "IeG8SmCJmQo",
     3760,
     4082,
     "rain stops, good-bye",
@@ -562,13 +569,6 @@
     1359,
     1599,
     "六月は雨上がりの街を書く（Rokugatsu wa Ameaagari no Machi o Kaku）",
-    ""
-  ],
-  [
-    "IeG8SmCJmQo",
-    1692,
-    1948,
-    "バーモント・キス／Vermont Kiss",
     ""
   ],
   [
@@ -860,6 +860,13 @@
   ],
   [
     "3s8O03cVxu4",
+    2772,
+    2947,
+    "鬼ノ宴／Demons Banquet",
+    ""
+  ],
+  [
+    "3s8O03cVxu4",
     3386,
     3633,
     "only my railgun",
@@ -870,13 +877,6 @@
     6599,
     6867,
     "左右盲／Left-Right Confusion",
-    ""
-  ],
-  [
-    "3s8O03cVxu4",
-    2772,
-    2947,
-    "鬼ノ宴／Demons Banquet",
     ""
   ],
   [
@@ -1238,6 +1238,13 @@
   ],
   [
     "sQfje9e731Y",
+    1792,
+    1932,
+    "晚餐歌（Short ver.）",
+    ""
+  ],
+  [
+    "sQfje9e731Y",
     3310,
     3526,
     "罪人（Tsumibito）",
@@ -1248,13 +1255,6 @@
     1155,
     1399,
     "花に亡霊／Ghost In A Flower",
-    ""
-  ],
-  [
-    "sQfje9e731Y",
-    1792,
-    1932,
-    "晚餐歌（Short ver.）",
     ""
   ],
   [
@@ -1371,6 +1371,13 @@
   ],
   [
     "L1VGNClE7eU",
+    5065,
+    5337,
+    "Rainy proof（Acoustic ver）",
+    ""
+  ],
+  [
+    "L1VGNClE7eU",
     3318,
     3646,
     "アイ（Ai）",
@@ -1381,13 +1388,6 @@
     1532,
     1842,
     "明日への手紙（Asu E No Tegami）",
-    ""
-  ],
-  [
-    "L1VGNClE7eU",
-    5065,
-    5337,
-    "Rainy proof（Acoustic ver）",
     ""
   ],
   [
@@ -3681,6 +3681,13 @@
   ],
   [
     "Hz8lToKLGgA",
+    4217,
+    4487,
+    "炎",
+    ""
+  ],
+  [
+    "Hz8lToKLGgA",
     1945,
     2150,
     "夜行",
@@ -3754,13 +3761,6 @@
     6661,
     6880,
     "津軽海峡・冬景色",
-    ""
-  ],
-  [
-    "Hz8lToKLGgA",
-    4217,
-    4487,
-    "炎",
     ""
   ],
   [
@@ -4080,6 +4080,13 @@
   ],
   [
     "cQqKvB6rJrg",
+    6403,
+    6661,
+    "本能",
+    ""
+  ],
+  [
+    "cQqKvB6rJrg",
     2358,
     2449,
     "Magia (short ver.)",
@@ -4111,13 +4118,6 @@
     1024,
     1306,
     "打上花火",
-    ""
-  ],
-  [
-    "cQqKvB6rJrg",
-    6403,
-    6661,
-    "本能",
     ""
   ],
   [
@@ -4892,16 +4892,16 @@
   ],
   [
     "bAJdQIzjP4s",
-    3675,
-    3896,
-    "悪魔の子 (Akuma no Ko)",
+    6216,
+    6463,
+    "永遠のあくる日 (Eien No Akuruhi)",
     ""
   ],
   [
     "bAJdQIzjP4s",
-    6216,
-    6463,
-    "永遠のあくる日 (Eien No Akuruhi)",
+    3675,
+    3896,
+    "悪魔の子 (Akuma no Ko)",
     ""
   ],
   [
@@ -5620,6 +5620,13 @@
   ],
   [
     "1wfUZUSqjDg",
+    5933,
+    6047,
+    "メリクリ (Merikuri) (Short ver.)",
+    ""
+  ],
+  [
+    "1wfUZUSqjDg",
     2082,
     2217,
     "そっけない (Sokkenai) (Short ver.)",
@@ -5630,13 +5637,6 @@
     5682,
     5896,
     "魔法 (Mahou)",
-    ""
-  ],
-  [
-    "1wfUZUSqjDg",
-    5933,
-    6047,
-    "メリクリ (Merikuri) (Short ver.)",
     ""
   ],
   [
@@ -6621,16 +6621,16 @@
   ],
   [
     "JKlCsSecdxo",
-    7295,
-    7392,
-    "火炎",
+    8681,
+    8776,
+    "Brave Shine (Short ver.)",
     ""
   ],
   [
     "JKlCsSecdxo",
-    8681,
-    8776,
-    "Brave Shine (Short ver.)",
+    7295,
+    7392,
+    "火炎",
     ""
   ],
   [
@@ -9088,6 +9088,13 @@
     3992,
     4138,
     "恋",
+    ""
+  ],
+  [
+    "GEVrzTEvS_s",
+    4209,
+    4334,
+    "GLAMOROUS SKY (Acapella)",
     ""
   ],
   [
