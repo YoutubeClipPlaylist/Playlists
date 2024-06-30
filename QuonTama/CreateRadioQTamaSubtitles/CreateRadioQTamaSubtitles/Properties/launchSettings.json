@@ -1,8 +1,1 @@
-{
-  "profiles": {
-    "CreateRadioQTamaSubtitles": {
-      "commandName": "Project",
-      "workingDirectory": "E:\\repos\\YoutubeClipPlaylist\\Playlists"
-    }
-  }
-}
+{"profiles":{"CreateRadioQTamaSubtitles":{"commandName":"Project","workingDirectory":"E:\\repos\\YoutubeClipPlaylist\\Playlists"}}}
