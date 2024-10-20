@@ -1,0 +1,31 @@
+name: Minify
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  Minify_Action:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - uses: zofrex/mirror-branch@v1
+        with:
+          target-branch: minify
+
+      # Use https://github.com/Josee9988/MinifyAllCli
+      - name: Minify Action
+        run: 'npx @josee9988/minifyall -d .'
+
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: minify
+          commit_message: "Github Action: Auto Minified HTML CSS JSON JSONC"
+          commit_user_name: Minify Action Bot # defaults to "GitHub Actions"
+          commit_author: Minify Action Bot <actions@github.com> # defaults to author of the commit that triggered the run

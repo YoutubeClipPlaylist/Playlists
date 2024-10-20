@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CreateRadioQTamaSubtitles": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\repos\\YoutubeClipPlaylist\\Playlists"
+    }
+  }
+}

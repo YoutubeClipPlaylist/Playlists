@@ -1,0 +1,20 @@
+name: Fetch Lyrics
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  actions: write
+
+jobs:
+  call-workflow:
+    name: Dispatch to `Lyrics`
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        env:
+          GH_TOKEN: ${{ secrets.CR_PAT }}
+        run: |
+          gh workflow run FetchLyrics.yml -R YoutubeClipPlaylist/Lyrics
