@@ -28,7 +28,7 @@ jobs:
 
       - name: Git Auto Commit
         id: git_auto_commit
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
           branch: AutoGenerator
           file_pattern: AutoGenerator

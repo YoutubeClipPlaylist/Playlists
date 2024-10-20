@@ -2,8 +2,11 @@ name: Minify
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   Minify_Action:
@@ -14,16 +17,16 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - uses: zofrex/mirror-branch@v1
+      - uses: zofrex/mirror-branch@v1.0.4
         with:
           target-branch: minify
 
       # Use https://github.com/Josee9988/MinifyAllCli
       - name: Minify Action
-        run: 'npx @josee9988/minifyall -d .'
+        run: "npx @josee9988/minifyall -d ."
 
       - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
           branch: minify
           commit_message: "Github Action: Auto Minified HTML CSS JSON JSONC"

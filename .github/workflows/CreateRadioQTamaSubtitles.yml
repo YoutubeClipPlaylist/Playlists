@@ -10,6 +10,7 @@ on:
 permissions:
   actions: write
   pull-requests: write
+  contents: write
 
 jobs:
   Create_RadioQTama_Subtitle:
@@ -26,7 +27,7 @@ jobs:
         run: "call .github\\workflows\\CreateRadioQTamaSubtitles.exe"
 
       - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
           branch: QuonTama
           commit_message: "Github Action: Fetch and recreate RadioQTama subtitles"
