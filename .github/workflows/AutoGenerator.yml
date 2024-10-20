@@ -9,7 +9,6 @@ on:
   workflow_dispatch:
 
 permissions:
-  pull-requests: write
   contents: write
 
 jobs:
@@ -47,7 +46,8 @@ jobs:
 
       - name: Create or Update Pull Request
         env:
-          GH_TOKEN: ${{ github.token }}
+          # Use CR_PAT to trigger another workflow
+          GH_TOKEN: ${{ secrets.CR_PAT }}
         run: |
           gh_pr_up() {
             gh pr create "$@" || gh pr edit "$@"
