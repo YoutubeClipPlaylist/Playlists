@@ -42,7 +42,17 @@ jobs:
         with:
           ref: QuonTama
 
-      - name: pull-request
+      - name: Create or Update Pull Request
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          gh_pr_up() { gh pr create $* || gh pr edit $* }
-          gh_pr_up --title "QuonTama to master auto PR" --body ":robot: Automated PR from **QuonTama** to **master**" --base master --head QuonTama
+          gh_pr_up() {
+            gh pr create "$@" || gh pr edit "$@"
+          }
+
+          gh_pr_up --title "QuonTama to master auto PR" \
+                   --body ":robot: Automated PR from **QuonTama** to **master**" \
+                   --label automerge \
+                   --base master \
+                   --head QuonTama
+        shell: bash
