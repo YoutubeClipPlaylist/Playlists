@@ -1,6 +1,6 @@
-name: docker_publish 
+name: docker_publish
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
@@ -9,6 +9,11 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+# Sets the permissions granted to the GITHUB_TOKEN for the actions in this job.
+permissions:
+  contents: read
+  packages: write
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -22,13 +27,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true 
+          submodules: true
 
       - name: Docker meta
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: ghcr.io/YoutubeClipPlaylist/PlaylistAutoGenerator
+          images: ghcr.io/youtubeclipplaylist/playlistautogenerator
           tags: |
             latest
 
@@ -37,17 +42,17 @@ jobs:
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
-     
+
       # Create a Access Token with `read:packages` and `write:packages` scopes
       - name: Login to GitHub Container Registry
         uses: docker/login-action@v3
         with:
           registry: ghcr.io
           username: ${{ github.repository_owner }}
-          password: ${{ secrets.CR_PAT }}
+          password: ${{ github.token }}
 
       - name: Build and push
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v6
         with:
           context: ./AutoGenerator/AutoGenerator
           file: ./AutoGenerator/AutoGenerator/Dockerfile
@@ -56,3 +61,8 @@ jobs:
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           platforms: linux/amd64
+          # Cache to regietry instead of gha to avoid the capacity limit.
+          cache-from: type=registry,ref=ghcr.io/youtubeclipplaylist/playlistautogenerator:cache
+          cache-to: type=registry,ref=ghcr.io/youtubeclipplaylist/playlistautogenerator:cache,mode=max
+          sbom: true
+          provenance: true
