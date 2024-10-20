@@ -10,6 +10,7 @@ on:
 
 permissions:
   pull-requests: write
+  contents: write
 
 jobs:
   Auto_Generator:
@@ -44,7 +45,17 @@ jobs:
         with:
           ref: AutoGenerator
 
-      - name: pull-request
+      - name: Create or Update Pull Request
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          gh_pr_up() { gh pr create $* || gh pr edit $* }
-          gh_pr_up --title "AutoGenerator to master auto PR" --body ":robot: Automated PR from **AutoGenerator** to **master**" --label automerge --base master --head AutoGenerator
+          gh_pr_up() {
+            gh pr create "$@" || gh pr edit "$@"
+          }
+
+          gh_pr_up --title "AutoGenerator to master auto PR" \
+                   --body ":robot: Automated PR from **AutoGenerator** to **master**" \
+                   --label automerge \
+                   --base master \
+                   --head AutoGenerator
+        shell: bash
