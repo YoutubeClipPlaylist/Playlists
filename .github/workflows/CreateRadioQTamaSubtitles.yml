@@ -2,10 +2,15 @@ name: Create RadioQTama Subtitle
 
 on:
   push:
-    branches: [ QuonTama ]
+    branches: [QuonTama]
   # schedule:
   #   - cron:  '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  actions: write
+  pull-requests: write
+  contents: write
 
 jobs:
   Create_RadioQTama_Subtitle:
@@ -22,7 +27,7 @@ jobs:
         run: "call .github\\workflows\\CreateRadioQTamaSubtitles.exe"
 
       - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
           branch: QuonTama
           commit_message: "Github Action: Fetch and recreate RadioQTama subtitles"
@@ -37,12 +42,17 @@ jobs:
         with:
           ref: QuonTama
 
-      - name: Git Auto PR
-        uses: repo-sync/pull-request@v2
-        with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
-          # be explicit about branches
-          source_branch: "QuonTama"
-          destination_branch: "master"
-          pr_title: "QuonTama to master auto PR"
-          pr_body: ":robot: Automated PR from **QuonTama** to **master**"
+      - name: Create or Update Pull Request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh_pr_up() {
+            gh pr create "$@" || gh pr edit "$@"
+          }
+
+          gh_pr_up --title "QuonTama to master auto PR" \
+                   --body ":robot: Automated PR from **QuonTama** to **master**" \
+                   --label automerge \
+                   --base master \
+                   --head QuonTama
+        shell: bash
