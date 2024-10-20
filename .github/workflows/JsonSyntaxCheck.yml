@@ -3,16 +3,18 @@ name: JSON Syntax Check
 on:
   pull_request:
     paths-ignore:
-      - 'AutoGenerator/**'
+      - "AutoGenerator/**"
 
 jobs:
   json-syntax-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+
+      - name: Remove AutoGenerator
+        run: rm -rf AutoGenerator
+
       - name: json-syntax-check
-        uses: limitusus/json-syntax-check@v1
-        env:
-          BASE: ${{ github.head_ref || github.ref_name }}
+        uses: limitusus/json-syntax-check@v2.0.2
         with:
           pattern: "\\.jsonc$"
