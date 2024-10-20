@@ -2,10 +2,14 @@ name: Create RadioQTama Subtitle
 
 on:
   push:
-    branches: [ QuonTama ]
+    branches: [QuonTama]
   # schedule:
   #   - cron:  '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  actions: write
+  pull-requests: write
 
 jobs:
   Create_RadioQTama_Subtitle:
@@ -37,12 +41,7 @@ jobs:
         with:
           ref: QuonTama
 
-      - name: Git Auto PR
-        uses: repo-sync/pull-request@v2
-        with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
-          # be explicit about branches
-          source_branch: "QuonTama"
-          destination_branch: "master"
-          pr_title: "QuonTama to master auto PR"
-          pr_body: ":robot: Automated PR from **QuonTama** to **master**"
+      - name: pull-request
+        run: |
+          gh_pr_up() { gh pr create $* || gh pr edit $* }
+          gh_pr_up --title "QuonTama to master auto PR" --body ":robot: Automated PR from **QuonTama** to **master**" --base master --head QuonTama
