@@ -2,6 +2,11 @@ name: Automatically Approve / Merge PR
 on:
   pull_request:
 
+permissions:
+  # Permission to trigger the minify workflow
+  actions: write
+  pull-requests: write
+
 jobs:
   Auto_Approve:
     name: Auto Approve
@@ -11,28 +16,27 @@ jobs:
     if: github.actor == 'jim60105' || github.actor == 'ralfjr'
     steps:
       - name: Auto approve
-        uses: hmarr/auto-approve-action@v3
+        uses: hmarr/auto-approve-action@v4
         with:
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
 
   Auto_Merge_PR:
     name: Auto Merge PR
     runs-on: ubuntu-latest
-    needs: 'Auto_Approve'
+    needs: "Auto_Approve"
     steps:
       - name: Git Auto Merge
-        uses: plm9606/automerge_actions@1.2.2
+        uses: plm9606/automerge_actions@1.2.3
         with:
-          # Use PAT to trigger the minify workflow
-          github-token: ${{ secrets.MY_GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           merge-method: merge
           reviewers-number: 0
-          label-name: 'automerge'
+          label-name: "automerge"
 
       - name: Remove label
         if: ${{ success() }}
-        uses: buildsville/add-remove-label@v1
+        uses: buildsville/add-remove-label@v2.0.1
         with:
           token: ${{secrets.GITHUB_TOKEN}}
-          label: 'automerge'
+          label: "automerge"
           type: remove
