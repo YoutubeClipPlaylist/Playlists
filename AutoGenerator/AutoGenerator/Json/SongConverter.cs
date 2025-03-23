@@ -32,7 +32,7 @@ class SongConverter : JsonConverter<ISong>
         dto.Add(JsonDocument.Parse($"\"{value.VideoId}\"").RootElement);
         dto.Add(JsonDocument.Parse($"{value.StartTime}").RootElement);
         dto.Add(JsonDocument.Parse($"{value.EndTime}").RootElement);
-        dto.Add(JsonDocument.Parse($"\"{value.Title.Replace("\"", "\\\"")}\"").RootElement);
+        dto.Add(JsonDocument.Parse($"\"{value.Title.Replace("\\", "").Replace("\"", "\\\"")}\"").RootElement);
         dto.Add(JsonDocument.Parse($"\"{value.SubSrc}\"").RootElement);
 
         JsonSerializer.Serialize(writer, dto, options);
