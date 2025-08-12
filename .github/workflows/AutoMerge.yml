@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     # These participants were assessed and allowed to skip the review.
     # Please contact jim60105 if you have any questions.
-    if: github.actor == 'jim60105' || github.actor == 'ralfjr'
+    if: github.actor == 'jim60105' || github.actor == 'bot0419'
     steps:
       - name: Auto approve
         uses: hmarr/auto-approve-action@v4
