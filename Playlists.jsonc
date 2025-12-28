@@ -1,4 +1,16 @@
 [
+    // SudaYoruka
+    {
+        "name": "SudaYorukaSongList",
+        "name_display": "須多夜花 SudaYoruka",
+        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "public"],
+        "route": "SudaYoruka/SudaYorukaSongList.jsonc",
+        "maintainer": {
+            "name": "jim60105",
+            "url": "https://github.com/jim60105"
+        },
+        "singer": "須多夜花"
+    },
     // QuonTama
     {
         "name": "QuonTamaSongList",
@@ -180,18 +192,6 @@
             "url": "https://github.com/LittleRice1007"
         },
         "singer": "伊冬ユナ"
-    },
-    // SudaYoruka
-    {
-        "name": "SudaYorukaSongList",
-        "name_display": "須多夜花 SudaYoruka",
-        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "public"],
-        "route": "SudaYoruka/SudaYorukaSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "須多夜花"
     },
     // HaneMiya
     {
