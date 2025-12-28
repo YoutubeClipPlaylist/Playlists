@@ -18,7 +18,7 @@ jobs:
       changes_detected: ${{ steps.git_auto_commit.outputs.changes_detected }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: master
 
@@ -27,7 +27,7 @@ jobs:
 
       - name: Git Auto Commit
         id: git_auto_commit
-        uses: stefanzweifel/git-auto-commit-action@v5.0.1
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           branch: AutoGenerator
           file_pattern: AutoGenerator
@@ -40,7 +40,7 @@ jobs:
     if: needs.Auto_Generator.outputs.changes_detected == 'true'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: AutoGenerator
 
