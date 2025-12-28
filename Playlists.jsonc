@@ -237,50 +237,6 @@
         },
         "singer": "須多夜花"
     },
-    {
-        "name": "SudaYorukaSpecialSongList",
-        "name_display": "須多夜花 Special",
-        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "special", "public"],
-        "route": "SudaYoruka/SudaYorukaSpecialSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "須多夜花"
-    },
-    {
-        "name": "SudaYorukaChineseSongList",
-        "name_display": "須多夜花 Chinese",
-        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "Chinese", "public"],
-        "route": "SudaYoruka/SudaYorukaChineseSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "須多夜花"
-    },
-    // {
-    //     "name": "SudaYorukaBackupSongList",
-    //     "name_display": "須多夜花 Backup",
-    //     "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "public", "onedrive"],
-    //     "route": "SudaYoruka/SudaYorukaBackupSongList.jsonc",
-    //     "maintainer": {
-    //         "name": "jim60105",
-    //         "url": "https://github.com/jim60105"
-    //     },
-    //     "singer": "須多夜花"
-    // },
-    {
-        "name": "SudaYorukaMemberSongList",
-        "name_display": "須多夜花 Members Only",
-        "tag": ["須多夜花", "Suda", "Yoruka", "SudaYoruka", "member"],
-        "route": "SudaYoruka/SudaYorukaMemberSongList.jsonc",
-        "maintainer": {
-            "name": "jim60105",
-            "url": "https://github.com/jim60105"
-        },
-        "singer": "須多夜花"
-    },
     // HaneMiya
     {
         "name": "HaneMiyaSongList",
