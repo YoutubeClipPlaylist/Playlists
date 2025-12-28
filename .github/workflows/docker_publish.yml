@@ -71,7 +71,7 @@ jobs:
           provenance: true
 
       - name: Attest GHCR image
-        uses: actions/attest-build-provenance@v2
+        uses: actions/attest-build-provenance@v3
         with:
           subject-name: ghcr.io/youtubeclipplaylist/playlistautogenerator
           subject-digest: ${{ steps.build_push.outputs.digest }}
