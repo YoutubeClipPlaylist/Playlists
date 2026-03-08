@@ -1084,13 +1084,6 @@
   ],
   [
     "NSHUiN5_ets",
-    496,
-    766,
-    "月のワルツ（Tsuki No Waltz）",
-    ""
-  ],
-  [
-    "NSHUiN5_ets",
     864,
     1151,
     "テルーの唄（Teru No Uta）",
@@ -1101,6 +1094,13 @@
     2489,
     2716,
     "レイニーブルー／Rainy Blue",
+    ""
+  ],
+  [
+    "NSHUiN5_ets",
+    496,
+    766,
+    "月のワルツ（Tsuki No Waltz）",
     ""
   ],
   [
@@ -2876,6 +2876,13 @@
   ],
   [
     "zBo49150kgo",
+    4000,
+    4222,
+    "怪獣の花唄（Kaiju no Hanauta）（ft. YOMI）",
+    ""
+  ],
+  [
+    "zBo49150kgo",
     4477,
     4802,
     "奏（Kanade）（ft. YOMI）",
@@ -2886,13 +2893,6 @@
     3570,
     3800,
     "シンデレラボーイ／Cinderella Boy（ft. YOMI）",
-    ""
-  ],
-  [
-    "zBo49150kgo",
-    4000,
-    4222,
-    "怪獣の花唄（Kaiju no Hanauta）（ft. YOMI）",
     ""
   ],
   [
@@ -3604,16 +3604,16 @@
   ],
   [
     "Gok22ufTOsU",
-    1839,
-    1959,
-    "Gold  ～また逢う日まで～（Gold - Mata Au Hi Made）（Short ver.）",
+    1508,
+    1786,
+    "少女レイ（Shoujo Rei）（Piano ver.）",
     ""
   ],
   [
     "Gok22ufTOsU",
-    1508,
-    1786,
-    "少女レイ（Shoujo Rei）（Piano ver.）",
+    1839,
+    1959,
+    "Gold  ～また逢う日まで～（Gold - Mata Au Hi Made）（Short ver.）",
     ""
   ],
   [
@@ -3856,6 +3856,13 @@
   ],
   [
     "sYewU3hWQ7o",
+    4300,
+    4543,
+    "蜜月アン・ドゥ・トロワ（Mitsugetsu Un Deux Trois）",
+    ""
+  ],
+  [
+    "sYewU3hWQ7o",
     650,
     739,
     "キリトリセン（Kiritorisen）（Short ver.）",
@@ -3873,13 +3880,6 @@
     1579,
     1863,
     "ヨンジュウナナ（Yonjunana）",
-    ""
-  ],
-  [
-    "sYewU3hWQ7o",
-    4300,
-    4543,
-    "蜜月アン・ドゥ・トロワ（Mitsugetsu Un Deux Trois）",
     ""
   ],
   [
@@ -6516,16 +6516,16 @@
   ],
   [
     "DVof9sz5g0M",
-    5372,
-    5683,
-    "初めての恋が終わる時 (Hajimeteno koi ga owarutoki)",
+    5968,
+    6053,
+    "Hello, Worker (Short ver.)",
     ""
   ],
   [
     "DVof9sz5g0M",
-    5968,
-    6053,
-    "Hello, Worker (Short ver.)",
+    5372,
+    5683,
+    "初めての恋が終わる時 (Hajimeteno koi ga owarutoki)",
     ""
   ],
   [
@@ -6551,16 +6551,16 @@
   ],
   [
     "DVof9sz5g0M",
-    2636,
-    2839,
-    "ドーナツホール",
+    4582,
+    4682,
+    "SPiCa (feat. 初音ミク) (short ver.)",
     ""
   ],
   [
     "DVof9sz5g0M",
-    4582,
-    4682,
-    "SPiCa (feat. 初音ミク) (short ver.)",
+    2636,
+    2839,
+    "ドーナツホール",
     ""
   ],
   [
